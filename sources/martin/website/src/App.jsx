@@ -50,6 +50,12 @@ const copy = {
   },
 };
 function safeUrl(value) { try { const u=new URL(value); return ['https:','http:'].includes(u.protocol)&&!u.username&&!u.password?u.href:null; } catch{return null;} }
+function assetUrl(value) {
+  const external = safeUrl(value);
+  if (external) return external;
+  if (typeof value === 'string' && value.startsWith('/')) return appPath(value);
+  return null;
+}
 function validCatalog(value) { return value&&Array.isArray(value.works)&&value.works.every(w=>typeof w.id==='string'&&typeof w.name==='string')&&value.source; }
 function savedCatalog() { try {const c=JSON.parse(localStorage.getItem(STORAGE)); if(validCatalog(c))return {...c,source:{...c.source,stale:true,status:'stale'}};}catch{} return null; }
 async function enrichWithStaticPreviews(catalog) {
@@ -115,7 +121,7 @@ function External({href,children,...props}) {const safe=safeUrl(href);return saf
 
 function WorkCard({work,index,language,onDetails,refreshToken}) {
   const t=copy[language];const [failedSrc,setFailedSrc]=useState(null),[loadedSrc,setLoadedSrc]=useState(null),[videoActive,setVideoActive]=useState(false);
-  const fallbackSrc=appPath(previewPath(work)),posterSrc=safeUrl(work.posterUrl),imageSrc=safeUrl(work.imageUrl),videoSrc=safeUrl(work.videoUrl);
+  const fallbackSrc=appPath(previewPath(work)),posterSrc=assetUrl(work.posterUrl),imageSrc=assetUrl(work.imageUrl),videoSrc=safeUrl(work.videoUrl);
   const staticSrc=posterSrc||imageSrc;
   const [useFallbackPreview,setUseFallbackPreview]=useState(!staticSrc);
   const previewSrc=useFallbackPreview?fallbackSrc:staticSrc||fallbackSrc;
