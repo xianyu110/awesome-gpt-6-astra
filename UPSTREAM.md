@@ -1,6 +1,6 @@
 # 上游 README 快照
 
-> 自动生成于 `2026-09-06T03:44:00+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
+> 自动生成于 `2026-09-06T03:54:46+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
 
 ## MartinDelophy/awesome-gpt-6-astra
 
