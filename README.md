@@ -21,6 +21,12 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 每个源仓库的完整文件（包括图片、模板、案例 Markdown、贡献指南和许可证）位于 [`sources/`](sources/)，根 README 下方已把可浏览内容直接汇总。
 
+上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
+
+<!-- BEGIN AUTO-SYNC STATUS -->
+最后同步：尚未运行自动同步工作流。
+<!-- END AUTO-SYNC STATUS -->
+
 ## Contents
 
 - [精选 16](#精选-16)
