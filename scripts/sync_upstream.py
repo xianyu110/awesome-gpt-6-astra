@@ -20,6 +20,8 @@ UPSTREAM_README = ROOT / "UPSTREAM.md"
 SOURCE_TABLE = ROOT / "SOURCES.md"
 BEGIN = "<!-- BEGIN AUTO-SYNC STATUS -->"
 END = "<!-- END AUTO-SYNC STATUS -->"
+CONTENT_BEGIN = "<!-- BEGIN AUTO-SYNC CONTENT -->"
+CONTENT_END = "<!-- END AUTO-SYNC CONTENT -->"
 
 
 @dataclass(frozen=True)
@@ -103,6 +105,38 @@ def replace_marked_block(text: str, block: str) -> str:
     return f"{text}{suffix}\n{replacement}\n"
 
 
+def build_root_readme(timestamp: str) -> None:
+    readme = README.read_text(encoding="utf-8")
+    old = re.compile(
+        rf"\n## 自动同步上游内容.*?{re.escape(CONTENT_END)}\n?",
+        re.DOTALL,
+    )
+    readme = old.sub("\n", readme).rstrip()
+    sections = [
+        "## 自动同步上游内容",
+        "",
+        f"> 以下内容由 GitHub Actions 自动同步，最后生成于 `{timestamp}`。人工精选区保持不变。",
+        "",
+        CONTENT_BEGIN,
+        "",
+    ]
+    for upstream in UPSTREAMS:
+        for filename in upstream.files:
+            path = ROOT / upstream.destination / filename
+            if not path.exists():
+                continue
+            sections.extend(
+                [
+                    f"### {upstream.repo} / `{filename}`",
+                    "",
+                    path.read_text(encoding="utf-8").rstrip(),
+                    "",
+                ]
+            )
+    sections.extend([CONTENT_END, ""])
+    README.write_text(f"{readme}\n\n" + "\n".join(sections), encoding="utf-8")
+
+
 def update_status(statuses: list[tuple[str, str, bool]], timestamp: str) -> None:
     rows = [
         "| 仓库 | 最新提交 | 本次是否变化 |",
@@ -173,6 +207,7 @@ def main() -> int:
     first_run = "尚未运行自动同步工作流" in README.read_text(encoding="utf-8")
     if changed or first_run or not UPSTREAM_README.exists():
         update_status(statuses, timestamp)
+        build_root_readme(timestamp)
         build_upstream_readme(timestamp)
     else:
         print("上游 README 没有变化，不创建同步提交。")
