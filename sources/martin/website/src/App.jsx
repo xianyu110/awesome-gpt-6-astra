@@ -3,7 +3,7 @@ import { fetchCatalogJson } from '../shared/catalog-client.js';
 import { previewPath } from '../shared/preview-version.js';
 import { ArrowUpRight, ArrowClockwise, Asterisk, SquaresFour, Browsers, AppWindow, Wrench, GameController, Cube, DotsThree, Info, GithubLogo, PaperPlaneTilt, MagnifyingGlass, X, List, CheckCircle, WarningCircle, CaretDown, ArrowRight, ImageBroken, Code, Play } from '@phosphor-icons/react';
 
-const REPO = 'https://github.com/MartinDelophy/awesome-gpt-6-astra';
+const REPO = 'https://github.com/xianyu110/awesome-gpt-6-astra';
 const STORAGE = 'astra-catalog-v1';
 const BASE_URL = import.meta.env.BASE_URL || '/';
 function appPath(path) {
@@ -162,7 +162,7 @@ export function App() {
       </section>
       <footer className="page-footer"><div><span>{t.footer}</span><External href={REPO}>{t.repository}<ArrowUpRight size={13}/></External></div><span className="footer-sync">{t.update}</span></footer>
     </main>
-    <dialog ref={aboutRef} className="info-dialog" onClick={e=>{if(e.target===e.currentTarget)aboutRef.current.close();}}><div className="dialog-content"><button className="dialog-close" onClick={()=>aboutRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">ASTRA / COMMUNITY SHOWCASE</span><h2>{t.aboutTitle}</h2><p>{t.aboutBody}</p><h3>{t.sourceTitle}</h3><p>{t.sourceBody}</p><External className="dialog-link" href={REPO}>MartinDelophy/awesome-gpt-6-astra<ArrowUpRight size={16}/></External><div className="dialog-update"><CheckCircle size={16}/><span>{t.update}<br/>{t.lastChecked}：{checked}</span></div><p className="legal-note">{t.note}</p></div></dialog>
+    <dialog ref={aboutRef} className="info-dialog" onClick={e=>{if(e.target===e.currentTarget)aboutRef.current.close();}}><div className="dialog-content"><button className="dialog-close" onClick={()=>aboutRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">ASTRA / COMMUNITY SHOWCASE</span><h2>{t.aboutTitle}</h2><p>{t.aboutBody}</p><h3>{t.sourceTitle}</h3><p>{t.sourceBody}</p><External className="dialog-link" href={REPO}>xianyu110/awesome-gpt-6-astra<ArrowUpRight size={16}/></External><div className="dialog-update"><CheckCircle size={16}/><span>{t.update}<br/>{t.lastChecked}：{checked}</span></div><p className="legal-note">{t.note}</p></div></dialog>
     <dialog ref={detailRef} className="info-dialog" onClose={()=>setDetails(null)} onClick={e=>{if(e.target===e.currentTarget)detailRef.current.close();}}>{details&&<div className="dialog-content"><button className="dialog-close" onClick={()=>detailRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">{t.details}</span><h2>{details.name}</h2><p>{details.description}</p><dl className="detail-facts"><div><dt>{t.author}</dt><dd>{details.author?.url?<External href={details.author.url}>{details.author.name}<ArrowUpRight size={13}/></External>:details.author?.name||'—'}</dd></div><div><dt>{t.category}</dt><dd>{details.sourceCategory}</dd></div></dl><div className="detail-actions"><External href={details.demoUrl||details.sourceUrl} className="primary-button">{details.demoUrl?t.experience:t.view}<ArrowUpRight size={18}/></External>{details.sourceUrl&&<External className="secondary-button" href={details.sourceUrl}><Code size={18}/>{t.code}</External>}</div></div>}</dialog>
   </div>;
 }
