@@ -205,7 +205,8 @@ def main() -> int:
             raise SystemExit(f"同步失败：{upstream.repo}: {error}") from error
     changed = any(item[2] for item in statuses)
     first_run = "尚未运行自动同步工作流" in README.read_text(encoding="utf-8")
-    if changed or first_run or not UPSTREAM_README.exists():
+    has_generated_content = CONTENT_BEGIN in README.read_text(encoding="utf-8")
+    if changed or first_run or not UPSTREAM_README.exists() or not has_generated_content:
         update_status(statuses, timestamp)
         build_root_readme(timestamp)
         build_upstream_readme(timestamp)
