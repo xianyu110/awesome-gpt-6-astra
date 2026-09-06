@@ -106,7 +106,9 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .work-card:nth-child(2) .work-preview { aspect-ratio: 1.59; }
 .gallery[data-count='4'] .work-preview, .gallery[data-count='2'] .work-preview { aspect-ratio: 2.05; }
 .gallery[data-count='3'] .work-preview { aspect-ratio: 1.64; }
-.work-preview > img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; opacity: 0; transition: opacity 220ms ease, transform 360ms ease; }
+.work-preview > img, .work-preview > video { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.work-preview > img { opacity: 0; transition: opacity 220ms ease, transform 360ms ease; }
+.work-preview > video { position: relative; z-index: 3; background: #05080b; }
 .work-preview.loaded > img { opacity: 1; }
 .work-preview.image-failed > img { display: none; }
 .work-preview:hover { border-color: #707273; }
@@ -121,6 +123,12 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .preview-empty strong { color: #dbdddd; font-size: 20px; font-weight: 500; letter-spacing: -.5px; }
 .preview-empty span, .preview-empty p { margin: 0; color: #a1a5a7; font-size: 12px; line-height: 1.6; }
 .preview-empty small { display: flex; align-items: center; gap: 6px; color: #a1a5a7; font-size: 12px; }
+.preview-open { position: absolute; inset: 0; z-index: 2; display: block; }
+.video-active .preview-open { pointer-events: none; }
+.preview-open:focus-visible { outline-offset: 4px; }
+.preview-play { position: absolute; top: 50%; left: 50%; z-index: 4; display: flex; align-items: center; justify-content: center; width: 54px; height: 54px; padding: 0; border: 1px solid #ffffff88; border-radius: 50%; background: #0b1118dc; color: #fff; box-shadow: 0 8px 24px #0008; cursor: pointer; transform: translate(-50%, -50%); transition: transform 160ms ease, background 160ms ease; }
+.preview-play:hover { background: #1d2d3bdd; transform: translate(-50%, -50%) scale(1.06); }
+.preview-play:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .preview-visit { position: absolute; right: 12px; bottom: 12px; z-index: 2; display: flex; align-items: center; justify-content: center; gap: 7px; min-height: 36px; padding: 7px 12px; border: 1px solid #ffffff36; border-radius: 5px; background: #131516e8; color: #f4f4f3; font-size: 12px; opacity: 0; transform: translateY(3px); transition: opacity 160ms ease, transform 160ms ease; pointer-events: none; }
 .work-preview:hover .preview-visit, .work-preview:focus-visible .preview-visit { opacity: 1; transform: translateY(0); }
 .work-meta { display: flex; align-items: center; justify-content: space-between; gap: 10px; min-height: 60px; padding: 8px 2px 0; }
