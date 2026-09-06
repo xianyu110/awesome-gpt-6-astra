@@ -23,6 +23,7 @@ function localApi() {
 }
 
 export default defineConfig({
+  base: process.env.PAGES_BASE_PATH || "/",
   build: {
     outDir: "dist/client",
   },
