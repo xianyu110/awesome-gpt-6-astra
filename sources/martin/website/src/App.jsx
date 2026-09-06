@@ -87,7 +87,17 @@ function useCatalog() {
         setError(true);setCatalog(c=>c?{...c,source:{...c.source,stale:true}}:c);
         try{
           const fallback=await fetchCatalogJson(appPath('/data/catalog-fallback.json'),{timeoutMs:5000});
-          if(mounted.current&&validCatalog(fallback))setCatalog(c=>c||{...fallback,source:{...fallback.source,stale:true,status:'fallback'}});
+          if(mounted.current&&validCatalog(fallback))setCatalog(current=>{
+            const fallbackByName=new Map(fallback.works.map(work=>[work.name.normalize('NFKC').toLowerCase(),work]));
+            const currentWorks=current?.works||[];
+            const works=currentWorks.length>=fallback.works.length
+              ? currentWorks.map(work=>{
+                const match=fallbackByName.get(work.name.normalize('NFKC').toLowerCase());
+                return match?{...work,posterUrl:work.posterUrl||match.posterUrl,imageUrl:work.imageUrl||match.imageUrl}:work;
+              })
+              : fallback.works;
+            return {...fallback,works,source:{...fallback.source,stale:true,status:'fallback'}};
+          });
         }catch{}
       }
     }finally{flight.current=null;if(mounted.current)setLoading(false);}
