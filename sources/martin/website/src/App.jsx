@@ -19,7 +19,9 @@ const categories = [
 ];
 const copy = {
   zh: {
-    title:'优秀作品，从这里发现。', subtitle:'探索 GPT-6 Astra 创作者的作品与构建方式。',
+    metaTitle:'GPT-6 Astra 优秀作品集｜社区案例与实验',
+    metaDescription:'GPT-6 Astra 优秀作品集：发现社区构建的网站、应用、工具、游戏与交互实验，浏览案例预览、作者和源码。',
+    title:'GPT-6 Astra 优秀作品集', subtitle:'发现社区构建的网站、应用、工具、游戏与交互实验。',
     search:'搜索作品、作者或关键词…', source:'目录顺序', az:'名称 A–Z', count:n=>`${n} 件作品`,
     about:'关于项目', submit:'提交作品', experience:'体验', code:'源码', view:'查看作品', details:'作品详情',
     synced:'自动同步', pending:'正在同步', stale:'显示最近可用目录', tryAgain:'重新同步', noPreview:'暂无预览',
@@ -33,9 +35,19 @@ const copy = {
     author:'创作者', category:'分类', close:'关闭', openMenu:'打开导航', lastChecked:'上次成功检查', justNow:'刚刚',
     minutes:n=>`${n} 分钟前`, noData:'暂时无法获取作品目录', noDataHint:'请稍后重试，也可以直接查看上游开源目录。',
     outOf:(n,total)=>`显示 ${n} / ${total} 件作品`,
+    seoTitle:'关于 GPT-6 Astra 作品集',
+    seoIntro:'这是一个持续更新的 GPT-6 Astra 社区案例目录，集中展示真实可访问的作品与构建思路。',
+    seoScopeTitle:'收录哪些案例？',
+    seoScopeBody:'目录覆盖网页、应用、工具、游戏和交互实验。每张卡片尽量提供作品预览、作者、体验入口与源码，方便快速判断项目是否值得深入。',
+    seoExploreTitle:'如何使用这个目录？',
+    seoExploreBody:'按分类浏览，或搜索作品名、作者和关键词；打开详情可查看项目说明。想了解 GPT-6 Astra 的使用方法，可先阅读国内使用指南，再回到作品集查看实践案例。',
+    seoGuide:'阅读 GPT-6 Astra 指南',
+    seoSubmit:'推荐一个作品',
   },
   en: {
-    title:'Great work. Worth discovering.', subtitle:'Explore what the GPT-6 Astra community is creating, and how it is built.',
+    metaTitle:'GPT-6 Astra Showcase | Community Projects',
+    metaDescription:'Explore websites, apps, tools, games, and interactive experiments built by the GPT-6 Astra community.',
+    title:'GPT-6 Astra Showcase', subtitle:'Explore websites, apps, tools, games, and interactive experiments built by the community.',
     search:'Search works, creators, or keywords…', source:'Directory order', az:'Name A–Z', count:n=>`${n} works`,
     about:'About the project', submit:'Submit a work', experience:'Explore', code:'Source', view:'View work', details:'Work details',
     synced:'Auto-synced', pending:'Syncing', stale:'Last available catalog', tryAgain:'Check for updates', noPreview:'Preview unavailable',
@@ -49,6 +61,14 @@ const copy = {
     author:'Creator', category:'Category', close:'Close', openMenu:'Open navigation', lastChecked:'Last successful check', justNow:'just now',
     minutes:n=>`${n} min ago`, noData:'The collection is temporarily unavailable', noDataHint:'Please try again shortly, or browse the upstream repository.',
     outOf:(n,total)=>`Showing ${n} of ${total} works`,
+    seoTitle:'About the GPT-6 Astra showcase',
+    seoIntro:'A continuously updated community directory of real GPT-6 Astra projects and the ideas behind how they were built.',
+    seoScopeTitle:'What is included?',
+    seoScopeBody:'Browse websites, apps, tools, games, and interactive experiments. Each card aims to include a preview, creator, live experience, and source link so you can evaluate a project quickly.',
+    seoExploreTitle:'How should I explore it?',
+    seoExploreBody:'Filter by category or search by project name, creator, and keyword. Open a work for its description and links, then read the GPT-6 guide for practical context.',
+    seoGuide:'Read the GPT-6 guide',
+    seoSubmit:'Recommend a work',
   },
 };
 function safeUrl(value) { try { const u=new URL(value); return ['https:','http:'].includes(u.protocol)&&!u.username&&!u.password?u.href:null; } catch{return null;} }
@@ -164,6 +184,12 @@ export function App() {
   useEffect(()=>{
     const p=new URLSearchParams();if(category!=='all')p.set('type',category);if(query)p.set('q',query);if(sort!=='source')p.set('sort',sort);if(language==='en')p.set('lang','en');
     history.replaceState(null,'',`${location.pathname}${p.size?`?${p}`:''}`);document.documentElement.lang=language==='zh'?'zh-CN':'en';
+    document.title=t.metaTitle;
+    document.querySelector('meta[name="description"]')?.setAttribute('content',t.metaDescription);
+    document.querySelector('meta[property="og:title"]')?.setAttribute('content',t.metaTitle);
+    document.querySelector('meta[property="og:description"]')?.setAttribute('content',t.metaDescription);
+    document.querySelector('meta[name="twitter:title"]')?.setAttribute('content',t.metaTitle);
+    document.querySelector('meta[name="twitter:description"]')?.setAttribute('content',t.metaDescription);
   },[category,query,sort,language]);
   useEffect(()=>{
     const onKey=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();searchRef.current?.focus();}if(e.key==='Escape')setMenuOpen(false);};
@@ -192,6 +218,21 @@ export function App() {
       {error&&catalog&&<div className="sync-notice" role="status"><WarningCircle size={17}/><span>{t.syncError}</span></div>}
       <section id="works" className="works-section" aria-label={language==='zh'?'作品集':'Collection'}>
         {!catalog&&loading?<div className="gallery skeleton-gallery" aria-busy="true">{Array.from({length:4},(_,i)=><div className="skeleton-card" key={i}><div/><span/><small/></div>)}</div>:filtered.length?<><div className="gallery" data-count={Math.min(filtered.length,5)}>{filtered.slice(0,limit).map((w,i)=><WorkCard work={w} index={i} key={w.id} language={language} onDetails={setDetails} refreshToken={catalog?.source?.lastSuccessfulAt}/>)}</div>{filtered.length>limit&&<div className="load-more"><p>{t.outOf(Math.min(limit,filtered.length),filtered.length)}</p><button onClick={()=>setLimit(n=>n+30)}>{t.loadMore}<ArrowRight size={18}/></button></div>}</>:<div className="empty-state"><div className="empty-icon">{!catalog?<WarningCircle size={34} weight="light"/>:<MagnifyingGlass size={34} weight="light"/>}</div><h2>{!catalog?t.noData:query?t.noResults:t.emptyCategory}</h2><p>{!catalog?t.noDataHint:query?t.noResultsHint:t.emptyCategoryHint}</p><button onClick={!catalog?refresh:reset}>{!catalog?t.tryAgain:t.reset}<ArrowRight size={17}/></button>{!catalog&&<External href={REPO}>{t.repository}<ArrowUpRight size={15}/></External>}</div>}
+      </section>
+      <section className="seo-intro" aria-labelledby="seo-title">
+        <div className="seo-intro-heading">
+          <p className="eyebrow">{language==='zh'?'GPT-6 ASTRA / 开源案例':'GPT-6 ASTRA / OPEN SOURCE CASES'}</p>
+          <h2 id="seo-title">{t.seoTitle}</h2>
+          <p>{t.seoIntro}</p>
+        </div>
+        <div className="seo-intro-grid">
+          <article><h3>{t.seoScopeTitle}</h3><p>{t.seoScopeBody}</p></article>
+          <article><h3>{t.seoExploreTitle}</h3><p>{t.seoExploreBody}</p></article>
+        </div>
+        <div className="seo-intro-links">
+          <External href={GUIDE_URL}>{t.seoGuide}<ArrowUpRight size={14}/></External>
+          <External href={`${REPO}/issues/new/choose`}>{t.seoSubmit}<ArrowUpRight size={14}/></External>
+        </div>
       </section>
     <footer className="page-footer"><div><span>{t.footer}</span><External href={GUIDE_URL}>{language==='zh'?'GPT-6 指南':'GPT-6 guide'}<ArrowUpRight size={13}/></External><External href={REPO}>{t.repository}<ArrowUpRight size={13}/></External></div><span className="footer-sync">{t.update}</span></footer>
     </main>

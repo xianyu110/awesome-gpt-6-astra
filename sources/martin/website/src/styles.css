@@ -167,6 +167,18 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .empty-state p { max-width: 420px; margin: 0 0 22px; font-size: 14px; line-height: 1.8; }
 .empty-state > button { min-height: 44px; padding: 10px 18px; border: 1px solid #505354; border-radius: 5px; color: var(--accent); }
 .empty-state > button:hover { background: var(--surface-hover); }
+.seo-intro { margin-top: 52px; padding: 31px 0 8px; border-top: 1px solid var(--divider); }
+.seo-intro-heading { max-width: 760px; }
+.seo-intro-heading .eyebrow { margin-bottom: 10px; color: var(--accent); font-size: 10px; }
+.seo-intro h2 { margin: 0; color: var(--text); font-size: 24px; font-weight: 550; letter-spacing: -.35px; line-height: 1.4; }
+.seo-intro-heading > p:last-child { max-width: 650px; margin: 9px 0 0; color: #c0c1c1; font-size: 14px; line-height: 1.8; }
+.seo-intro-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 17px; margin-top: 25px; }
+.seo-intro-grid article { min-width: 0; padding: 18px 19px; border: 1px solid var(--divider); border-radius: 7px; background: #1b1c1d; }
+.seo-intro-grid h3 { margin: 0 0 7px; color: #e4e5e5; font-size: 14px; font-weight: 550; }
+.seo-intro-grid p { margin: 0; color: #aeb1b2; font-size: 12px; line-height: 1.85; }
+.seo-intro-links { display: flex; flex-wrap: wrap; gap: 10px 22px; margin-top: 17px; }
+.seo-intro-links a { display: inline-flex; align-items: center; gap: 5px; min-height: 38px; color: var(--accent); font-size: 12px; }
+.seo-intro-links a:hover { color: #ffb29b; text-decoration: underline; text-underline-offset: 4px; }
 .skeleton-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 17px; }
 .skeleton-card { min-width: 0; }
 .skeleton-card::before { display: block; aspect-ratio: 2.05; border: 1px solid #303334; border-radius: 8px; background: #242627; content: ''; animation: breathe 1.8s ease-in-out infinite; }
@@ -242,6 +254,9 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .work-actions { justify-content: flex-start; margin-top: 1px; }
   .experience-link, .source-link { min-height: 44px; }
   .page-footer { margin-top: 19px; font-size: 10px; }
+  .seo-intro { margin-top: 38px; padding-top: 25px; }
+  .seo-intro-grid { gap: 12px; margin-top: 20px; }
+  .seo-intro-grid article { padding: 15px; }
   .skeleton-card::before { aspect-ratio: 1.55; }
 }
 @media (max-width: 640px) {
@@ -276,6 +291,12 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .sort-box select { width: 108px; padding-right: 25px; padding-left: 11px; font-size: 12px; }
   .sort-box > svg { right: 10px; width: 11px; }
   .collection-status { gap: 4px 10px; min-height: 34px; padding-top: 8px; font-size: 10px; }
+  .seo-intro { margin-top: 34px; padding-top: 23px; }
+  .seo-intro h2 { font-size: 21px; }
+  .seo-intro-heading > p:last-child { font-size: 12px; line-height: 1.85; }
+  .seo-intro-grid { grid-template-columns: 1fr; gap: 10px; margin-top: 18px; }
+  .seo-intro-grid article { padding: 14px; }
+  .seo-intro-grid p { font-size: 11px; line-height: 1.8; }
   .status-time { display: none; }
   .sync-notice { align-items: flex-start; padding: 11px 12px; font-size: 11px; }
   .sync-notice > svg { margin-top: 3px; }
