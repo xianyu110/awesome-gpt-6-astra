@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome GPT6</title>
+  <desc id="desc">An editorial cover in ivory and forest green, with a lime six and four creative disciplines: 3D, Web, Film, Play.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#35473d" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="18" fill="#f2f0e8"/>
+  <path d="M784 0H1262Q1280 0 1280 18V422Q1280 440 1262 440H784Z" fill="#192c23"/>
+  <path d="M784 0H1262Q1280 0 1280 18V422Q1280 440 1262 440H784Z" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="56" cy="48" r="6" fill="#2f6247"/>
+    <text x="75" y="54" font-size="13" letter-spacing="3" fill="#264732">THE COMMUNITY FIELD GUIDE</text>
+    <text x="56" y="165" font-size="76" font-weight="700" letter-spacing="-5" fill="#192c23">awesome</text>
+    <text x="52" y="270" font-size="112" font-weight="800" letter-spacing="-7" fill="#192c23">GPT6<tspan font-size="75" fill="#648b45">.</tspan></text>
+    <text x="58" y="313" font-size="21" fill="#596255">Ideas worth making. Work worth sharing.</text>
+    <path d="M58 349H727" stroke="#c9cec0"/>
+    <text x="58" y="393" font-size="13" letter-spacing="2" fill="#3f5746">01  3D</text>
+    <text x="217" y="393" font-size="13" letter-spacing="2" fill="#3f5746">02  WEB</text>
+    <text x="390" y="393" font-size="13" letter-spacing="2" fill="#3f5746">03  FILM</text>
+    <text x="566" y="393" font-size="13" letter-spacing="2" fill="#3f5746">04  PLAY</text>
+    <text x="817" y="48" font-size="12" letter-spacing="3" fill="#c6dfb2">EXPLORE / MAKE / CONTRIBUTE</text>
+    <circle cx="1040" cy="222" r="142" fill="none" stroke="#6a8660"/>
+    <ellipse cx="1040" cy="222" rx="189" ry="62" transform="rotate(-35 1040 222)" fill="none" stroke="#8eae75"/>
+    <text x="947" y="324" font-size="290" font-weight="700" letter-spacing="-18" fill="#c6f36a">6</text>
+    <circle cx="1197" cy="119" r="9" fill="#f2f0e8"/>
+    <path d="M854 330H874M864 320V340" stroke="#c6f36a" stroke-width="2"/>
+    <text x="817" y="403" font-size="11" letter-spacing="2" fill="#c5d5bc">AN INDEPENDENT, OPEN COLLECTION</text>
+  </g>
+</svg>

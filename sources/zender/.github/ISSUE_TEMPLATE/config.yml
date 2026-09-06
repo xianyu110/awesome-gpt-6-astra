@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 阅读贡献指南
+    url: https://github.com/zender555/awesome-gpt6/blob/main/CONTRIBUTING.md
+    about: 了解收录标准、署名与 PR 投稿方式。

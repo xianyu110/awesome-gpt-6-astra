@@ -1,0 +1,17 @@
+name: "纠错 / 失效链接 / 撤回"
+description: "帮助修正信息、署名、版权或链接问题。"
+title: "[纠错] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 有问题的案例或页面链接
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题与建议修正
+      description: "请附可核实的依据；涉及私人信息时不要贴到公开 Issue。"
+    validations:
+      required: true

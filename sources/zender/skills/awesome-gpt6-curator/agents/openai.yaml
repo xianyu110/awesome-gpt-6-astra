@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome GPT6 资料策展与发布"
+  short_description: "搜索核验案例、严格生成格式、处理 GitHub 授权并验证发布结果"
+  default_prompt: "使用 $awesome-gpt6-curator 为 awesome-gpt6 搜集最多 3 个新案例，核验来源、按模板整理并发布，保留现有首页视觉。"

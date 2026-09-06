@@ -1,0 +1,77 @@
+name: "分享一个案例 / Submit a case"
+description: "分享 GPT‑6 作品、提示词或复现过程。无需编写 Markdown 文件。"
+title: "[投稿] "
+body:
+  - type: markdown
+    attributes:
+      value: "欢迎投稿！请保留原作者署名；完整提示词未公开也可以提交。维护者审核后收录。"
+  - type: dropdown
+    id: category
+    attributes:
+      label: 创作分类
+      options: [3D 建模, 网页设计, 视频制作, 游戏开发]
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 原作者与主页
+      placeholder: "作者名称 + 主页链接；自己的作品请注明"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原始来源链接
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 做出了什么
+      description: "简述亮点，附可公开访问的作品、截图、视频或代码链接。"
+    validations:
+      required: true
+  - type: textarea
+    id: model
+    attributes:
+      label: 模型与工具证据
+      description: "准确模型名、使用工具，以及来源中证明使用该模型的位置；无法确认请明确说明。"
+    validations:
+      required: true
+  - type: dropdown
+    id: prompt_status
+    attributes:
+      label: 提示词出处
+      options: [作者原文, 作者摘要, 整理者改写, 未公开]
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: 提示词或操作流程
+      description: "如允许引用，请提供内容和出处；未公开可留空。"
+  - type: dropdown
+    id: reproduction
+    attributes:
+      label: 复现情况
+      options: [未复现, 部分复现, 已复现]
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 复现记录、局限与许可
+      description: "已复现请附环境、日期和结果证据；请说明素材授权，不知道则写许可未知。"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 投稿确认
+      options:
+        - label: "我已保留原始出处，未把改写提示词或二手转述标为作者原文或独立实测。"
+          required: true
+        - label: "我有权分享所上传的素材，理解第三方作品不会因收录而自动获得 MIT 许可。"
+          required: true

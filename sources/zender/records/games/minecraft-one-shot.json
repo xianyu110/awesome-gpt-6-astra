@@ -1,0 +1,25 @@
+{
+  "id": "minecraft-one-shot",
+  "category": "games",
+  "title": "一次提示生成 Minecraft 风格游戏原型",
+  "author": "Flavio Adamo",
+  "authorUrl": "https://x.com/flavioAd",
+  "model": "GPT-6 Astra",
+  "modelEvidence": "原帖正文直接写明 “GPT-6 Astra Minecraft one-shot”，发布于 2026-09-03 的 X 平台。",
+  "tools": [
+    "未公开"
+  ],
+  "sourceUrl": "https://x.com/flavioAd/status/2095597137849446688",
+  "sourceType": "作者自述",
+  "sourceAccess": "原始来源已读取",
+  "secondaryUrl": null,
+  "checkedAt": "2026-09-05",
+  "summary": "开发者 Flavio Adamo 跟进社区流行的 “Minecraft 基准测试” 玩法，在 X 发布视频称仅用一次提示就让 GPT-6 Astra 生成 Minecraft 风格的游戏原型，成为新模型游戏生成能力的代表性演示之一。俄媒 Hi-Tech Mail 的报道（已读）将其描述为可在浏览器中直接操控的交互式 3D 世界。提示词与运行环境未在原帖公开。",
+  "promptStatus": "未公开",
+  "prompt": "",
+  "promptSourceUrl": null,
+  "reproduction": "未复现",
+  "reproductionEvidence": [],
+  "limitations": "原帖只有短视频演示；交互细节、生成用时、运行环境与提示词均未公开；“可在浏览器中运行”的说法来自二手报道而非原帖正文。",
+  "rights": "演示视频与推文归 Flavio Adamo 所有，许可未公开，仅链接引用。"
+}

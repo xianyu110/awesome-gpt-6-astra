@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "category": "web",
+  "title": "",
+  "author": "",
+  "authorUrl": "",
+  "model": "",
+  "modelEvidence": "",
+  "tools": ["未公开"],
+  "sourceUrl": "",
+  "sourceType": "二手线索",
+  "sourceAccess": "仅二手来源",
+  "secondaryUrl": null,
+  "checkedAt": "",
+  "summary": "",
+  "promptStatus": "未公开",
+  "prompt": "",
+  "promptSourceUrl": null,
+  "reproduction": "未复现",
+  "reproductionEvidence": [],
+  "limitations": "尚未独立复现。",
+  "rights": "许可未公开，仅链接引用。"
+}

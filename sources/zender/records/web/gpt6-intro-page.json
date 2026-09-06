@@ -1,0 +1,26 @@
+{
+  "id": "gpt6-intro-page",
+  "category": "web",
+  "title": "用 Astra 15 分钟生成 GPT-6 介绍页",
+  "author": "ailiuone",
+  "authorUrl": "https://www.cocoloop.cn/u/ailiuone",
+  "model": "GPT-6 Astra",
+  "modelEvidence": "作者在 CocoLoop 帖子正文明确记录用 Astra（Ultra）生成并部署，对比此前 Sol 约半小时的用时；部署页自述为“非官方中文介绍页，内容参考 OpenAI 官方发布”。",
+  "tools": [
+    "ChatGPT",
+    "chatgpt.site"
+  ],
+  "sourceUrl": "https://www.cocoloop.cn/t/topic/17044",
+  "sourceType": "作者自述",
+  "sourceAccess": "原始来源已读取",
+  "secondaryUrl": null,
+  "checkedAt": "2026-09-05",
+  "summary": "CocoLoop AI 社区用户 ailiuone 参考 OpenAI 官方发布页，让 GPT-6 Astra 生成一个 GPT-6 中文介绍网页并部署到 chatgpt.site。作者报告 Ultra 档位下用时约 15 分钟（此前 GPT-5.6 Sol 约半小时），Pro 20x 周额度消耗不足 1%，并附上一版此前用 Sol 生成的旧介绍页作对照。采集时部署页可正常访问，内容为单页式介绍，含 Astra 与 Sol 的官方基准数据对比；提示词在帖子里完整公开，适合作为网页生成的低成本参照。",
+  "promptStatus": "作者原文",
+  "prompt": "参考 https://openai.com/index/gpt-6-astra/ 为 gpt-6 生成一个介绍网页,不使用任何 skill",
+  "promptSourceUrl": "https://www.cocoloop.cn/t/topic/17044",
+  "reproduction": "未复现",
+  "reproductionEvidence": [],
+  "limitations": "页面数据准确性未逐句核对；15 分钟用时与额度消耗为作者单次体验；chatgpt.site 部署页的长期可用性未知。",
+  "rights": "介绍页内容参考 OpenAI 官方发布页，页面权利归生成账号与部署平台；帖子内容归作者与 CocoLoop 社区，本条仅链接引用。"
+}

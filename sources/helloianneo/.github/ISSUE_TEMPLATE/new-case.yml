@@ -1,0 +1,55 @@
+name: 推荐案例 Recommend a case
+description: 提交一条 GPT-6 Astra 案例供维护者审阅
+labels: ["case"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 标题 / Title
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 作者 / Author
+      placeholder: "Peter Gostev (@petergostev)"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 原帖链接 / Original URL
+      placeholder: https://x.com/user/status/...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 类别 / Category
+      options:
+        - 游戏 Games
+        - 3D
+        - Computer Use
+        - 工程 Engineering
+        - 科学与音乐 Science / Music
+        - Prompt / Workflow
+        - 官方 Official
+        - 风险 Caution
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 做了什么 / What was built
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为何值得收 / Why it belongs here
+    validations:
+      required: true
+  - type: input
+    id: demo
+    attributes:
+      label: 可玩 / 仓库链接 Demo or repo
