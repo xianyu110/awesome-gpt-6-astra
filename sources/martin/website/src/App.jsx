@@ -91,14 +91,15 @@ function External({href,children,...props}) {const safe=safeUrl(href);return saf
 
 function WorkCard({work,index,language,onDetails,refreshToken}) {
   const t=copy[language];const [failedSrc,setFailedSrc]=useState(null),[loadedSrc,setLoadedSrc]=useState(null),[videoActive,setVideoActive]=useState(false);
-  const fallbackSrc=appPath(previewPath(work)),posterSrc=safeUrl(work.posterUrl),videoSrc=safeUrl(work.videoUrl);
-  const [useFallbackPreview,setUseFallbackPreview]=useState(!posterSrc);
-  const previewSrc=useFallbackPreview?fallbackSrc:posterSrc||fallbackSrc;
+  const fallbackSrc=appPath(previewPath(work)),posterSrc=safeUrl(work.posterUrl),imageSrc=safeUrl(work.imageUrl),videoSrc=safeUrl(work.videoUrl);
+  const staticSrc=posterSrc||imageSrc;
+  const [useFallbackPreview,setUseFallbackPreview]=useState(!staticSrc);
+  const previewSrc=useFallbackPreview?fallbackSrc:staticSrc||fallbackSrc;
   const failed=failedSrc===previewSrc,loaded=loadedSrc===previewSrc;
   const cat=categories.find(c=>c[0]===work.category)||categories.at(-1),KindIcon=cat[1];
   const target=safeUrl(work.demoUrl)||safeUrl(work.sourceUrl)||safeUrl(work.repoUrl)||REPO;
-  useEffect(()=>{setFailedSrc(null);setLoadedSrc(null);setVideoActive(false);setUseFallbackPreview(!posterSrc);},[refreshToken,work.id,posterSrc]);
-  const handlePreviewError=()=>{if(posterSrc&&!useFallbackPreview){setUseFallbackPreview(true);setLoadedSrc(null);return;}setFailedSrc(previewSrc);};
+  useEffect(()=>{setFailedSrc(null);setLoadedSrc(null);setVideoActive(false);setUseFallbackPreview(!staticSrc);},[refreshToken,work.id,staticSrc]);
+  const handlePreviewError=()=>{if(staticSrc&&!useFallbackPreview){setUseFallbackPreview(true);setLoadedSrc(null);return;}setFailedSrc(previewSrc);};
   return <article className="work-card">
     <div className={`work-preview ${loaded?'loaded':''} ${failed?'image-failed':''} ${videoActive?'video-active':''}`}>
       {videoActive&&videoSrc?<video className="preview-video" src={videoSrc} poster={posterSrc||undefined} controls playsInline preload="none" aria-label={`${work.name} ${language==='zh'?'案例视频':'case video'}`} onError={()=>setVideoActive(false)}/>:!failed&&<img key={previewSrc} src={previewSrc} alt={`${work.name} ${language==='zh'?'作品预览':'preview'}`} loading={index<2?'eager':'lazy'} decoding="async" onLoad={()=>setLoadedSrc(previewSrc)} onError={handlePreviewError}/>}

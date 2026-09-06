@@ -114,10 +114,25 @@ export function parseCatalogMarkdown(markdown, options = {}) {
   }
 
   function images(node) {
-    return descendants(node, n => ['image', 'imageReference'].includes(n.type)).map(n => {
+    const markdownImages = descendants(node, n => ['image', 'imageReference'].includes(n.type)).map(n => {
       const definition = n.type === 'imageReference' ? definitions.get(n.identifier.toLowerCase()) : n;
       return safeUrl(definition?.url, { ...urlOptions, image: true });
     }).filter(Boolean);
+    const htmlImages = descendants(node, n => n.type === 'html').flatMap(n => {
+      const html = String(n.value || '');
+      return [...html.matchAll(/<img\b[^>]*\bsrc\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/gi)]
+        .map(match => safeUrl(match[1] ?? match[2] ?? match[3], { ...urlOptions, image: true }))
+        .filter(Boolean);
+    });
+    return [...markdownImages, ...htmlImages];
+  }
+
+  function htmlAttributeValues(node, tag, attribute) {
+    return descendants(node, n => n.type === 'html').flatMap(n => {
+      const html = String(n.value || '');
+      const pattern = new RegExp(`<${tag}\\b[^>]*\\b${attribute}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`, 'gi');
+      return [...html.matchAll(pattern)].map(match => match[1] ?? match[2] ?? match[3]);
+    });
   }
 
   function addWork({ name, description, titleLink, metadata, category, authorCell, sourceCell, demoCell, imageCell }) {
@@ -126,7 +141,7 @@ export function parseCatalogMarkdown(markdown, options = {}) {
     let author = { name: '', url: null };
     let sourceUrl = null;
     let demoUrl = null;
-    let imageUrl = imageCell ? images(imageCell)[0] || links(imageCell)[0]?.url || null : null;
+    let imageUrl = imageCell?.imageUrl || (imageCell ? images(imageCell)[0] || links(imageCell)[0]?.url || null : null);
     if (authorCell) author = { name: plain(authorCell).trim(), url: links(authorCell)[0]?.url || null };
     if (sourceCell) sourceUrl = links(sourceCell)[0]?.url || null;
     if (demoCell) demoUrl = links(demoCell).find(link => !isRepositoryUrl(link.url))?.url || null;
@@ -216,12 +231,33 @@ export function parseCatalogMarkdown(markdown, options = {}) {
     }
   }
 
-  for (const node of tree.children) {
+  function readCuratedHeading(index, node) {
+    const rawName = plain(node).trim();
+    const name = rawName.replace(/^\d+\.\s+/, '').trim();
+    if (!name) return;
+    const following = [];
+    for (const candidate of tree.children.slice(index + 1)) {
+      if (candidate.type === 'heading' && candidate.depth <= node.depth) break;
+      following.push(candidate);
+    }
+    const imageUrl = following.map(candidate => images(candidate)[0]).find(Boolean) || null;
+    const titleLink = following.flatMap(candidate => htmlAttributeValues(candidate, 'a', 'href'))
+      .map(value => safeUrl(value, urlOptions)).find(Boolean)
+      || following.flatMap(candidate => links(candidate).map(link => link.url)).find(Boolean);
+    if (!titleLink || !imageUrl) return;
+    const description = following.map(candidate => plain(candidate).trim())
+      .filter(value => value && !/^\d{4}-\d{2}-\d{2}/.test(value)).at(-1) || '';
+    addWork({ name, description, titleLink, metadata: following, imageCell: { imageUrl } });
+  }
+
+  for (let index = 0; index < tree.children.length; index++) {
+    const node = tree.children[index];
     if (node.type === 'heading') {
       while (headings.length && headings.at(-1).depth >= node.depth) headings.pop();
       const text = plain(node).trim();
       headings.push({ depth: node.depth, text, skip: SKIP_SECTION.test(text) });
       if (/^(?:作品目录|游戏目录|项目目录|作品集|全部作品|作品列表|projects|works|games|showcase|catalogue|catalog|collection)$/i.test(text)) hasCatalogueStructure = true;
+      if (node.depth >= 3 && /^\d+\.\s+/.test(text) && !headings.some(h => h.skip)) readCuratedHeading(index, node);
     }
     if (headings.some(h => h.skip)) continue;
     if (node.type === 'list') readList(node);

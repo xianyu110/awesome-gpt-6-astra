@@ -44,6 +44,11 @@ test('new categories, GFM tables, reference links and sparse rows are handled', 
   assert.equal(parseCatalogMarkdown(document(entry(), '全新类型'))[0].category, 'other');
 });
 
+test('HTML image embeds are captured as preview URLs', () => {
+  const markdown = document(`${entry('Aurora')}\n  - 截图：<a href="https://aurora.example/"><img src="https://images.example/aurora.jpg" alt="Aurora"></a>\n`);
+  assert.equal(parseCatalogMarkdown(markdown)[0].imageUrl, 'https://images.example/aurora.jpg');
+});
+
 test('duplicate entries are removed while different works in a monorepo are preserved', () => {
   const works = parseCatalogMarkdown(document(entry() + '\n' + entry() + '\n' + entry('Another', 'Different.', 'https://another.example/')));
   assert.equal(works.length, 2);
