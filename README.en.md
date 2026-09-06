@@ -4,6 +4,8 @@
 
 This repository consolidates the public material from four GitHub lists plus the [CheerSelfAI 70-use-case map](https://cheerselfai.com/usecase/gpt-6-astra). The full Chinese index is available in [README.md](README.md); original files, images, templates, and licenses are preserved under [`sources/`](sources/).
 
+Companion entry points: [GPT-6 Astra field guide](https://xianyu110.github.io/GPT6/) · [guide repository](https://github.com/xianyu110/GPT6)
+
 ## Merged sources
 
 | Source | Focus | Stars / forks |

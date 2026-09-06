@@ -10,6 +10,8 @@
 
 GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。
 
+配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
+
 ## 合并来源
 
 | 来源仓库 | 保留内容 | Stars / Forks |
