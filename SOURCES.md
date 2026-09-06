@@ -18,5 +18,12 @@
 - 后续更新应在根 README 与对应快照/来源记录中同时注明日期，避免把社区转载误写成官方信息。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：尚未运行自动同步工作流。
+最后同步：`2026-09-06T03:44:00+00:00`
+
+| 仓库 | 最新提交 | 本次是否变化 |
+| --- | --- | --- |
+| `MartinDelophy/awesome-gpt-6-astra` | `460a9bd63b48` | 否 |
+| `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
+| `archorfight/awesome-gpt-6-astra` | `119fbaafdebd` | 否 |
+| `zender555/awesome-gpt6` | `f7ee13319caa` | 否 |
 <!-- END AUTO-SYNC STATUS -->

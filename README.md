@@ -24,7 +24,14 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：尚未运行自动同步工作流。
+最后同步：`2026-09-06T03:44:00+00:00`
+
+| 仓库 | 最新提交 | 本次是否变化 |
+| --- | --- | --- |
+| `MartinDelophy/awesome-gpt-6-astra` | `460a9bd63b48` | 否 |
+| `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
+| `archorfight/awesome-gpt-6-astra` | `119fbaafdebd` | 否 |
+| `zender555/awesome-gpt6` | `f7ee13319caa` | 否 |
 <!-- END AUTO-SYNC STATUS -->
 
 ## Contents
