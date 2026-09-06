@@ -5,6 +5,10 @@ import { ArrowUpRight, ArrowClockwise, Asterisk, SquaresFour, Browsers, AppWindo
 
 const REPO = 'https://github.com/MartinDelophy/awesome-gpt-6-astra';
 const STORAGE = 'astra-catalog-v1';
+const BASE_URL = import.meta.env.BASE_URL || '/';
+function appPath(path) {
+  return `${BASE_URL.replace(/\/?$/, '/')}${path.replace(/^\/+/, '')}`;
+}
 const categories = [
   ['all', SquaresFour, '全部作品', 'All works'], ['website', Browsers, '网站', 'Websites'],
   ['app', AppWindow, '应用', 'Apps'], ['tool', Wrench, '工具', 'Tools'],
@@ -57,7 +61,7 @@ function useCatalog() {
     const controller=new AbortController();flight.current=controller;lastAttempt.current=Date.now();
     if(mounted.current)setLoading(true);
     try{
-      const data=await fetchCatalogJson('/api/catalog',{signal:controller.signal});
+      const data=await fetchCatalogJson(appPath('/api/catalog'),{signal:controller.signal});
       if(!validCatalog(data)||data.source.status==='unavailable')throw new Error('invalid-catalog');
       if(mounted.current){
         setCatalog(current=>data.source.stale&&current?.source?.lastSuccessfulAt>data.source.lastSuccessfulAt?{...current,source:{...current.source,stale:true}}:data);
@@ -68,7 +72,7 @@ function useCatalog() {
       if(mounted.current){
         setError(true);setCatalog(c=>c?{...c,source:{...c.source,stale:true}}:c);
         try{
-          const fallback=await fetchCatalogJson('/data/catalog-fallback.json',{timeoutMs:5000});
+          const fallback=await fetchCatalogJson(appPath('/data/catalog-fallback.json'),{timeoutMs:5000});
           if(mounted.current&&validCatalog(fallback))setCatalog(c=>c||{...fallback,source:{...fallback.source,stale:true,status:'fallback'}});
         }catch{}
       }
@@ -87,7 +91,7 @@ function External({href,children,...props}) {const safe=safeUrl(href);return saf
 
 function WorkCard({work,index,language,onDetails,refreshToken}) {
   const t=copy[language];const [failedSrc,setFailedSrc]=useState(null),[loadedSrc,setLoadedSrc]=useState(null);
-  const previewSrc=previewPath(work),failed=failedSrc===previewSrc,loaded=loadedSrc===previewSrc;
+  const previewSrc=appPath(previewPath(work)),failed=failedSrc===previewSrc,loaded=loadedSrc===previewSrc;
   const cat=categories.find(c=>c[0]===work.category)||categories.at(-1),KindIcon=cat[1];
   const target=safeUrl(work.demoUrl)||safeUrl(work.sourceUrl)||safeUrl(work.repoUrl)||REPO;
   useEffect(()=>{setFailedSrc(null);},[refreshToken]);
