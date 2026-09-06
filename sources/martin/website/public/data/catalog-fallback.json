@@ -1,73 +1,2583 @@
 {
   "works": [
     {
-      "id": "work-1820f5c8123c417b",
-      "name": "Mosswing",
-      "description": "3D 单键飞行，控制小翼穿越障碍间隙得分。",
-      "category": "game",
-      "sourceCategory": "动作与街机",
+      "id": "work-6f19f9c3e72c1609",
+      "name": "Afterlight · 45 分钟 3D 游戏",
+      "description": "概念图对标到 60fps 的 one-shot 原型。",
+      "category": "experiment",
+      "sourceCategory": "01. Afterlight · 45 分钟 3D 游戏",
       "author": {
-        "name": "Ayi1337",
-        "url": "https://github.com/Ayi1337"
+        "name": "Anshu",
+        "url": "https://x.com/anshuc"
       },
-      "demoUrl": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
-      "sourceUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src",
-      "repoUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "demoUrl": "https://x.com/anshuc/status/2096008083826725132",
+      "sourceUrl": null,
+      "repoUrl": null,
       "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
       "sourceOrder": 0
     },
     {
-      "id": "work-34ce9c1c38500685",
-      "name": "Magic Carpet Wizard — A Thousand Skies",
-      "description": "驾驶魔毯探索球形世界，穿环、施法，并挑战敌人与 Boss。",
-      "category": "game",
-      "sourceCategory": "动作与街机",
+      "id": "work-960682b876a67556",
+      "name": "运行时生成的活火车",
+      "description": "没有模型文件，TypeScript / Three.js 几何函数驱动轮子和爆炸。",
+      "category": "experiment",
+      "sourceCategory": "02. 运行时生成的活火车",
       "author": {
-        "name": "threapchills",
-        "url": "https://github.com/threapchills"
+        "name": "Tom Krcha",
+        "url": "https://x.com/tomkrcha"
       },
-      "demoUrl": "https://threapchills.github.io/MagicCarpetWizard/",
-      "sourceUrl": "https://github.com/threapchills/MagicCarpetWizard",
-      "repoUrl": "https://github.com/threapchills/MagicCarpetWizard",
+      "demoUrl": "https://x.com/tomkrcha/status/2096082580554777041",
+      "sourceUrl": null,
+      "repoUrl": null,
       "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
       "sourceOrder": 1
     },
     {
-      "id": "work-41e81e3a2c05254a",
-      "name": "瓜体实验室",
-      "description": "把半流体水果的形变与碰撞融入西瓜合成玩法。",
-      "category": "game",
-      "sourceCategory": "解谜与益智",
+      "id": "work-4168b43897d5a4c4",
+      "name": "梵高小镇 + Gogh Strike",
+      "description": "6 幅梵高画合成可漫游小镇，后又做成 5v5 射击。",
+      "category": "other",
+      "sourceCategory": "03. 梵高小镇 + Gogh Strike",
       "author": {
-        "name": "Ayi1337",
-        "url": "https://github.com/Ayi1337"
+        "name": "Peter Gostev",
+        "url": "https://x.com/petergostev"
       },
-      "demoUrl": "https://melon-game.jack-514.chatgpt.site/",
-      "sourceUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src",
-      "repoUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "demoUrl": "https://x.com/petergostev/status/2095776685807346105",
+      "sourceUrl": null,
+      "repoUrl": null,
       "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
       "sourceOrder": 2
     },
     {
-      "id": "work-982fd33309fd57ba",
-      "name": "ORBITAL GARDEN · 轨道花园",
-      "description": "交互式粒子艺术沙盒：让 48,000 颗光点在花、引力环与星系之间变形，扰动雕塑并将瞬间导出为海报。",
+      "id": "work-0ed5012771a36f16",
+      "name": "15 分钟 3D iPod",
+      "description": "Blender 做机身，用原版 iPod 交互浏览 Codex threads。",
       "category": "experiment",
-      "sourceCategory": "实验玩法与多人游戏",
+      "sourceCategory": "04. 15 分钟 3D iPod",
       "author": {
-        "name": "jackroc",
-        "url": "https://github.com/jackroc"
+        "name": "Pietro Schirano",
+        "url": "https://x.com/skirano"
+      },
+      "demoUrl": "https://x.com/skirano/status/2095648379455861054",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 3
+    },
+    {
+      "id": "work-740caf4780fbb968",
+      "name": "Fall Guys 到 5 天 SimCity",
+      "description": "早期最完整长线程之一，含游戏、世界与浏览器控制。",
+      "category": "game",
+      "sourceCategory": "05. Fall Guys 到 5 天 SimCity",
+      "author": {
+        "name": "Matthew Berman",
+        "url": "https://x.com/MatthewBerman"
+      },
+      "demoUrl": "https://x.com/MatthewBerman/status/2095595892464333065",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 4
+    },
+    {
+      "id": "work-92af8aece28bd61f",
+      "name": "10 分钟 Blender 甜甜圈",
+      "description": "新手课通常 1–2 小时的模型，约 10 分钟出可改工程文件。",
+      "category": "experiment",
+      "sourceCategory": "06. 10 分钟 Blender 甜甜圈",
+      "author": {
+        "name": "歸藏",
+        "url": "https://x.com/op7418"
+      },
+      "demoUrl": "https://x.com/op7418/status/2096065904828416286",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 5
+    },
+    {
+      "id": "work-29c6aba6030f419b",
+      "name": "Zillow 房源图 → 3D 宣传片",
+      "description": "真房源照片建出可漫游房屋。作者自认细节有误。",
+      "category": "experiment",
+      "sourceCategory": "07. Zillow 房源图 → 3D 宣传片",
+      "author": {
+        "name": "Yunfan Ye",
+        "url": "https://x.com/realYunfanYe"
+      },
+      "demoUrl": "https://x.com/realYunfanYe/status/2095612137582526615",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 6
+    },
+    {
+      "id": "work-d673e57297fb526d",
+      "name": "Apple Notes 里画自像",
+      "description": "不是生成一张图，是在 Mac 上打开 Notes 一笔一笔画。",
+      "category": "other",
+      "sourceCategory": "08. Apple Notes 里画自像",
+      "author": {
+        "name": "Federico Viticci",
+        "url": "https://x.com/viticci"
+      },
+      "demoUrl": "https://x.com/viticci/status/2096025249582039180",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 7
+    },
+    {
+      "id": "work-e90553f09ef19acd",
+      "name": "只看屏幕通关《火红》",
+      "description": "Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。",
+      "category": "other",
+      "sourceCategory": "09. 只看屏幕通关《火红》",
+      "author": {
+        "name": "Clad3815",
+        "url": "https://x.com/Clad3815"
+      },
+      "demoUrl": "https://x.com/Clad3815/status/2095596013168050551",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 8
+    },
+    {
+      "id": "work-adf06a77853769b8",
+      "name": "11 分钟巴赫钢琴",
+      "description": "可弹虚拟钢琴，内置全部 6 首《勃兰登堡协奏曲》。",
+      "category": "other",
+      "sourceCategory": "10. 11 分钟巴赫钢琴",
+      "author": {
+        "name": "Derya Unutmaz",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2096090915790069857",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 9
+    },
+    {
+      "id": "work-62b8c5afbee9edce",
+      "name": "机械臂 40% → 95%",
+      "description": "真实抓取对照 Fable 5.1，输出 token 少 6.2 倍。",
+      "category": "other",
+      "sourceCategory": "11. 机械臂 40% → 95%",
+      "author": {
+        "name": "Jay Chooi",
+        "url": "https://x.com/chooi_jeq"
+      },
+      "demoUrl": "https://x.com/chooi_jeq/status/2096064315115839904",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 10
+    },
+    {
+      "id": "work-595b5c450c64a100",
+      "name": "Canva 里一块块拼肖像",
+      "description": "Computer Use 在 Canva 里实操组装画像。",
+      "category": "other",
+      "sourceCategory": "12. Canva 里一块块拼肖像",
+      "author": {
+        "name": "iam_zachi",
+        "url": "https://x.com/iam_zachi"
+      },
+      "demoUrl": "https://x.com/iam_zachi/status/2095992132620136677",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 11
+    },
+    {
+      "id": "work-fe2ddca89a1193f4",
+      "name": "语音通关《杀戮尖塔 2》",
+      "description": "没写复杂 prompt，模型自学键位打了 48 层。",
+      "category": "experiment",
+      "sourceCategory": "13. 语音通关《杀戮尖塔 2》",
+      "author": {
+        "name": "paulwei",
+        "url": "https://x.com/coolish"
+      },
+      "demoUrl": "https://x.com/coolish/status/2096195104809873710",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 12
+    },
+    {
+      "id": "work-a5686a9aa8ea7b7d",
+      "name": "Godot 索尼克 Max vs Medium",
+      "description": "同一提示词：53 分钟 / 4% vs 25 分钟 / 1%。",
+      "category": "other",
+      "sourceCategory": "14. Godot 索尼克 Max vs Medium",
+      "author": {
+        "name": "AiBattle",
+        "url": "https://x.com/AiBattle_"
+      },
+      "demoUrl": "https://x.com/AiBattle_/status/2095994051354919049",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 13
+    },
+    {
+      "id": "work-11aa79598c612921",
+      "name": "官方 KiCad / UE5 演示",
+      "description": "原理图到 PCB，Blender 房子导入 Unreal Engine 5。",
+      "category": "other",
+      "sourceCategory": "15. 官方 KiCad / UE5 演示",
+      "author": {
+        "name": "OpenAI",
+        "url": "https://x.com/OpenAI"
+      },
+      "demoUrl": "https://x.com/OpenAI/status/2095595741528125780",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 14
+    },
+    {
+      "id": "work-d54525fd95f093cc",
+      "name": "早餐时给布加迪发了邮件",
+      "description": "已连 Gmail 的 Astra 在画车时主动发了两封邮件。",
+      "category": "other",
+      "sourceCategory": "16. 早餐时给布加迪发了邮件",
+      "author": {
+        "name": "SKEL",
+        "url": "https://x.com/skel"
+      },
+      "demoUrl": "https://x.com/skel/status/2096113092736540685",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 15
+    },
+    {
+      "id": "work-f9ff904926bd8d18",
+      "name": "三岁小孩动力沙 / 卡车 / 恐龙",
+      "description": "一句 prompt，约 27 分钟可玩。imoutoftokensFR · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "imoutoftokensFR",
+        "url": "https://x.com/imoutoftokensFR"
+      },
+      "demoUrl": "https://x.com/imoutoftokensFR/status/2096202083561054342",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 16
+    },
+    {
+      "id": "work-ce04d02d30d0bd4d",
+      "name": "Astral War",
+      "description": "浏览器 FPS，一天做出。RealFedeURU · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "RealFedeURU",
+        "url": "https://x.com/RealFedeURU"
+      },
+      "demoUrl": "https://x.com/RealFedeURU/status/2096202133532008758",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 17
+    },
+    {
+      "id": "work-b44b856eb604423f",
+      "name": "Three.js MMORPG 区域",
+      "description": "网页端 one prompt：营地、交易、技能栏。oceanbennett · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "oceanbennett",
+        "url": "https://x.com/oceanbennett"
+      },
+      "demoUrl": "https://x.com/oceanbennett/status/2096049972437209510",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 18
+    },
+    {
+      "id": "work-89d78b1ddffd5478",
+      "name": "Fernando Galaxy",
+      "description": "原生 iOS，Swift + RealityKit + Blender MCP，5h48m。RayFernando1337 · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "RayFernando1337",
+        "url": "https://x.com/RayFernando1337"
+      },
+      "demoUrl": "https://x.com/RayFernando1337/status/2096150987031633961",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 19
+    },
+    {
+      "id": "work-b8ea85df0fb036d1",
+      "name": "宝可梦风 3D / 渋谷 / 东京塔",
+      "description": "日语回顾视频，剪辑也用了 Codex。masahirochaen · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "masahirochaen",
+        "url": "https://x.com/masahirochaen"
+      },
+      "demoUrl": "https://x.com/masahirochaen/status/2096196861287878877",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 20
+    },
+    {
+      "id": "work-fedc8626a3fb24f1",
+      "name": "可玩射击 + 赛车",
+      "description": "两条简单 prompt，两个可玩回合。k2sbhai · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "k2sbhai",
+        "url": "https://x.com/k2sbhai"
+      },
+      "demoUrl": "https://x.com/k2sbhai/status/2096182794737402183",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 21
+    },
+    {
+      "id": "work-f1fce8541ce14b4a",
+      "name": "1-shot 浏览器游戏",
+      "description": "上线日 Theo 的即席游戏演示。theo · original · 09-03",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "theo",
+        "url": "https://x.com/theo"
+      },
+      "demoUrl": "https://x.com/theo/status/2095599934766764338",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 22
+    },
+    {
+      "id": "work-64f4a084e0abc383",
+      "name": "三主题赛车",
+      "description": "Playco 团队的多主题 kart 原型。chetaslua · original · 09-03",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "demoUrl": "https://x.com/chetaslua/status/2095580402505400369",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 23
+    },
+    {
+      "id": "work-e484d63ac21088fa",
+      "name": "Forgotten Horizon",
+      "description": "更完整的探索游戏原型。ashthepeasant · original · 09-05",
+      "category": "game",
+      "sourceCategory": "游戏与可玩原型",
+      "author": {
+        "name": "ashthepeasant",
+        "url": "https://x.com/ashthepeasant"
+      },
+      "demoUrl": "https://x.com/ashthepeasant/status/2096172063241515218",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 24
+    },
+    {
+      "id": "work-d3f14703da032e8e",
+      "name": "房子照片 → 完整 Blender 场景",
+      "description": "家具玩具都在，可 60fps 浏览。tomkrcha · original · 09-03",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "tomkrcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "demoUrl": "https://x.com/tomkrcha/status/2095598645190291775",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 25
+    },
+    {
+      "id": "work-52bc1cb1a35f1b74",
+      "name": "火车草图 → 3295 个可编辑物体",
+      "description": "同作者的工程级 3D。tomkrcha · original · 09-04",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "tomkrcha",
+        "url": "https://x.com/tomkrcha"
+      },
+      "demoUrl": "https://x.com/tomkrcha/status/2095756085890310311",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 26
+    },
+    {
+      "id": "work-ba6009a735a79e35",
+      "name": "椭圆形办公室",
+      "description": "Astra 写几何，视频模型收尾。higgsfield_ai · original · 09-03",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "higgsfield_ai",
+        "url": "https://x.com/higgsfield_ai"
+      },
+      "demoUrl": "https://x.com/higgsfield_ai/status/2095630197257367857",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 27
+    },
+    {
+      "id": "work-737afb9beb24c75b",
+      "name": "一条 prompt 用基本体拼出整车",
+      "description": "作者说四个月前还摆不好物体。Stefan_3D_AI · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "Stefan_3D_AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "demoUrl": "https://x.com/Stefan_3D_AI/status/2096185294165103049",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 28
+    },
+    {
+      "id": "work-b03c1e0c7e94abab",
+      "name": "Cinema 4D 建模",
+      "description": "不只有 Blender。mojon1 · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "mojon1",
+        "url": "https://x.com/mojon1"
+      },
+      "demoUrl": "https://x.com/mojon1/status/2096189580752081024",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 29
+    },
+    {
+      "id": "work-3e5057f690c19264",
+      "name": "澳洲宿舍照片还原",
+      "description": "约 20 分钟做成可交互场景。rionaifantasy · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "rionaifantasy",
+        "url": "https://x.com/rionaifantasy"
+      },
+      "demoUrl": "https://x.com/rionaifantasy/status/2096163579925770671",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 30
+    },
+    {
+      "id": "work-1bb82bc128dc3cf0",
+      "name": "零 Blender 经验做美式厨房",
+      "description": "语音 + 出图 + Computer Use。berryxia · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "berryxia",
+        "url": "https://x.com/berryxia"
+      },
+      "demoUrl": "https://x.com/berryxia/status/2096158415894835518",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 31
+    },
+    {
+      "id": "work-48035a9a97a4c159",
+      "name": "GTA6 画风新加坡街道",
+      "description": "Three.js，iPhone POV。birdabo · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "birdabo",
+        "url": "https://x.com/birdabo"
+      },
+      "demoUrl": "https://x.com/birdabo/status/2096156461365960837",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 32
+    },
+    {
+      "id": "work-fc4ab7c8e69f71db",
+      "name": "Tesla Model X 拆解站",
+      "description": "334 个零件的 3D 网页。ashebytes · original · 09-04",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "ashebytes",
+        "url": "https://x.com/ashebytes"
+      },
+      "demoUrl": "https://x.com/ashebytes/status/2096009146248122416",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 33
+    },
+    {
+      "id": "work-ed7d9b1987f15236",
+      "name": "Forest Retreat",
+      "description": "Blender 森林别墅，约 7 小时。UNIBRACITY · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "UNIBRACITY",
+        "url": "https://x.com/UNIBRACITY"
+      },
+      "demoUrl": "https://x.com/UNIBRACITY/status/2096142182050927035",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 34
+    },
+    {
+      "id": "work-858d9cdfbf63722a",
+      "name": "Backrooms",
+      "description": "Duncan Trussell 的 Blender 限制空间。duncantrussell · original · 09-04",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "duncantrussell",
+        "url": "https://x.com/duncantrussell"
+      },
+      "demoUrl": "https://x.com/duncantrussell/status/2096003511104508411",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 35
+    },
+    {
+      "id": "work-71752ba6c3bc618f",
+      "name": "地图钉 → 3D 街区",
+      "description": "Pietro 把地图标记重建成街区。skirano · original · 09-04",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "skirano",
+        "url": "https://x.com/skirano"
+      },
+      "demoUrl": "https://x.com/skirano/status/2095899479308144981",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 36
+    },
+    {
+      "id": "work-056dad315e3c96b6",
+      "name": "自动 bind 的功夫动作",
+      "description": "角色自动绑骨与动画。thebuggeddev · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "thebuggeddev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "demoUrl": "https://x.com/thebuggeddev/status/2096141728487178503",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 37
+    },
+    {
+      "id": "work-da9971651633531a",
+      "name": "3D 钢琴家",
+      "description": "可观看的演奏场景。LexnLin · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "demoUrl": "https://x.com/LexnLin/status/2096166277849239804",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 38
+    },
+    {
+      "id": "work-e46a99c0b2f0d016",
+      "name": "Hangzhou in Three.js",
+      "description": "西湖到钱江新城的可漫游微缩杭州。NFT_Chen · original · 09-05",
+      "category": "experiment",
+      "sourceCategory": "3D 世界与建模",
+      "author": {
+        "name": "NFT_Chen",
+        "url": "https://x.com/NFT_Chen"
+      },
+      "demoUrl": "https://x.com/NFT_Chen/status/2096143589151756638",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 39
+    },
+    {
+      "id": "work-a2e33f3ab152b11b",
+      "name": "Paint 里画你",
+      "description": "广被引用的 Computer Use 小检。The_Alex · original · 09-04",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "The_Alex",
+        "url": "https://x.com/The_Alex"
+      },
+      "demoUrl": "https://x.com/The_Alex/status/2095962639386239400",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 40
+    },
+    {
+      "id": "work-18faf5ef255e0962",
+      "name": "55 段素材自动剪辑",
+      "description": "选曲、切点、遮罩一起做。0xTykoo · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "0xTykoo",
+        "url": "https://x.com/0xTykoo"
+      },
+      "demoUrl": "https://x.com/0xTykoo/status/2096183262255386833",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 41
+    },
+    {
+      "id": "work-70598a90d7015088",
+      "name": "无人机飞控 PCB",
+      "description": "原理图到布局走线再自查。GoGoFly23 · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "GoGoFly23",
+        "url": "https://x.com/GoGoFly23"
+      },
+      "demoUrl": "https://x.com/GoGoFly23/status/2096145124950708512",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 42
+    },
+    {
+      "id": "work-bd992b2b89d998e8",
+      "name": "KiCad PCB 布线",
+      "description": "另一条被广泛转发的 EE 案例。ChihYang04 · original · 09-03",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "ChihYang04",
+        "url": "https://x.com/ChihYang04"
+      },
+      "demoUrl": "https://x.com/ChihYang04/status/2095637507337826741",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 43
+    },
+    {
+      "id": "work-1ced54bbe489402a",
+      "name": "Agentic CAD",
+      "description": "作者称 CAD agent 有一阶跳变。adamdotnew · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "adamdotnew",
+        "url": "https://x.com/adamdotnew"
+      },
+      "demoUrl": "https://x.com/adamdotnew/status/2096053889141489669",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 44
+    },
+    {
+      "id": "work-72c812918fd98212",
+      "name": "开发—验收闭环",
+      "description": "中文圈对 Computer Use 的早期观察。dotey · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "dotey",
+        "url": "https://x.com/dotey"
+      },
+      "demoUrl": "https://x.com/dotey/status/2096051842174087386",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 45
+    },
+    {
+      "id": "work-113f2069615c4244",
+      "name": "iOS 参考做安卓",
+      "description": "一次对齐现有 iOS 应用。jonaswrks · original · 09-05",
+      "category": "app",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "jonaswrks",
+        "url": "https://x.com/jonaswrks"
+      },
+      "demoUrl": "https://x.com/jonaswrks/status/2096201967982829707",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 46
+    },
+    {
+      "id": "work-4f39d7ff1be591ea",
+      "name": "Three.js 30 分钟可交互场景",
+      "description": "作者说从几小时压到 30 分钟。lepadphone · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "lepadphone",
+        "url": "https://x.com/lepadphone"
+      },
+      "demoUrl": "https://x.com/lepadphone/status/2096147245775331419",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 47
+    },
+    {
+      "id": "work-bfb906fc1df55d29",
+      "name": "3D pipeline 工作室测试",
+      "description": "工作室级管线试跑。badxstudio · original · 09-04",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "badxstudio",
+        "url": "https://x.com/badxstudio"
+      },
+      "demoUrl": "https://x.com/badxstudio/status/2095982983379653113",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 48
+    },
+    {
+      "id": "work-2653deaaa9de785e",
+      "name": "UI 生成质量",
+      "description": "短视频观点，但被广泛收藏。MSchwaibold · original · 09-05",
+      "category": "other",
+      "sourceCategory": "Computer Use / 工程",
+      "author": {
+        "name": "MSchwaibold",
+        "url": "https://x.com/MSchwaibold"
+      },
+      "demoUrl": "https://x.com/MSchwaibold/status/2096059496812716307",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 49
+    },
+    {
+      "id": "work-c23d4b96d93e9022",
+      "name": "ZX Spectrum 48K 复刻",
+      "description": "橡胶键盘、磅带加载、可玩 Gridrunner。DeryaTR_ · original · 09-05",
+      "category": "other",
+      "sourceCategory": "音乐 / 科学 / Prompt",
+      "author": {
+        "name": "DeryaTR_",
+        "url": "https://x.com/DeryaTR_"
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2096062355692048605",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 50
+    },
+    {
+      "id": "work-bec5dd071ce85ae7",
+      "name": "Ableton 从零做一轨",
+      "description": "Pietro + Ableton MCP。skirano · original · 09-03",
+      "category": "other",
+      "sourceCategory": "音乐 / 科学 / Prompt",
+      "author": {
+        "name": "skirano",
+        "url": "https://x.com/skirano"
+      },
+      "demoUrl": "https://x.com/skirano/status/2095595942544089525",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 51
+    },
+    {
+      "id": "work-ce318ba4e91342aa",
+      "name": "个人风格 MIDI",
+      "description": "Astra 出稿，作者改 MIDI 再进 Suno。super_bonochin · original · 09-05",
+      "category": "other",
+      "sourceCategory": "音乐 / 科学 / Prompt",
+      "author": {
+        "name": "super_bonochin",
+        "url": "https://x.com/super_bonochin"
+      },
+      "demoUrl": "https://x.com/super_bonochin/status/2096183825433084181",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 52
+    },
+    {
+      "id": "work-29515da76d06c559",
+      "name": "9 条能上班的 Agent prompt",
+      "description": "账单、二手市场、夜间 QA、竞品。gregisenberg · original · 09-04",
+      "category": "other",
+      "sourceCategory": "音乐 / 科学 / Prompt",
+      "author": {
+        "name": "gregisenberg",
+        "url": "https://x.com/gregisenberg"
+      },
+      "demoUrl": "https://x.com/gregisenberg/status/2095854071580156338",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 53
+    },
+    {
+      "id": "work-f8ba75cbd771096d",
+      "name": "第一性原理盘问代码库",
+      "description": "先删再简。georgepickett · original · 09-04",
+      "category": "other",
+      "sourceCategory": "音乐 / 科学 / Prompt",
+      "author": {
+        "name": "georgepickett",
+        "url": "https://x.com/georgepickett"
+      },
+      "demoUrl": "https://x.com/georgepickett/status/2095979879137460640",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 54
+    },
+    {
+      "id": "work-02afd2c889a276f4",
+      "name": "Mosswing",
+      "description": "3D 单键飞行，控制小翼穿越障碍间隙得分。作者：Ayi1337。One Shot Prompt 与记录 · 源码 · 单文件 HTML。",
+      "category": "game",
+      "sourceCategory": "动作与街机",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 55
+    },
+    {
+      "id": "work-ea7ac6ce81db2b36",
+      "name": "Magic Carpet Wizard — A Thousand Skies",
+      "description": "驾驶魔毯探索球形世界，穿环、施法并挑战 Boss。作者：threapchills。桌面浏览器，需要 WebGL 2；Three.js/Vite 源码。",
+      "category": "game",
+      "sourceCategory": "动作与街机",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://threapchills.github.io/MagicCarpetWizard/",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 56
+    },
+    {
+      "id": "work-9414e523f86ec556",
+      "name": "瓜体实验室",
+      "description": "半流体水果形变与碰撞的西瓜合成玩法。作者：Ayi1337。源码 · 单文件 HTML。",
+      "category": "game",
+      "sourceCategory": "解谜与益智",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://melon-game.jack-514.chatgpt.site/",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 57
+    },
+    {
+      "id": "work-9c7ec2875e8b7ddb",
+      "name": "ORBITAL GARDEN · 轨道花园",
+      "description": "48,000 颗光点在花、引力环和星系之间变形的粒子艺术沙盒。作者：jackroc。支持 WebGL 的现代浏览器，免费、无需登录或 API Key；创作记录 · 源码与运行说明 · 离线 HTML · Prompt。",
+      "category": "experiment",
+      "sourceCategory": "实验玩法",
+      "author": {
+        "name": "",
+        "url": null
       },
       "demoUrl": "https://orbital-garden.hp20230404.chatgpt.site/",
-      "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/works/orbital-garden/README.md",
-      "repoUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "sourceUrl": null,
+      "repoUrl": null,
       "imageUrl": null,
-      "sourceOrder": 3
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 58
+    },
+    {
+      "id": "work-4708c9bf953c7d14",
+      "name": "DannyMac180/astra-advisor",
+      "description": "动态 Sol/Terra/Luna 子 Agent 编排",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/DannyMac180/astra-advisor",
+      "repoUrl": "https://github.com/DannyMac180/astra-advisor",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 59
+    },
+    {
+      "id": "work-57cacc734ddc43d0",
+      "name": "Ayi1337/gpt6-astra-one-shot-games",
+      "description": "原始 Prompt 与可运行单文件 HTML",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "repoUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 60
+    },
+    {
+      "id": "work-8d49162b51503c1c",
+      "name": "tadamcz/koethe",
+      "description": "mean-value-problem — Lean 4 数学反例探索",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/tadamcz/koethe",
+      "repoUrl": "https://github.com/tadamcz/koethe",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 61
+    },
+    {
+      "id": "work-9e8d9df493264dae",
+      "name": "Firnschnee/dual-model-mcp",
+      "description": "Fable 5.1 与 Astra 双模型 MCP",
+      "category": "experiment",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/Firnschnee/dual-model-mcp",
+      "repoUrl": "https://github.com/Firnschnee/dual-model-mcp",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 62
+    },
+    {
+      "id": "work-64ffe9e804b852d5",
+      "name": "LunarXuan/task-model-router",
+      "description": "按返工成本路由 Codex 任务",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/LunarXuan/task-model-router",
+      "repoUrl": "https://github.com/LunarXuan/task-model-router",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 63
+    },
+    {
+      "id": "work-d76704efa605582a",
+      "name": "MiaAI-Lab/GPT-6-Astra-100-HTML-Files",
+      "description": "100 个独立 HTML 视觉实验",
+      "category": "experiment",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files",
+      "repoUrl": "https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 64
+    },
+    {
+      "id": "work-c003ef22d863004e",
+      "name": "gih10012/astra-parabox-benchmark",
+      "description": "Patrick's Parabox 364 关屏幕基准",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/gih10012/astra-parabox-benchmark",
+      "repoUrl": "https://github.com/gih10012/astra-parabox-benchmark",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 65
+    },
+    {
+      "id": "work-c77aaeb31d06b9cf",
+      "name": "coreprocess/openai-relay-for-cursor",
+      "description": "在 Cursor 中接入 Responses API 模型",
+      "category": "experiment",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/coreprocess/openai-relay-for-cursor",
+      "repoUrl": "https://github.com/coreprocess/openai-relay-for-cursor",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 66
+    },
+    {
+      "id": "work-8a31ebd9378a8396",
+      "name": "sjh9714/astra-tandem",
+      "description": "ShunsukeHayashi/gpt6-task-spawner — 构建/审阅与任务分发工作流",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/sjh9714/astra-tandem",
+      "repoUrl": "https://github.com/sjh9714/astra-tandem",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 67
+    },
+    {
+      "id": "work-dc81dce77bca9260",
+      "name": "marius4lui/NULLSPACE",
+      "description": "生存恐怖 FPS",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/marius4lui/NULLSPACE",
+      "repoUrl": "https://github.com/marius4lui/NULLSPACE",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 68
+    },
+    {
+      "id": "work-7e42ba1b0b9fa540",
+      "name": "Rising1234Sun/qingmingshanghetu",
+      "description": "清明上河图实时 3D 场景",
+      "category": "experiment",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/Rising1234Sun/qingmingshanghetu",
+      "repoUrl": "https://github.com/Rising1234Sun/qingmingshanghetu",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 69
+    },
+    {
+      "id": "work-56d2c02b94b7bac8",
+      "name": "da03/astra-plays-gta",
+      "description": "Astra 操作 GTA Vice City",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/da03/astra-plays-gta",
+      "repoUrl": "https://github.com/da03/astra-plays-gta",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 70
+    },
+    {
+      "id": "work-eff74cbc4c3f16e9",
+      "name": "xinbenlv/ra2-gpt-6-astra-2026-09-04",
+      "description": "红警 2 one-shot 重建",
+      "category": "other",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/xinbenlv/ra2-gpt-6-astra-2026-09-04",
+      "repoUrl": "https://github.com/xinbenlv/ra2-gpt-6-astra-2026-09-04",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 71
+    },
+    {
+      "id": "work-04f3eeac4963586e",
+      "name": "paveljor/agent-bluff",
+      "description": "多模型欺骗能力对赛",
+      "category": "experiment",
+      "sourceCategory": "社区项目",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": null,
+      "sourceUrl": "https://github.com/paveljor/agent-bluff",
+      "repoUrl": "https://github.com/paveljor/agent-bluff",
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": 72
+    },
+    {
+      "id": "work-13437626d2614973",
+      "name": "Zork 文字冒险改为 3D 动作冒险",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/emollick/status/2096047660662722620",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-01-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-01.mp4",
+      "sourceOrder": 73
+    },
+    {
+      "id": "work-c07793d1a49d563a",
+      "name": "45 分钟生成 3D 游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/anshuc/status/2096008083826725132",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-02-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-02.mp4",
+      "sourceOrder": 74
+    },
+    {
+      "id": "work-cfcff55b176d0a51",
+      "name": "Godot 索尼克风格游戏档位对照",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/AiBattle_/status/2095994051354919049",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-03-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-03.mp4",
+      "sourceOrder": 75
+    },
+    {
+      "id": "work-4ddddd7991f91259",
+      "name": "浏览器第三人称动作游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/superalesha/status/2095988972879335792",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-04-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-04.mp4",
+      "sourceOrder": 76
+    },
+    {
+      "id": "work-e072428bf4e9a66d",
+      "name": "反重力竞速游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/superalesha/status/2095967568825582044",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-05-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-05.mp4",
+      "sourceOrder": 77
+    },
+    {
+      "id": "work-113936e041b40d68",
+      "name": "Mario Kart 风格赛车",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2095945186643710171",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-06-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-06.mp4",
+      "sourceOrder": 78
+    },
+    {
+      "id": "work-4539d57dce6c7bfd",
+      "name": "Gogh Strike 艺术风格射击游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/petergostev/status/2096013280519016608",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-07-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-07.mp4",
+      "sourceOrder": 79
+    },
+    {
+      "id": "work-2cee9e15bfcb4cb0",
+      "name": "Cut the Rope 风格解谜游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/mirochill/status/2095968487994732974",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-08-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-08.mp4",
+      "sourceOrder": 80
+    },
+    {
+      "id": "work-f484d21389c91dc9",
+      "name": "可漫游且可编辑的房间",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/onofumi_AI/status/2096020860121596003",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-09-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-09.mp4",
+      "sourceOrder": 81
+    },
+    {
+      "id": "work-c7f702273bc5fc6b",
+      "name": "从零制作 3D 角色",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/posi_posi8/status/2096017956325224851",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-10-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-10.mp4",
+      "sourceOrder": 82
+    },
+    {
+      "id": "work-a2b3e32a3bfc8840",
+      "name": "户型图与 3D 漫游同步",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/onofumi_AI/status/2095999282088378520",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-11-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-11.mp4",
+      "sourceOrder": 83
+    },
+    {
+      "id": "work-c2cfe1b8ac05793c",
+      "name": "办公室复刻",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/bridgemindai/status/2095993644389982294",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-12-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-12.mp4",
+      "sourceOrder": 84
+    },
+    {
+      "id": "work-3369db0b059aadfb",
+      "name": "房源照片转模型和宣传视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Freyabuilds/status/2095833957447434523",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-13-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-13.mp4",
+      "sourceOrder": 85
+    },
+    {
+      "id": "work-7ec2e65746a567e4",
+      "name": "六幅梵高画变为可漫游小镇",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/petergostev/status/2095776685807346105",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-14-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-14.mp4",
+      "sourceOrder": 86
+    },
+    {
+      "id": "work-ec2b5297b79042ba",
+      "name": "批量尝试网站视觉设计",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nateherk/status/2096018636079026498",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-15-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-15.mp4",
+      "sourceOrder": 87
+    },
+    {
+      "id": "work-e303c73121faead6",
+      "name": "漫剧产品导演台调研与开发",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nicknam92226032/status/2096018367937450343",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-16-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-16.mp4",
+      "sourceOrder": 88
+    },
+    {
+      "id": "work-915811aa1507a24b",
+      "name": "改造抽奖流程界面",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nabu_lines/status/2096001136566141055",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-17-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-17.mp4",
+      "sourceOrder": 89
+    },
+    {
+      "id": "work-c0bedca7ad3f55a0",
+      "name": "重做现有网站 onboarding",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/coelhoxyz/status/2096000135184400863",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-18-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-18.mp4",
+      "sourceOrder": 90
+    },
+    {
+      "id": "work-cc0d8da9c847d8b1",
+      "name": "可操作的笔记界面",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/daradoescode/status/2095978271384990084",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-19-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-19.mp4",
+      "sourceOrder": 91
+    },
+    {
+      "id": "work-882d0b980a18b798",
+      "name": "Gameboy 风格个人作品集",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Angaisb_/status/2095964361105789424",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-20-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-20.mp4",
+      "sourceOrder": 92
+    },
+    {
+      "id": "work-1af1c117ec6ee018",
+      "name": "macOS App onboarding",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/lucas_montano/status/2095959478411698295",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-21-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-21.mp4",
+      "sourceOrder": 93
+    },
+    {
+      "id": "work-700d6279a79923b0",
+      "name": "Astra 主题欢迎界面",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/jaimintf/status/2095863849635422679",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-22-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-22.mp4",
+      "sourceOrder": 94
+    },
+    {
+      "id": "work-f48fe433d165efee",
+      "name": "Blender 后室短片",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/duncantrussell/status/2096003511104508411",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-23-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-23.mp4",
+      "sourceOrder": 95
+    },
+    {
+      "id": "work-3f0d3bf82f0cb295",
+      "name": "品牌 Remotion 营销视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/bridgemindai/status/2095963477542056143",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-24-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-24.mp4",
+      "sourceOrder": 96
+    },
+    {
+      "id": "work-9346160506b7817b",
+      "name": "布列塔尼街景短片",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/thomas_guilcher/status/2095845691373351276",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-25-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-25.mp4",
+      "sourceOrder": 97
+    },
+    {
+      "id": "work-204c7fc3afd63124",
+      "name": "为 Seedance 视频撰写提示词",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/eachlabs/status/2095911062499381467",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-26-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-26.mp4",
+      "sourceOrder": 98
+    },
+    {
+      "id": "work-dc8b657140672a49",
+      "name": "Blender 灰模到电影感视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Deevid_AI/status/2095919830423498910",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-27-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-27.mp4",
+      "sourceOrder": 99
+    },
+    {
+      "id": "work-f66f1c8810b137f3",
+      "name": "不完整扫描网格转 CAD",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Alpha10six/status/2096042985775386739",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-28-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-28.mp4",
+      "sourceOrder": 100
+    },
+    {
+      "id": "work-f00994e006560ebf",
+      "name": "C++ 光线追踪器迁移到 Swift 与 GPU",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/PaulSolt/status/2095879835088293931",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-29-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-29.mp4",
+      "sourceOrder": 101
+    },
+    {
+      "id": "work-cd18f1e95cc6e9d8",
+      "name": "Tesla Model X 三维拆解展示",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/ashebytes/status/2096009146248122416",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-30-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-30.mp4",
+      "sourceOrder": 102
+    },
+    {
+      "id": "work-28041fe41b42fd5d",
+      "name": "低清人像转可打印模型",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/vi4m/status/2096007521437663706",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-31-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-31.mp4",
+      "sourceOrder": 103
+    },
+    {
+      "id": "work-92ed718fbed3d617",
+      "name": "实时海岸模拟",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/hajimetwi3/status/2096033088178671755",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-32-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-32.mp4",
+      "sourceOrder": 104
+    },
+    {
+      "id": "work-e482d91a16545e18",
+      "name": "双摆数值模拟与交互画布",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/AlicanKiraz0/status/2095970338043789323",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-33-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-33.mp4",
+      "sourceOrder": 105
+    },
+    {
+      "id": "work-25ebe9b21530d5e0",
+      "name": "程序化水面效果",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/PaulSolt/status/2095902741092606154",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-34-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-34.mp4",
+      "sourceOrder": 106
+    },
+    {
+      "id": "work-4dfe49c71fab5178",
+      "name": "果蝇神经连接组驱动 Minecraft 运动",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/evnsnclr/status/2095975490708291948",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-35-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-35.mp4",
+      "sourceOrder": 107
+    },
+    {
+      "id": "work-c9f1227930823113",
+      "name": "化学分析 macOS 应用原型",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2095907471042675179",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-36-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-36.mp4",
+      "sourceOrder": 108
+    },
+    {
+      "id": "work-34d4ccb1ba4e1db1",
+      "name": "已知 CVE 重发现评测",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/pilvar222/status/2095980204912955679",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-37-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-37.mp4",
+      "sourceOrder": 109
+    },
+    {
+      "id": "work-674a0eba484a96df",
+      "name": "一次生成 PowerPoint",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/gota_bara/status/2096004521143201858",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-38-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-38.mp4",
+      "sourceOrder": 110
+    },
+    {
+      "id": "work-bcd16cd0b59f3d3f",
+      "name": "Bach 风格四声部乐谱",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/aug5thmusic/status/2096030719156089029",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-39-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-39.mp4",
+      "sourceOrder": 111
+    },
+    {
+      "id": "work-bf0f0a499c33b193",
+      "name": "为 Suno 准备歌曲材料",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/super_bonochin/status/2096023836747763926",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-40-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-40.mp4",
+      "sourceOrder": 112
+    },
+    {
+      "id": "work-235c6c99d676cd2f",
+      "name": "Blender 别墅场景对照",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/karankendre/status/2095636679264780481",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-41-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-41.mp4",
+      "sourceOrder": 113
+    },
+    {
+      "id": "work-560ad783de9d1382",
+      "name": "Canva 自画像",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/iam_zachi/status/2095992132620136677",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-42-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-42.mp4",
+      "sourceOrder": 114
+    },
+    {
+      "id": "work-cbb5e37e6106e5b4",
+      "name": "旧金山 Palace of Fine Arts 重建",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/sharifshameem/status/2095653641164329143",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-43-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-43.mp4",
+      "sourceOrder": 115
+    },
+    {
+      "id": "work-6c7e870e5f95d74f",
+      "name": "Oval Office Blender 场景",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/higgsfield_ai/status/2095630197257367857",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-44-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-44.mp4",
+      "sourceOrder": 116
+    },
+    {
+      "id": "work-6acb12aaaf9905f9",
+      "name": "14 分钟动效视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/chddaniel/status/2095775049475313943",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-45-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-45.mp4",
+      "sourceOrder": 117
+    },
+    {
+      "id": "work-ee80f4a851b651a7",
+      "name": "Panzer Dragoon Episode 1 风格游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/yasei_no_otoko/status/2095975195312029889",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-46-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-46.mp4",
+      "sourceOrder": 118
+    },
+    {
+      "id": "work-bc77ac59e5dfe915",
+      "name": "iPhone 照片重建邻近建筑",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/badxstudio/status/2095982983379653113",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-47-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-47.mp4",
+      "sourceOrder": 119
+    },
+    {
+      "id": "work-f8b9ad16e1a786fb",
+      "name": "BridgeBench 熔岩灯",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/bridgemindai/status/2095962388503679133",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-48-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-48.mp4",
+      "sourceOrder": 120
+    },
+    {
+      "id": "work-4b25443bba5e6c39",
+      "name": "Blender Dax Raad 人物",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/kitlangton/status/2095959455238164566",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-49-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-49.mp4",
+      "sourceOrder": 121
+    },
+    {
+      "id": "work-2c9722eb8052b3fa",
+      "name": "鹈鹕 SVG 转 3D",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/anion_ex/status/2095963142010581098",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-50-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-50.mp4",
+      "sourceOrder": 122
+    },
+    {
+      "id": "work-742787bb6344a461",
+      "name": "Street Heat 浏览器街机赛车",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/higgsfield_ai/status/2095916820431827408",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-51-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-51.mp4",
+      "sourceOrder": 123
+    },
+    {
+      "id": "work-58e6ebb9c677bac2",
+      "name": "Three.js 海上战争场景",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/synthwavedd/status/2095840435319001278",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-52-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-52.mp4",
+      "sourceOrder": 124
+    },
+    {
+      "id": "work-b5bc968a9dd01d1c",
+      "name": "Blender 香蕉雕塑复测",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/D3VAUX/status/2095989462878560702",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-53-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-53.mp4",
+      "sourceOrder": 125
+    },
+    {
+      "id": "work-0ef1a40c3e0b2b63",
+      "name": "3D mockup 生成工具",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/joshmillgate/status/2095619319690400253",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-54-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-54.mp4",
+      "sourceOrder": 126
+    },
+    {
+      "id": "work-5ab0d29f4f7f1d0e",
+      "name": "Three.js PS5 手柄",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/blueemi99/status/2095967131573649552",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-55-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-55.mp4",
+      "sourceOrder": 127
+    },
+    {
+      "id": "work-e059c4e5330acca6",
+      "name": "单 prompt 游戏展示",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Ludoowic/status/2095840011501380039",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-56-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-56.mp4",
+      "sourceOrder": 128
+    },
+    {
+      "id": "work-3039280ca33e1836",
+      "name": "Blender 城堡与视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nemumusitocha/status/2095989696094720158",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-57-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-57.mp4",
+      "sourceOrder": 129
+    },
+    {
+      "id": "work-7a081d157b90639e",
+      "name": "BridgeMind 火箭发射视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/bridgemindai/status/2095968262043349373",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-58-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-58.mp4",
+      "sourceOrder": 130
+    },
+    {
+      "id": "work-eca91e837b0f4d85",
+      "name": "Roblox 动漫大乱斗",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/WoahWurdz/status/2095999578419929412",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-59-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-59.mp4",
+      "sourceOrder": 131
+    },
+    {
+      "id": "work-a48440f070c10ce4",
+      "name": "Web to App 转原生移动 App",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/chhddavid/status/2095790622066307451",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-60-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-60.mp4",
+      "sourceOrder": 132
+    },
+    {
+      "id": "work-eefabe71d89f49af",
+      "name": "20 星球探索游戏",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/hakmgpt/status/2095985014378778986",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-61-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-61.mp4",
+      "sourceOrder": 133
+    },
+    {
+      "id": "work-7bbede601e8c86b5",
+      "name": "Star Destroyer 室内外场景",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/ChrisGPT/status/2095991474714222782",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-62-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-62.mp4",
+      "sourceOrder": 134
+    },
+    {
+      "id": "work-a00752a4532529dc",
+      "name": "纽博格林赛道飞行展示",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/reach_vb/status/2095973112097747199",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-63-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-63.mp4",
+      "sourceOrder": 135
+    },
+    {
+      "id": "work-48704dd166549a23",
+      "name": "单张图转 VRM 角色",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nemumusitocha/status/2095974763772719484",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-64-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-64.mp4",
+      "sourceOrder": 136
+    },
+    {
+      "id": "work-41fe6de6010c6bc3",
+      "name": "HELIOS 红石音乐装置",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/Angaisb_/status/2096007325005832642",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-65-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-65.mp4",
+      "sourceOrder": 137
+    },
+    {
+      "id": "work-1d9529682f9da340",
+      "name": "2D / 3D Chain Reaction Machine",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/KinasRemek/status/2095973918775382487",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-66-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-66.mp4",
+      "sourceOrder": 138
+    },
+    {
+      "id": "work-877dafd9bb67b1d6",
+      "name": "Pokemon 风格游戏重建",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/MozeTech/status/2096023838102536341",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-67-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-67.mp4",
+      "sourceOrder": 139
+    },
+    {
+      "id": "work-8549faac0f37b81f",
+      "name": "WoW / RuneScape 风格 RPG",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2095952101000016076",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-68-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-68.mp4",
+      "sourceOrder": 140
+    },
+    {
+      "id": "work-45006dd2b999a32d",
+      "name": "鹈鹕 SVG 动画",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/DeryaTR_/status/2096000334418038940",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-69-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-69.mp4",
+      "sourceOrder": 141
+    },
+    {
+      "id": "work-ef460b460e9a8dc8",
+      "name": "Astra 自我介绍视频",
+      "description": "CheerSelfAI 公开使用案例。",
+      "category": "other",
+      "sourceCategory": "CheerSelfAI 使用案例",
+      "author": {
+        "name": "",
+        "url": null
+      },
+      "demoUrl": "https://x.com/nemumusitocha/status/2095967527755305130",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-70-poster.jpg",
+      "videoUrl": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/site-assets/usecases/gpt-6-astra/case-70.mp4",
+      "sourceOrder": 142
     }
   ],
   "source": {
-    "repository": "MartinDelophy/awesome-gpt-6-astra",
-    "url": "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/README.md",
+    "repository": "xianyu110/awesome-gpt-6-astra",
+    "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/README.md",
     "checkedAt": "2026-09-05T09:00:02.967Z",
     "lastSuccessfulAt": "2026-09-05T09:00:02.967Z",
     "revision": "3adc7e04130fc09aa75355f4b2920e1b6fe931a3",
