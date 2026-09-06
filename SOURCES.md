@@ -8,6 +8,7 @@
 | [`sources/helloianneo`](sources/helloianneo) | [helloianneo/awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) | `main` |
 | [`sources/archorfight`](sources/archorfight) | [archorfight/awesome-gpt-6-astra](https://github.com/archorfight/awesome-gpt-6-astra) | `main` |
 | [`sources/zender`](sources/zender) | [zender555/awesome-gpt6](https://github.com/zender555/awesome-gpt6) | `main` |
+| [`sources/cheerselfai`](sources/cheerselfai) | [CheerSelfAI GPT-6 Astra 使用案例](https://cheerselfai.com/usecase/gpt-6-astra) | 页面合集 |
 
 ## 合并规则
 

@@ -325,6 +325,29 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 - [贡献指南](sources/zender/CONTRIBUTING.md) · [维护指南](sources/zender/docs/maintaining.md)
 - 投稿时请附原始链接、作者署名、模型参与说明、可体验入口或复现证据；失效链接请提交 Issue。
 
+## CheerSelfAI：70 个使用案例
+
+来源页面：[GPT-6 Astra 使用案例](https://cheerselfai.com/usecase/gpt-6-astra)。该页面按任务整理 70 个公开案例；以下直接保留标题和原始出处，详细说明与媒体以[本地快照](sources/cheerselfai/README.md)及来源页面为准。
+
+1. [Zork 文字冒险改为 3D 动作冒险](https://x.com/emollick/status/2096047660662722620) · [45 分钟生成 3D 游戏](https://x.com/anshuc/status/2096008083826725132) · [Godot 索尼克风格游戏档位对照](https://x.com/AiBattle_/status/2095994051354919049) · [浏览器第三人称动作游戏](https://x.com/superalesha/status/2095988972879335792)
+2. [反重力竞速游戏](https://x.com/superalesha/status/2095967568825582044) · [Mario Kart 风格赛车](https://x.com/DeryaTR_/status/2095945186643710171) · [Gogh Strike 艺术风格射击游戏](https://x.com/petergostev/status/2096013280519016608) · [Cut the Rope 风格解谜游戏](https://x.com/mirochill/status/2095968487994732974)
+3. [可漫游且可编辑的房间](https://x.com/onofumi_AI/status/2096020860121596003) · [从零制作 3D 角色](https://x.com/posi_posi8/status/2096017956325224851) · [户型图与 3D 漫游同步](https://x.com/onofumi_AI/status/2095999282088378520) · [办公室复刻](https://x.com/bridgemindai/status/2095993644389982294)
+4. [房源照片转模型和宣传视频](https://x.com/Freyabuilds/status/2095833957447434523) · [六幅梵高画变为可漫游小镇](https://x.com/petergostev/status/2095776685807346105) · [批量尝试网站视觉设计](https://x.com/nateherk/status/2096018636079026498) · [漫剧产品导演台调研与开发](https://x.com/nicknam92226032/status/2096018367937450343)
+5. [改造抽奖流程界面](https://x.com/nabu_lines/status/2096001136566141055) · [重做现有网站 onboarding](https://x.com/coelhoxyz/status/2096000135184400863) · [可操作的笔记界面](https://x.com/daradoescode/status/2095978271384990084) · [Gameboy 风格个人作品集](https://x.com/Angaisb_/status/2095964361105789424)
+6. [macOS App onboarding](https://x.com/lucas_montano/status/2095959478411698295) · [Astra 主题欢迎界面](https://x.com/jaimintf/status/2095863849635422679) · [Blender 后室短片](https://x.com/duncantrussell/status/2096003511104508411) · [品牌 Remotion 营销视频](https://x.com/bridgemindai/status/2095963477542056143)
+7. [布列塔尼街景短片](https://x.com/thomas_guilcher/status/2095845691373351276) · [为 Seedance 视频撰写提示词](https://x.com/eachlabs/status/2095911062499381467) · [Blender 灰模到电影感视频](https://x.com/Deevid_AI/status/2095919830423498910) · [不完整扫描网格转 CAD](https://x.com/Alpha10six/status/2096042985775386739)
+8. [C++ 光线追踪器迁移到 Swift 与 GPU](https://x.com/PaulSolt/status/2095879835088293931) · [Tesla Model X 三维拆解展示](https://x.com/ashebytes/status/2096009146248122416) · [低清人像转可打印模型](https://x.com/vi4m/status/2096007521437663706) · [实时海岸模拟](https://x.com/hajimetwi3/status/2096033088178671755)
+9. [双摆数值模拟与交互画布](https://x.com/AlicanKiraz0/status/2095970338043789323) · [程序化水面效果](https://x.com/PaulSolt/status/2095902741092606154) · [果蝇神经连接组驱动 Minecraft 运动](https://x.com/evnsnclr/status/2095975490708291948) · [化学分析 macOS 应用原型](https://x.com/DeryaTR_/status/2095907471042675179)
+10. [已知 CVE 重发现评测](https://x.com/pilvar222/status/2095980204912955679) · [一次生成 PowerPoint](https://x.com/gota_bara/status/2096004521143201858) · [Bach 风格四声部乐谱](https://x.com/aug5thmusic/status/2096030719156089029) · [为 Suno 准备歌曲材料](https://x.com/super_bonochin/status/2096023836747763926)
+11. [Blender 别墅场景对照](https://x.com/karankendre/status/2095636679264780481) · [Canva 自画像](https://x.com/iam_zachi/status/2095992132620136677) · [旧金山 Palace of Fine Arts 重建](https://x.com/sharifshameem/status/2095653641164329143) · [Oval Office Blender 场景](https://x.com/higgsfield_ai/status/2095630197257367857)
+12. [14 分钟动效视频](https://x.com/chddaniel/status/2095775049475313943) · [Panzer Dragoon Episode 1 风格游戏](https://x.com/yasei_no_otoko/status/2095975195312029889) · [iPhone 照片重建邻近建筑](https://x.com/badxstudio/status/2095982983379653113) · [BridgeBench 熔岩灯](https://x.com/bridgemindai/status/2095962388503679133)
+13. [Blender Dax Raad 人物](https://x.com/kitlangton/status/2095959455238164566) · [鹈鹕 SVG 转 3D](https://x.com/anion_ex/status/2095963142010581098) · [Street Heat 浏览器街机赛车](https://x.com/higgsfield_ai/status/2095916820431827408) · [Three.js 海上战争场景](https://x.com/synthwavedd/status/2095840435319001278)
+14. [Blender 香蕉雕塑复测](https://x.com/D3VAUX/status/2095989462878560702) · [3D mockup 生成工具](https://x.com/joshmillgate/status/2095619319690400253) · [Three.js PS5 手柄](https://x.com/blueemi99/status/2095967131573649552) · [单 prompt 游戏展示](https://x.com/Ludoowic/status/2095840011501380039)
+15. [Blender 城堡与视频](https://x.com/nemumusitocha/status/2095989696094720158) · [BridgeMind 火箭发射视频](https://x.com/bridgemindai/status/2095968262043349373) · [Roblox 动漫大乱斗](https://x.com/WoahWurdz/status/2095999578419929412) · [Web to App 转原生移动 App](https://x.com/chhddavid/status/2095790622066307451)
+16. [20 星球探索游戏](https://x.com/hakmgpt/status/2095985014378778986) · [Star Destroyer 室内外场景](https://x.com/ChrisGPT/status/2095991474714222782) · [纽博格林赛道飞行展示](https://x.com/reach_vb/status/2095973112097747199) · [单张图转 VRM 角色](https://x.com/nemumusitocha/status/2095974763772719484)
+17. [HELIOS 红石音乐装置](https://x.com/Angaisb_/status/2096007325005832642) · [2D / 3D Chain Reaction Machine](https://x.com/KinasRemek/status/2095973918775382487) · [Pokemon 风格游戏重建](https://x.com/MozeTech/status/2096023838102536341) · [WoW / RuneScape 风格 RPG](https://x.com/DeryaTR_/status/2095952101000016076)
+18. [鹈鹕 SVG 动画](https://x.com/DeryaTR_/status/2096000334418038940) · [Astra 自我介绍视频](https://x.com/nemumusitocha/status/2095967527755305130)
+
 ## 许可与来源说明
 
 本根目录索引文字和整理结构以 [CC0 1.0](LICENSE) 发布。`sources/` 下的原始文件保留各自仓库的许可证和版权声明；第三方作品、商标、图片、视频、原始 Prompt 的权利归原作者，收录不代表取得转载或商用授权。详见 [NOTICE.md](NOTICE.md) 与 [`SOURCES.md`](SOURCES.md)。
