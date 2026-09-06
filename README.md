@@ -318,6 +318,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## Prompt 与维护入口
 
+- zender555 的首批精选： [Blender 房屋 → UE5 漫游](sources/zender/cases/3d/blender-to-unreal.md) · [Career website 网页演示](sources/zender/cases/web/career-website.md) · [Playco 三种游戏主题](sources/zender/cases/games/playco-prototypes.md)。视频方向候选：[HyperFrames 创作展示](sources/zender/cases/video/hyperframes-showcase.md)。这些条目均保留“官方展示/未复现”等证据状态。
 - [四类创作起始模板](sources/zender/prompts/README.md)
 - [社区 Prompt 线索](sources/zender/prompts/community.md)
 - [统一案例模板](sources/zender/templates/case.md)
