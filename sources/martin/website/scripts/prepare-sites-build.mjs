@@ -16,7 +16,18 @@ for (const file of [index, worker, hosting]) {
   if (!existsSync(file)) throw new Error("Missing Sites build input: " + file);
 }
 
-const works = parseCatalogMarkdown(readFileSync(path.join(repositoryRoot, "README.md"), "utf8"));
+const parsedWorks = parseCatalogMarkdown(readFileSync(path.join(repositoryRoot, "README.md"), "utf8"));
+const shippedSnapshotPath = path.join(root, "public", "data", "catalog-fallback.json");
+const shippedSnapshot = JSON.parse(readFileSync(shippedSnapshotPath, "utf8"));
+const imageByName = new Map(
+  parsedWorks
+    .filter((work) => work.imageUrl)
+    .map((work) => [work.name.normalize("NFKC").toLowerCase(), work.imageUrl]),
+);
+const works = (Array.isArray(shippedSnapshot.works) ? shippedSnapshot.works : parsedWorks).map((work) => ({
+  ...work,
+  imageUrl: work.imageUrl || imageByName.get(work.name.normalize("NFKC").toLowerCase()) || null,
+}));
 const checkedAt = new Date().toISOString();
 mkdirSync(path.dirname(fallback), { recursive: true });
 writeFileSync(fallback, `${JSON.stringify({

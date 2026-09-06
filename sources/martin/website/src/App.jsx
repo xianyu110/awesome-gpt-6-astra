@@ -52,6 +52,19 @@ const copy = {
 function safeUrl(value) { try { const u=new URL(value); return ['https:','http:'].includes(u.protocol)&&!u.username&&!u.password?u.href:null; } catch{return null;} }
 function validCatalog(value) { return value&&Array.isArray(value.works)&&value.works.every(w=>typeof w.id==='string'&&typeof w.name==='string')&&value.source; }
 function savedCatalog() { try {const c=JSON.parse(localStorage.getItem(STORAGE)); if(validCatalog(c))return {...c,source:{...c.source,stale:true,status:'stale'}};}catch{} return null; }
+async function enrichWithStaticPreviews(catalog) {
+  if (!validCatalog(catalog) || !catalog.works.some(work=>!work.posterUrl&&!work.imageUrl)) return catalog;
+  try {
+    const fallback=await fetchCatalogJson(appPath('/data/catalog-fallback.json'),{timeoutMs:5000});
+    if (!validCatalog(fallback)) return catalog;
+    const byName=new Map(fallback.works.filter(work=>work.posterUrl||work.imageUrl).map(work=>[work.name.normalize('NFKC').toLowerCase(),work]));
+    if (!byName.size) return catalog;
+    return {...catalog,works:catalog.works.map(work=>{
+      const match=byName.get(work.name.normalize('NFKC').toLowerCase());
+      return match?{...work,posterUrl:work.posterUrl||match.posterUrl,imageUrl:work.imageUrl||match.imageUrl}:work;
+    })};
+  } catch { return catalog; }
+}
 
 function useCatalog() {
   const [catalog,setCatalog]=useState(savedCatalog),[loading,setLoading]=useState(true),[error,setError]=useState(false);
@@ -63,10 +76,11 @@ function useCatalog() {
     try{
       const data=await fetchCatalogJson(appPath('/api/catalog'),{signal:controller.signal});
       if(!validCatalog(data)||data.source.status==='unavailable')throw new Error('invalid-catalog');
+      const enriched=await enrichWithStaticPreviews(data);
       if(mounted.current){
-        setCatalog(current=>data.source.stale&&current?.source?.lastSuccessfulAt>data.source.lastSuccessfulAt?{...current,source:{...current.source,stale:true}}:data);
-        setError(Boolean(data.source.stale));
-        if(!data.source.stale)try{localStorage.setItem(STORAGE,JSON.stringify(data));}catch{}
+        setCatalog(current=>enriched.source.stale&&current?.source?.lastSuccessfulAt>enriched.source.lastSuccessfulAt?{...current,source:{...current.source,stale:true}}:enriched);
+        setError(Boolean(enriched.source.stale));
+        if(!enriched.source.stale)try{localStorage.setItem(STORAGE,JSON.stringify(enriched));}catch{}
       }
     }catch{
       if(mounted.current){
