@@ -8,7 +8,7 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **30 个案例（原帖声称 38 个）**。
 
 配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
 
@@ -40,6 +40,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 - [精选 16](#精选-16)
 - [分类目录](#分类目录)
+- [X 线程新增案例（已核验 1–30）](#x-线程新增案例已核验-1-30)
 - [收录说明](#收录说明)
 - [关于作者](#关于作者)
 
@@ -330,6 +331,139 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 - OpenAI API：`gpt-6-astra`，输入 $10/M、输出 $50/M；Fast mode 为 2 倍速/2 倍价格。
 - Azure Foundry / Bedrock：发布首日可用；Cursor 可通过 [社区 relay](https://github.com/coreprocess/openai-relay-for-cursor) 接入。
 - 阅读评测时同时看 harness、成本和是否独立复现；ARC-AGI-3 的 99.9% 与默认 harness 62.7% 差异尤其需要注意。
+
+## X 线程新增案例（已核验 1–30）
+
+来源：[3three_AI 的 GPT-6 Astra 案例线程](https://x.com/3three_AI/status/2096483417160593721)。主帖写“38 个”，但截至 2026-09-07，公开线程可核验到连续编号 1–30；第 31–38 条未在公开线程中出现，因此不虚构补齐。视频仍保留在 X 原帖播放，本仓库仅保存公开缩略图用于识别。
+
+### 01–10：视觉、3D 与 Computer Use
+
+- **[1. 在 Canva 里直接生成肖像](https://x.com/iam_zachi/status/2095992132620136677)** — GPT-6 Astra 在 Canva 中直接操作并完成肖像绘制。
+  - 作者：[Zachi / @iam_zachi](https://x.com/iam_zachi)
+  - 开发资料：[X 线程合集第 1 条](https://x.com/3three_AI/status/2096483419127762986)
+  - 预览：![Canva 肖像](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-01.jpg)
+- **[2. 3D 人体解剖网站](https://x.com/ashebytes/status/2096221988763173186)** — 3D 网页把男性解剖结构拆成 2,234 个可观察模型部件。
+  - 作者：[ashe / @ashebytes](https://x.com/ashebytes)
+  - 开发资料：[X 线程合集第 2 条](https://x.com/3three_AI/status/2096483421585600687)
+  - 预览：![3D 人体解剖网站](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-02.jpg)
+- **[3. 生成超逼真的产品广告](https://x.com/leomeethewoo/status/2096207831695564833)** — 一次生成产品宣传视频，完整提示词见原帖评论。
+  - 作者：[leo / @leomeethewoo](https://x.com/leomeethewoo)
+  - 开发资料：[X 线程合集第 3 条](https://x.com/3three_AI/status/2096483424492195995)
+  - 预览：![产品广告视频](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-03.jpg)
+- **[4. Blender 后室视频](https://x.com/duncantrussell/status/2096003511104508411)** — 用 Blender 搭建 Backrooms 场景、VHS 效果和音效，约 5 个 prompt 完成。
+  - 作者：[Duncan Trussell / @duncantrussell](https://x.com/duncantrussell)
+  - 开发资料：[X 线程合集第 4 条](https://x.com/3three_AI/status/2096483426950086800)
+  - 预览：![Blender 后室视频](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-04.jpg)
+- **[5. 用图像生成做出超棒图表](https://x.com/anshuc/status/2096008083826725132)** — 3D 游戏原型结合图像生成流程，约 45 分钟完成。
+  - 作者：[Anshu / @anshuc](https://x.com/anshuc)
+  - 开发资料：[X 线程合集第 5 条](https://x.com/3three_AI/status/2096483429437354372)
+  - 预览：![3D 游戏图表](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-05.jpg)
+- **[6. 26 分钟生成的完整作品](https://x.com/adamlyttleapps/status/2095991822623654124)** — 作者记录 Astra Ultra 生成作品的过程与 token 用量。
+  - 作者：[Adam Lyttle / @adamlyttleapps](https://x.com/adamlyttleapps)
+  - 开发资料：[X 线程合集第 6 条](https://x.com/3three_AI/status/2096483431953887523)
+  - 预览：![26 分钟作品](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-06.jpg)
+- **[7. 在画板里用鼠标给素描上色](https://x.com/taiyaki_sun/status/2096149368193839455)** — Astra 自动创建图层、放大画布、选择画笔并给手绘线稿上色。
+  - 作者：[taiyaki_sun](https://x.com/taiyaki_sun)
+  - 开发资料：[X 线程合集第 7 条](https://x.com/3three_AI/status/2096483434621476991)
+  - 预览：![素描上色](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-07.jpg)
+- **[8. 超写实 GTA 风格新加坡](https://x.com/birdabo/status/2096156461365960837)** — 使用 Three.js 与 iPhone POV 生成超写实新加坡街景。
+  - 作者：[sui / @birdabo](https://x.com/birdabo)
+  - 开发资料：[X 线程合集第 8 条](https://x.com/3three_AI/status/2096483437507211489)
+  - 预览：![GTA 风格新加坡](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-08.jpg)
+- **[9. 3D 网页拆解 Tesla Model X](https://x.com/ashebytes/status/2096009146248122416)** — 交互网页把 Tesla Model X 拆成 334 个模型部件。
+  - 作者：[ashe / @ashebytes](https://x.com/ashebytes)
+  - 开发资料：[X 线程合集第 9 条](https://x.com/3three_AI/status/2096483440418013570)
+  - 预览：![Tesla Model X 拆解](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-09.jpg)
+- **[10. Minecraft 屏幕展示 OpenAI 标志变成 GPT-6 Astra](https://x.com/Angaisb_/status/2096199660687745134)** — 在 Minecraft 中制作屏幕动画，让 OpenAI 标志变成 “6 Astra”。
+  - 作者：[Angel / @Angaisb_](https://x.com/Angaisb_)
+  - 开发资料：[X 线程合集第 10 条](https://x.com/3three_AI/status/2096483442804588758)
+  - 预览：![Minecraft GPT-6 Astra 屏幕](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-10.jpg)
+
+### 11–20：视频、UI、游戏与创作工具
+
+- **[11. 没有拍摄，没有剪辑，只用一个 prompt](https://x.com/cat_shark_L1011/status/2096215847438291002)** — 公开案例声称用一个提示词生成 30 秒 AI 视频。
+  - 作者：[NΞKO_SHΛRK / @cat_shark_L1011](https://x.com/cat_shark_L1011)
+  - 开发资料：[X 线程合集第 11 条](https://x.com/3three_AI/status/2096483445820269033)
+  - 预览：![单 prompt 视频](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-11.jpg)
+- **[12. GPT-6 Astra 生成 UI 界面](https://x.com/MSchwaibold/status/2096059496812716307)** — 展示 Astra 生成多组件用户界面的能力。
+  - 作者：[Marvin Schwaibold / @MSchwaibold](https://x.com/MSchwaibold)
+  - 开发资料：[X 线程合集第 12 条](https://x.com/3three_AI/status/2096483449397985496)
+  - 预览：![UI 生成](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-12.jpg)
+- **[13. Game Boy 风格可玩作品集](https://x.com/Angaisb_/status/2095964361105789424)** — 把个人作品集改造成类似 Game Boy 的可玩控制台界面。
+  - 作者：[Angel / @Angaisb_](https://x.com/Angaisb_)
+  - 开发资料：[X 线程合集第 13 条](https://x.com/3three_AI/status/2096483451843330333)
+  - 预览：![Game Boy 作品集](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-13.jpg)
+- **[14. 在 Aseprite 里画初音未来像素画](https://x.com/suemaruuuuuuX/status/2096212351502721361)** — 在 Aseprite 中制作真正的点阵图，而非像素风插画。
+  - 作者：[すえまる / @suemaruuuuuuX](https://x.com/suemaruuuuuuX)
+  - 开发资料：[X 线程合集第 14 条](https://x.com/3three_AI/status/2096483456100585762)
+  - 预览：![Aseprite 初音未来像素画](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-14.jpg)
+- **[15. 只用几张 iPhone 照片重建建筑模型](https://x.com/badxstudio/status/2095982983379653113)** — 从几张手机照片在 Blender 中重建房屋建筑。
+  - 作者：[Bad Decisions Studio / @badxstudio](https://x.com/badxstudio)
+  - 开发资料：[X 线程合集第 15 条](https://x.com/3three_AI/status/2096483458612944976)
+  - 预览：![iPhone 建筑重建](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-15.jpg)
+- **[16. 果蝇完整神经图谱驱动 Minecraft](https://x.com/evnsnclr/status/2095975490708291948)** — 让 166,700 个果蝇神经元的模拟活动驱动 Minecraft 中的运动。
+  - 作者：[evnsnclr](https://x.com/evnsnclr)
+  - 开发资料：[X 线程合集第 16 条](https://x.com/3three_AI/status/2096483461041381633)
+  - 预览：![果蝇神经图谱](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-16.jpg)
+- **[17. 骑自行车的鹈鹕 SVG 转 3D](https://x.com/anion_ex/status/2095963142010581098)** — 先生成鹈鹕骑车 SVG，再转换成带细节的 3D 场景。
+  - 作者：[anionex / @anion_ex](https://x.com/anion_ex)
+  - 开发资料：[X 线程合集第 17 条](https://x.com/3three_AI/status/2096483463671238867)
+  - 预览：![鹈鹕 SVG 转 3D](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-17.jpg)
+- **[18. 完整可玩的卡牌游戏](https://x.com/gigabit_million/status/2096094717989867681)** — 从抽卡动画需求扩展成可上线的完整卡牌游戏。
+  - 作者：[ギガビット@ゲームつくるひと / @gigabit_million](https://x.com/gigabit_million)
+  - 开发资料：[X 线程合集第 18 条](https://x.com/3three_AI/status/2096483466057801819)
+  - 预览：![卡牌游戏](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-18.jpg)
+- **[19. 完整的 Final Cut 项目](https://x.com/davis7/status/2095742249275699415)** — 自动导入片段、调色、同步剪辑，为后续视频编辑准备工程。
+  - 作者：[Ben Davis / @davis7](https://x.com/davis7)
+  - 开发资料：[X 线程合集第 19 条](https://x.com/3three_AI/status/2096483468549226939)
+  - 预览：![Final Cut 项目](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-19.jpg)
+- **[20. GPT-6 Astra 与其他模型的视觉对比](https://x.com/ann_nnng/status/2096060924998348918)** — 让多个模型根据同一张扑克牌绘制真实感眼睛并对比结果。
+  - 作者：[Ann Nguyen / @ann_nnng](https://x.com/ann_nnng)
+  - 开发资料：[X 线程合集第 20 条](https://x.com/3three_AI/status/2096483471032238491)
+  - 预览：![模型视觉对比](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-20.jpg)
+
+### 21–30：机器人、动效与可玩原型
+
+- **[21. 机器人控制任务拿到 95 分](https://x.com/chooi_jeq/status/2096064315115839904)** — 公开对比称 Astra 在机器人控制任务中达到 95%，高于 Fable 5.1 的 40%。
+  - 作者：[Jay Chooi / @chooi_jeq](https://x.com/chooi_jeq)
+  - 开发资料：[X 线程合集第 21 条](https://x.com/3three_AI/status/2096483473490067788)
+  - 预览：![机器人控制任务](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-21.jpg)
+- **[22. 8 分钟生成动效设计视频](https://x.com/titouangillet_/status/2096176174032359469)** — 作者记录只修改 3 次、约 8 分钟完成动效视频。
+  - 作者：[Titouan Gillet / @titouangillet_](https://x.com/titouangillet_)
+  - 开发资料：[X 线程合集第 22 条](https://x.com/3three_AI/status/2096483475968958492)
+  - 预览：![动效设计视频](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-22.jpg)
+- **[23. ChatGPT Astra 替你玩完整局游戏](https://x.com/coolish/status/2096195104809873710)** — 通过实时语音让 Astra 代为操作并完成一整局游戏。
+  - 作者：[paulwei / @coolish](https://x.com/coolish)
+  - 开发资料：[X 线程合集第 23 条](https://x.com/3three_AI/status/2096483478556782739)
+  - 预览：![Astra 代玩游戏](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-23.jpg)
+- **[24. 完整的 BMX 赛车游戏](https://x.com/Im_IrushiK/status/2096280064019353891)** — 一次生成包含下坡物理、特技、碰撞、降雨和电影镜头的 3D BMX 游戏。
+  - 作者：[Irushi / @Im_IrushiK](https://x.com/Im_IrushiK)
+  - 开发资料：[X 线程合集第 24 条](https://x.com/3three_AI/status/2096483481178218886)
+  - 预览：![BMX 赛车游戏](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-24.jpg)
+- **[25. 完全可玩的虚拟钢琴](https://x.com/DeryaTR_/status/2096090915790069857)** — 内置巴赫《勃兰登堡协奏曲》的可交互虚拟钢琴。
+  - 作者：[Derya Unutmaz / @DeryaTR_](https://x.com/DeryaTR_)
+  - 开发资料：[X 线程合集第 25 条](https://x.com/3three_AI/status/2096483681942872449)
+  - 预览：![虚拟钢琴](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-25.jpg)
+- **[26. 在 Photoshop 里为自己画肖像](https://x.com/icreatelife/status/2096243539411697678)** — Astra 在 Photoshop 中完成肖像绘制，作者记录了不同于人类的操作方式。
+  - 作者：[Kris Kashtanova / @icreatelife](https://x.com/icreatelife)
+  - 开发资料：[X 线程合集第 26 条](https://x.com/3three_AI/status/2096483751236939920)
+  - 预览：![Photoshop 肖像](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-26.jpg)
+- **[27. Godot 里的 3D 索尼克游戏](https://x.com/AiBattle_/status/2095994051354919049)** — 对比 Max 与 Medium 两档 Astra 在 Godot 中制作 3D 游戏的时间和配额。
+  - 作者：[AiBattle / @AiBattle_](https://x.com/AiBattle_)
+  - 开发资料：[X 线程合集第 27 条](https://x.com/3three_AI/status/2096483807767781453)
+  - 预览：![Godot 3D 索尼克](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-27.jpg)
+- **[28. 2,234 个细节部位的 3D 人体模型](https://x.com/ashebytes/status/2096221988763173186)** — 对第 2 条 3D 解剖网页案例的再次整理与展示。
+  - 作者：[ashe / @ashebytes](https://x.com/ashebytes)
+  - 开发资料：[X 线程合集第 28 条](https://x.com/3three_AI/status/2096484032733417608)
+  - 预览：![3D 人体模型](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-28.jpg)
+- **[29. 在 Canva 里画素描肖像](https://x.com/iam_zachi/status/2095992132620136677)** — 对第 1 条 Canva 肖像案例的另一条剪辑整理。
+  - 作者：[Zachi / @iam_zachi](https://x.com/iam_zachi)
+  - 开发资料：[X 线程合集第 29 条](https://x.com/3three_AI/status/2096484118817374720)
+  - 预览：![Canva 素描肖像](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-29.jpg)
+- **[30. 地铁跑酷小游戏](https://x.com/Furqanware/status/2094954714345677052)** — 使用 GPT-6 Astra 制作的可玩地铁跑酷小游戏。
+  - 作者：[Furqan / @Furqanware](https://x.com/Furqanware)
+  - 开发资料：[X 线程合集第 30 条](https://x.com/3three_AI/status/2096484191240421378)
+  - 预览：![地铁跑酷小游戏](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-30.jpg)
 
 ## Prompt 与维护入口
 

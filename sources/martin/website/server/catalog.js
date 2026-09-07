@@ -12,8 +12,8 @@ export const REFRESH_SECONDS = 300;
 const parser = unified().use(remarkParse).use(remarkGfm);
 const SKIP_SECTION = /^(?:从这里开始|开始使用|每个作品记录什么|一起维护|许可|贡献|贡献指南|提交|致谢|关于|目录$|start here|getting started|what an entry|help maintain|contribut|license|acknowledg|about|submission|table of contents)/i;
 const NON_WORK = /^(?:提交|参与贡献|贡献指南|反馈问题|English|简体中文|submit|contribut|report|license|readme)(?:\b|你的|作品|游戏|问题|$)/i;
-const META_LABEL = /^(?:作者|创作者|平台|开发资料|源码|体验|试玩|演示|技术|截图|预览|author|creator|platform|resources?|source|demo|preview|screenshot|technology|built with|GPT[ -]?6(?:\s+Astra)?)\s*[:：]/i;
-const SOURCE_LABEL = /^(?:开发资料|源码|源代码|仓库|resources?|source(?: code)?|repository|repo)\s*[:：]/i;
+const META_LABEL = /^(?:作者|创作者|平台|开发资料|源码|体验|试玩|演示|技术|截图|预览|原帖|引用原帖|author|creator|platform|resources?|source|demo|preview|screenshot|technology|built with|original|GPT[ -]?6(?:\s+Astra)?)\s*[:：]/i;
+const SOURCE_LABEL = /^(?:开发资料|源码|源代码|仓库|原帖|引用原帖|resources?|source(?: code)?|repository|repo|original)\s*[:：]/i;
 const SOURCE_LINK = /源码|源代码|source|repository|\brepo\b/i;
 
 function plain(node) {
