@@ -3061,42 +3061,6 @@
       "videoUrl": null
     },
     {
-      "id": "work-008e9229ebdc4e26",
-      "name": "28. 2,234 个细节部位的 3D 人体模型",
-      "description": "对第 2 条 3D 解剖网页案例的再次整理与展示。",
-      "category": "website",
-      "sourceCategory": "X 线程新增案例 · 28",
-      "author": {
-        "name": "ashe / @ashebytes",
-        "url": "https://x.com/ashebytes"
-      },
-      "demoUrl": "https://x.com/ashebytes/status/2096221988763173186",
-      "sourceUrl": "https://x.com/3three_AI/status/2096484032733417608",
-      "repoUrl": null,
-      "imageUrl": "/previews/x-thread-28.jpg",
-      "sourceOrder": 170,
-      "posterUrl": null,
-      "videoUrl": null
-    },
-    {
-      "id": "work-4060ac51f5a9225d",
-      "name": "29. 在 Canva 里画素描肖像",
-      "description": "对第 1 条 Canva 肖像案例的另一条剪辑整理。",
-      "category": "other",
-      "sourceCategory": "X 线程新增案例 · 29",
-      "author": {
-        "name": "Zachi / @iam_zachi",
-        "url": "https://x.com/iam_zachi"
-      },
-      "demoUrl": "https://x.com/iam_zachi/status/2095992132620136677",
-      "sourceUrl": "https://x.com/3three_AI/status/2096484118817374720",
-      "repoUrl": null,
-      "imageUrl": "/previews/x-thread-29.jpg",
-      "sourceOrder": 171,
-      "posterUrl": null,
-      "videoUrl": null
-    },
-    {
       "id": "work-4e83100d51b4b7ba",
       "name": "30. 地铁跑酷小游戏",
       "description": "使用 GPT-6 Astra 制作的可玩地铁跑酷小游戏。",
@@ -3110,7 +3074,7 @@
       "sourceUrl": "https://x.com/3three_AI/status/2096484191240421378",
       "repoUrl": null,
       "imageUrl": "/previews/x-thread-30.jpg",
-      "sourceOrder": 172,
+      "sourceOrder": 170,
       "posterUrl": null,
       "videoUrl": null
     }

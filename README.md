@@ -8,7 +8,7 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **30 个案例（原帖声称 38 个）**。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**。
 
 配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
 
@@ -40,7 +40,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 - [精选 16](#精选-16)
 - [分类目录](#分类目录)
-- [X 线程新增案例（已核验 1–30）](#x-线程新增案例已核验-1-30)
+- [X 线程新增案例（去重 28 条）](#x-线程新增案例去重-28-条)
 - [收录说明](#收录说明)
 - [关于作者](#关于作者)
 
@@ -332,9 +332,9 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 - Azure Foundry / Bedrock：发布首日可用；Cursor 可通过 [社区 relay](https://github.com/coreprocess/openai-relay-for-cursor) 接入。
 - 阅读评测时同时看 harness、成本和是否独立复现；ARC-AGI-3 的 99.9% 与默认 harness 62.7% 差异尤其需要注意。
 
-## X 线程新增案例（已核验 1–30）
+## X 线程新增案例（去重 28 条）
 
-来源：[3three_AI 的 GPT-6 Astra 案例线程](https://x.com/3three_AI/status/2096483417160593721)。主帖写“38 个”，但截至 2026-09-07，公开线程可核验到连续编号 1–30；第 31–38 条未在公开线程中出现，因此不虚构补齐。视频仍保留在 X 原帖播放，本仓库仅保存公开缩略图用于识别。
+来源：[3three_AI 的 GPT-6 Astra 案例线程](https://x.com/3three_AI/status/2096483417160593721)。主帖写“38 个”，但截至 2026-09-07，公开线程仅能核验连续编号 1–30；其中第 28 条重复第 2 条、第 29 条重复第 1 条，去重后收录 28 个独立案例。第 31–38 条未在公开线程中出现，因此不虚构补齐。视频仍保留在 X 原帖播放，本仓库仅保存公开缩略图用于识别。
 
 ### 01–10：视觉、3D 与 Computer Use
 
@@ -452,14 +452,6 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
   - 作者：[AiBattle / @AiBattle_](https://x.com/AiBattle_)
   - 开发资料：[X 线程合集第 27 条](https://x.com/3three_AI/status/2096483807767781453)
   - 预览：![Godot 3D 索尼克](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-27.jpg)
-- **[28. 2,234 个细节部位的 3D 人体模型](https://x.com/ashebytes/status/2096221988763173186)** — 对第 2 条 3D 解剖网页案例的再次整理与展示。
-  - 作者：[ashe / @ashebytes](https://x.com/ashebytes)
-  - 开发资料：[X 线程合集第 28 条](https://x.com/3three_AI/status/2096484032733417608)
-  - 预览：![3D 人体模型](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-28.jpg)
-- **[29. 在 Canva 里画素描肖像](https://x.com/iam_zachi/status/2095992132620136677)** — 对第 1 条 Canva 肖像案例的另一条剪辑整理。
-  - 作者：[Zachi / @iam_zachi](https://x.com/iam_zachi)
-  - 开发资料：[X 线程合集第 29 条](https://x.com/3three_AI/status/2096484118817374720)
-  - 预览：![Canva 素描肖像](https://raw.githubusercontent.com/xianyu110/awesome-gpt-6-astra/main/assets/x-thread/x-thread-29.jpg)
 - **[30. 地铁跑酷小游戏](https://x.com/Furqanware/status/2094954714345677052)** — 使用 GPT-6 Astra 制作的可玩地铁跑酷小游戏。
   - 作者：[Furqan / @Furqanware](https://x.com/Furqanware)
   - 开发资料：[X 线程合集第 30 条](https://x.com/3three_AI/status/2096484191240421378)
