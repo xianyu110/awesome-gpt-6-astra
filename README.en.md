@@ -2,7 +2,7 @@
 
 > Merged community index of GPT-6 Astra games, demos, projects, prompts, and benchmarks.
 
-This repository consolidates the public material from four GitHub lists plus the [CheerSelfAI 70-use-case map](https://cheerselfai.com/usecase/gpt-6-astra). The full Chinese index is available in [README.md](README.md); original files, images, templates, and licenses are preserved under [`sources/`](sources/).
+This repository consolidates the public material from four GitHub lists plus the [CheerSelfAI 610-use-case map](https://cheerselfai.com/usecase/gpt-6-astra). After URL deduplication, the website contains 667 independent cases. The full Chinese index is available in [README.md](README.md); original files, images, templates, and licenses are preserved under [`sources/`](sources/).
 
 Companion entry points: [GPT-6 Astra field guide](https://xianyu110.github.io/GPT6/) · [guide repository](https://github.com/xianyu110/GPT6)
 
@@ -14,7 +14,7 @@ Companion entry points: [GPT-6 Astra field guide](https://xianyu110.github.io/GP
 | [helloianneo/awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) | 16 featured cases and roughly 39 catalog entries | 2 / 0 |
 | [archorfight/awesome-gpt-6-astra](https://github.com/archorfight/awesome-gpt-6-astra) | Official resources, community projects, demos, and benchmarks | 1 / 0 |
 | [zender555/awesome-gpt6](https://github.com/zender555/awesome-gpt6) | 3D, web, film, play categories and prompt templates | 0 / 0 |
-| [CheerSelfAI use-case map](https://cheerselfai.com/usecase/gpt-6-astra) | 70 categorized public use cases with original posts | — |
+| [CheerSelfAI use-case map](https://cheerselfai.com/usecase/gpt-6-astra) | 610 categorized public use cases with original posts and previews | — |
 
 ## Playable works
 
@@ -23,9 +23,9 @@ Companion entry points: [GPT-6 Astra field guide](https://xianyu110.github.io/GP
 - [Melon Lab](https://melon-game.jack-514.chatgpt.site/) — a physics-based watermelon-merging experiment by [Ayi1337](https://github.com/Ayi1337). [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games).
 - [ORBITAL GARDEN](https://orbital-garden.hp20230404.chatgpt.site) — a 48,000-particle WebGL art sandbox by [jackroc](https://github.com/jackroc). [Offline source snapshot](sources/martin/works/orbital-garden/).
 
-## CheerSelfAI: 70 use cases
+## CheerSelfAI: 610 use cases
 
-The [CheerSelfAI collection](https://cheerselfai.com/usecase/gpt-6-astra) covers games, 3D, web, video, engineering, science, music, and prompts. The numbered title-and-source list is preserved in [`sources/cheerselfai/README.md`](sources/cheerselfai/README.md) and surfaced directly in the Chinese README.
+The [CheerSelfAI collection](https://cheerselfai.com/usecase/gpt-6-astra) covers games, 3D, product UI, video, engineering, science, research, security, office work, and music. The complete numbered title-and-source list is preserved in [`sources/cheerselfai/README.md`](sources/cheerselfai/README.md) and surfaced directly in the Chinese README. Public poster images are stored locally for reliable GitHub Pages previews; videos remain at their original sources.
 
 > A curated list of GPT-6 Astra projects, demos, integrations, and deep analyses. Released by OpenAI on 2026-09-03, Astra leads with Computer Use and spatial reasoning — anything you can do on a computer, it does for you.
 
