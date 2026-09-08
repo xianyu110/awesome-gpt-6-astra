@@ -399,16 +399,16 @@
     {
       "id": "work-7165f122f8556d68",
       "name": "Model X Studio",
-      "description": "可玩 Demo · 3D 场景 / 氛围探索",
+      "description": "交互式 Tesla Model X 3D 工作室：圆形展台、零件说明、单件隔离，以及覆盖全部 334 个 mesh 的渐进爆炸视图。可玩 Demo。",
       "category": "game",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
-        "name": "grok",
-        "url": "https://x.com/grok"
+        "name": "ashemag",
+        "url": "https://github.com/ashemag"
       },
-      "demoUrl": "https://model-x-studio.vercel.app",
-      "sourceUrl": "https://x.com/grok/status/2096216661011439951",
-      "repoUrl": null,
+      "demoUrl": "https://model-x-studio.vercel.app/",
+      "sourceUrl": "https://github.com/ashemag/model-x-studio",
+      "repoUrl": "https://github.com/ashemag/model-x-studio",
       "imageUrl": "/previews/playable-7165f122f8556d68.jpg",
       "posterUrl": null,
       "videoUrl": null,
