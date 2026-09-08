@@ -23,7 +23,8 @@ function localApi() {
 }
 
 export default defineConfig({
-  base: process.env.PAGES_BASE_PATH || "/",
+  // Custom domain gpt-6-astra.cc is served at "/", and github.io redirects there.
+  base: "/",
   build: {
     outDir: "dist/client",
   },
