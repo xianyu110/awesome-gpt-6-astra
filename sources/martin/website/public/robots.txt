@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xianyu110.github.io/awesome-gpt-6-astra/sitemap.xml
+Sitemap: https://gpt-6-astra.cc/sitemap.xml
