@@ -106,8 +106,16 @@ function useCatalog() {
     const controller=new AbortController();flight.current=controller;lastAttempt.current=Date.now();
     if(mounted.current)setLoading(true);
     try{
-      const data=await fetchCatalogJson(appPath('/api/catalog'),{signal:controller.signal});
-      if(!validCatalog(data)||data.source.status==='unavailable')throw new Error('invalid-catalog');
+      // GitHub Pages is static: /api/catalog 404s. Prefer live API when present, else static fallback without treating it as an error.
+      let data=null;
+      try{
+        data=await fetchCatalogJson(appPath('/api/catalog'),{signal:controller.signal,timeoutMs:2500});
+        if(!validCatalog(data)||data.source.status==='unavailable')throw new Error('invalid-catalog');
+      }catch{
+        data=await fetchCatalogJson(appPath('/data/catalog-fallback.json'),{timeoutMs:8000,signal:controller.signal});
+        if(!validCatalog(data))throw new Error('invalid-fallback');
+        data={...data,source:{...data.source,stale:false,status:data.source?.status==='fresh'?'fresh':'static'}};
+      }
       const enriched=await enrichWithStaticPreviews(data);
       if(mounted.current){
         setCatalog(current=>enriched.source.stale&&current?.source?.lastSuccessfulAt>enriched.source.lastSuccessfulAt?{...current,source:{...current.source,stale:true}}:enriched);
@@ -117,20 +125,6 @@ function useCatalog() {
     }catch{
       if(mounted.current){
         setError(true);setCatalog(c=>c?{...c,source:{...c.source,stale:true}}:c);
-        try{
-          const fallback=await fetchCatalogJson(appPath('/data/catalog-fallback.json'),{timeoutMs:5000});
-          if(mounted.current&&validCatalog(fallback))setCatalog(current=>{
-            const fallbackByName=new Map(fallback.works.map(work=>[work.name.normalize('NFKC').toLowerCase(),work]));
-            const currentWorks=current?.works||[];
-            const works=currentWorks.length>=fallback.works.length
-              ? currentWorks.map(work=>{
-                const match=fallbackByName.get(work.name.normalize('NFKC').toLowerCase());
-                return match?{...work,posterUrl:work.posterUrl||match.posterUrl,imageUrl:work.imageUrl||match.imageUrl}:work;
-              })
-              : fallback.works;
-            return {...fallback,works,source:{...fallback.source,stale:true,status:'fallback'}};
-          });
-        }catch{}
       }
     }finally{flight.current=null;if(mounted.current)setLoading(false);}
   },[]);
