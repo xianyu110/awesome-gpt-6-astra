@@ -49,52 +49,153 @@
 | [da03/astra-plays-gta](https://github.com/da03/astra-plays-gta) ⭐1 | 让 Astra 在 Mac 上玩 GTA 罪恶都市：配置、提示词、键鼠截图小助手 |
 | [xinbenlv/ra2-gpt-6-astra-2026-09-04](https://github.com/xinbenlv/ra2-gpt-6-astra-2026-09-04) ⭐1 | 红警 2 被 one-shot 复刻（Victor Zhou 出题的基准），附可玩页面 |
 | [paveljor/agent-bluff](https://github.com/paveljor/agent-bluff) | 吹牛锦标赛：Astra、Fable 5.1、Grok 4.6 谁更会骗人？ |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) ⭐842 | 开源 Blender+Three.js 技能：一句话出 3D 镭射卡牌（中文社区，配[原推](https://x.com/i/status/2096765359282061544)） |
+| [wz1119/Codex-Minecraft-Gameplay](https://github.com/wz1119/Codex-Minecraft-Gameplay) ⭐128 | Astra 用 Computer Use 玩 Minecraft：探索、采集、合成、建造 |
+| [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra) ⭐64 | 边玩边用 AI 改 SNES 游戏 |
+| [cozyblaze/portal-agent](https://github.com/cozyblaze/portal-agent) ⭐39 | 通关《传送门》那次的完整装备：手柄、补丁、指南、脱敏日志 |
+| [hku-sail/Real2Sim_GPT6_ASTRA](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) ⭐33 | 真实机械臂操作→Blender 重放，仅凭三路 RGB 相机重建 |
+| [gnipbao/gpt6-prompt-writer](https://github.com/gnipbao/gpt6-prompt-writer) ⭐21 | 基于官方指南的 GPT-6 Astra 提示词写作技能（中文社区） |
+| [parlance-labs/super-oracle](https://github.com/parlance-labs/super-oracle) ⭐12 | 评审议会：Claude 与 Astra 各自独立评审，再合成一份结论 |
 
 ## 病毒级 Demo
 
-3D 建模是 Astra 的爆火赛道，多数案例附原始视频：
+### 3D 世界与建模
 
+爆火主赛道：Blender、Unreal、three.js，从提示词和照片直接出场景。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [Unreal 世界里的 AI 居民](https://x.com/i/status/2095596175705399482) | mattshumer_ | 28,137 赞 | 每个 NPC 都是独立 Astra 智能体，协作求生——后来它们开始自己聊天 |
 | [3D 人体解剖网站，2,234 个零件](https://x.com/i/status/2096221988763173186) | ashebytes | 24,960 赞 | 周末最火：把人体逐件拆开的学习网站 |
-| [3D 游戏从零到可玩](https://x.com/i/status/2096008083826725132) | anshuc | 8739 赞 | "3D 游戏的神"——45 分钟 one-shot，只花配额 2% |
+| [一周造出曼哈顿](https://x.com/i/status/2095609734845927525) | mattshumer_ | 18,871 赞 | Unreal Engine 里一条街一条街磨出来的纽约 |
+| [Blender 里的Backrooms恐怖片](https://x.com/i/status/2096003511104508411) | duncantrussell | 9,442 赞 | 约 5 条 prompt：30 分钟建模+20 分钟渲染，音效也是它做的 |
 | [运行时生成的 Three.js 火车](https://x.com/i/status/2096082580554777041) | tomkrcha | 7,427 赞 | 没有 3D 模型文件——几何体全部由 TypeScript 代码运行时生成 |
-| [Zillow 房源 → 3D 宣传片](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7307 赞 | 房产数据直接变宣传视频 |
-| [Canva 浏览器画人像](https://x.com/i/status/2095992132620136677) | iam_zachi | 7214 赞 | Computer Use 操控 Canva 一块块拼出人像 |
 | [Blender 房子 → UE5 漫游](https://x.com/i/status/2095592572286533644) | goofyninjaaa | 6,996 赞 | 带泳池花园的全屋，独自完成；一句话干掉建筑可视化工作室（西语社区） |
 | [房子照片 → 全屋 3D 模型](https://x.com/i/status/2095598645190291775) | tomkrcha | 6282 赞 | 早期访问实测，含玩具家电家具，60fps 可跑 |
-| [UI 生成实测](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 赞 | 一条 prompt 出干净的多组件 UI |
 | [蒸汽火车 Blender 建模](https://x.com/i/status/2095756085890310311) | tomkrcha | 5876 赞 | 旧图纸 → 3,295 个可编辑对象 |
-| [Max vs Medium 档成本实测](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5120 赞 | 53 分钟 4% 周配额 vs 25 分钟 1% |
-| [KiCad PCB 布局](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4799 赞 | 原理图 → 电路板布线，电子工程师赛道 |
 | [可交互 V8 发动机](https://x.com/i/status/2096280244663775423) | DilumSanjaya | 4,029 赞 | 高细节可交互的发动机可视化 |
 | [一句话等 40 分钟的等距儿童房](https://x.com/i/status/2096048421543272893) | zhengli | 3,561 赞 | 随便一句 prompt 出图这个级别（中文社区） |
+| [整个首尔 3D 化](https://x.com/i/status/2096557555086725159) | synabreu | 2,701 赞 | 全城+周边的交互微缩景观 |
 | [5 小时森林](https://x.com/i/status/2096263046918197609) | LexnLin | 1,931 赞 | 3,808 棵树、250 万丛草、近 4 万蕨类——three.js + 自定义 shader |
 | [Tesla Model X 拆解网站](https://x.com/i/status/2096009146248122416) | ashebytes | 1731 赞 | 拆成 334 个建模零件的 3D 网站 |
 | [3D 建模 BEAST 实测](https://x.com/i/status/2095982983379653113) | badxstudio | 1392 赞 | 工作室 3D 管线实测 |
+| [24 分钟把杭州搬进网页](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 赞 | 西湖雷峰塔钱江新城全有：飞行漫游、昼夜切换（中文社区） |
+
+### 游戏
+
+能玩的游戏，one-shot 或迭代打磨。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [48 关机器人游戏全通关](https://x.com/sharifshameem/status/2096847916837314853) | sharifshameem | 10,739 赞 | "I'm Not a Robot" 全部关卡打穿 |
+| [3D 游戏从零到可玩](https://x.com/i/status/2096008083826725132) | anshuc | 8739 赞 | "3D 游戏的神"——45 分钟 one-shot，只花配额 2% |
+| [Paperboy 复刻](https://x.com/i/status/2096515959469072630) | builtbysketch | 3,512 赞 | 1985 街机经典：建模、渲染、手感全包 |
+| [浏览器里的 GTA](https://x.com/i/status/2096382232403603752) | xikhar | 2,634 赞 | three.js 跑在浏览器里，车是 Blender 建的——"下一部 GTA 会是 AI 做的" |
+
+### Computer Use：操控真实软件
+
+Astra 在真实桌面软件里动鼠标——DAW、设计工具、浏览器。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| ["用 Ableton 写首神曲"](https://x.com/i/status/2096374630525309206) | timourxyz | 8,593 赞 | Computer Use 操控真实 DAW 做音乐 |
+| [Canva 浏览器画人像](https://x.com/i/status/2095992132620136677) | iam_zachi | 7214 赞 | Computer Use 操控 Canva 一块块拼出人像 |
+| [AI 用 Procreate 画自画像](https://x.com/i/status/2096124169406775325) | keitowebai | 2,501 赞 | 纯 Computer Use 鼠标操作，一笔一笔画（日本社区） |
+| [Computer Use 临界点论](https://x.com/i/status/2096051842174087386) | dotey | 292 赞 | 中文社区代表观点："开发→验收完整闭环" |
+
+### 现实应用
+
+真能用的东西：医学图谱、乐高套装、婚礼网站、房源视频。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [脚踝疼痛 3D 图谱](https://x.com/i/status/2096528986390085696) | Emanuel_Andre7 | 7,612 赞 | 骨骼/韧带/肌腱/运动轴全交互，给自己看病用的图谱 |
+| [看 YouTube 视频还原起落架](https://x.com/i/status/2096642895134752922) | DilumSanjaya | 7,562 赞 | Cessna 337 起落架机构，其他模型都没做对过 |
+| [Zillow 房源 → 3D 宣传片](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7307 赞 | 房产数据直接变宣传视频 |
+| [任意图片→可拼乐高套装](https://x.com/i/status/2096377028945576370) | emmanuel_2m | 6,945 赞 | 用官方零件、可下单的搭建说明——年度玩具预定 |
+| [Astra Max 做婚礼网站](https://x.com/i/status/2096659577660203436) | venturetwins | 6,814 赞 | 非技术创始人的真实婚礼站 |
+| [UI 生成实测](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 赞 | 一条 prompt 出干净的多组件 UI |
+| [5 分钟出产品发布视频](https://x.com/i/status/2096488216983732341) | _yatharthg | 2,441 赞 | 搭配 fal H3 Max 的营销内容 |
+| [自己搭别墅找房 agent](https://x.com/i/status/2096228864859201869) | marclou | 566 赞 | 把房源与空气质量/噪音/滑坡数据交叉比对 |
+
+### 硬件、电子与机器人
+
+PCB 布线、CAD、机器人控制。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [KiCad PCB 布局](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4799 赞 | 原理图 → 电路板布线，电子工程师赛道 |
 | [机器人任务控制](https://x.com/i/status/2096064315115839904) | chooi_jeq | 1349 赞 | 95% vs Fable 5.1 的 40%，token 少 6.2x |
 | [agentic CAD 新 SOTA](https://x.com/i/status/2096053889141489669) | adamdotnew | 1160 赞 | CAD 领域的阶跃 |
-| [24 分钟把杭州搬进网页](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 赞 | 西湖雷峰塔钱江新城全有：飞行漫游、昼夜切换（中文社区） |
+
+### 基准与成本实测
+
+档位实测与正面对比。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [巴赫基准至今最佳](https://x.com/i/status/2096030719156089029) | aug5thmusic | 8,105 赞 | 零声部进行错误、首个写出正确经过音的模型——乐理硬功夫 |
+| [Max vs Medium 档成本实测](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5120 赞 | 53 分钟 4% 周配额 vs 25 分钟 1% |
 | [视频生成 vs Fable 5.1](https://x.com/i/status/2095739568528232538) | NFT_Chen | 648 赞 | "Astra 像在导戏"——镜头语言有情绪 |
-| [自己搭别墅找房 agent](https://x.com/i/status/2096228864859201869) | marclou | 566 赞 | 把房源与空气质量/噪音/滑坡数据交叉比对 |
-| [Computer Use 临界点论](https://x.com/i/status/2096051842174087386) | dotey | 292 赞 | 中文社区代表观点："开发→验收完整闭环" |
 
 ## 社区热帖
 
-Reddit 全网热度（分数为发帖时快照）：
+### Reddit — 游戏通关
 
-| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+能玩的证据：从头到尾打穿的游戏。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [Astra 通关《传送门》，只花了 571.18 美元](https://www.reddit.com/r/technology/comments/1w92153/) | r/technology | 3918 |
+| [首个通关《传送门》的模型](https://www.reddit.com/r/singularity/comments/1w8g7d0/) | r/singularity | 3398 |
+| [Blender 里 Rickroll](https://www.reddit.com/r/singularity/comments/1w9aeyk/) | r/singularity | 1977 |
+| [苹果芯上跑《帝国时代 4》70-150 帧](https://www.reddit.com/r/accelerate/comments/1w9bsjh/) | r/accelerate | 1398 |
+| [15 小时通关《环世界》](https://www.reddit.com/r/singularity/comments/1w93mgg/) | r/singularity | 1279 |
+
+### Reddit — 3D 与创作
+
+Blender/3D 赛道，从业者视角的讨论。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
 | [Fable 5.1 vs GPT 6 Astra 3D Blender 对比，差距惊人](https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/) | r/OpenAI | 1949 |
 | [GPT-6-Astra-Max 画的 PS4 手柄 SVG](https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/) | r/singularity | 1346 |
+
+### Reddit — 工程与实用
+
+电子工程、报税、30 分钟做出来的网站。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
 | [GPT-6 Astra is actually nuts for electrical engineering](https://www.reddit.com/r/singularity/comments/1w6m7hr/) | r/singularity | 1192 |
+| [约 30 分钟做出地球人类史交互网站](https://www.reddit.com/r/vibecoding/comments/1w99r2z/) | r/vibecoding | 1192 |
 | [GPT-6-Astra's tax return underpays the government](https://www.reddit.com/r/OpenAI/comments/1w6jp0n/) | r/OpenAI | 991 |
+
+### Reddit — 基准与定价
+
+数字、harness 争议、成本。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+| [经验帖："Astra 低档胜过 Sol 高档"](https://www.reddit.com/r/codex/comments/1w9erx3/) | r/codex | 1054 |
+| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
+| [GPT-6 Astra 定价比 5.6 Sol 离谱](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
+
+### Reddit — 发布与舆论
+
+上线当天的汇总帖与媒体报道。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
 | ["Welcome to the AGI era" — The Verge 报道讨论](https://www.reddit.com/r/singularity/comments/1w6f0jp/) | r/singularity | 970 |
 | [GPT-6 Astra Is Here—Kick Off the AGI Era](https://www.reddit.com/r/ChatGPT/comments/1w6f701/) | r/ChatGPT | 902 |
 | [GPT-6 Astra Launch Video](https://www.reddit.com/r/singularity/comments/1w6gjmb/) | r/singularity | 837 |
 | [全球推送开启后的第一时间体感楼](https://www.reddit.com/r/singularity/comments/1w7m0ui/its_been_a_few_hours_since_global_rollout_gpt6/) | r/singularity | 702 |
-| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
-| [GPT-6 Astra 定价比 5.6 Sol 离谱](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
-| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
+### Hacker News — 深度讨论
 
-Hacker News 深度讨论：
+值得全文读完的长帖。
 
 | 帖子 | 看点 |
 |---|---|
@@ -103,6 +204,8 @@ Hacker News 深度讨论：
 | [GPT-6 Astra System Card](https://news.ycombinator.com/item?id=49555440) | 系统卡讨论：思维链监控失效 |
 | [Ask HN: Initial Thoughts on GPT-6 Astra?](https://news.ycombinator.com/item?id=49571621) | 一线程序员的真实体感 |
 | [GPT-6 Astra in code review](https://news.ycombinator.com/item?id=49572875) | CodeRabbit 实测：代码审查的收益、隐私与成本 |
+| [GPT-6 Astra on robot arms](https://news.ycombinator.com/item?id=49582582) | 机械臂上的实体智能讨论 |
+| [GPT-6 Astra on OpenRouter](https://news.ycombinator.com/item?id=49570545) | 第三方可用性与定价讨论 |
 
 ## 中文生态
 

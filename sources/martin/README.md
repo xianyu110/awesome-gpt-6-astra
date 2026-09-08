@@ -4,110 +4,197 @@
 
 # Awesome GPT-6 Astra
 
-**收集用 GPT-6 Astra 制作的有趣游戏。**
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 16](https://img.shields.io/badge/Cases-16-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
-关注好玩的点子、可体验的作品，以及能启发下一位创作者的开发过程。
+**A collection of interesting games made with GPT-6 Astra.**
 
-简体中文 · [English](README.en.md) · [提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [参与贡献](CONTRIBUTING.md)
+Playful ideas, games you can try, and development stories that inspire the next creator.
+
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)<br>
+[Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md)<br>
+[Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
+
+[Submit a game](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [Contribute](CONTRIBUTING.md)
 
 </div>
 
-## 从这里开始
+## Start here
 
-目前收录 **3 款浏览器游戏和 1 个交互式粒子艺术沙盒**：半流体水果合成、单键飞行、魔毯战斗，以及轨道花园。点击作品名称可打开试玩或源码运行说明。
+Explore **15 browser games and 1 interactive particle-art sandbox**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, and Orbital Garden. Click a title to open its demo or source with setup instructions.
 
-最近核对：**2026-09-05**。已检查作者的 Astra 使用说明、源码链接和演示页面可达性；模型归因来自作者自述，尚未逐款试玩。
+Catalog updated: **2026-09-08**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
-- **想玩游戏：** 从下面的分类寻找你喜欢的玩法。
-- **做了游戏：** [提交你的作品](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，附上试玩或源码入口，以及使用 GPT-6 Astra 的说明。
-- **发现好作品：** 欢迎推荐他人的公开作品，并注明原作者。
+- **Looking for something to play?** Browse the genres below.
+- **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a playable or source link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
+- **Found a great project?** Recommend someone else's public work and credit its creator.
 
-这是一份社区维护的清单，与 OpenAI 无隶属关系。收录表示值得探索，不代表性能评测或官方推荐。
+This is a community-maintained list with no affiliation to OpenAI. Inclusion is an invitation to explore, not a benchmark or an official endorsement.
 
-## 游戏目录
+## Games
 
-- [动作与街机](#动作与街机)
-- [解谜与益智](#解谜与益智)
-- [策略与模拟](#策略与模拟)
-- [RPG 与冒险](#rpg-与冒险)
-- [平台跳跃与竞速](#平台跳跃与竞速)
-- [实验玩法与多人游戏](#实验玩法与多人游戏)
+- [Action & arcade](#action--arcade)
+- [Puzzles & brain games](#puzzles--brain-games)
+- [Strategy & simulation](#strategy--simulation)
+- [RPGs & adventures](#rpgs--adventures)
+- [Platformers & racing](#platformers--racing)
+- [Experimental & multiplayer](#experimental--multiplayer)
 
-### 动作与街机
+### Action & arcade
 
-射击、格斗、生存、节奏，以及追求“再来一局”的作品。
+Shooters, fighters, survival games, rhythm games, and anything that invites one more round.
 
-- **[Mosswing](https://mosswing-quiet-flight.jack-514.chatgpt.site/)** — 3D 单键飞行，控制小翼穿越障碍间隙得分。
-  - 作者：[Ayi1337](https://github.com/Ayi1337)
-  - 平台：浏览器，面向移动端设计。
-  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
-  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
+- **[Mosswing](https://mosswing-quiet-flight.jack-514.chatgpt.site/)** — A 3D tap-to-flap game about flying through gaps and building your score.
+  - Creator: [Ayi1337](https://github.com/Ayi1337)
+  - Platform: Browser, designed for mobile.
+  - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
+  - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
+  - Preview: ![Mosswing start screen showing the flying character and gaps between stone pillars.](assets/screenshots/mosswing/gameplay.jpg)
 
-- **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — 驾驶魔毯探索球形世界，穿环、施法，并挑战敌人与 Boss。
-  - 作者：[threapchills](https://github.com/threapchills)
-  - 平台：桌面浏览器，键鼠操作，需要 WebGL 2。
-  - GPT-6 Astra：作者在[仓库 About](https://github.com/threapchills/MagicCarpetWizard) 中说明由 GPT-6 Astra 制作。
-  - 开发资料：[源码与运行说明](https://github.com/threapchills/MagicCarpetWizard) · 技术：Three.js、Vite。
+- **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — Fly a magic carpet through a spherical world, thread rings, cast spells, and fight enemies and bosses.
+  - Creator: [threapchills](https://github.com/threapchills)
+  - Platform: Desktop browser with mouse and keyboard; requires WebGL 2.
+  - GPT-6 Astra: The creator attributes the game to GPT-6 Astra in the [repository About section](https://github.com/threapchills/MagicCarpetWizard).
+  - Resources: [Source and setup instructions](https://github.com/threapchills/MagicCarpetWizard) · Built with: Three.js and Vite.
+  - Preview: ![Magic Carpet Wizard start screen showing the carpet rider, city and glowing flight ring.](assets/screenshots/magic-carpet/gameplay.jpg)
 
-### 解谜与益智
+- **[THUNDERFALL / 雷霆战机 · 天穹远征](https://thunderfall.vercel.app/)** — Pilot three distinct fighters through five sectors and multi-phase bosses, dodge drifting bullets and telegraphed lasers, and collect four weapon colors in a campaign lasting at least ten minutes of active combat.
+  - Creator: [jackroc](https://github.com/jackroc)
+  - Platform: Modern desktop and mobile browsers; drag or use a keyboard, with automatic firing. Free, no login or API key; optional sound requires Web Audio.
+  - GPT-6 Astra: [Creation record and model contribution](works/thunderfall/README.md#创作与许可) — The creator reports using GPT-6 Astra ultra for design, code, procedural graphics, synthesized audio, and iterative testing with collaborating agents; not a one-shot test.
+  - Resources: [Source and setup instructions](works/thunderfall/README.md) · [Prompt](works/thunderfall/PROMPT.md) · Built with: native JavaScript, Canvas 2D, and Web Audio.
+  - Preview: ![THUNDERFALL gameplay: a fighter dodges enemy fire over the Molten Foundry, with weapon loadout and combat controls visible.](assets/screenshots/thunderfall/gameplay.jpg)
 
-逻辑谜题、物理解谜、文字游戏与巧妙的小机关。
+### Puzzles & brain games
 
-- **[瓜体实验室](https://melon-game.jack-514.chatgpt.site/)** — 把半流体水果的形变与碰撞融入西瓜合成玩法。
-  - 作者：[Ayi1337](https://github.com/Ayi1337)
-  - 平台：现代浏览器；作者另提供可下载后直接打开的单文件版本。
-  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
-  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)
+Logic puzzles, physics challenges, word games, and clever little mechanisms.
 
-### 策略与模拟
+- **[瓜体实验室 / Melon Lab](https://melon-game.jack-514.chatgpt.site/)** — A watermelon merging game built around soft-body fruit deformation and collisions.
+  - Creator: [Ayi1337](https://github.com/Ayi1337)
+  - Platform: Modern browser; the creator also provides a downloadable standalone HTML version.
+  - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
+  - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)
+  - Preview: ![Melon Lab gameplay with soft fruit in the merging container and physics controls.](assets/screenshots/melon-lab/gameplay.jpg)
 
-塔防、卡牌策略、经营建造与模拟沙盒。
+- **[Q弹消消乐](https://qbxxl.0nz.de/)** — Pop connected groups of at least three same-colored bubbles; larger groups create bombs and rainbows, with relaxing, level and timed modes.
+  - Creator: zding
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
+  - Preview: ![Q弹消消乐 — Gameplay](assets/screenshots/qbxxl/gameplay.jpg)
 
-*等待首个作品。*
+- **[榫境 / Sunjing Puzzles](https://sunjing-puzzles.vercel.app)** — Disassemble a six-piece interlocking wooden puzzle and solve two Huarong Dao sliding-block layouts in a 3D workshop, with hints and move undo.
+  - Creator: [MartinDelophy](https://github.com/MartinDelophy) (project initiator and submitter).
+  - Platform: Modern browser with WebGL 2; Chinese interface, mouse/keyboard and touch controls. Free, no login or API key; progress stays in the current browser.
+  - Model participation: [Creation record](works/sunjing-puzzles/CREATION.md) — Iterative Codex work on game design, procedural 3D visuals, rules, solver and tests; exact GPT-6 Astra attribution awaits creator confirmation (draft submission).
+  - Resources: [Source and setup](works/sunjing-puzzles/README.md) · [Requests](works/sunjing-puzzles/PROMPTS.md) · Built with: React, Vinext/Vite and Three.js.
+  - Preview: ![Sunjing's six-piece wooden lock on a green 3D workbench, with numbered pieces and extraction controls.](assets/screenshots/sunjing-puzzles/gameplay.jpg)
 
-### RPG 与冒险
+### Strategy & simulation
 
-角色扮演、探索、叙事冒险与互动故事。
+Tower defense, strategic card games, management games, building, and simulation sandboxes.
 
-*等待首个作品。*
+- **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — Lead Wei, Shu or Wu in a turn-based campaign across 15 cities, managing gold and grain and commanding a roster of 108 officers with individual AI-generated portraits as you compete with AI factions to unify the land.
+  - Creator: [MartinDelophy](https://github.com/MartinDelophy) (project initiator and submitter).
+  - Platform: Modern browser; Chinese interface, mouse and touch controls. Free, no login or API key; local saves support import and export.
+  - GPT-6 Astra: [Creation record](works/three-kingdoms/CREATION.md) — Creator-confirmed use through iterative collaboration in Codex on rules, interface, AI, balancing and tests; terrain and officer portraits were made with image-generation tools.
+  - Resources: [Source and setup](works/three-kingdoms/README.md) · [Requests](works/three-kingdoms/PROMPTS.md) · Built with: React, TypeScript and Vinext/Vite.
+  - Preview: ![Three Kingdoms gameplay showing an ink-wash city map, resource controls and officer portraits.](assets/screenshots/three-kingdoms/gameplay.jpg)
 
-### 平台跳跃与竞速
+- **[Last Beacon / 最后的灯塔](https://last-beacon.loupengju.cc)** — Connect a power grid across a miniature island, build and upgrade towers, and balance limited power to defend a lighthouse through ten waves and a final boss.
+  - Creator: [stackloomdev](https://github.com/stackloomdev)
+  - Platform: Modern desktop and mobile browsers, with Chinese and English support; free, no login or API key. Optional sound requires Web Audio.
+  - GPT-6 Astra: [Creator's development log and model contribution](https://github.com/stackloomdev/last-beacon/blob/main/docs/CREATION.md) — Used for gameplay design, code, procedural artwork, and tests through multiple iterations; not a one-shot test.
+  - Resources: [Source and setup instructions](https://github.com/stackloomdev/last-beacon) · [Requirements and iteration notes](https://github.com/stackloomdev/last-beacon/blob/main/docs/PROMPT.md) · Built with: JavaScript, Canvas 2D, and Web Audio.
+  - Preview: ![Last Beacon gameplay in English: powered sentinels, mortars, and a frost tower defend the island against enemies following the coastal path.](assets/screenshots/last-beacon/gameplay-en.png)
 
-跑酷、平台闯关、赛车，以及考验路线与操作的游戏。
+- **[缺氧 · 小小星球](https://hypoxia-6tu.pages.dev/)** — An underground colony survival simulation: dig and build while balancing oxygen, food and power for three colonists.
+  - Creator: dudu
+  - Platform: Browser with Canvas; Chinese UI, mouse and keyboard; opened without login or payment.
+  - GPT-6 Astra: [Issue #28](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/28) — The submitter reports development throughout with GPT-6 Astra; independently unverified.
+  - Preview: ![缺氧 · 小小星球 — Gameplay](assets/screenshots/hypoxia/gameplay.jpg)
 
-*等待首个作品。*
+- **[魔塔 · 永夜之阶](https://ai.ywnet.xyz/work/mt.html)** — A fifteen-floor pixel tower adventure built around attack/defense calculations, limited resources and three colors of keys.
+  - Creator: yw
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: [Issue #38](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/38) — The submitter supplies the development prompt under GPT-6 Astra usage; the exact model contribution is not independently verified.
+  - Preview: ![魔塔 · 永夜之阶 — Gameplay](assets/screenshots/magic-tower/gameplay.jpg)
 
-### 实验玩法与多人游戏
+- **[永恒荒野](https://starve.pages.dev/)** — A browser survival and strategy game presented as a Don't Starve recreation. The submitted screenshot shows woodland exploration, resource gathering, an inventory, and health, hunger and sanity meters.
+  - Creator: dudu
+  - Platform: Browser; the screenshot shows a Chinese interface and keyboard controls. Payment and login requirements are not specified; demo not independently verified.
+  - GPT-6 Astra: [Submitter statement](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/26) — The submitter attributes the full development to GPT-6 Astra.
+  - Resources: No public source or separate development record supplied.
+  - Preview: ![永恒荒野 screenshot supplied in Issue #26: a character beside a campfire in a forest, with inventory slots, survival meters and a minimap.](assets/screenshots/eternal-wilderness/gameplay.jpg)
 
-难以归类的新玩法、联机对战与合作体验。
+### RPGs & adventures
 
-- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden.hp20230404.chatgpt.site)** — 交互式粒子艺术沙盒：让 48,000 颗光点在花、引力环与星系之间变形，扰动雕塑并将瞬间导出为海报。
-  - 作者：[jackroc](https://github.com/jackroc)
-  - 平台：支持 WebGL 的现代浏览器；点击作品名直接在线体验，免费，无需登录或 API Key；也可下载单文件 HTML 离线运行，可选环境音需要 Web Audio。
-  - GPT-6 Astra：[创作记录与模型参与说明](works/orbital-garden/README.md#模型与创作记录) — 创作者使用 GPT-6 Astra ultra 完成构思、代码与文案，经过协作审阅；非 one-shot 测试。
-  - 开发资料：[源码与运行说明](works/orbital-garden/README.md) · [单文件 HTML](works/orbital-garden/index.html) · [Prompt](works/orbital-garden/PROMPT.md) · 技术：原生 WebGL、Web Audio、Canvas 2D。
+Role-playing, exploration, narrative adventures, and interactive stories.
 
-## 每个作品记录什么
+*Waiting for the first game.*
 
-一条好用的推荐，应该让人一眼知道“玩什么、在哪里玩、为什么收录”。
+### Platformers & racing
 
-| 信息 | 内容 |
+Parkour, platform challenges, racing, and games built around movement and routes.
+
+- **[APEX CLUB — Bay Kart Grand Prix](https://apex-club-racing.vercel.app)** — Race three laps around Bay Circuit, choose from six karts, and charge corner-exit mini turbos to climb the solo rankings or score for a 4v4 team.
+  - Creator: Ryan
+  - Platform: Desktop browser with WebGL 2 and a keyboard; free, no login or API key. Runs from a local HTTP server or static host; Three.js is included locally. Team races are local: one human and seven AI racers.
+  - Model participation: [Development record](works/apex-club/CREATION.md) — Iterative Codex work on gameplay, code, procedural visuals and tests; GPT-6 Astra attribution awaits creator confirmation.
+  - Resources: [Source and setup](works/apex-club/README.md) · [Request and iteration summary](works/apex-club/PROMPTS.md) · [GPT conversation](https://chatgpt.com/s/cx_6a9e84c13c9c8191bcb7ad0801288adc) · Built with: JavaScript, Three.js.
+  - Preview: ![APEX CLUB team race on Bay Circuit with nearby karts, lap progress, live team points and a minimap.](assets/screenshots/apex-club/gameplay.png)
+
+- **[PELICAN PEDAL / 鹈鹕踏浪](https://pelican-pedal.zecoba.workers.dev/)** — Guide a cycling pelican along a changing 3D coastline: switch between three lanes, jump and duck around obstacles, collect fish combos, and use shields, magnets and a six-second invincible dash.
+  - Creator: [chat01.ai](https://chat01.ai) (credited in the submission).
+  - Platform: Desktop and mobile browsers, with keyboard or touch controls; free, no login, according to the submission. Demo not independently verified.
+  - GPT-6 Astra: [Issue #10](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/10) — The submitter reports generation with a single prompt; the linked development record has not been independently verified.
+  - Resources: [Shared development record](https://chat01.ai/zh/chat/01M1VJ5K55803V2YK3T2NKTX33)
+  - Preview: ![PELICAN PEDAL title screen with a pelican riding a bicycle beside the sea; screenshot supplied in Issue #10.](https://github.com/user-attachments/assets/ec085afa-3c45-4de6-b03f-5c626f941546)
+
+- **[狂飙赛车 · OVERDRIVE](https://gpt-kbsc.0nz.de/)** — 3D racing against five AI rivals, with selectable cars and tracks, time trials, drifting and nitro.
+  - Creator: zding
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
+  - Preview: ![狂飙赛车 · OVERDRIVE — Gameplay](assets/screenshots/overdrive/gameplay.jpg)
+
+### Experimental & multiplayer
+
+Unusual mechanics, online competition, and cooperative experiences.
+
+- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden-one.vercel.app)** — An interactive particle-art sandbox: morph 48,000 light points between a flower, a gravity ring, and a galaxy, disturb the sculpture, and export a moment as a poster.
+  - Creator: [jackroc](https://github.com/jackroc)
+  - Platform: Modern browser with WebGL; click the title to try it online. Free, no login or API key; the standalone HTML also works offline. Optional ambient sound requires Web Audio.
+  - GPT-6 Astra: [Creation record and model contribution](works/orbital-garden/README.md#模型与创作记录) — The creator used GPT-6 Astra ultra for the concept, code, and copy, with collaborative review; not a one-shot test.
+  - Resources: [Source and setup instructions](works/orbital-garden/README.md) · [Standalone HTML](works/orbital-garden/index.html) · [Prompt](works/orbital-garden/PROMPT.md) · Built with: native WebGL, Web Audio, and Canvas 2D.
+  - Preview: ![Orbital Garden's mint-green particle flower, with shape selection, vitality and time-speed controls, and poster export.](assets/screenshots/orbital-garden/gameplay.jpg)
+
+- **[Toy2Game / 在线玩具箱](https://games.asmo.top/)** — Four 3D adaptations of tabletop toys: knock out ice beneath a penguin, guide rabbits through traps, balance astronauts on a platform and solve parking puzzles.
+  - Creator: [asmoyou](https://github.com/asmoyou)
+  - Platform: Desktop, tablet and mobile browsers; free, no login. Local same-screen turn-taking for 2–4 seats, including computer opponents, plus solo puzzles; no online multiplayer. Demo not independently verified.
+  - GPT-6 Astra: [Creator statement](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) — Creator reports that GPT-6 Astra autonomously implemented the games and carried out testing from toy descriptions and feature requirements.
+  - Resources: [Source and setup](https://github.com/asmoyou/toy2game) · [Noncommercial license](https://github.com/asmoyou/toy2game/blob/main/LICENSE) — Source available; noncommercial use is free, commercial use requires prior written authorization from the author. Built with: TypeScript, React, Vite, Three.js.
+  - Preview: ![Toy2Game overview with four actual 3D game scenes: penguin ice, rabbit traps, astronaut balancing and parking escape. Image provided by asmoyou.](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)
+
+## What an entry includes
+
+A useful recommendation makes it easy to understand what a game is, where to try it, and why it belongs here.
+
+| Detail | What to include |
 | --- | --- |
-| 游戏与作者 | 作品名称、原作者或团队链接 |
-| 玩法亮点 | 一句话说明核心玩法，避免空泛宣传 |
-| 体验入口 | 试玩地址，或包含运行说明的公开源码仓库 |
-| 平台与条件 | 浏览器 / 桌面 / 移动端；注明付费、登录或特殊硬件要求 |
-| Astra 的参与 | 作者说明、开发日志或公开记录，说明 GPT-6 Astra 参与了哪些工作 |
-| 开发资料 | 源码、技术栈与制作过程，能提供多少就提供多少 |
+| Game & creator | The game title and a link to its original creator or team |
+| Why it is interesting | One sentence about the core mechanic, without promotional filler |
+| Access | A playable link, or a public source repository with setup instructions |
+| Gameplay screenshot | At least one actual gameplay screenshot with a publicly accessible image URL |
+| Platform & requirements | Browser / desktop / mobile; disclose payment, login, or special hardware requirements |
+| Astra's role | A creator statement, development log, or public record explaining how GPT-6 Astra contributed |
+| Development resources | Source code, technology, and the making-of story, where available |
 
-模型使用情况按作者公开说明记录；没有依据的归因不会写成已确认事实。可玩的原型也欢迎，不要求每个游戏都开源。
+Model use is attributed to the creator's public description; unsupported claims will not be presented as confirmed facts. Playable prototypes are welcome, and open source is optional.
 
-## 一起维护
+## Help maintain the list
 
-通过 [Issue 提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，或直接发起 Pull Request。具体格式见 [贡献指南](CONTRIBUTING.md)。
+[Submit a game through an issue](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml), or open a pull request. See the [contribution guide](CONTRIBUTING.md) for the entry format.
 
-遇到失效试玩入口、错误署名或信息变化，请[反馈问题](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=broken-link.yml)。
+Please [report broken links or incorrect information](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=broken-link.yml), including attribution errors or changed access requirements.
 
-## 许可
+## License
 
-本仓库原创的清单文字与视觉素材以 [CC0 1.0](LICENSE) 贡献至公有领域。链接指向的游戏、代码、图片、商标及其他第三方内容仍遵循各自的许可与权利声明；收录不改变它们的授权。
+Original curated text and artwork in this repository are dedicated to the public domain under [CC0 1.0](LICENSE). Linked games, code, images, trademarks, and other third-party materials retain their own licenses and rights. Listing a project does not change its permissions.

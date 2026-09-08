@@ -27,13 +27,13 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-09-06T03:54:46+00:00`
+最后同步：`2026-09-08T11:37:55+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `460a9bd63b48` | 否 |
+| `MartinDelophy/awesome-gpt-6-astra` | `bcdb79927e80` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
-| `archorfight/awesome-gpt-6-astra` | `119fbaafdebd` | 否 |
+| `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 是 |
 | `zender555/awesome-gpt6` | `f7ee13319caa` | 否 |
 <!-- END AUTO-SYNC STATUS -->
 
@@ -636,7 +636,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## 自动同步上游内容
 
-> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-06T03:54:46+00:00`。人工精选区保持不变。
+> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-08T11:37:55+00:00`。人工精选区保持不变。
 
 <!-- BEGIN AUTO-SYNC CONTENT -->
 
@@ -648,138 +648,28 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 # Awesome GPT-6 Astra
 
-**收集用 GPT-6 Astra 制作的有趣游戏。**
-
-关注好玩的点子、可体验的作品，以及能启发下一位创作者的开发过程。
-
-简体中文 · [English](README.en.md) · [提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [参与贡献](CONTRIBUTING.md)
-
-</div>
-
-## 从这里开始
-
-目前收录 **3 款浏览器游戏和 1 个交互式粒子艺术沙盒**：半流体水果合成、单键飞行、魔毯战斗，以及轨道花园。点击作品名称可打开试玩或源码运行说明。
-
-最近核对：**2026-09-05**。已检查作者的 Astra 使用说明、源码链接和演示页面可达性；模型归因来自作者自述，尚未逐款试玩。
-
-- **想玩游戏：** 从下面的分类寻找你喜欢的玩法。
-- **做了游戏：** [提交你的作品](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，附上试玩或源码入口，以及使用 GPT-6 Astra 的说明。
-- **发现好作品：** 欢迎推荐他人的公开作品，并注明原作者。
-
-这是一份社区维护的清单，与 OpenAI 无隶属关系。收录表示值得探索，不代表性能评测或官方推荐。
-
-## 游戏目录
-
-- [动作与街机](#动作与街机)
-- [解谜与益智](#解谜与益智)
-- [策略与模拟](#策略与模拟)
-- [RPG 与冒险](#rpg-与冒险)
-- [平台跳跃与竞速](#平台跳跃与竞速)
-- [实验玩法与多人游戏](#实验玩法与多人游戏)
-
-### 动作与街机
-
-射击、格斗、生存、节奏，以及追求“再来一局”的作品。
-
-- **[Mosswing](https://mosswing-quiet-flight.jack-514.chatgpt.site/)** — 3D 单键飞行，控制小翼穿越障碍间隙得分。
-  - 作者：[Ayi1337](https://github.com/Ayi1337)
-  - 平台：浏览器，面向移动端设计。
-  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
-  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
-
-- **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — 驾驶魔毯探索球形世界，穿环、施法，并挑战敌人与 Boss。
-  - 作者：[threapchills](https://github.com/threapchills)
-  - 平台：桌面浏览器，键鼠操作，需要 WebGL 2。
-  - GPT-6 Astra：作者在[仓库 About](https://github.com/threapchills/MagicCarpetWizard) 中说明由 GPT-6 Astra 制作。
-  - 开发资料：[源码与运行说明](https://github.com/threapchills/MagicCarpetWizard) · 技术：Three.js、Vite。
-
-### 解谜与益智
-
-逻辑谜题、物理解谜、文字游戏与巧妙的小机关。
-
-- **[瓜体实验室](https://melon-game.jack-514.chatgpt.site/)** — 把半流体水果的形变与碰撞融入西瓜合成玩法。
-  - 作者：[Ayi1337](https://github.com/Ayi1337)
-  - 平台：现代浏览器；作者另提供可下载后直接打开的单文件版本。
-  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
-  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)
-
-### 策略与模拟
-
-塔防、卡牌策略、经营建造与模拟沙盒。
-
-*等待首个作品。*
-
-### RPG 与冒险
-
-角色扮演、探索、叙事冒险与互动故事。
-
-*等待首个作品。*
-
-### 平台跳跃与竞速
-
-跑酷、平台闯关、赛车，以及考验路线与操作的游戏。
-
-*等待首个作品。*
-
-### 实验玩法与多人游戏
-
-难以归类的新玩法、联机对战与合作体验。
-
-- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden.hp20230404.chatgpt.site)** — 交互式粒子艺术沙盒：让 48,000 颗光点在花、引力环与星系之间变形，扰动雕塑并将瞬间导出为海报。
-  - 作者：[jackroc](https://github.com/jackroc)
-  - 平台：支持 WebGL 的现代浏览器；点击作品名直接在线体验，免费，无需登录或 API Key；也可下载单文件 HTML 离线运行，可选环境音需要 Web Audio。
-  - GPT-6 Astra：[创作记录与模型参与说明](works/orbital-garden/README.md#模型与创作记录) — 创作者使用 GPT-6 Astra ultra 完成构思、代码与文案，经过协作审阅；非 one-shot 测试。
-  - 开发资料：[源码与运行说明](works/orbital-garden/README.md) · [单文件 HTML](works/orbital-garden/index.html) · [Prompt](works/orbital-garden/PROMPT.md) · 技术：原生 WebGL、Web Audio、Canvas 2D。
-
-## 每个作品记录什么
-
-一条好用的推荐，应该让人一眼知道“玩什么、在哪里玩、为什么收录”。
-
-| 信息 | 内容 |
-| --- | --- |
-| 游戏与作者 | 作品名称、原作者或团队链接 |
-| 玩法亮点 | 一句话说明核心玩法，避免空泛宣传 |
-| 体验入口 | 试玩地址，或包含运行说明的公开源码仓库 |
-| 平台与条件 | 浏览器 / 桌面 / 移动端；注明付费、登录或特殊硬件要求 |
-| Astra 的参与 | 作者说明、开发日志或公开记录，说明 GPT-6 Astra 参与了哪些工作 |
-| 开发资料 | 源码、技术栈与制作过程，能提供多少就提供多少 |
-
-模型使用情况按作者公开说明记录；没有依据的归因不会写成已确认事实。可玩的原型也欢迎，不要求每个游戏都开源。
-
-## 一起维护
-
-通过 [Issue 提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，或直接发起 Pull Request。具体格式见 [贡献指南](CONTRIBUTING.md)。
-
-遇到失效试玩入口、错误署名或信息变化，请[反馈问题](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=broken-link.yml)。
-
-## 许可
-
-本仓库原创的清单文字与视觉素材以 [CC0 1.0](LICENSE) 贡献至公有领域。链接指向的游戏、代码、图片、商标及其他第三方内容仍遵循各自的许可与权利声明；收录不改变它们的授权。
-
-### MartinDelophy/awesome-gpt-6-astra / `README.en.md`
-
-<div align="center">
-
-![Awesome GPT-6 Astra — Games worth playing. Ideas worth building.](assets/banner.svg)
-
-# Awesome GPT-6 Astra
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 16](https://img.shields.io/badge/Cases-16-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
 Playful ideas, games you can try, and development stories that inspire the next creator.
 
-[简体中文](README.md) · English · [Submit a game](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [Contribute](CONTRIBUTING.md)
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)<br>
+[Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md)<br>
+[Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
+
+[Submit a game](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [Contribute](CONTRIBUTING.md)
 
 </div>
 
 ## Start here
 
-Explore **3 browser games and 1 interactive particle-art sandbox**: soft-body fruit merging, one-tap flight, magic-carpet combat, and Orbital Garden. Click a title to open its demo or source with setup instructions.
+Explore **15 browser games and 1 interactive particle-art sandbox**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, and Orbital Garden. Click a title to open its demo or source with setup instructions.
 
-Last checked: **2026-09-05**. Creator statements, source links, and demo availability have been checked. Model attribution is author-reported; the games have not been play-tested for this list.
+Catalog updated: **2026-09-08**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
 - **Looking for something to play?** Browse the genres below.
-- **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a playable or source link and a description of how you used GPT-6 Astra.
+- **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a playable or source link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
 - **Found a great project?** Recommend someone else's public work and credit its creator.
 
 This is a community-maintained list with no affiliation to OpenAI. Inclusion is an invitation to explore, not a benchmark or an official endorsement.
@@ -802,12 +692,21 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - Platform: Browser, designed for mobile.
   - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
   - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
+  - Preview: ![Mosswing start screen showing the flying character and gaps between stone pillars.](assets/screenshots/mosswing/gameplay.jpg)
 
 - **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — Fly a magic carpet through a spherical world, thread rings, cast spells, and fight enemies and bosses.
   - Creator: [threapchills](https://github.com/threapchills)
   - Platform: Desktop browser with mouse and keyboard; requires WebGL 2.
   - GPT-6 Astra: The creator attributes the game to GPT-6 Astra in the [repository About section](https://github.com/threapchills/MagicCarpetWizard).
   - Resources: [Source and setup instructions](https://github.com/threapchills/MagicCarpetWizard) · Built with: Three.js and Vite.
+  - Preview: ![Magic Carpet Wizard start screen showing the carpet rider, city and glowing flight ring.](assets/screenshots/magic-carpet/gameplay.jpg)
+
+- **[THUNDERFALL / 雷霆战机 · 天穹远征](https://thunderfall.vercel.app/)** — Pilot three distinct fighters through five sectors and multi-phase bosses, dodge drifting bullets and telegraphed lasers, and collect four weapon colors in a campaign lasting at least ten minutes of active combat.
+  - Creator: [jackroc](https://github.com/jackroc)
+  - Platform: Modern desktop and mobile browsers; drag or use a keyboard, with automatic firing. Free, no login or API key; optional sound requires Web Audio.
+  - GPT-6 Astra: [Creation record and model contribution](works/thunderfall/README.md#创作与许可) — The creator reports using GPT-6 Astra ultra for design, code, procedural graphics, synthesized audio, and iterative testing with collaborating agents; not a one-shot test.
+  - Resources: [Source and setup instructions](works/thunderfall/README.md) · [Prompt](works/thunderfall/PROMPT.md) · Built with: native JavaScript, Canvas 2D, and Web Audio.
+  - Preview: ![THUNDERFALL gameplay: a fighter dodges enemy fire over the Molten Foundry, with weapon loadout and combat controls visible.](assets/screenshots/thunderfall/gameplay.jpg)
 
 ### Puzzles & brain games
 
@@ -818,12 +717,57 @@ Logic puzzles, physics challenges, word games, and clever little mechanisms.
   - Platform: Modern browser; the creator also provides a downloadable standalone HTML version.
   - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
   - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)
+  - Preview: ![Melon Lab gameplay with soft fruit in the merging container and physics controls.](assets/screenshots/melon-lab/gameplay.jpg)
+
+- **[Q弹消消乐](https://qbxxl.0nz.de/)** — Pop connected groups of at least three same-colored bubbles; larger groups create bombs and rainbows, with relaxing, level and timed modes.
+  - Creator: zding
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
+  - Preview: ![Q弹消消乐 — Gameplay](assets/screenshots/qbxxl/gameplay.jpg)
+
+- **[榫境 / Sunjing Puzzles](https://sunjing-puzzles.vercel.app)** — Disassemble a six-piece interlocking wooden puzzle and solve two Huarong Dao sliding-block layouts in a 3D workshop, with hints and move undo.
+  - Creator: [MartinDelophy](https://github.com/MartinDelophy) (project initiator and submitter).
+  - Platform: Modern browser with WebGL 2; Chinese interface, mouse/keyboard and touch controls. Free, no login or API key; progress stays in the current browser.
+  - Model participation: [Creation record](works/sunjing-puzzles/CREATION.md) — Iterative Codex work on game design, procedural 3D visuals, rules, solver and tests; exact GPT-6 Astra attribution awaits creator confirmation (draft submission).
+  - Resources: [Source and setup](works/sunjing-puzzles/README.md) · [Requests](works/sunjing-puzzles/PROMPTS.md) · Built with: React, Vinext/Vite and Three.js.
+  - Preview: ![Sunjing's six-piece wooden lock on a green 3D workbench, with numbered pieces and extraction controls.](assets/screenshots/sunjing-puzzles/gameplay.jpg)
 
 ### Strategy & simulation
 
 Tower defense, strategic card games, management games, building, and simulation sandboxes.
 
-*Waiting for the first game.*
+- **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — Lead Wei, Shu or Wu in a turn-based campaign across 15 cities, managing gold and grain and commanding a roster of 108 officers with individual AI-generated portraits as you compete with AI factions to unify the land.
+  - Creator: [MartinDelophy](https://github.com/MartinDelophy) (project initiator and submitter).
+  - Platform: Modern browser; Chinese interface, mouse and touch controls. Free, no login or API key; local saves support import and export.
+  - GPT-6 Astra: [Creation record](works/three-kingdoms/CREATION.md) — Creator-confirmed use through iterative collaboration in Codex on rules, interface, AI, balancing and tests; terrain and officer portraits were made with image-generation tools.
+  - Resources: [Source and setup](works/three-kingdoms/README.md) · [Requests](works/three-kingdoms/PROMPTS.md) · Built with: React, TypeScript and Vinext/Vite.
+  - Preview: ![Three Kingdoms gameplay showing an ink-wash city map, resource controls and officer portraits.](assets/screenshots/three-kingdoms/gameplay.jpg)
+
+- **[Last Beacon / 最后的灯塔](https://last-beacon.loupengju.cc)** — Connect a power grid across a miniature island, build and upgrade towers, and balance limited power to defend a lighthouse through ten waves and a final boss.
+  - Creator: [stackloomdev](https://github.com/stackloomdev)
+  - Platform: Modern desktop and mobile browsers, with Chinese and English support; free, no login or API key. Optional sound requires Web Audio.
+  - GPT-6 Astra: [Creator's development log and model contribution](https://github.com/stackloomdev/last-beacon/blob/main/docs/CREATION.md) — Used for gameplay design, code, procedural artwork, and tests through multiple iterations; not a one-shot test.
+  - Resources: [Source and setup instructions](https://github.com/stackloomdev/last-beacon) · [Requirements and iteration notes](https://github.com/stackloomdev/last-beacon/blob/main/docs/PROMPT.md) · Built with: JavaScript, Canvas 2D, and Web Audio.
+  - Preview: ![Last Beacon gameplay in English: powered sentinels, mortars, and a frost tower defend the island against enemies following the coastal path.](assets/screenshots/last-beacon/gameplay-en.png)
+
+- **[缺氧 · 小小星球](https://hypoxia-6tu.pages.dev/)** — An underground colony survival simulation: dig and build while balancing oxygen, food and power for three colonists.
+  - Creator: dudu
+  - Platform: Browser with Canvas; Chinese UI, mouse and keyboard; opened without login or payment.
+  - GPT-6 Astra: [Issue #28](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/28) — The submitter reports development throughout with GPT-6 Astra; independently unverified.
+  - Preview: ![缺氧 · 小小星球 — Gameplay](assets/screenshots/hypoxia/gameplay.jpg)
+
+- **[魔塔 · 永夜之阶](https://ai.ywnet.xyz/work/mt.html)** — A fifteen-floor pixel tower adventure built around attack/defense calculations, limited resources and three colors of keys.
+  - Creator: yw
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: [Issue #38](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/38) — The submitter supplies the development prompt under GPT-6 Astra usage; the exact model contribution is not independently verified.
+  - Preview: ![魔塔 · 永夜之阶 — Gameplay](assets/screenshots/magic-tower/gameplay.jpg)
+
+- **[永恒荒野](https://starve.pages.dev/)** — A browser survival and strategy game presented as a Don't Starve recreation. The submitted screenshot shows woodland exploration, resource gathering, an inventory, and health, hunger and sanity meters.
+  - Creator: dudu
+  - Platform: Browser; the screenshot shows a Chinese interface and keyboard controls. Payment and login requirements are not specified; demo not independently verified.
+  - GPT-6 Astra: [Submitter statement](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/26) — The submitter attributes the full development to GPT-6 Astra.
+  - Resources: No public source or separate development record supplied.
+  - Preview: ![永恒荒野 screenshot supplied in Issue #26: a character beside a campfire in a forest, with inventory slots, survival meters and a minimap.](assets/screenshots/eternal-wilderness/gameplay.jpg)
 
 ### RPGs & adventures
 
@@ -835,17 +779,43 @@ Role-playing, exploration, narrative adventures, and interactive stories.
 
 Parkour, platform challenges, racing, and games built around movement and routes.
 
-*Waiting for the first game.*
+- **[APEX CLUB — Bay Kart Grand Prix](https://apex-club-racing.vercel.app)** — Race three laps around Bay Circuit, choose from six karts, and charge corner-exit mini turbos to climb the solo rankings or score for a 4v4 team.
+  - Creator: Ryan
+  - Platform: Desktop browser with WebGL 2 and a keyboard; free, no login or API key. Runs from a local HTTP server or static host; Three.js is included locally. Team races are local: one human and seven AI racers.
+  - Model participation: [Development record](works/apex-club/CREATION.md) — Iterative Codex work on gameplay, code, procedural visuals and tests; GPT-6 Astra attribution awaits creator confirmation.
+  - Resources: [Source and setup](works/apex-club/README.md) · [Request and iteration summary](works/apex-club/PROMPTS.md) · [GPT conversation](https://chatgpt.com/s/cx_6a9e84c13c9c8191bcb7ad0801288adc) · Built with: JavaScript, Three.js.
+  - Preview: ![APEX CLUB team race on Bay Circuit with nearby karts, lap progress, live team points and a minimap.](assets/screenshots/apex-club/gameplay.png)
+
+- **[PELICAN PEDAL / 鹈鹕踏浪](https://pelican-pedal.zecoba.workers.dev/)** — Guide a cycling pelican along a changing 3D coastline: switch between three lanes, jump and duck around obstacles, collect fish combos, and use shields, magnets and a six-second invincible dash.
+  - Creator: [chat01.ai](https://chat01.ai) (credited in the submission).
+  - Platform: Desktop and mobile browsers, with keyboard or touch controls; free, no login, according to the submission. Demo not independently verified.
+  - GPT-6 Astra: [Issue #10](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/10) — The submitter reports generation with a single prompt; the linked development record has not been independently verified.
+  - Resources: [Shared development record](https://chat01.ai/zh/chat/01M1VJ5K55803V2YK3T2NKTX33)
+  - Preview: ![PELICAN PEDAL title screen with a pelican riding a bicycle beside the sea; screenshot supplied in Issue #10.](https://github.com/user-attachments/assets/ec085afa-3c45-4de6-b03f-5c626f941546)
+
+- **[狂飙赛车 · OVERDRIVE](https://gpt-kbsc.0nz.de/)** — 3D racing against five AI rivals, with selectable cars and tracks, time trials, drifting and nitro.
+  - Creator: zding
+  - Platform: Browser, Chinese UI; opened without login or payment.
+  - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
+  - Preview: ![狂飙赛车 · OVERDRIVE — Gameplay](assets/screenshots/overdrive/gameplay.jpg)
 
 ### Experimental & multiplayer
 
 Unusual mechanics, online competition, and cooperative experiences.
 
-- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden.hp20230404.chatgpt.site)** — An interactive particle-art sandbox: morph 48,000 light points between a flower, a gravity ring, and a galaxy, disturb the sculpture, and export a moment as a poster.
+- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden-one.vercel.app)** — An interactive particle-art sandbox: morph 48,000 light points between a flower, a gravity ring, and a galaxy, disturb the sculpture, and export a moment as a poster.
   - Creator: [jackroc](https://github.com/jackroc)
   - Platform: Modern browser with WebGL; click the title to try it online. Free, no login or API key; the standalone HTML also works offline. Optional ambient sound requires Web Audio.
   - GPT-6 Astra: [Creation record and model contribution](works/orbital-garden/README.md#模型与创作记录) — The creator used GPT-6 Astra ultra for the concept, code, and copy, with collaborative review; not a one-shot test.
   - Resources: [Source and setup instructions](works/orbital-garden/README.md) · [Standalone HTML](works/orbital-garden/index.html) · [Prompt](works/orbital-garden/PROMPT.md) · Built with: native WebGL, Web Audio, and Canvas 2D.
+  - Preview: ![Orbital Garden's mint-green particle flower, with shape selection, vitality and time-speed controls, and poster export.](assets/screenshots/orbital-garden/gameplay.jpg)
+
+- **[Toy2Game / 在线玩具箱](https://games.asmo.top/)** — Four 3D adaptations of tabletop toys: knock out ice beneath a penguin, guide rabbits through traps, balance astronauts on a platform and solve parking puzzles.
+  - Creator: [asmoyou](https://github.com/asmoyou)
+  - Platform: Desktop, tablet and mobile browsers; free, no login. Local same-screen turn-taking for 2–4 seats, including computer opponents, plus solo puzzles; no online multiplayer. Demo not independently verified.
+  - GPT-6 Astra: [Creator statement](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) — Creator reports that GPT-6 Astra autonomously implemented the games and carried out testing from toy descriptions and feature requirements.
+  - Resources: [Source and setup](https://github.com/asmoyou/toy2game) · [Noncommercial license](https://github.com/asmoyou/toy2game/blob/main/LICENSE) — Source available; noncommercial use is free, commercial use requires prior written authorization from the author. Built with: TypeScript, React, Vite, Three.js.
+  - Preview: ![Toy2Game overview with four actual 3D game scenes: penguin ice, rabbit traps, astronaut balancing and parking escape. Image provided by asmoyou.](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)
 
 ## What an entry includes
 
@@ -856,6 +826,7 @@ A useful recommendation makes it easy to understand what a game is, where to try
 | Game & creator | The game title and a link to its original creator or team |
 | Why it is interesting | One sentence about the core mechanic, without promotional filler |
 | Access | A playable link, or a public source repository with setup instructions |
+| Gameplay screenshot | At least one actual gameplay screenshot with a publicly accessible image URL |
 | Platform & requirements | Browser / desktop / mobile; disclose payment, login, or special hardware requirements |
 | Astra's role | A creator statement, development log, or public record explaining how GPT-6 Astra contributed |
 | Development resources | Source code, technology, and the making-of story, where available |
@@ -871,6 +842,209 @@ Please [report broken links or incorrect information](https://github.com/MartinD
 ## License
 
 Original curated text and artwork in this repository are dedicated to the public domain under [CC0 1.0](LICENSE). Linked games, code, images, trademarks, and other third-party materials retain their own licenses and rights. Listing a project does not change its permissions.
+
+### MartinDelophy/awesome-gpt-6-astra / `README.zh-CN.md`
+
+<div align="center">
+
+![Awesome GPT-6 Astra — Games worth playing. Ideas worth building.](assets/banner.svg)
+
+# Awesome GPT-6 Astra
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 16](https://img.shields.io/badge/Cases-16-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+
+**收集用 GPT-6 Astra 制作的有趣游戏。**
+
+关注好玩的点子、可体验的作品，以及能启发下一位创作者的开发过程。
+
+[English](README.md) · **简体中文** · [日本語](README.ja.md) · [한국어](README.ko.md)<br>
+[Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md)<br>
+[Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Bahasa Indonesia](README.id.md)
+
+[提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) · [参与贡献](CONTRIBUTING.md)
+
+</div>
+
+## 从这里开始
+
+目前收录 **15 款浏览器游戏和 1 个交互式粒子艺术沙盒**：三国领土策略、木锁拆解与华容道、半流体水果合成、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编，以及轨道花园。点击作品名称可打开试玩或源码运行说明。
+
+目录更新：**2026-09-08**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+
+- **想玩游戏：** 从下面的分类寻找你喜欢的玩法。
+- **做了游戏：** [提交你的作品](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，附上试玩或源码入口、实机截图，以及使用 GPT-6 Astra 的说明。
+- **发现好作品：** 欢迎推荐他人的公开作品，并注明原作者。
+
+这是一份社区维护的清单，与 OpenAI 无隶属关系。收录表示值得探索，不代表性能评测或官方推荐。
+
+## 游戏目录
+
+- [动作与街机](#动作与街机)
+- [解谜与益智](#解谜与益智)
+- [策略与模拟](#策略与模拟)
+- [RPG 与冒险](#rpg-与冒险)
+- [平台跳跃与竞速](#平台跳跃与竞速)
+- [实验玩法与多人游戏](#实验玩法与多人游戏)
+
+### 动作与街机
+
+射击、格斗、生存、节奏，以及追求“再来一局”的作品。
+
+- **[Mosswing](https://mosswing-quiet-flight.jack-514.chatgpt.site/)** — 3D 单键飞行，控制小翼穿越障碍间隙得分。
+  - 作者：[Ayi1337](https://github.com/Ayi1337)
+  - 平台：浏览器，面向移动端设计。
+  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
+  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
+  - 预览：![Mosswing 起始画面：飞行角色与石柱之间的障碍间隙。](assets/screenshots/mosswing/gameplay.jpg)
+
+- **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — 驾驶魔毯探索球形世界，穿环、施法，并挑战敌人与 Boss。
+  - 作者：[threapchills](https://github.com/threapchills)
+  - 平台：桌面浏览器，键鼠操作，需要 WebGL 2。
+  - GPT-6 Astra：作者在[仓库 About](https://github.com/threapchills/MagicCarpetWizard) 中说明由 GPT-6 Astra 制作。
+  - 开发资料：[源码与运行说明](https://github.com/threapchills/MagicCarpetWizard) · 技术：Three.js、Vite。
+  - 预览：![Magic Carpet Wizard 起始画面：魔毯骑手、城市与发光飞行环。](assets/screenshots/magic-carpet/gameplay.jpg)
+
+- **[雷霆战机 · 天穹远征 / THUNDERFALL](https://thunderfall.vercel.app/)** — 三种战机挑战五大空域与多阶段首领，躲避漂移弹和预警激光、拾取四色武器，完整战役至少十分钟有效战斗。
+  - 作者：[jackroc](https://github.com/jackroc)
+  - 平台：现代桌面与手机浏览器；拖动或键盘移动，自动开火。免费，无需登录或 API Key；可选音效需要 Web Audio。
+  - GPT-6 Astra：[创作记录与模型参与说明](works/thunderfall/README.md#创作与许可) — 创作者声明使用 GPT-6 Astra ultra 完成设计、代码、程序画面、合成声音与迭代测试，并有协作代理参与；非 one-shot 测试。
+  - 开发资料：[源码与运行说明](works/thunderfall/README.md) · [Prompt](works/thunderfall/PROMPT.md) · 技术：原生 JavaScript、Canvas 2D、Web Audio。
+  - 预览：![雷霆战机实机画面：战机在熔核工厂上空躲避敌方火力，旁边显示武器配置与战斗操作。](assets/screenshots/thunderfall/gameplay.jpg)
+
+### 解谜与益智
+
+逻辑谜题、物理解谜、文字游戏与巧妙的小机关。
+
+- **[瓜体实验室](https://melon-game.jack-514.chatgpt.site/)** — 把半流体水果的形变与碰撞融入西瓜合成玩法。
+  - 作者：[Ayi1337](https://github.com/Ayi1337)
+  - 平台：现代浏览器；作者另提供可下载后直接打开的单文件版本。
+  - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
+  - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)
+  - 预览：![瓜体实验室运行画面：合成容器中的软体水果与物理模式控制。](assets/screenshots/melon-lab/gameplay.jpg)
+
+- **[Q弹消消乐](https://qbxxl.0nz.de/)** — 点击消除至少三颗相连的同色泡泡，大组生成爆弹和彩虹，提供解压、闯关和限时模式。
+  - 作者: zding
+  - 平台: 浏览器，中文界面；实测无需登录或付费即可进入。
+  - GPT-6 Astra: GPT-6 Astra 使用情况及参与范围待作者确认。
+  - 预览: ![Q弹消消乐 — 实机画面](assets/screenshots/qbxxl/gameplay.jpg)
+
+- **[榫境 / Sunjing Puzzles](https://sunjing-puzzles.vercel.app)** — 在 3D 木作展台拆解六构件互锁木锁，挑战两种华容道布局，支持提示与移动撤销。
+  - 作者：[MartinDelophy](https://github.com/MartinDelophy)（项目发起人及提交者）。
+  - 平台：支持 WebGL 2 的现代浏览器，中文界面，键鼠与触控操作；免费，无需登录或 API Key，进度仅保存在当前浏览器。
+  - 模型参与：[制作记录](works/sunjing-puzzles/CREATION.md) — 通过 Codex 多轮完成玩法、程序化 3D 画面、规则、求解器与测试；GPT-6 Astra 的具体使用归因待作者确认，本次为草稿投稿。
+  - 开发资料：[源码与运行说明](works/sunjing-puzzles/README.md) · [需求记录](works/sunjing-puzzles/PROMPTS.md) · 技术：React、Vinext/Vite、Three.js。
+  - 预览：![榫境实机画面：深绿色 3D 展台上的六构件木锁，旁边是木块编号与抽出操作。](assets/screenshots/sunjing-puzzles/gameplay.jpg)
+
+### 策略与模拟
+
+塔防、卡牌策略、经营建造与模拟沙盒。
+
+- **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — 选择魏、蜀、吴，在 15 城地图上经营金粮、指挥拥有独立 AI 生成头像的 108 名武将，以回合制征战对抗 AI 势力，争夺天下统一。
+  - 作者：[MartinDelophy](https://github.com/MartinDelophy)（项目发起人及提交者）。
+  - 平台：现代浏览器，中文界面，鼠标与触控操作；免费，无需登录或 API Key，本地存档支持导入导出。
+  - GPT-6 Astra：[创作记录](works/three-kingdoms/CREATION.md) — 作者确认使用，通过 Codex 多轮协作完成规则、界面、AI、平衡与测试；地形和武将头像另由图像生成工具制作。
+  - 开发资料：[源码与运行说明](works/three-kingdoms/README.md) · [需求记录](works/three-kingdoms/PROMPTS.md) · 技术：React、TypeScript、Vinext/Vite。
+  - 预览：![三分天下实机画面：水墨城池地图、资源操作与武将头像。](assets/screenshots/three-kingdoms/gameplay.jpg)
+
+- **[最后的灯塔 / Last Beacon](https://last-beacon.loupengju.cc)** — 在微缩海岛上连接电网、布置并升级炮塔，以有限电力抵挡十波机械生物和最终 Boss，守住灯塔。
+  - 作者：[stackloomdev](https://github.com/stackloomdev)
+  - 平台：现代桌面与手机浏览器，中英双语；免费，无需登录或 API Key；可选音效需要 Web Audio。
+  - GPT-6 Astra：[作者的创作记录与模型参与说明](https://github.com/stackloomdev/last-beacon/blob/main/docs/CREATION.md) — 参与玩法设计、代码、程序化美术和测试；多轮迭代，非 one-shot 测试。
+  - 开发资料：[源码与运行说明](https://github.com/stackloomdev/last-beacon) · [需求与迭代记录](https://github.com/stackloomdev/last-beacon/blob/main/docs/PROMPT.md) · 技术：JavaScript、Canvas 2D、Web Audio。
+  - 预览：![最后的灯塔中文实机画面：连接电网的炮塔与寒潮塔守卫海岛，抵挡沿海岸路线进攻的敌人。](assets/screenshots/last-beacon/gameplay.png)
+
+- **[缺氧 · 小小星球](https://hypoxia-6tu.pages.dev/)** — 地下殖民地生存模拟：指挥三名复制人挖掘和建造，管理氧气、食物及电力，让基地持续运转。
+  - 作者: dudu
+  - 平台: 支持 Canvas 的浏览器；中文界面，鼠标和键盘操作；实测无需登录或付费即可进入。
+  - GPT-6 Astra: [Issue #28](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/28) — 投稿者说明由 GPT-6 Astra 全程开发；未独立核验。
+  - 预览: ![缺氧 · 小小星球 — 实机画面](assets/screenshots/hypoxia/gameplay.jpg)
+
+- **[魔塔 · 永夜之阶](https://ai.ywnet.xyz/work/mt.html)** — 十五层像素高塔冒险，围绕攻防计算、有限资源和三色钥匙规划路线、逐层探索。
+  - 作者: yw
+  - 平台: 浏览器，中文界面；实测无需登录或付费即可进入。
+  - GPT-6 Astra: [Issue #38](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/38) — 投稿者在 GPT-6 Astra 参与说明中提供了开发提示词；具体模型参与情况未独立核验。
+  - 预览: ![魔塔 · 永夜之阶 — 实机画面](assets/screenshots/magic-tower/gameplay.jpg)
+
+- **[永恒荒野](https://starve.pages.dev/)** — 投稿中的《饥荒》复刻网页生存与策略游戏；截图展示了森林探索、物资收集、背包，以及生命、饱食与理智状态。
+  - 作者：dudu
+  - 平台：浏览器；截图显示中文界面与键盘操作。投稿未说明付费及登录要求，试玩尚未独立核验。
+  - GPT-6 Astra：[投稿者说明](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/26) — 投稿者称由 GPT-6 Astra 全程开发。
+  - 开发资料：未提供公开源码或独立开发记录。
+  - 预览：![Issue #26 提供的永恒荒野画面：角色站在森林营火旁，界面显示背包、生存状态和小地图。](assets/screenshots/eternal-wilderness/gameplay.jpg)
+
+### RPG 与冒险
+
+角色扮演、探索、叙事冒险与互动故事。
+
+*等待首个作品。*
+
+### 平台跳跃与竞速
+
+跑酷、平台闯关、赛车，以及考验路线与操作的游戏。
+
+- **[APEX CLUB — Bay Kart Grand Prix](https://apex-club-racing.vercel.app)** — 在海湾赛道参加三圈卡丁车竞速，选择六款赛车，利用漂移蓄力与出弯小喷争夺个人名次或 4v4 队伍积分。
+  - 作者：Ryan
+  - 平台：支持 WebGL 2 的桌面浏览器，键盘操作；免费，无需登录或 API Key；本地 HTTP 服务或静态网站启动，Three.js 已随源码提供。组队为 1 位玩家与 7 位 AI 的本地竞赛。
+  - 模型参与：[开发记录](works/apex-club/CREATION.md) — 通过 Codex 多轮迭代玩法、代码、程序化美术与测试；GPT-6 Astra 归因待创作者确认。
+  - 开发资料：[源码与运行说明](works/apex-club/README.md) · [需求与迭代记录](works/apex-club/PROMPTS.md) · [GPT 对话分享](https://chatgpt.com/s/cx_6a9e84c13c9c8191bcb7ad0801288adc) · 技术：JavaScript、Three.js。
+  - 预览：![APEX CLUB 海湾赛道实机画面：卡丁车组队竞速，显示圈数、队伍积分和实时小地图。](assets/screenshots/apex-club/gameplay.png)
+
+- **[PELICAN PEDAL / 鹈鹕踏浪](https://pelican-pedal.zecoba.workers.dev/)** — 让鹈鹕骑着自行车穿行于不断变化的 3D 海岸，在三条车道间换道、跳跃与低头躲避障碍，连续收集小鱼获得连击，使用护盾、磁铁和六秒无敌冲刺。
+  - 作者：[chat01.ai](https://chat01.ai)（投稿中注明的作者）。
+  - 平台：桌面与手机浏览器，支持键盘和触控；据投稿说明，免费且无需登录。试玩尚未独立核验。
+  - GPT-6 Astra：[Issue #10](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/10) — 投稿者称由一句提示词生成；所附开发记录尚未独立核验。
+  - 开发资料：[分享的开发记录](https://chat01.ai/zh/chat/01M1VJ5K55803V2YK3T2NKTX33)
+  - 预览：![PELICAN PEDAL 标题画面：鹈鹕骑自行车行驶在海边；截图由 Issue #10 提供。](https://github.com/user-attachments/assets/ec085afa-3c45-4de6-b03f-5c626f941546)
+
+- **[狂飙赛车 · OVERDRIVE](https://gpt-kbsc.0nz.de/)** — 与五名 AI 对手进行 3D 赛车竞速，可选择车辆和赛道，提供计时、漂移及氮气加速。
+  - 作者: zding
+  - 平台: 浏览器，中文界面；实测无需登录或付费即可进入。
+  - GPT-6 Astra: GPT-6 Astra 使用情况及参与范围待作者确认。
+  - 预览: ![狂飙赛车 · OVERDRIVE — 实机画面](assets/screenshots/overdrive/gameplay.jpg)
+
+### 实验玩法与多人游戏
+
+难以归类的新玩法、联机对战与合作体验。
+
+- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden-one.vercel.app)** — 交互式粒子艺术沙盒：让 48,000 颗光点在花、引力环与星系之间变形，扰动雕塑并将瞬间导出为海报。
+  - 作者：[jackroc](https://github.com/jackroc)
+  - 平台：支持 WebGL 的现代浏览器；点击作品名直接在线体验，免费，无需登录或 API Key；也可下载单文件 HTML 离线运行，可选环境音需要 Web Audio。
+  - GPT-6 Astra：[创作记录与模型参与说明](works/orbital-garden/README.md#模型与创作记录) — 创作者使用 GPT-6 Astra ultra 完成构思、代码与文案，经过协作审阅；非 one-shot 测试。
+  - 开发资料：[源码与运行说明](works/orbital-garden/README.md) · [单文件 HTML](works/orbital-garden/index.html) · [Prompt](works/orbital-garden/PROMPT.md) · 技术：原生 WebGL、Web Audio、Canvas 2D。
+  - 预览：![轨道花园实机画面：薄荷绿色粒子组成星之花，下方可切换形态、调节生命力与时间流速，并导出纪念海报。](assets/screenshots/orbital-garden/gameplay.jpg)
+
+- **[Toy2Game / 在线玩具箱](https://games.asmo.top/)** — 把桌面玩具改编成四款 3D 网页游戏：轮流敲冰避免企鹅落水、带小兔穿过机关、放置太空人保持平台平衡，以及挪动车辆解开出库谜题。
+  - 作者：[asmoyou](https://github.com/asmoyou)
+  - 平台：电脑、平板与手机浏览器；免费，无需登录。支持 2–4 个席位本地同屏轮流操作，可加入电脑对手，也有单人解谜；不支持异地联机。试玩尚未独立核验。
+  - GPT-6 Astra：[作者说明](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) — 作者称只提供玩具描述和功能要求，由 GPT-6 Astra 自主完成游戏开发与测试验证。
+  - 开发资料：[源码与运行说明](https://github.com/asmoyou/toy2game) · [非商业使用许可](https://github.com/asmoyou/toy2game/blob/main/LICENSE) — 源码开放，非商业使用免费；商业使用须事先取得作者书面授权。技术：TypeScript、React、Vite、Three.js。
+  - 预览：![Toy2Game 四款游戏的实际 3D 场景：企鹅敲冰、小兔闯关、平衡太空人和移车出库。图片由 asmoyou 提供。](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)
+
+## 每个作品记录什么
+
+一条好用的推荐，应该让人一眼知道“玩什么、在哪里玩、为什么收录”。
+
+| 信息 | 内容 |
+| --- | --- |
+| 游戏与作者 | 作品名称、原作者或团队链接 |
+| 玩法亮点 | 一句话说明核心玩法，避免空泛宣传 |
+| 体验入口 | 试玩地址，或包含运行说明的公开源码仓库 |
+| 实机截图 | 至少一张展示核心玩法的真实截图，附可公开访问的图片地址 |
+| 平台与条件 | 浏览器 / 桌面 / 移动端；注明付费、登录或特殊硬件要求 |
+| Astra 的参与 | 作者说明、开发日志或公开记录，说明 GPT-6 Astra 参与了哪些工作 |
+| 开发资料 | 源码、技术栈与制作过程，能提供多少就提供多少 |
+
+模型使用情况按作者公开说明记录；没有依据的归因不会写成已确认事实。可玩的原型也欢迎，不要求每个游戏都开源。
+
+## 一起维护
+
+通过 [Issue 提交游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，或直接发起 Pull Request。具体格式见 [贡献指南](CONTRIBUTING.md)。
+
+遇到失效试玩入口、错误署名或信息变化，请[反馈问题](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=broken-link.yml)。
+
+## 许可
+
+本仓库原创的清单文字与视觉素材以 [CC0 1.0](LICENSE) 贡献至公有领域。链接指向的游戏、代码、图片、商标及其他第三方内容仍遵循各自的许可与权利声明；收录不改变它们的授权。
 
 ### helloianneo/awesome-gpt6-astra / `README.md`
 
@@ -1249,52 +1423,153 @@ This is a collection of work you can click back to, not a how-to. Duration and c
 | [da03/astra-plays-gta](https://github.com/da03/astra-plays-gta) ⭐1 | Astra plays GTA Vice City on a Mac: setup, prompt, and a keyboard/screenshot helper |
 | [xinbenlv/ra2-gpt-6-astra-2026-09-04](https://github.com/xinbenlv/ra2-gpt-6-astra-2026-09-04) ⭐1 | Red Alert 2 rebuilt one-shot (benchmark by Victor Zhou), playable page included |
 | [paveljor/agent-bluff](https://github.com/paveljor/agent-bluff) | Deception tournament: do Astra, Fable 5.1, and Grok 4.6 lie well? |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) ⭐842 | Open-sourced Blender + Three.js skill: one sentence → finished 3D holographic trading card (Chinese community) |
+| [wz1119/Codex-Minecraft-Gameplay](https://github.com/wz1119/Codex-Minecraft-Gameplay) ⭐128 | Astra plays Minecraft via Computer Use — explore, gather, craft, build |
+| [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra) ⭐64 | Modify SNES games with AI while you play them |
+| [cozyblaze/portal-agent](https://github.com/cozyblaze/portal-agent) ⭐39 | The full setup behind the Portal-beating run: controller, patch, guide, sanitized logs |
+| [hku-sail/Real2Sim_GPT6_ASTRA](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) ⭐33 | Real-world robot manipulation → Blender replay reconstructed from three RGB camera views |
+| [gnipbao/gpt6-prompt-writer](https://github.com/gnipbao/gpt6-prompt-writer) ⭐21 | Prompt-writing skill built on the official GPT-6 Astra guide (Chinese community) |
+| [parlance-labs/super-oracle](https://github.com/parlance-labs/super-oracle) ⭐12 | A review council: Claude and Astra review independently, then return one synthesis |
 
 ## Viral Demos
 
-3D modeling is Astra's breakout track. All entries link to the original author:
+### 3D Worlds & Modeling
 
+The breakout track: Blender, Unreal Engine, and three.js scenes from prompts and photos.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| [Unreal Engine world of AI humans](https://x.com/i/status/2095596175705399482) | mattshumer_ | 28,137 likes | Every NPC is an Astra-powered agent working together to survive — they started talking to each other |
 | [3D anatomy site, 2,234 pieces](https://x.com/i/status/2096221988763173186) | ashebytes | 24,960 likes | The weekend's biggest hit — pulls the human body apart piece by piece |
-| [3D game from scratch](https://x.com/i/status/2096008083826725132) | anshuc | 8,739 likes | 45-minute one-shot on just 2% of weekly quota |
+| [A week of Manhattan, street by street](https://x.com/i/status/2095609734845927525) | mattshumer_ | 18,871 likes | Unreal Engine build iterated over a week |
+| [Backrooms in Blender, with VHS horror](https://x.com/i/status/2096003511104508411) | duncantrussell | 9,442 likes | ~5 prompts, 30 min to build + 20 to render; sound design included |
 | [Trains generated at runtime in Three.js](https://x.com/i/status/2096082580554777041) | tomkrcha | 7,427 likes | No 3D model files — geometry built from TypeScript code at runtime |
-| [Zillow listing → 3D promo video](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7,307 likes | Real-estate data straight to a promo video |
-| [Drawing a portrait in Canva](https://x.com/i/status/2095992132620136677) | iam_zachi | 7,214 likes | Computer Use assembling a portrait block by block |
 | [Blender house → Unreal Engine 5 walkthrough](https://x.com/i/status/2095592572286533644) | goofyninjaaa | 6,996 likes | Full house with pool & garden, solo — architecture viz in one prompt (Spanish community) |
 | [House photo → full 3D model](https://x.com/i/status/2095598645190291775) | tomkrcha | 6,282 likes | Early-access test: full house with furniture, runs at 60fps |
-| [UI generation showcase](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 likes | Clean multi-component UI straight from a prompt |
 | [Steam train in Blender](https://x.com/i/status/2095756085890310311) | tomkrcha | 5,876 likes | Old drawing → 3,295 editable objects |
-| [Max vs Medium tier cost test](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5,120 likes | 53 min at 4% weekly quota vs 25 min at 1% |
-| [KiCad PCB layout](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4,799 likes | Schematic → PCB routing; the EE track |
 | [Interactive V8 engine](https://x.com/i/status/2096280244663775423) | DilumSanjaya | 4,029 likes | Highly detailed, interactive engine visualization |
 | [Isometric kid's room from one sentence](https://x.com/i/status/2096048421543272893) | zhengli | 3,561 likes | One-line prompt, 40 minutes of waiting (Chinese community) |
+| [Seoul in 3D, all of it](https://x.com/i/status/2096557555086725159) | synabreu | 2,701 likes | Interactive miniature of the whole city and surroundings |
 | [The 5-hour forest](https://x.com/i/status/2096263046918197609) | LexnLin | 1,931 likes | 3,808 trees, 2.5M grass clumps, ~40K ferns — three.js + custom shaders |
 | [Tesla Model X teardown site](https://x.com/i/status/2096009146248122416) | ashebytes | 1,731 likes | 3D website pulling the car into 334 modeled parts |
 | [3D pipeline studio test](https://x.com/i/status/2095982983379653113) | badxstudio | 1,392 likes | Studio-grade 3D pipeline test |
+| [Hangzhou in Three.js in 24 minutes](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 likes | A whole city with landmarks: fly-through, zoom, day/night switch (Chinese community) |
+
+### Games
+
+Playable games, one-shot or iterated.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| [Astra beats all 48 levels of "I'm Not a Robot"](https://x.com/sharifshameem/status/2096847916837314853) | sharifshameem | 10,739 likes | The full robot-puzzle game, cleared |
+| [3D game from scratch](https://x.com/i/status/2096008083826725132) | anshuc | 8,739 likes | 45-minute one-shot on just 2% of weekly quota |
+| [Paperboy remake, Blender to browser](https://x.com/i/status/2096515959469072630) | builtbysketch | 3,512 likes | The 1985 arcade classic rebuilt — models, render, feel |
+| [Browser GTA in three.js + Blender cars](https://x.com/i/status/2096382232403603752) | xikhar | 2,634 likes | "The next GTA will be made by AI" — runs in the browser |
+
+### Computer Use: driving real apps
+
+Astra moving the mouse in real desktop apps — DAWs, design tools, browsers.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| ["Make a banger" in Ableton Live](https://x.com/i/status/2096374630525309206) | timourxyz | 8,593 likes | Computer Use driving a real DAW |
+| [Drawing a portrait in Canva](https://x.com/i/status/2095992132620136677) | iam_zachi | 7,214 likes | Computer Use assembling a portrait block by block |
+| [AI draws its own portrait in Procreate](https://x.com/i/status/2096124169406775325) | keitowebai | 2,501 likes | Computer Use alone, every stroke via mouse (Japanese community) |
+| [Computer Use inflection point](https://x.com/i/status/2096051842174087386) | dotey | 292 likes | "Build → verify closed loop"; watching it click is a joy |
+
+### Real-world Applications
+
+Things you can actually use: medical atlases, LEGO sets, wedding sites, listing videos.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| [Ankle-pain 3D atlas for a patient](https://x.com/i/status/2096528986390085696) | Emanuel_Andre7 | 7,612 likes | Bones, ligaments, tendons, motion axes — interactive self-diagnosis aid |
+| [Cessna landing gear from a YouTube video](https://x.com/i/status/2096642895134752922) | DilumSanjaya | 7,562 likes | Mechanism no other model got right, reverse-engineered from video |
+| [Zillow listing → 3D promo video](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7,307 likes | Real-estate data straight to a promo video |
+| [Any image → buildable LEGO set](https://x.com/i/status/2096377028945576370) | emmanuel_2m | 6,945 likes | Real Bricksy parts, orderable instructions — toy of the year material |
+| [Wedding website on Astra Max](https://x.com/i/status/2096659577660203436) | venturetwins | 6,814 likes | Non-tech founder's real wedding site |
+| [UI generation showcase](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 likes | Clean multi-component UI straight from a prompt |
+| [Launch video in 5 minutes](https://x.com/i/status/2096488216983732341) | _yatharthg | 2,441 likes | Marketing content with fal H3 Max |
+| [DIY real-estate agent for villa hunting](https://x.com/i/status/2096228864859201869) | marclou | 566 likes | Cross-references listings with AQI, noise, and landslide data |
+
+### Hardware, EE & Robotics
+
+PCB layout, CAD, and robot control.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| [KiCad PCB layout](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4,799 likes | Schematic → PCB routing; the EE track |
 | [Robot task control](https://x.com/i/status/2096064315115839904) | chooi_jeq | 1,349 likes | 95% vs Fable 5.1's 40%, with 6.2x fewer tokens |
 | [Agentic CAD new SOTA](https://x.com/i/status/2096053889141489669) | adamdotnew | 1,160 likes | A step change for CAD agents |
-| [Hangzhou in Three.js in 24 minutes](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 likes | A whole city with landmarks: fly-through, zoom, day/night switch (Chinese community) |
+
+### Benchmarks & Cost Tests
+
+Tier tests and head-to-head comparisons.
+
+| Demo | Author | Traction | Highlight |
+|---|---|---|---|
+| [Best Bach Benchmark result yet](https://x.com/i/status/2096030719156089029) | aug5thmusic | 8,105 likes | No voice-leading errors, first model to write correct passing tones — music theory, not vibes |
+| [Max vs Medium tier cost test](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5,120 likes | 53 min at 4% weekly quota vs 25 min at 1% |
 | [Video gen vs Fable 5.1](https://x.com/i/status/2095739568528232538) | NFT_Chen | 648 likes | "Astra directs like a filmmaker" — emotional camera language |
-| [DIY real-estate agent for villa hunting](https://x.com/i/status/2096228864859201869) | marclou | 566 likes | Cross-references listings with AQI, noise, and landslide data |
-| [Computer Use inflection point](https://x.com/i/status/2096051842174087386) | dotey | 292 likes | "Build → verify closed loop"; watching it click is a joy |
 
 ## Community Threads
 
-Reddit, by score at the time of listing:
+### Reddit — Games
 
-| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+Playable proof: games beaten end-to-end.
+
+| Thread | Subreddit | Score |
+|---|---|---|
+| [GPT-6 Astra beat Portal — and it only cost $571.18](https://www.reddit.com/r/technology/comments/1w92153/) | r/technology | 3918 |
+| [First model to beat Portal](https://www.reddit.com/r/singularity/comments/1w8g7d0/) | r/singularity | 3398 |
+| [Rickroll in Blender](https://www.reddit.com/r/singularity/comments/1w9aeyk/) | r/singularity | 1977 |
+| [Age of Empires IV at 70-150 fps on Apple Silicon](https://www.reddit.com/r/accelerate/comments/1w9bsjh/) | r/accelerate | 1398 |
+| [Astra finished RimWorld in 15 hours](https://www.reddit.com/r/singularity/comments/1w93mgg/) | r/singularity | 1279 |
+
+### Reddit — 3D & Creative
+
+The Blender/3D track, argued by practitioners.
+
+| Thread | Subreddit | Score |
+|---|---|---|
 | [Fable 5.1 vs GPT 6 Astra, 3D Blender — mind blowing difference](https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/) | r/OpenAI | 1949 |
 | [GPT-6-Astra-Max: SVG of a PlayStation 4 controller](https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/) | r/singularity | 1346 |
+
+### Reddit — Engineering & Practical
+
+EE, taxes, and sites that took 30 minutes.
+
+| Thread | Subreddit | Score |
+|---|---|---|
 | [GPT-6 Astra is actually nuts for electrical engineering](https://www.reddit.com/r/singularity/comments/1w6m7hr/) | r/singularity | 1192 |
+| [History of Earth interactive site in ~30 min](https://www.reddit.com/r/vibecoding/comments/1w99r2z/) | r/vibecoding | 1192 |
 | [GPT-6-Astra's tax return underpays the government](https://www.reddit.com/r/OpenAI/comments/1w6jp0n/) | r/OpenAI | 991 |
+
+### Reddit — Benchmarks & Pricing
+
+Numbers, harness debates, and cost.
+
+| Thread | Subreddit | Score |
+|---|---|---|
+| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+| [Usage tip: "Astra on low performs better than Sol on high"](https://www.reddit.com/r/codex/comments/1w9erx3/) | r/codex | 1054 |
+| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
+| [GPT-6 Astra pricing is kinda insane compared to 5.6 Sol](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
+
+### Reddit — Launch Reactions
+
+Rollout-day megathreads and media coverage.
+
+| Thread | Subreddit | Score |
+|---|---|---|
+| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
 | ["Welcome to the AGI era" — The Verge coverage thread](https://www.reddit.com/r/singularity/comments/1w6f0jp/) | r/singularity | 970 |
 | [GPT-6 Astra Is Here—Kick Off the AGI Era](https://www.reddit.com/r/ChatGPT/comments/1w6f701/) | r/ChatGPT | 902 |
 | [GPT-6 Astra Launch Video](https://www.reddit.com/r/singularity/comments/1w6gjmb/) | r/singularity | 837 |
 | [Global rollout — early impressions megathread](https://www.reddit.com/r/singularity/comments/1w7m0ui/its_been_a_few_hours_since_global_rollout_gpt6/) | r/singularity | 702 |
-| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
-| [GPT-6 Astra pricing is kinda insane compared to 5.6 Sol](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
-| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
+### Hacker News — Deep Dives
 
-Hacker News deep dives:
+Long-form threads worth reading in full.
 
 | Thread | Why it matters |
 |---|---|
@@ -1303,6 +1578,8 @@ Hacker News deep dives:
 | [GPT-6 Astra System Card](https://news.ycombinator.com/item?id=49555440) | System-card thread: CoT monitoring gets harder |
 | [Ask HN: Initial Thoughts on GPT-6 Astra?](https://news.ycombinator.com/item?id=49571621) | Working programmers' first impressions |
 | [GPT-6 Astra in code review](https://news.ycombinator.com/item?id=49572875) | CodeRabbit's test: gains, privacy, and cost |
+| [GPT-6 Astra on robot arms](https://news.ycombinator.com/item?id=49582582) | Embodied use cases, argued seriously |
+| [GPT-6 Astra on OpenRouter](https://news.ycombinator.com/item?id=49570545) | Third-party availability and pricing, discussed |
 
 ## Chinese Ecosystem
 
@@ -1401,52 +1678,153 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for PR naming and the verifiable-source b
 | [da03/astra-plays-gta](https://github.com/da03/astra-plays-gta) ⭐1 | 让 Astra 在 Mac 上玩 GTA 罪恶都市：配置、提示词、键鼠截图小助手 |
 | [xinbenlv/ra2-gpt-6-astra-2026-09-04](https://github.com/xinbenlv/ra2-gpt-6-astra-2026-09-04) ⭐1 | 红警 2 被 one-shot 复刻（Victor Zhou 出题的基准），附可玩页面 |
 | [paveljor/agent-bluff](https://github.com/paveljor/agent-bluff) | 吹牛锦标赛：Astra、Fable 5.1、Grok 4.6 谁更会骗人？ |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) ⭐842 | 开源 Blender+Three.js 技能：一句话出 3D 镭射卡牌（中文社区，配[原推](https://x.com/i/status/2096765359282061544)） |
+| [wz1119/Codex-Minecraft-Gameplay](https://github.com/wz1119/Codex-Minecraft-Gameplay) ⭐128 | Astra 用 Computer Use 玩 Minecraft：探索、采集、合成、建造 |
+| [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra) ⭐64 | 边玩边用 AI 改 SNES 游戏 |
+| [cozyblaze/portal-agent](https://github.com/cozyblaze/portal-agent) ⭐39 | 通关《传送门》那次的完整装备：手柄、补丁、指南、脱敏日志 |
+| [hku-sail/Real2Sim_GPT6_ASTRA](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) ⭐33 | 真实机械臂操作→Blender 重放，仅凭三路 RGB 相机重建 |
+| [gnipbao/gpt6-prompt-writer](https://github.com/gnipbao/gpt6-prompt-writer) ⭐21 | 基于官方指南的 GPT-6 Astra 提示词写作技能（中文社区） |
+| [parlance-labs/super-oracle](https://github.com/parlance-labs/super-oracle) ⭐12 | 评审议会：Claude 与 Astra 各自独立评审，再合成一份结论 |
 
 ## 病毒级 Demo
 
-3D 建模是 Astra 的爆火赛道，多数案例附原始视频：
+### 3D 世界与建模
 
+爆火主赛道：Blender、Unreal、three.js，从提示词和照片直接出场景。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [Unreal 世界里的 AI 居民](https://x.com/i/status/2095596175705399482) | mattshumer_ | 28,137 赞 | 每个 NPC 都是独立 Astra 智能体，协作求生——后来它们开始自己聊天 |
 | [3D 人体解剖网站，2,234 个零件](https://x.com/i/status/2096221988763173186) | ashebytes | 24,960 赞 | 周末最火：把人体逐件拆开的学习网站 |
-| [3D 游戏从零到可玩](https://x.com/i/status/2096008083826725132) | anshuc | 8739 赞 | "3D 游戏的神"——45 分钟 one-shot，只花配额 2% |
+| [一周造出曼哈顿](https://x.com/i/status/2095609734845927525) | mattshumer_ | 18,871 赞 | Unreal Engine 里一条街一条街磨出来的纽约 |
+| [Blender 里的Backrooms恐怖片](https://x.com/i/status/2096003511104508411) | duncantrussell | 9,442 赞 | 约 5 条 prompt：30 分钟建模+20 分钟渲染，音效也是它做的 |
 | [运行时生成的 Three.js 火车](https://x.com/i/status/2096082580554777041) | tomkrcha | 7,427 赞 | 没有 3D 模型文件——几何体全部由 TypeScript 代码运行时生成 |
-| [Zillow 房源 → 3D 宣传片](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7307 赞 | 房产数据直接变宣传视频 |
-| [Canva 浏览器画人像](https://x.com/i/status/2095992132620136677) | iam_zachi | 7214 赞 | Computer Use 操控 Canva 一块块拼出人像 |
 | [Blender 房子 → UE5 漫游](https://x.com/i/status/2095592572286533644) | goofyninjaaa | 6,996 赞 | 带泳池花园的全屋，独自完成；一句话干掉建筑可视化工作室（西语社区） |
 | [房子照片 → 全屋 3D 模型](https://x.com/i/status/2095598645190291775) | tomkrcha | 6282 赞 | 早期访问实测，含玩具家电家具，60fps 可跑 |
-| [UI 生成实测](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 赞 | 一条 prompt 出干净的多组件 UI |
 | [蒸汽火车 Blender 建模](https://x.com/i/status/2095756085890310311) | tomkrcha | 5876 赞 | 旧图纸 → 3,295 个可编辑对象 |
-| [Max vs Medium 档成本实测](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5120 赞 | 53 分钟 4% 周配额 vs 25 分钟 1% |
-| [KiCad PCB 布局](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4799 赞 | 原理图 → 电路板布线，电子工程师赛道 |
 | [可交互 V8 发动机](https://x.com/i/status/2096280244663775423) | DilumSanjaya | 4,029 赞 | 高细节可交互的发动机可视化 |
 | [一句话等 40 分钟的等距儿童房](https://x.com/i/status/2096048421543272893) | zhengli | 3,561 赞 | 随便一句 prompt 出图这个级别（中文社区） |
+| [整个首尔 3D 化](https://x.com/i/status/2096557555086725159) | synabreu | 2,701 赞 | 全城+周边的交互微缩景观 |
 | [5 小时森林](https://x.com/i/status/2096263046918197609) | LexnLin | 1,931 赞 | 3,808 棵树、250 万丛草、近 4 万蕨类——three.js + 自定义 shader |
 | [Tesla Model X 拆解网站](https://x.com/i/status/2096009146248122416) | ashebytes | 1731 赞 | 拆成 334 个建模零件的 3D 网站 |
 | [3D 建模 BEAST 实测](https://x.com/i/status/2095982983379653113) | badxstudio | 1392 赞 | 工作室 3D 管线实测 |
+| [24 分钟把杭州搬进网页](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 赞 | 西湖雷峰塔钱江新城全有：飞行漫游、昼夜切换（中文社区） |
+
+### 游戏
+
+能玩的游戏，one-shot 或迭代打磨。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [48 关机器人游戏全通关](https://x.com/sharifshameem/status/2096847916837314853) | sharifshameem | 10,739 赞 | "I'm Not a Robot" 全部关卡打穿 |
+| [3D 游戏从零到可玩](https://x.com/i/status/2096008083826725132) | anshuc | 8739 赞 | "3D 游戏的神"——45 分钟 one-shot，只花配额 2% |
+| [Paperboy 复刻](https://x.com/i/status/2096515959469072630) | builtbysketch | 3,512 赞 | 1985 街机经典：建模、渲染、手感全包 |
+| [浏览器里的 GTA](https://x.com/i/status/2096382232403603752) | xikhar | 2,634 赞 | three.js 跑在浏览器里，车是 Blender 建的——"下一部 GTA 会是 AI 做的" |
+
+### Computer Use：操控真实软件
+
+Astra 在真实桌面软件里动鼠标——DAW、设计工具、浏览器。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| ["用 Ableton 写首神曲"](https://x.com/i/status/2096374630525309206) | timourxyz | 8,593 赞 | Computer Use 操控真实 DAW 做音乐 |
+| [Canva 浏览器画人像](https://x.com/i/status/2095992132620136677) | iam_zachi | 7214 赞 | Computer Use 操控 Canva 一块块拼出人像 |
+| [AI 用 Procreate 画自画像](https://x.com/i/status/2096124169406775325) | keitowebai | 2,501 赞 | 纯 Computer Use 鼠标操作，一笔一笔画（日本社区） |
+| [Computer Use 临界点论](https://x.com/i/status/2096051842174087386) | dotey | 292 赞 | 中文社区代表观点："开发→验收完整闭环" |
+
+### 现实应用
+
+真能用的东西：医学图谱、乐高套装、婚礼网站、房源视频。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [脚踝疼痛 3D 图谱](https://x.com/i/status/2096528986390085696) | Emanuel_Andre7 | 7,612 赞 | 骨骼/韧带/肌腱/运动轴全交互，给自己看病用的图谱 |
+| [看 YouTube 视频还原起落架](https://x.com/i/status/2096642895134752922) | DilumSanjaya | 7,562 赞 | Cessna 337 起落架机构，其他模型都没做对过 |
+| [Zillow 房源 → 3D 宣传片](https://x.com/i/status/2095612137582526615) | realYunfanYe | 7307 赞 | 房产数据直接变宣传视频 |
+| [任意图片→可拼乐高套装](https://x.com/i/status/2096377028945576370) | emmanuel_2m | 6,945 赞 | 用官方零件、可下单的搭建说明——年度玩具预定 |
+| [Astra Max 做婚礼网站](https://x.com/i/status/2096659577660203436) | venturetwins | 6,814 赞 | 非技术创始人的真实婚礼站 |
+| [UI 生成实测](https://x.com/i/status/2096059496812716307) | MSchwaibold | 6,180 赞 | 一条 prompt 出干净的多组件 UI |
+| [5 分钟出产品发布视频](https://x.com/i/status/2096488216983732341) | _yatharthg | 2,441 赞 | 搭配 fal H3 Max 的营销内容 |
+| [自己搭别墅找房 agent](https://x.com/i/status/2096228864859201869) | marclou | 566 赞 | 把房源与空气质量/噪音/滑坡数据交叉比对 |
+
+### 硬件、电子与机器人
+
+PCB 布线、CAD、机器人控制。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [KiCad PCB 布局](https://x.com/i/status/2095637507337826741) | ChihYang04 | 4799 赞 | 原理图 → 电路板布线，电子工程师赛道 |
 | [机器人任务控制](https://x.com/i/status/2096064315115839904) | chooi_jeq | 1349 赞 | 95% vs Fable 5.1 的 40%，token 少 6.2x |
 | [agentic CAD 新 SOTA](https://x.com/i/status/2096053889141489669) | adamdotnew | 1160 赞 | CAD 领域的阶跃 |
-| [24 分钟把杭州搬进网页](https://x.com/i/status/2096143589151756638) | NFT_Chen | 1,065 赞 | 西湖雷峰塔钱江新城全有：飞行漫游、昼夜切换（中文社区） |
+
+### 基准与成本实测
+
+档位实测与正面对比。
+
+| 案例 | 作者 | 热度 | 看点 |
+|---|---|---|---|
+| [巴赫基准至今最佳](https://x.com/i/status/2096030719156089029) | aug5thmusic | 8,105 赞 | 零声部进行错误、首个写出正确经过音的模型——乐理硬功夫 |
+| [Max vs Medium 档成本实测](https://x.com/i/status/2095994051354919049) | AiBattle_ | 5120 赞 | 53 分钟 4% 周配额 vs 25 分钟 1% |
 | [视频生成 vs Fable 5.1](https://x.com/i/status/2095739568528232538) | NFT_Chen | 648 赞 | "Astra 像在导戏"——镜头语言有情绪 |
-| [自己搭别墅找房 agent](https://x.com/i/status/2096228864859201869) | marclou | 566 赞 | 把房源与空气质量/噪音/滑坡数据交叉比对 |
-| [Computer Use 临界点论](https://x.com/i/status/2096051842174087386) | dotey | 292 赞 | 中文社区代表观点："开发→验收完整闭环" |
 
 ## 社区热帖
 
-Reddit 全网热度（分数为发帖时快照）：
+### Reddit — 游戏通关
 
-| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+能玩的证据：从头到尾打穿的游戏。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [Astra 通关《传送门》，只花了 571.18 美元](https://www.reddit.com/r/technology/comments/1w92153/) | r/technology | 3918 |
+| [首个通关《传送门》的模型](https://www.reddit.com/r/singularity/comments/1w8g7d0/) | r/singularity | 3398 |
+| [Blender 里 Rickroll](https://www.reddit.com/r/singularity/comments/1w9aeyk/) | r/singularity | 1977 |
+| [苹果芯上跑《帝国时代 4》70-150 帧](https://www.reddit.com/r/accelerate/comments/1w9bsjh/) | r/accelerate | 1398 |
+| [15 小时通关《环世界》](https://www.reddit.com/r/singularity/comments/1w93mgg/) | r/singularity | 1279 |
+
+### Reddit — 3D 与创作
+
+Blender/3D 赛道，从业者视角的讨论。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
 | [Fable 5.1 vs GPT 6 Astra 3D Blender 对比，差距惊人](https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/) | r/OpenAI | 1949 |
 | [GPT-6-Astra-Max 画的 PS4 手柄 SVG](https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/) | r/singularity | 1346 |
+
+### Reddit — 工程与实用
+
+电子工程、报税、30 分钟做出来的网站。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
 | [GPT-6 Astra is actually nuts for electrical engineering](https://www.reddit.com/r/singularity/comments/1w6m7hr/) | r/singularity | 1192 |
+| [约 30 分钟做出地球人类史交互网站](https://www.reddit.com/r/vibecoding/comments/1w99r2z/) | r/vibecoding | 1192 |
 | [GPT-6-Astra's tax return underpays the government](https://www.reddit.com/r/OpenAI/comments/1w6jp0n/) | r/OpenAI | 991 |
+
+### Reddit — 基准与定价
+
+数字、harness 争议、成本。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [Gpt 6 astra benchmarks](https://www.reddit.com/r/singularity/comments/1w6f9xo/) | r/singularity | 2559 |
+| [经验帖："Astra 低档胜过 Sol 高档"](https://www.reddit.com/r/codex/comments/1w9erx3/) | r/codex | 1054 |
+| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
+| [GPT-6 Astra 定价比 5.6 Sol 离谱](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
+
+### Reddit — 发布与舆论
+
+上线当天的汇总帖与媒体报道。
+
+| 帖子 | 子版 | 分数 |
+|---|---|---|
+| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
 | ["Welcome to the AGI era" — The Verge 报道讨论](https://www.reddit.com/r/singularity/comments/1w6f0jp/) | r/singularity | 970 |
 | [GPT-6 Astra Is Here—Kick Off the AGI Era](https://www.reddit.com/r/ChatGPT/comments/1w6f701/) | r/ChatGPT | 902 |
 | [GPT-6 Astra Launch Video](https://www.reddit.com/r/singularity/comments/1w6gjmb/) | r/singularity | 837 |
 | [全球推送开启后的第一时间体感楼](https://www.reddit.com/r/singularity/comments/1w7m0ui/its_been_a_few_hours_since_global_rollout_gpt6/) | r/singularity | 702 |
-| [GPT-6 Astra Benchmarks](https://www.reddit.com/r/codex/comments/1w6fnc4/) | r/codex | 588 |
-| [GPT-6 Astra 定价比 5.6 Sol 离谱](https://www.reddit.com/r/codex/comments/1w6hvo9/gpt6_astra_pricing_is_kinda_insane_compared_to_56/) | r/codex | 440 |
-| [GPT-6 Astra \| OpenAI](https://www.reddit.com/r/OpenAI/comments/1w6hf6g/) | r/OpenAI | 1381 |
+### Hacker News — 深度讨论
 
-Hacker News 深度讨论：
+值得全文读完的长帖。
 
 | 帖子 | 看点 |
 |---|---|
@@ -1455,6 +1833,8 @@ Hacker News 深度讨论：
 | [GPT-6 Astra System Card](https://news.ycombinator.com/item?id=49555440) | 系统卡讨论：思维链监控失效 |
 | [Ask HN: Initial Thoughts on GPT-6 Astra?](https://news.ycombinator.com/item?id=49571621) | 一线程序员的真实体感 |
 | [GPT-6 Astra in code review](https://news.ycombinator.com/item?id=49572875) | CodeRabbit 实测：代码审查的收益、隐私与成本 |
+| [GPT-6 Astra on robot arms](https://news.ycombinator.com/item?id=49582582) | 机械臂上的实体智能讨论 |
+| [GPT-6 Astra on OpenRouter](https://news.ycombinator.com/item?id=49570545) | 第三方可用性与定价讨论 |
 
 ## 中文生态
 
