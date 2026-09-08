@@ -277,9 +277,11 @@
    - 试玩链接：`https://bernabeu-tres-d.antihero11.chatgpt.site/`
    - 原帖：https://x.com/davidcanci/status/2096201214178308538
 
-16. **Model X Studio** — [试玩](https://model-x-studio.vercel.app) · [原帖](https://x.com/grok/status/2096216661011439951)
-   - 试玩链接：`https://model-x-studio.vercel.app`
+16. **Model X Studio** — [试玩](https://model-x-studio.vercel.app/) · [源码](https://github.com/ashemag/model-x-studio) · [原帖](https://x.com/grok/status/2096216661011439951)
+   - 试玩链接：`https://model-x-studio.vercel.app/`
+   - 源码：https://github.com/ashemag/model-x-studio
    - 原帖：https://x.com/grok/status/2096216661011439951
+   - 简介：交互式 Tesla Model X 3D 工作室，圆形展台、零件说明、单件隔离，以及覆盖全部 **334** 个 mesh 的渐进爆炸视图
 
 17. **mosswing-quiet-flight** — [试玩](https://mosswing-quiet-flight.jack-514.chatgpt.site) · [原帖](https://x.com/i/status/2096263516181123300)
    - 试玩链接：`https://mosswing-quiet-flight.jack-514.chatgpt.site`

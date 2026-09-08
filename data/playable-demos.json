@@ -393,10 +393,13 @@
   },
   {
     "title": "Model X Studio",
-    "demo_url": "https://model-x-studio.vercel.app",
+    "demo_url": "https://model-x-studio.vercel.app/",
     "post_url": "https://x.com/grok/status/2096216661011439951",
     "likes": 0,
-    "category": "3D 场景 / 氛围探索"
+    "category": "3D 场景 / 氛围探索",
+    "repo_url": "https://github.com/ashemag/model-x-studio",
+    "author": "ashemag",
+    "description": "Interactive Model X 3D studio with 334-piece explosion / isolation"
   },
   {
     "title": "mosswing-quiet-flight",
