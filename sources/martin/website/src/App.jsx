@@ -35,6 +35,8 @@ const copy = {
     author:'创作者', category:'分类', close:'关闭', openMenu:'打开导航', lastChecked:'上次成功检查', justNow:'刚刚',
     minutes:n=>`${n} 分钟前`, noData:'暂时无法获取作品目录', noDataHint:'请稍后重试，也可以直接查看上游开源目录。',
     outOf:(n,total)=>`显示 ${n} / ${total} 件作品`,
+    playHere:'站内试玩', openOriginal:'打开原站', playBlocked:'这个作品可能禁止了嵌入。白屏的话点「打开原站」即可。',
+    playLoading:'正在载入试玩…', playing:'试玩中',
     seoTitle:'关于 GPT-6 Astra 作品集',
     seoIntro:'这是一个持续更新的 GPT-6 Astra 社区案例目录，集中展示真实可访问的作品与构建思路。',
     seoScopeTitle:'收录哪些案例？',
@@ -61,6 +63,8 @@ const copy = {
     author:'Creator', category:'Category', close:'Close', openMenu:'Open navigation', lastChecked:'Last successful check', justNow:'just now',
     minutes:n=>`${n} min ago`, noData:'The collection is temporarily unavailable', noDataHint:'Please try again shortly, or browse the upstream repository.',
     outOf:(n,total)=>`Showing ${n} of ${total} works`,
+    playHere:'Play here', openOriginal:'Open original', playBlocked:'This demo may block embedding. If you see a blank frame, open the original site.',
+    playLoading:'Loading demo...', playing:'Playing',
     seoTitle:'About the GPT-6 Astra showcase',
     seoIntro:'A continuously updated community directory of real GPT-6 Astra projects and the ideas behind how they were built.',
     seoScopeTitle:'What is included?',
@@ -141,7 +145,7 @@ function useCatalog() {
 }
 function External({href,children,...props}) {const safe=safeUrl(href);return safe?<a href={safe} target="_blank" rel="noopener noreferrer" {...props}>{children}</a>:null;}
 
-function WorkCard({work,index,language,onDetails,refreshToken}) {
+function WorkCard({work,index,language,onDetails,onPlay,refreshToken}) {
   const t=copy[language];const [failedSrc,setFailedSrc]=useState(null),[loadedSrc,setLoadedSrc]=useState(null),[videoActive,setVideoActive]=useState(false);
   const fallbackSrc=appPath(previewPath(work)),posterSrc=assetUrl(work.posterUrl),imageSrc=assetUrl(work.imageUrl),videoSrc=safeUrl(work.videoUrl);
   const staticSrc=posterSrc||imageSrc;
@@ -149,7 +153,8 @@ function WorkCard({work,index,language,onDetails,refreshToken}) {
   const previewSrc=useFallbackPreview?fallbackSrc:staticSrc||fallbackSrc;
   const failed=failedSrc===previewSrc,loaded=loadedSrc===previewSrc;
   const cat=categories.find(c=>c[0]===work.category)||categories.at(-1),KindIcon=cat[1];
-  const target=safeUrl(work.demoUrl)||safeUrl(work.sourceUrl)||safeUrl(work.repoUrl)||REPO;
+  const demo=safeUrl(work.demoUrl), target=demo||safeUrl(work.sourceUrl)||safeUrl(work.repoUrl)||REPO;
+  const canPlay=Boolean(demo);
   useEffect(()=>{setFailedSrc(null);setLoadedSrc(null);setVideoActive(false);setUseFallbackPreview(!staticSrc);},[refreshToken,work.id,staticSrc]);
   const handlePreviewError=()=>{if(staticSrc&&!useFallbackPreview){setUseFallbackPreview(true);setLoadedSrc(null);return;}setFailedSrc(previewSrc);};
   return <article className="work-card">
@@ -158,12 +163,51 @@ function WorkCard({work,index,language,onDetails,refreshToken}) {
       {!loaded&&!failed&&<span className="preview-loading"><KindIcon size={28} weight="light"/><span>{work.name}</span></span>}
       {failed&&<span className="preview-empty"><KindIcon size={38} weight="light"/><strong>{work.name}</strong><small><ImageBroken size={14}/>{t.noPreview}</small></span>}
       {videoSrc&&!videoActive&&<button className="preview-play" type="button" onClick={()=>setVideoActive(true)} aria-label={`${language==='zh'?'播放案例视频':'Play case video'}: ${work.name}`}><Play size={23} weight="fill"/></button>}
-      <a href={target} target="_blank" rel="noopener noreferrer" className="preview-open" aria-label={`${work.name} — ${work.demoUrl?t.experience:t.view}`}><span className="preview-visit"><ArrowUpRight size={21}/></span></a>
+      {canPlay?<button type="button" className="preview-open" onClick={()=>onPlay?.(work)} aria-label={`${work.name} - ${t.playHere}`}><span className="preview-visit"><Play size={18} weight="fill"/>{t.playHere}</span></button>:<a href={target} target="_blank" rel="noopener noreferrer" className="preview-open" aria-label={`${work.name} - ${t.view}`}><span className="preview-visit"><ArrowUpRight size={21}/></span></a>}
     </div>
     <div className="work-meta"><div className="work-identity"><button className="work-name" onClick={()=>onDetails(work)} title={work.name}>{work.name}</button>
       <p><span>{cat[language==='zh'?2:3]}</span>{work.author?.name&&<><span className="meta-dot">·</span>{work.author.url?<External href={work.author.url}>{work.author.name}</External>:<span>{work.author.name}</span>}</>}</p>
-    </div><div className="work-actions"><External href={target} className="experience-link">{work.demoUrl?t.experience:t.view}<ArrowUpRight size={16}/></External>{work.sourceUrl&&<><span className="action-divider"/><External href={work.sourceUrl} className="source-link" aria-label={`${work.name} ${t.code}`}>{t.code}</External></>}</div></div>
+    </div><div className="work-actions">{canPlay?<button type="button" className="experience-link" onClick={()=>onPlay?.(work)}>{t.experience}<Play size={16} weight="fill"/></button>:<External href={target} className="experience-link">{t.view}<ArrowUpRight size={16}/></External>}{work.sourceUrl&&<><span className="action-divider"/><External href={work.sourceUrl} className="source-link" aria-label={`${work.name} ${t.code}`}>{t.code}</External></>}</div></div>
   </article>;
+}
+
+function PlayOverlay({work,language,onClose,dialogRef}) {
+  const t=copy[language];
+  const demo=safeUrl(work?.demoUrl);
+  const [loaded,setLoaded]=useState(false);
+  const [slow,setSlow]=useState(false);
+  useEffect(()=>{
+    setLoaded(false);setSlow(false);
+    if(!work)return undefined;
+    const timer=setTimeout(()=>setSlow(true),4500);
+    return()=>clearTimeout(timer);
+  },[work?.id,demo]);
+  useEffect(()=>{
+    if(!work)return undefined;
+    const prev=document.body.style.overflow;
+    document.body.style.overflow='hidden';
+    return()=>{document.body.style.overflow=prev;};
+  },[work]);
+  if(!work||!demo)return null;
+  return <dialog ref={dialogRef} className="play-dialog" onClose={onClose} onClick={e=>{if(e.target===e.currentTarget)onClose();}}>
+    <div className="play-shell">
+      <header className="play-bar">
+        <div className="play-title">
+          <span className="dialog-eyebrow">{t.playing}</span>
+          <strong title={work.name}>{work.name}</strong>
+        </div>
+        <div className="play-actions">
+          <External href={demo} className="secondary-button">{t.openOriginal}<ArrowUpRight size={16}/></External>
+          <button type="button" className="dialog-close play-close" onClick={onClose} aria-label={t.close}><X size={22}/></button>
+        </div>
+      </header>
+      <div className={`play-frame ${loaded?'is-loaded':''}`}>
+        {!loaded&&<div className="play-loading" aria-live="polite"><ArrowClockwise className="spin" size={22}/><span>{t.playLoading}</span></div>}
+        {slow&&!loaded&&<div className="play-blocked" role="status"><WarningCircle size={18}/><span>{t.playBlocked}</span><External href={demo} className="primary-button">{t.openOriginal}<ArrowUpRight size={16}/></External></div>}
+        <iframe key={demo} title={`${work.name} - ${t.playHere}`} src={demo} allow="fullscreen; gamepad; autoplay; clipboard-read; clipboard-write; accelerometer; gyroscope" allowFullScreen referrerPolicy="no-referrer-when-downgrade" onLoad={()=>setLoaded(true)}/>
+      </div>
+    </div>
+  </dialog>;
 }
 
 export function App() {
@@ -171,8 +215,8 @@ export function App() {
   const [language,setLanguage]=useState(initial.get('lang')==='en'?'en':'zh');
   const [category,setCategory]=useState(categories.some(c=>c[0]===initial.get('type'))?initial.get('type'):'all');
   const [query,setQuery]=useState(initial.get('q')||''),[sort,setSort]=useState(initial.get('sort')==='name'?'name':'source');
-  const [limit,setLimit]=useState(30),[menuOpen,setMenuOpen]=useState(false),[details,setDetails]=useState(null),[tick,setTick]=useState(Date.now());
-  const searchRef=useRef(null),aboutRef=useRef(null),detailRef=useRef(null);
+  const [limit,setLimit]=useState(30),[menuOpen,setMenuOpen]=useState(false),[details,setDetails]=useState(null),[playWork,setPlayWork]=useState(null),[tick,setTick]=useState(Date.now());
+  const searchRef=useRef(null),aboutRef=useRef(null),detailRef=useRef(null),playRef=useRef(null);
   const {catalog,loading,error,refresh}=useCatalog(),t=copy[language],works=catalog?.works||[];
   const counts=useMemo(()=>works.reduce((c,w)=>{const key=categories.some(v=>v[0]===w.category)?w.category:'other';c[key]=(c[key]||0)+1;return c;},{all:works.length}),[works]);
   const filtered=useMemo(()=>{
@@ -192,11 +236,13 @@ export function App() {
     document.querySelector('meta[name="twitter:description"]')?.setAttribute('content',t.metaDescription);
   },[category,query,sort,language]);
   useEffect(()=>{
-    const onKey=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();searchRef.current?.focus();}if(e.key==='Escape')setMenuOpen(false);};
+    const onKey=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();searchRef.current?.focus();}if(e.key==='Escape'){if(playRef.current?.open){playRef.current.close();return;}setMenuOpen(false);}};
     window.addEventListener('keydown',onKey);const timer=setInterval(()=>setTick(Date.now()),60000);
     return()=>{window.removeEventListener('keydown',onKey);clearInterval(timer);};
   },[]);
   useEffect(()=>{if(details)detailRef.current?.showModal();},[details]);
+  useEffect(()=>{if(playWork)playRef.current?.showModal();else if(playRef.current?.open)playRef.current.close();},[playWork]);
+  const openPlay=work=>{const demo=safeUrl(work?.demoUrl);if(!demo)return;setPlayWork(work);};
   const reset=()=>{setCategory('all');setQuery('');setMenuOpen(false);};
   const stamp=catalog?.source?.lastSuccessfulAt||catalog?.source?.checkedAt;
   const age=stamp?Math.max(0,Math.floor((tick-new Date(stamp).getTime())/60000)):null;
@@ -217,7 +263,7 @@ export function App() {
       <div className="collection-status" aria-live="polite"><span>{t.count(filtered.length)}</span><span className={`sync-status ${error?'is-stale':''}`} title={`${t.update} · ${t.lastChecked} ${checked}`}>{loading?<ArrowClockwise className="spin" size={13}/>:error?<WarningCircle size={14}/>:<CheckCircle size={14}/>} {loading?t.pending:error?t.stale:t.synced}<span className="status-time">· {checked}</span><button onClick={refresh} disabled={loading} aria-label={t.tryAgain}><ArrowClockwise size={14}/></button></span></div>
       {error&&catalog&&<div className="sync-notice" role="status"><WarningCircle size={17}/><span>{t.syncError}</span></div>}
       <section id="works" className="works-section" aria-label={language==='zh'?'作品集':'Collection'}>
-        {!catalog&&loading?<div className="gallery skeleton-gallery" aria-busy="true">{Array.from({length:4},(_,i)=><div className="skeleton-card" key={i}><div/><span/><small/></div>)}</div>:filtered.length?<><div className="gallery" data-count={Math.min(filtered.length,5)}>{filtered.slice(0,limit).map((w,i)=><WorkCard work={w} index={i} key={w.id} language={language} onDetails={setDetails} refreshToken={catalog?.source?.lastSuccessfulAt}/>)}</div>{filtered.length>limit&&<div className="load-more"><p>{t.outOf(Math.min(limit,filtered.length),filtered.length)}</p><button onClick={()=>setLimit(n=>n+30)}>{t.loadMore}<ArrowRight size={18}/></button></div>}</>:<div className="empty-state"><div className="empty-icon">{!catalog?<WarningCircle size={34} weight="light"/>:<MagnifyingGlass size={34} weight="light"/>}</div><h2>{!catalog?t.noData:query?t.noResults:t.emptyCategory}</h2><p>{!catalog?t.noDataHint:query?t.noResultsHint:t.emptyCategoryHint}</p><button onClick={!catalog?refresh:reset}>{!catalog?t.tryAgain:t.reset}<ArrowRight size={17}/></button>{!catalog&&<External href={REPO}>{t.repository}<ArrowUpRight size={15}/></External>}</div>}
+        {!catalog&&loading?<div className="gallery skeleton-gallery" aria-busy="true">{Array.from({length:4},(_,i)=><div className="skeleton-card" key={i}><div/><span/><small/></div>)}</div>:filtered.length?<><div className="gallery" data-count={Math.min(filtered.length,5)}>{filtered.slice(0,limit).map((w,i)=><WorkCard work={w} index={i} key={w.id} language={language} onDetails={setDetails} onPlay={openPlay} refreshToken={catalog?.source?.lastSuccessfulAt}/>)}</div>{filtered.length>limit&&<div className="load-more"><p>{t.outOf(Math.min(limit,filtered.length),filtered.length)}</p><button onClick={()=>setLimit(n=>n+30)}>{t.loadMore}<ArrowRight size={18}/></button></div>}</>:<div className="empty-state"><div className="empty-icon">{!catalog?<WarningCircle size={34} weight="light"/>:<MagnifyingGlass size={34} weight="light"/>}</div><h2>{!catalog?t.noData:query?t.noResults:t.emptyCategory}</h2><p>{!catalog?t.noDataHint:query?t.noResultsHint:t.emptyCategoryHint}</p><button onClick={!catalog?refresh:reset}>{!catalog?t.tryAgain:t.reset}<ArrowRight size={17}/></button>{!catalog&&<External href={REPO}>{t.repository}<ArrowUpRight size={15}/></External>}</div>}
       </section>
       <section className="seo-intro" aria-labelledby="seo-title">
         <div className="seo-intro-heading">
@@ -237,6 +283,7 @@ export function App() {
     <footer className="page-footer"><div><span>{t.footer}</span><External href={GUIDE_URL}>{language==='zh'?'GPT-6 指南':'GPT-6 guide'}<ArrowUpRight size={13}/></External><External href={REPO}>{t.repository}<ArrowUpRight size={13}/></External></div><span className="footer-sync">{t.update}</span></footer>
     </main>
     <dialog ref={aboutRef} className="info-dialog" onClick={e=>{if(e.target===e.currentTarget)aboutRef.current.close();}}><div className="dialog-content"><button className="dialog-close" onClick={()=>aboutRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">ASTRA / COMMUNITY SHOWCASE</span><h2>{t.aboutTitle}</h2><p>{t.aboutBody}</p><h3>{t.sourceTitle}</h3><p>{t.sourceBody}</p><External className="dialog-link" href={GUIDE_URL}>GPT-6 Astra 国内使用指南<ArrowUpRight size={16}/></External><External className="dialog-link" href={GUIDE_REPO}>xianyu110/GPT6<ArrowUpRight size={16}/></External><External className="dialog-link" href={REPO}>xianyu110/awesome-gpt-6-astra<ArrowUpRight size={16}/></External><div className="dialog-update"><CheckCircle size={16}/><span>{t.update}<br/>{t.lastChecked}：{checked}</span></div><p className="legal-note">{t.note}</p></div></dialog>
-    <dialog ref={detailRef} className="info-dialog" onClose={()=>setDetails(null)} onClick={e=>{if(e.target===e.currentTarget)detailRef.current.close();}}>{details&&<div className="dialog-content"><button className="dialog-close" onClick={()=>detailRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">{t.details}</span><h2>{details.name}</h2><p>{details.description}</p><dl className="detail-facts"><div><dt>{t.author}</dt><dd>{details.author?.url?<External href={details.author.url}>{details.author.name}<ArrowUpRight size={13}/></External>:details.author?.name||'—'}</dd></div><div><dt>{t.category}</dt><dd>{details.sourceCategory}</dd></div></dl><div className="detail-actions"><External href={details.demoUrl||details.sourceUrl} className="primary-button">{details.demoUrl?t.experience:t.view}<ArrowUpRight size={18}/></External>{details.sourceUrl&&<External className="secondary-button" href={details.sourceUrl}><Code size={18}/>{t.code}</External>}</div></div>}</dialog>
+    <dialog ref={detailRef} className="info-dialog" onClose={()=>setDetails(null)} onClick={e=>{if(e.target===e.currentTarget)detailRef.current.close();}}>{details&&<div className="dialog-content"><button className="dialog-close" onClick={()=>detailRef.current.close()} aria-label={t.close}><X size={22}/></button><span className="dialog-eyebrow">{t.details}</span><h2>{details.name}</h2><p>{details.description}</p><dl className="detail-facts"><div><dt>{t.author}</dt><dd>{details.author?.url?<External href={details.author.url}>{details.author.name}<ArrowUpRight size={13}/></External>:details.author?.name||'—'}</dd></div><div><dt>{t.category}</dt><dd>{details.sourceCategory}</dd></div></dl><div className="detail-actions">{safeUrl(details.demoUrl)?<button type="button" className="primary-button" onClick={()=>{detailRef.current?.close();openPlay(details);}}>{t.playHere}<Play size={18} weight="fill"/></button>:<External href={details.demoUrl||details.sourceUrl} className="primary-button">{t.view}<ArrowUpRight size={18}/></External>}{details.sourceUrl&&<External className="secondary-button" href={details.sourceUrl}><Code size={18}/>{t.code}</External>}</div></div>}</dialog>
+    <PlayOverlay work={playWork} language={language} dialogRef={playRef} onClose={()=>{playRef.current?.close();setPlayWork(null);}}/>
   </div>;
 }
