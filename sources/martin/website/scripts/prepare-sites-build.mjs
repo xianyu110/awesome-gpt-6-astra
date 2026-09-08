@@ -59,7 +59,7 @@ function normalizeImage(value) {
 }
 
 async function fetchTweetPreview(work) {
-  const id = xStatusId(work.demoUrl);
+  const id = xStatusId(work.demoUrl) || xStatusId(work.sourceUrl);
   if (!id) return null;
   try {
     const response = await fetch(`https://api.fxtwitter.com/status/${id}`, {
@@ -76,6 +76,31 @@ async function fetchTweetPreview(work) {
       posterUrl: media?.type === "video" ? imageProxy(media.thumbnail_url) : null,
       videoUrl: media?.type === "video" ? media.url : null,
     };
+  } catch {
+    return null;
+  }
+}
+
+
+async function fetchOgImage(work) {
+  const value = work.demoUrl;
+  if (!value || xStatusId(value)) return null;
+  try {
+    const response = await fetch(value, {
+      headers: { "User-Agent": "AstraShowcase/1.0 (public project preview)", Accept: "text/html" },
+      signal: AbortSignal.timeout(7000),
+      redirect: "follow",
+    });
+    if (!response.ok) return null;
+    const html = await response.text();
+    const match = html.match(/property=["']og:image["'][^>]*content=["']([^"']+)["']/i)
+      || html.match(/content=["']([^"']+)["'][^>]*property=["']og:image["']/i)
+      || html.match(/name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i);
+    if (!match?.[1]) return null;
+    let img = match[1].trim();
+    if (img.startsWith("//")) img = `https:${img}`;
+    if (!/^https?:\/\//i.test(img)) return null;
+    return { imageUrl: normalizeImage(img), posterUrl: null, videoUrl: null };
   } catch {
     return null;
   }
@@ -99,7 +124,7 @@ async function enrichPreviews(works) {
   const results = new Map();
   for (let index = 0; index < candidates.length; index += 6) {
     const batch = await Promise.all(
-      candidates.slice(index, index + 6).map(async (work) => [work.id, await fetchTweetPreview(work)]),
+      candidates.slice(index, index + 6).map(async (work) => [work.id, await fetchTweetPreview(work) || await fetchOgImage(work)]),
     );
     for (const [id, preview] of batch) results.set(id, preview);
   }
