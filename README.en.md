@@ -33,6 +33,8 @@ The [CheerSelfAI collection](https://cheerselfai.com/usecase/gpt-6-astra) covers
 
 ## Contents
 
+- [Playable demos with trial links](PLAYABLE.md)
+
 - [Official Resources](#official-resources)
 - [Community Projects](#community-projects)
 - [Viral Demos](#viral-demos)
@@ -43,6 +45,11 @@ The [CheerSelfAI collection](https://cheerselfai.com/usecase/gpt-6-astra) covers
 - [Contributing](#contributing)
 
 ---
+
+
+## Playable demos (with trial links)
+
+See **[PLAYABLE.md](PLAYABLE.md)** for **78** verified browser playable demos. Every entry includes a full trial URL. Structured data: [`data/playable-demos.json`](data/playable-demos.json).
 
 ## Official Resources
 
