@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**78** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**80** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-08
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -12,8 +12,8 @@
 - [竞速 / 驾驶](#竞速--驾驶) — 11
 - [射击 / 动作](#射击--动作) — 6
 - [模拟经营 / 策略](#模拟经营--策略) — 4
-- [联机 / 多人](#联机--多人) — 2
-- [街机 / 小游戏包](#街机--小游戏包) — 5
+- [联机 / 多人](#联机--多人) — 3
+- [街机 / 小游戏包](#街机--小游戏包) — 6
 - [音乐 / 表演](#音乐--表演) — 7
 - [教育 / 科普](#教育--科普) — 1
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 23
@@ -141,33 +141,41 @@
 
 ## 联机 / 多人
 
-1. **Lumbridge | Old-school multiplayer adventure** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 702
+1. **Chao Garden / Chao Party — SA2 browser multiplayer** — [试玩](https://chao.party) · [原帖](https://x.com/h4nkdog/status/2097308970431987857) · ❤ 6
+   - 试玩链接：`https://chao.party`
+   - 原帖：https://x.com/h4nkdog/status/2097308970431987857
+
+2. **Lumbridge | Old-school multiplayer adventure** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 702
    - 试玩链接：`https://elderwood-realms.rohannvarma.chatgpt.site/`
    - 原帖：https://x.com/TheRohanVarma/status/2096744577332068549
 
-2. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
+3. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
    - 试玩链接：`https://unstable-stables-online.danielgui30.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096282857400652262
 
 ## 街机 / 小游戏包
 
-1. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
+1. **Butterball Run — dinner-table three.js** — [试玩](https://butterball-run.jeraldine-t.chatgpt.site) · [原帖](https://x.com/SecretSeoul/status/2097315757931811081) · ❤ 1
+   - 试玩链接：`https://butterball-run.jeraldine-t.chatgpt.site`
+   - 原帖：https://x.com/SecretSeoul/status/2097315757931811081
+
+2. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
    - 试玩链接：`https://astra-arcade.antonioleivag.chatgpt.site`
    - 原帖：https://x.com/antonioleivag/status/2096509898481651770
 
-2. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
+3. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
    - 试玩链接：`https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/`
    - 原帖：https://x.com/DantesClown/status/2096085439052452064
 
-3. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
+4. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
    - 试玩链接：`https://astragames.lol`
    - 原帖：https://x.com/i/status/2096377756062027894
 
-4. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
+5. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
    - 试玩链接：`https://astragames.aigccreative.com/en`
    - 原帖：https://x.com/marindeloph/status/2096901528166793595
 
-5. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
+6. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
    - 试玩链接：`https://kutular-oyunu.tuned-lion-2154.chatgpt.site`
    - 原帖：https://x.com/nzmdgnc/status/2095803218135544027
 
