@@ -35,7 +35,7 @@ UPSTREAMS = (
     Upstream(
         "MartinDelophy/awesome-gpt-6-astra",
         "sources/martin",
-        ("README.md", "README.en.md"),
+        ("README.md", "README.zh-CN.md"),
     ),
     Upstream(
         "helloianneo/awesome-gpt6-astra",
@@ -87,7 +87,13 @@ def sync_upstream(upstream: Upstream) -> tuple[str, str, bool]:
     changed = False
     for filename in upstream.files:
         raw_url = f"https://raw.githubusercontent.com/{upstream.repo}/{branch}/{filename}"
-        content = fetch_text(raw_url).replace("\r\n", "\n")
+        try:
+            content = fetch_text(raw_url).replace("\r\n", "\n")
+        except urllib.error.HTTPError as error:
+            if error.code == 404:
+                print(f"跳过缺失文件：{upstream.repo}/{filename}")
+                continue
+            raise
         destination = ROOT / upstream.destination / filename
         destination.parent.mkdir(parents=True, exist_ok=True)
         if not destination.exists() or destination.read_text(encoding="utf-8") != content:
@@ -198,11 +204,16 @@ def main() -> int:
 
     timestamp = datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
     statuses = []
+    failures = []
     for upstream in UPSTREAMS:
         try:
             statuses.append(sync_upstream(upstream))
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as error:
-            raise SystemExit(f"同步失败：{upstream.repo}: {error}") from error
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as error:
+            print(f"同步跳过：{upstream.repo}: {error}")
+            failures.append(f"{upstream.repo}: {error}")
+            statuses.append((upstream.repo, "", False))
+    if failures and all(not item[1] for item in statuses):
+        raise SystemExit("全部上游同步失败：\n" + "\n".join(failures))
     changed = any(item[2] for item in statuses)
     first_run = "尚未运行自动同步工作流" in README.read_text(encoding="utf-8")
     has_generated_content = CONTENT_BEGIN in README.read_text(encoding="utf-8")
