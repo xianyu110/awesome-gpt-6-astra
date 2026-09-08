@@ -8,7 +8,7 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **4 个可直接体验的游戏/沙盒**、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **667 个独立案例**。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **[78 个已核验可玩 Demo](PLAYABLE.md)**（每条附试玩链接）、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **667 个独立案例**。
 
 配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
 
@@ -44,6 +44,8 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 - [X 线程新增案例（去重 28 条）](#x-线程新增案例去重-28-条)
 - [收录说明](#收录说明)
 - [关于作者](#关于作者)
+- [可玩 Demo 合集（含试玩链接）](PLAYABLE.md)
+
 
 ## 精选 16
 
@@ -251,20 +253,23 @@ Computer Use 在 Canva 里实操组装画像。
 
 ## 可直接体验的游戏与沙盒
 
-以下 4 项来自 MartinDelophy 清单，保留试玩、源码和模型参与说明。
+完整清单（**78** 条，每条都附带试玩链接，已探活去重）见：**[PLAYABLE.md](PLAYABLE.md)** · 数据：[`data/playable-demos.json`](data/playable-demos.json)
 
-### 动作与街机
+下面是一组高信号速览（完整 URL，可直接点开）：
 
-- **[Mosswing](https://mosswing-quiet-flight.jack-514.chatgpt.site/)** — 3D 单键飞行，控制小翼穿越障碍间隙得分。作者：[Ayi1337](https://github.com/Ayi1337)。[One Shot Prompt 与记录](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md) · [源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)。
-- **[Magic Carpet Wizard — A Thousand Skies](https://threapchills.github.io/MagicCarpetWizard/)** — 驾驶魔毯探索球形世界，穿环、施法并挑战 Boss。作者：[threapchills](https://github.com/threapchills)。桌面浏览器，需要 WebGL 2；[Three.js/Vite 源码](https://github.com/threapchills/MagicCarpetWizard)。
+1. **STORM RACE** — 试玩：https://storm-race.vercel.app · 原帖：https://x.com/BubuStd/status/2096587056755638553
+2. **Brandenburg Piano** — 试玩：https://brandenburg-piano.vercel.app/ · 原帖：https://x.com/DeryaTR_/status/2096090915790069857
+3. **Anatomy, unfolded.** — 试玩：https://anatomy-unfolded.brianp.chatgpt.site · 原帖：https://x.com/i/status/2096253408009486619
+4. **Daybreak 钢琴** — 试玩：https://daybreak-piano-film.lexn8.chatgpt.site/ · 原帖：https://x.com/LexnLin/status/2096166277849239804
+5. **Lumbridge 多人冒险** — 试玩：https://elderwood-realms.rohannvarma.chatgpt.site/ · 原帖：https://x.com/TheRohanVarma/status/2096744577332068549
+6. **Pelagic 海洋** — 试玩：https://pelagic-ocean.lexn8.chatgpt.site · 原帖：https://x.com/i/status/2096341945979383932
+7. **Moonlit Forge** — 试玩：https://moonlit-forge-studio.op7418.chatgpt.site · 原帖：https://x.com/op7418/status/2096205141187956887
+8. **Flora Brush** — 试玩：https://flora-brush.soumya-raj.chatgpt.site · 原帖：https://x.com/soumyadesign/status/2096974030104666568
+9. **INFINITUM** — 试玩：https://infinitum-game.vercel.app/ · 原帖：https://x.com/HpMani56403/status/2097188417709002822
+10. **Neural Sight FPS** — 试玩：https://monstercameron.github.io/Neural-Sight/ · 原帖：https://x.com/monstercameron/status/2097117275127959629
+11. **秦王拧螺丝** — 试玩：https://qin-imperial-factory-221.xyjwyf123.chatgpt.site/
+12. **超级马里奥·蘑菇王国** — 试玩：https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/
 
-### 解谜与益智
-
-- **[瓜体实验室](https://melon-game.jack-514.chatgpt.site/)** — 半流体水果形变与碰撞的西瓜合成玩法。作者：[Ayi1337](https://github.com/Ayi1337)。[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/melon-lab/%E7%93%9C%E4%BD%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.html)。
-
-### 实验玩法
-
-- **[ORBITAL GARDEN · 轨道花园](https://orbital-garden.hp20230404.chatgpt.site)** — 48,000 颗光点在花、引力环和星系之间变形的粒子艺术沙盒。作者：[jackroc](https://github.com/jackroc)。支持 WebGL 的现代浏览器，免费、无需登录或 API Key；[创作记录](sources/martin/works/orbital-garden/README.md) · [源码与运行说明](sources/martin/works/orbital-garden/README.md) · [离线 HTML](sources/martin/works/orbital-garden/index.html) · [Prompt](sources/martin/works/orbital-garden/PROMPT.md)。
 
 ## 官方资源与模型信息
 
