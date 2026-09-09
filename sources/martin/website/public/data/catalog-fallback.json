@@ -1,6 +1,150 @@
 {
   "works": [
     {
+      "id": "work-3821930997250fa7",
+      "name": "Bonkshot",
+      "description": "可玩 Demo · 射击 / 动作 · Three.js 物理破坏弹射，GPT-6 Astra + Suno",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "edmund5",
+        "url": "https://x.com/edmund5"
+      },
+      "demoUrl": "https://bonkshot.com",
+      "sourceUrl": "https://x.com/edmund5/status/2097603093819261002",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097603026702028800%2Fimg%2Fl_Kq0ju2XY8aG701.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097603026702028800%2Fimg%2Fl_Kq0ju2XY8aG701.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1022
+    },
+    {
+      "id": "work-30060ec47d566636",
+      "name": "One More",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 高低猜牌连胜小游戏",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "gregavola",
+        "url": "https://x.com/gregavola"
+      },
+      "demoUrl": "https://onemoreapp.vercel.app",
+      "sourceUrl": "https://x.com/gregavola/status/2097318437030690831",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRsrlRqWoAAS7hJ.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRsrlRqWoAAS7hJ.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1023
+    },
+    {
+      "id": "work-34d374bac1c93db3",
+      "name": "iPhone Inside",
+      "description": "可玩 Demo · 工程 / 仿真 · 交互式 iPhone 3D 拆解",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "OpenDesignHQ",
+        "url": "https://x.com/OpenDesignHQ"
+      },
+      "demoUrl": "https://iphone-inside-vercel.vercel.app",
+      "sourceUrl": "https://x.com/OpenDesignHQ/status/2097256962497056962",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097255752973127680%2Fimg%2F-pthZGJC6NWkROHO.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097255752973127680%2Fimg%2F-pthZGJC6NWkROHO.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1024
+    },
+    {
+      "id": "work-95b2fe4e6ce80a36",
+      "name": "Bangalore GTA-style Three.js",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 班加罗尔 GTA 风 Three.js 场景",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "BuildFastWithAI",
+        "url": "https://x.com/BuildFastWithAI"
+      },
+      "demoUrl": "https://genaiexperiments.vercel.app",
+      "sourceUrl": "https://x.com/BuildFastWithAI/status/2097289129105223823",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097285091726938112%2Fimg%2F6sx4by4KjqLCad2t.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097285091726938112%2Fimg%2F6sx4by4KjqLCad2t.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1025
+    },
+    {
+      "id": "work-ac5bb6c0e86f2d2a",
+      "name": "FOREX WARS",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 外汇战争可玩 Demo",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "afterprime_com",
+        "url": "https://x.com/afterprime_com"
+      },
+      "demoUrl": "https://afterprime-forex-wars.argamon-2254.chatgpt.site/",
+      "sourceUrl": "https://x.com/afterprime_com/status/2097159628119535866",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRqbikqbMAAvjwB.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHRqbikqbMAAvjwB.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1026
+    },
+    {
+      "id": "work-737515ccf06e471b",
+      "name": "Bengaluru ORR Rush",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 班加罗尔外环路竞速",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "ravithejads",
+        "url": "https://x.com/ravithejads"
+      },
+      "demoUrl": "https://orr-rush-bengaluru.ravitheja.chatgpt.site/",
+      "sourceUrl": "https://x.com/ravithejads/status/2097181044625887392",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097180643365146624%2Fimg%2FiiGSdsb_AwhE3eRz.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097180643365146624%2Fimg%2FiiGSdsb_AwhE3eRz.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1027
+    },
+    {
+      "id": "work-7c487fafbc2bd83a",
+      "name": "AFTERLIGHT",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · AFTERLIGHT 可玩场景",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "jhahimanshu653",
+        "url": "https://x.com/jhahimanshu653"
+      },
+      "demoUrl": "https://afterlight.a-9724.chatgpt.site",
+      "sourceUrl": "https://x.com/jhahimanshu653/status/2097172185513357794",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097171752006844417%2Fimg%2F3Q_StgSWS-jTGdp2.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097171752006844417%2Fimg%2F3Q_StgSWS-jTGdp2.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1028
+    },
+    {
+      "id": "work-6f587c964e5ece3f",
+      "name": "诡秘之主 · Tarot Club",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 诡秘之主塔罗会可玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "TsinsiSun",
+        "url": "https://x.com/TsinsiSun"
+      },
+      "demoUrl": "https://combos.game/play/c7eea0b6846f90a102537819c9147bd4",
+      "sourceUrl": "https://x.com/TsinsiSun/status/2097214405373300859",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097208508039192576%2Fimg%2F2LclG1wrdgyqMEHu.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097208508039192576%2Fimg%2F2LclG1wrdgyqMEHu.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1029
+    },
+    {
       "id": "work-b804c57bcee1770a",
       "name": "零点街区 · 弹壳特攻队 3D",
       "description": "可玩 Demo · 街机 / 小游戏包 · Sonic Astra 小游戏：弹壳特攻队 3D 离线版",
