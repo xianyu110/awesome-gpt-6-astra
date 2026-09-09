@@ -1,9 +1,9 @@
 {
   "works": [
     {
-      "id": "work-24b8f86e14d1ff2e",
-      "name": "ASCII DISTRICT — virus FPS",
-      "description": "可玩 Demo · 射击 / 动作 · ASCII 复古 FPS，电脑病毒当敌人，Codex+Astra 直出",
+      "id": "work-4b26cfbaf3acf31f",
+      "name": "ASCII DISTRICT",
+      "description": "可玩 Demo · 射击 / 动作 · ASCII 风 FPS，电脑病毒当敌人，Codex+Astra",
       "category": "game",
       "sourceCategory": "PLAYABLE · 射击 / 动作",
       "author": {
@@ -19,9 +19,9 @@
       "sourceOrder": -1009
     },
     {
-      "id": "work-f5b8b86ff3b3b097",
-      "name": "Chrome Slot Studio — fun-fact lever",
-      "description": "可玩 Demo · 街机 / 小游戏包 · 拉杆老虎机，每次吐一条个人有趣冷知识",
+      "id": "work-afa26f456718a58d",
+      "name": "Chrome Slot Studio — fun-fact slot",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 拉霸机每次吐一条个人趣闻，Astra 个人品牌小游戏",
       "category": "game",
       "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
       "author": {
@@ -37,9 +37,9 @@
       "sourceOrder": -1010
     },
     {
-      "id": "work-d64dc734a98522a2",
+      "id": "work-d0b0fe63588fbd1a",
       "name": "B-29 Superfortress Atlas",
-      "description": "可玩 Demo · 工程 / 仿真 · B-29 超级堡垒拆成 28 个部件，可旋转/平移/缩放看引擎与座舱",
+      "description": "可玩 Demo · 工程 / 仿真 · B-29 拆成 28 个部件，可旋转缩放爆炸视图",
       "category": "game",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
@@ -53,24 +53,6 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097554276067524608%2Fimg%2FCLGBK2Ux4MCuVPgM.jpg",
       "videoUrl": null,
       "sourceOrder": -1011
-    },
-    {
-      "id": "work-9a8e83197ddf0560",
-      "name": "Glass Rubik’s Cube",
-      "description": "可玩 Demo · 工程 / 仿真 · 可玩玻璃质感魔方，Three.js，约两小时迭代",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 工程 / 仿真",
-      "author": {
-        "name": "JanusTiu",
-        "url": "https://x.com/JanusTiu"
-      },
-      "demoUrl": "https://glass-cube.janustiu.com/",
-      "sourceUrl": "https://x.com/JanusTiu/status/2097519017963458684",
-      "repoUrl": "https://github.com/janus-tiu/glass-rubik-cube",
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097518964905820160%2Fimg%2Fjaj-ibwxFpbQ7fsA.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097518964905820160%2Fimg%2Fjaj-ibwxFpbQ7fsA.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1012
     },
     {
       "id": "work-9f6053150e543797",
@@ -13594,9 +13576,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-09T06:48:00.000Z",
-    "lastSuccessfulAt": "2026-09-09T06:48:00.000Z",
-    "revision": "playable-sync-20260909-1440",
+    "checkedAt": "2026-09-08T06:10:32.844Z",
+    "lastSuccessfulAt": "2026-09-08T06:10:32.844Z",
+    "revision": "playable-merge-20260908",
     "stale": false,
     "status": "fresh"
   },

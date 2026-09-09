@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**90** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**89** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-09
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 7
 - [教育 / 科普](#教育--科普) — 3
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 23
-- [工程 / 仿真](#工程--仿真) — 8
+- [工程 / 仿真](#工程--仿真) — 7
 - [其他可玩 Demo](#其他可玩-Demo) — 5
 
 ## 经典复刻 / 知名玩法
@@ -106,33 +106,33 @@
 
 ## 射击 / 动作
 
-1. **ASCII DISTRICT — virus FPS** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
-   - 试玩链接：`https://ascii-district.vercel.app/`
-   - 原帖：https://x.com/acker_code/status/2097542957070975286
-
-2. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
+1. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
    - 试玩链接：`https://last-light-northline.pages.dev`
    - 原帖：https://x.com/md_taqui_imam/status/2096255279650517081
 
-3. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
+2. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
    - 试玩链接：`https://fang-starlight-run.yosshy666.chatgpt.site/`
    - 原帖：https://x.com/FANGsaikyou/status/2096192445667283326
 
-4. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
+3. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
    - 试玩链接：`https://infinitum-game.vercel.app/`
    - 原帖：https://x.com/HpMani56403/status/2097188417709002822
 
-5. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
+4. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
    - 试玩链接：`https://prism-world-demo.krrish18.chatgpt.site`
    - 原帖：https://x.com/krishnap1810/status/2095633183567945941
 
-6. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
+5. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
    - 试玩链接：`https://knightmare-medusa-3d.robin-hwang.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096984386566815920
 
-7. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
+6. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
    - 试玩链接：`https://monstercameron.github.io/Neural-Sight/`
    - 原帖：https://x.com/monstercameron/status/2097117275127959629
+
+7. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
+   - 试玩链接：`https://ascii-district.vercel.app/`
+   - 原帖：https://x.com/acker_code/status/2097542957070975286
 
 
 ## 模拟经营 / 策略
@@ -171,33 +171,33 @@
 
 ## 街机 / 小游戏包
 
-1. **Chrome Slot Studio — fun-fact lever** — [试玩](https://chrome-slot-studio.sushmithanair1402.chatgpt.site/) · [原帖](https://x.com/sushmithanairws/status/2097539537652289872)
-   - 试玩链接：`https://chrome-slot-studio.sushmithanair1402.chatgpt.site/`
-   - 原帖：https://x.com/sushmithanairws/status/2097539537652289872
-
-2. **Butterball Run — dinner-table three.js** — [试玩](https://butterball-run.jeraldine-t.chatgpt.site) · [原帖](https://x.com/SecretSeoul/status/2097315757931811081) · ❤ 1
+1. **Butterball Run — dinner-table three.js** — [试玩](https://butterball-run.jeraldine-t.chatgpt.site) · [原帖](https://x.com/SecretSeoul/status/2097315757931811081) · ❤ 1
    - 试玩链接：`https://butterball-run.jeraldine-t.chatgpt.site`
    - 原帖：https://x.com/SecretSeoul/status/2097315757931811081
 
-3. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
+2. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
    - 试玩链接：`https://astra-arcade.antonioleivag.chatgpt.site`
    - 原帖：https://x.com/antonioleivag/status/2096509898481651770
 
-4. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
+3. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
    - 试玩链接：`https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/`
    - 原帖：https://x.com/DantesClown/status/2096085439052452064
 
-5. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
+4. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
    - 试玩链接：`https://astragames.lol`
    - 原帖：https://x.com/i/status/2096377756062027894
 
-6. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
+5. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
    - 试玩链接：`https://astragames.aigccreative.com/en`
    - 原帖：https://x.com/marindeloph/status/2096901528166793595
 
-7. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
+6. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
    - 试玩链接：`https://kutular-oyunu.tuned-lion-2154.chatgpt.site`
    - 原帖：https://x.com/nzmdgnc/status/2095803218135544027
+
+7. **Chrome Slot Studio — fun-fact slot** — [试玩](https://chrome-slot-studio.sushmithanair1402.chatgpt.site/) · [原帖](https://x.com/sushmithanairws/status/2097539537652289872)
+   - 试玩链接：`https://chrome-slot-studio.sushmithanair1402.chatgpt.site/`
+   - 原帖：https://x.com/sushmithanairws/status/2097539537652289872
 
 
 ## 音乐 / 表演
@@ -342,36 +342,32 @@
 
 ## 工程 / 仿真
 
-1. **B-29 Superfortress Atlas** — [试玩](https://b29-superfortress-atlas.ashujo.chatgpt.site/) · [原帖](https://x.com/curiouswavefn/status/2097555293676945853) · ❤ 2
-   - 试玩链接：`https://b29-superfortress-atlas.ashujo.chatgpt.site/`
-   - 原帖：https://x.com/curiouswavefn/status/2097555293676945853
-
-2. **Glass Rubik’s Cube** — [试玩](https://glass-cube.janustiu.com/) · [原帖](https://x.com/JanusTiu/status/2097519017963458684) · ❤ 3
-   - 试玩链接：`https://glass-cube.janustiu.com/`
-   - 原帖：https://x.com/JanusTiu/status/2097519017963458684
-
-3. **Topological Rubik’s Synchronizer** — [试玩](https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/) · [原帖](https://x.com/i/status/2096304797687099568) · ❤ 10
+1. **Topological Rubik’s Synchronizer** — [试玩](https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/) · [原帖](https://x.com/i/status/2096304797687099568) · ❤ 10
    - 试玩链接：`https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096304797687099568
 
-4. **MECHANICA — W12 Engine Lab** — [试玩](https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/) · [原帖](https://x.com/i/status/2096346500364206536) · ❤ 2
+2. **MECHANICA — W12 Engine Lab** — [试玩](https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/) · [原帖](https://x.com/i/status/2096346500364206536) · ❤ 2
    - 试玩链接：`https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096346500364206536
 
-5. **RB19 交互仿真** — [试玩](https://rb19-engineering-lab.moraxc.chatgpt.site/)
+3. **RB19 交互仿真** — [试玩](https://rb19-engineering-lab.moraxc.chatgpt.site/)
    - 试玩链接：`https://rb19-engineering-lab.moraxc.chatgpt.site/`
 
-6. **スマートトレイン学習サイト｜マトレイン** — [试玩](https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks) · [原帖](https://x.com/shosuke_railfan/status/2095825467886784550)
+4. **スマートトレイン学習サイト｜マトレイン** — [试玩](https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks) · [原帖](https://x.com/shosuke_railfan/status/2095825467886784550)
    - 试玩链接：`https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks`
    - 原帖：https://x.com/shosuke_railfan/status/2095825467886784550
 
-7. **Portal Viewer** — [试玩](https://portal-headview-3d.leo1973.chatgpt.site/) · [原帖](https://x.com/SexyTechNews/status/2095982479396188179)
+5. **Portal Viewer** — [试玩](https://portal-headview-3d.leo1973.chatgpt.site/) · [原帖](https://x.com/SexyTechNews/status/2095982479396188179)
    - 试玩链接：`https://portal-headview-3d.leo1973.chatgpt.site/`
    - 原帖：https://x.com/SexyTechNews/status/2095982479396188179
 
-8. **CARGO LAB · 컨테이너 적재 시뮬레이터** — [试玩](https://cargo-lab.nanggo.chatgpt.site) · [原帖](https://x.com/nanggos/status/2096582509035438291)
+6. **CARGO LAB · 컨테이너 적재 시뮬레이터** — [试玩](https://cargo-lab.nanggo.chatgpt.site) · [原帖](https://x.com/nanggos/status/2096582509035438291)
    - 试玩链接：`https://cargo-lab.nanggo.chatgpt.site`
    - 原帖：https://x.com/nanggos/status/2096582509035438291
+
+7. **B-29 Superfortress Atlas** — [试玩](https://b29-superfortress-atlas.ashujo.chatgpt.site/) · [原帖](https://x.com/curiouswavefn/status/2097555293676945853)
+   - 试玩链接：`https://b29-superfortress-atlas.ashujo.chatgpt.site/`
+   - 原帖：https://x.com/curiouswavefn/status/2097555293676945853
 
 
 ## 其他可玩 Demo
