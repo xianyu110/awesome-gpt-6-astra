@@ -8,7 +8,7 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **[78 个已核验可玩 Demo](PLAYABLE.md)**（每条附试玩链接）、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **667 个独立案例**。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **[86 个已核验可玩 Demo](PLAYABLE.md)**（每条附试玩链接）、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **751 个独立作品**。
 
 配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
 
@@ -236,6 +236,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ## 收录说明
 
+- 网站侧栏分类为 website/app/tool/game/experiment/other，由作品标题与来源栏目自动归类；可玩 Demo 见 [PLAYABLE.md](PLAYABLE.md)。
 - 收的是能点回原作的成果，不是用法教程。
 - 预览图为原帖缩略图，本仓库不转存视频。
 - 时长、配额、成本均为作者自述。
@@ -253,7 +254,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ## 可直接体验的游戏与沙盒
 
-完整清单（**78** 条，每条都附带试玩链接，已探活去重）见：**[PLAYABLE.md](PLAYABLE.md)** · 数据：[`data/playable-demos.json`](data/playable-demos.json)
+完整清单（**86** 条，每条都附带试玩链接，已探活去重）见：**[PLAYABLE.md](PLAYABLE.md)** · 数据：[`data/playable-demos.json`](data/playable-demos.json)
 
 下面是一组高信号速览（完整 URL，可直接点开）：
 
@@ -474,7 +475,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## CheerSelfAI：610 个使用案例
 
-来源页面：[GPT-6 Astra 使用案例](https://cheerselfai.com/usecase/gpt-6-astra)。页面公开结构化数据共 610 条，与原目录按 X 原帖 URL 去重后新增 518 条、重合 92 条；同时清理原目录跨来源重复项，网站合计 667 个独立案例。以下在 README 直接列出全部标题和原始出处；摘要、作者、分类与证据边界见[完整本地快照](sources/cheerselfai/README.md)。视频仍在原帖或来源站播放，本仓库不保存视频。
+来源页面：[GPT-6 Astra 使用案例](https://cheerselfai.com/usecase/gpt-6-astra)。页面公开结构化数据共 610 条，与原目录按 X 原帖 URL 去重后新增 518 条、重合 92 条；同时清理原目录跨来源重复项，网站合计 **751** 个独立作品（含可玩 Demo 与后续增补）。以下在 README 直接列出全部标题和原始出处；摘要、作者、分类与证据边界见[完整本地快照](sources/cheerselfai/README.md)。视频仍在原帖或来源站播放，本仓库不保存视频。
 
 1. [Zork 文字冒险改为 3D 动作冒险](https://x.com/emollick/status/2096047660662722620) · [45 分钟生成 3D 游戏](https://x.com/anshuc/status/2096008083826725132) · [Godot 索尼克风格游戏档位对照](https://x.com/AiBattle_/status/2095994051354919049) · [浏览器第三人称动作游戏](https://x.com/superalesha/status/2095988972879335792)
 2. [反重力竞速游戏](https://x.com/superalesha/status/2095967568825582044) · [Mario Kart 风格赛车](https://x.com/DeryaTR_/status/2095945186643710171) · [Gogh Strike 艺术风格射击游戏](https://x.com/petergostev/status/2096013280519016608) · [Cut the Rope 风格解谜游戏](https://x.com/mirochill/status/2095968487994732974)
