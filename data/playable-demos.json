@@ -1,5 +1,61 @@
 [
   {
+    "title": "零点街区 · 弹壳特攻队 3D",
+    "demo_url": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+    "post_url": "https://x.com/sonic0828/status/2097601232877781344",
+    "likes": 13,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "SKICROSS · 极地速降",
+    "demo_url": "https://iamsonic.net/2026/mini-games/skicross.html",
+    "post_url": "https://x.com/sonic0828/status/2097601232877781344",
+    "likes": 13,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "UNDERGROUND — 地下拳场",
+    "demo_url": "https://iamsonic.net/2026/mini-games/underground-boxing.html",
+    "post_url": "https://x.com/sonic0828/status/2097601232877781344",
+    "likes": 13,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "街头小子 · Urban Champion 3D",
+    "demo_url": "https://iamsonic.net/2026/mini-games/urban-champion.html",
+    "post_url": "https://x.com/sonic0828/status/2097601232877781344",
+    "likes": 13,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "M—Dial / Motion study",
+    "demo_url": "https://video-to-3d.vercel.app/",
+    "post_url": "https://x.com/henry19840301/status/2097588270171660321",
+    "likes": 45,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "Inside the Blowup — A living mathematical book",
+    "demo_url": "https://explain-navier-stokes.netlify.app/",
+    "post_url": "https://x.com/aurel_pr/status/2097588775710818472",
+    "likes": 0,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Gamlebyen 3D · Fredrikstad",
+    "demo_url": "https://gamlebyen-3d-atlas.stefano-nichele.chatgpt.site/",
+    "post_url": "https://x.com/stenichele/status/2097269732332249577",
+    "likes": 0,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "20A Tarrant Drive · Spatial tour",
+    "demo_url": "https://tarrant-walkthrough.rongchenxuan12345.chatgpt.site/",
+    "post_url": null,
+    "likes": null,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
     "title": "Harbor Skirmish — Three.js naval battle",
     "demo_url": "https://gpt6astra-game.vercel.app/",
     "post_url": "https://x.com/OpenDesignHQ/status/2097635757917983223",

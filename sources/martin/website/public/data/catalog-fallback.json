@@ -1,6 +1,150 @@
 {
   "works": [
     {
+      "id": "work-b804c57bcee1770a",
+      "name": "零点街区 · 弹壳特攻队 3D",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Sonic Astra 小游戏：弹壳特攻队 3D 离线版",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "sonic0828",
+        "url": "https://x.com/sonic0828"
+      },
+      "demoUrl": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+      "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600704353624064%2Fimg%2FswadGmWgXdDyADXP.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600704353624064%2Fimg%2FswadGmWgXdDyADXP.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1014
+    },
+    {
+      "id": "work-2afd72d658a118ed",
+      "name": "SKICROSS · 极地速降",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Sonic Astra 小游戏：极地速降离线版",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "sonic0828",
+        "url": "https://x.com/sonic0828"
+      },
+      "demoUrl": "https://iamsonic.net/2026/mini-games/skicross.html",
+      "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600719927054336%2Fimg%2F_TtJF8HrYSU6VlKE.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600719927054336%2Fimg%2F_TtJF8HrYSU6VlKE.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1015
+    },
+    {
+      "id": "work-110eb6b0d2cacba8",
+      "name": "UNDERGROUND",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Sonic Astra 小游戏：地下拳场",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "sonic0828",
+        "url": "https://x.com/sonic0828"
+      },
+      "demoUrl": "https://iamsonic.net/2026/mini-games/underground-boxing.html",
+      "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600750457434112%2Fimg%2FYc35oBf2OaGBAx4h.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600750457434112%2Fimg%2FYc35oBf2OaGBAx4h.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1016
+    },
+    {
+      "id": "work-5ed24019b4bc6c2f",
+      "name": "街头小子 · Urban Champion 3D",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Sonic Astra 小游戏：Urban Champion 3D 复刻",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "sonic0828",
+        "url": "https://x.com/sonic0828"
+      },
+      "demoUrl": "https://iamsonic.net/2026/mini-games/urban-champion.html",
+      "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600770095132672%2Fimg%2FWGzY-nUYB_2keW-c.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097600770095132672%2Fimg%2FWGzY-nUYB_2keW-c.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1017
+    },
+    {
+      "id": "work-754d04274b964fa9",
+      "name": "M—Dial / Motion study",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 短视频一键重建为可交互 Three.js 场景（几何/材质/灯光/运动）",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "henry19840301",
+        "url": "https://x.com/henry19840301"
+      },
+      "demoUrl": "https://video-to-3d.vercel.app/",
+      "sourceUrl": "https://x.com/henry19840301/status/2097588270171660321",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097586271963246592%2Fimg%2FlOzxkR-CCeDui2LP.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097586271963246592%2Fimg%2FlOzxkR-CCeDui2LP.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1018
+    },
+    {
+      "id": "work-84273d8f4357bea8",
+      "name": "Inside the Blowup",
+      "description": "可玩 Demo · 教育 / 科普 · Navier–Stokes 互动教科书，幼儿园到教授多档讲解",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "aurel_pr",
+        "url": "https://x.com/aurel_pr"
+      },
+      "demoUrl": "https://explain-navier-stokes.netlify.app/",
+      "sourceUrl": "https://x.com/aurel_pr/status/2097588775710818472",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097588651710423041%2Fimg%2Fq4wK0lJJKTNxCCdJ.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097588651710423041%2Fimg%2Fq4wK0lJJKTNxCCdJ.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1019
+    },
+    {
+      "id": "work-e4b3aae8b102cfe1",
+      "name": "Gamlebyen 3D · Fredrikstad",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 挪威腓特烈斯塔旧城互动 3D 地图，OpenStreetMap + Kartverket",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "stenichele",
+        "url": "https://x.com/stenichele"
+      },
+      "demoUrl": "https://gamlebyen-3d-atlas.stefano-nichele.chatgpt.site/",
+      "sourceUrl": "https://x.com/stenichele/status/2097269732332249577",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097269239014940672%2Fimg%2FsAIF9iBXbC8MxVox.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097269239014940672%2Fimg%2FsAIF9iBXbC8MxVox.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1020
+    },
+    {
+      "id": "work-c6034b6f04d1c436",
+      "name": "20A Tarrant Drive · Spatial tour",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 房产空间漫游 3D 导览",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "rongchenxuan12345",
+        "url": null
+      },
+      "demoUrl": "https://tarrant-walkthrough.rongchenxuan12345.chatgpt.site/",
+      "sourceUrl": null,
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": -1021
+    },
+    {
       "id": "work-0df6eab4b08d9cec",
       "name": "Harbor Skirmish",
       "description": "可玩 Demo · 射击 / 动作 · 港口海战 Three.js；同帖对照 DeepSeek V4.1 Flash 版",
