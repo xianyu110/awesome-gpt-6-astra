@@ -2,7 +2,7 @@
 
 > Merged community index of GPT-6 Astra games, demos, projects, prompts, and benchmarks.
 
-This repository consolidates the public material from four GitHub lists plus the [CheerSelfAI 610-use-case map](https://cheerselfai.com/usecase/gpt-6-astra). After URL deduplication, the website contains 667 independent cases. The full Chinese index is available in [README.md](README.md); original files, images, templates, and licenses are preserved under [`sources/`](sources/).
+This repository consolidates the public material from four GitHub lists plus the [CheerSelfAI 610-use-case map](https://cheerselfai.com/usecase/gpt-6-astra). After URL deduplication, the website showcase contains **751** independent works (including playable demos). Sidebar categories are website/app/tool/game/experiment/other, inferred from titles and source sections; see [PLAYABLE.md](PLAYABLE.md) for playable demos. The full Chinese index is available in [README.md](README.md); original files, images, templates, and licenses are preserved under [`sources/`](sources/).
 
 Companion entry points: [GPT-6 Astra field guide](https://xianyu110.github.io/GPT6/) · [guide repository](https://github.com/xianyu110/GPT6)
 
