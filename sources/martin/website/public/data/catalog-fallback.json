@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-0df6eab4b08d9cec",
+      "name": "Harbor Skirmish",
+      "description": "可玩 Demo · 射击 / 动作 · 港口海战 Three.js；同帖对照 DeepSeek V4.1 Flash 版",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "OpenDesignHQ",
+        "url": "https://x.com/OpenDesignHQ"
+      },
+      "demoUrl": "https://gpt6astra-game.vercel.app/",
+      "sourceUrl": "https://x.com/OpenDesignHQ/status/2097635757917983223",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097629098801782784%2Fimg%2FfXhiNgCYvamXGkJa.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097629098801782784%2Fimg%2FfXhiNgCYvamXGkJa.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1012
+    },
+    {
+      "id": "work-d003452903aa5799",
+      "name": "Matter",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 律所经济学互动游戏，给初级律师的财务素养关卡",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "shreya_vajpei",
+        "url": "https://x.com/shreya_vajpei"
+      },
+      "demoUrl": "https://matter-economics.shreya-vajpei.chatgpt.site",
+      "sourceUrl": "https://x.com/shreya_vajpei/status/2097619671339929620",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097619300047835136%2Fimg%2FU43p-lf4wuoPnTgG.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097619300047835136%2Fimg%2FU43p-lf4wuoPnTgG.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1013
+    },
+    {
       "id": "work-4b26cfbaf3acf31f",
       "name": "ASCII DISTRICT",
       "description": "可玩 Demo · 射击 / 动作 · ASCII 风 FPS，电脑病毒当敌人，Codex+Astra",

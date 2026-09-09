@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**89** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**91** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-09
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,8 +10,8 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 10
 - [竞速 / 驾驶](#竞速--驾驶) — 12
-- [射击 / 动作](#射击--动作) — 7
-- [模拟经营 / 策略](#模拟经营--策略) — 4
+- [射击 / 动作](#射击--动作) — 8
+- [模拟经营 / 策略](#模拟经营--策略) — 5
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 7
 - [音乐 / 表演](#音乐--表演) — 7
@@ -106,50 +106,59 @@
 
 ## 射击 / 动作
 
-1. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
+1. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
+   - 试玩链接：`https://gpt6astra-game.vercel.app/`
+   - 原帖：https://x.com/OpenDesignHQ/status/2097635757917983223
+
+2. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
    - 试玩链接：`https://last-light-northline.pages.dev`
    - 原帖：https://x.com/md_taqui_imam/status/2096255279650517081
 
-2. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
+3. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
    - 试玩链接：`https://fang-starlight-run.yosshy666.chatgpt.site/`
    - 原帖：https://x.com/FANGsaikyou/status/2096192445667283326
 
-3. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
+4. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
    - 试玩链接：`https://infinitum-game.vercel.app/`
    - 原帖：https://x.com/HpMani56403/status/2097188417709002822
 
-4. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
+5. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
    - 试玩链接：`https://prism-world-demo.krrish18.chatgpt.site`
    - 原帖：https://x.com/krishnap1810/status/2095633183567945941
 
-5. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
+6. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
    - 试玩链接：`https://knightmare-medusa-3d.robin-hwang.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096984386566815920
 
-6. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
+7. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
    - 试玩链接：`https://monstercameron.github.io/Neural-Sight/`
    - 原帖：https://x.com/monstercameron/status/2097117275127959629
 
-7. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
+8. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
    - 试玩链接：`https://ascii-district.vercel.app/`
    - 原帖：https://x.com/acker_code/status/2097542957070975286
 
 
 ## 模拟经营 / 策略
 
-1. **秦王拧螺丝** — [试玩](https://qin-imperial-factory-221.xyjwyf123.chatgpt.site/)
+1. **Matter — law firm economics** — [试玩](https://matter-economics.shreya-vajpei.chatgpt.site) · [原帖](https://x.com/shreya_vajpei/status/2097619671339929620)
+   - 试玩链接：`https://matter-economics.shreya-vajpei.chatgpt.site`
+   - 原帖：https://x.com/shreya_vajpei/status/2097619671339929620
+
+2. **秦王拧螺丝** — [试玩](https://qin-imperial-factory-221.xyjwyf123.chatgpt.site/)
    - 试玩链接：`https://qin-imperial-factory-221.xyjwyf123.chatgpt.site/`
 
-2. **Web 三国** — [试玩](https://sanguo-wind-cloud.amery2010.workers.dev/)
+3. **Web 三国** — [试玩](https://sanguo-wind-cloud.amery2010.workers.dev/)
    - 试玩链接：`https://sanguo-wind-cloud.amery2010.workers.dev/`
 
-3. **Little Kingdom — 작은 왕국 체스** — [试玩](https://little-kingdom-chess.echo3042.chatgpt.site) · [原帖](https://x.com/echo3042/status/2096123409029886250)
+4. **Little Kingdom — 작은 왕국 체스** — [试玩](https://little-kingdom-chess.echo3042.chatgpt.site) · [原帖](https://x.com/echo3042/status/2096123409029886250)
    - 试玩链接：`https://little-kingdom-chess.echo3042.chatgpt.site`
    - 原帖：https://x.com/echo3042/status/2096123409029886250
 
-4. **Le Bon Rayon — Épicerie de quartier** — [试玩](https://le-bon-rayon.alexxondre.chatgpt.site) · [原帖](https://x.com/i/status/2096652925527314554)
+5. **Le Bon Rayon — Épicerie de quartier** — [试玩](https://le-bon-rayon.alexxondre.chatgpt.site) · [原帖](https://x.com/i/status/2096652925527314554)
    - 试玩链接：`https://le-bon-rayon.alexxondre.chatgpt.site`
    - 原帖：https://x.com/i/status/2096652925527314554
+
 
 ## 联机 / 多人
 
