@@ -76,18 +76,45 @@ function isNonWorkLink(link) {
   return url.hostname === 'github.com' && /\/(?:issues|pulls?|discussions|actions|settings)(?:\/|$)|\/(?:CONTRIBUTING|LICENSE|CODE_OF_CONDUCT)(?:\.md)?$/i.test(url.pathname);
 }
 
-export function classifyWork(sourceCategory, description = '', parents = '') {
+export function classifyWork(sourceCategory, description = '', parents = '', name = '') {
+  const GAME_RE = /游戏|动作|街机|解谜|益智|策略|模拟|冒险|跳跃|竞速|射击|通关|玩法|对战|闯关|FPS|RPG|Godot|SimCity|Mario|宝可梦|尖塔|索尼克|平台跳跃|可玩|\bgames?\b|arcade|puzzle|strategy|simulation|\brpg\b|adventure|racing|platformer/i;
+  const EXPERIMENT_RE = /艺术|实验|可视化|粒子|创意编程|3D\s*建模|宣传片|建模|\bexperiments?\b|\bcreative coding\b|\bvisualizations?\b|\bart\b/i;
   const classify = (text) => {
+    if (!text) return null;
     if (/网站|网页|落地页|官网|\bwebsites?\b|\blanding pages?\b|\bweb design\b/i.test(text)) return 'website';
     if (/应用|移动端|桌面端|\bapps?\b|\bapplications?\b|\bmobile\b|\bdesktop\b/i.test(text)) return 'app';
     if (/工具|效率|自动化|\btools?\b|\butilities\b|\bproductivity\b|\bautomation\b/i.test(text)) return 'tool';
-    if (/艺术|实验|可视化|粒子|创意编程|\bexperiments?\b|\bcreative coding\b|\bvisualizations?\b|\bart\b/i.test(text)) return 'experiment';
-    if (/游戏|动作|街机|解谜|益智|策略|模拟|冒险|跳跃|竞速|\bgames?\b|arcade|puzzle|strategy|simulation|\brpg|adventure|racing|platformer/i.test(text)) return 'game';
+    // Prefer game over experiment when both signals appear in the same text.
+    if (GAME_RE.test(text)) return 'game';
+    if (EXPERIMENT_RE.test(text)) return 'experiment';
     return null;
   };
-  // Broad “experimental games” sections may contain art and games: the description clarifies it.
-  if (/实验玩法|experimental.*multiplayer/i.test(sourceCategory)) return classify(description) || 'experiment';
-  return classify(sourceCategory) || classify(description) || classify(parents) || 'other';
+  // PLAYABLE subsections: interactive demos vs combat/arcade games.
+  if (/^PLAYABLE\s*·/i.test(sourceCategory)) {
+    if (/工程\s*\/\s*仿真|音乐\s*\/\s*表演|3D\s*场景\s*\/\s*氛围探索|教育\s*\/\s*科普/.test(sourceCategory)) {
+      return 'experiment';
+    }
+    return 'game';
+  }
+  // CheerSelfAI taxonomy labels map to site sidebar categories (see import_cheerself_snapshot.mjs).
+  if (/^CheerSelfAI\s*·/i.test(sourceCategory)) {
+    if (/游戏|玩法/.test(sourceCategory)) return 'game';
+    if (/界面与产品|产品流程/.test(sourceCategory)) return 'app';
+    if (/工程文件|代码迁移/.test(sourceCategory)) return 'tool';
+    if (/3D|建模|动效|视频|模拟|科学|可视化/.test(sourceCategory)) return 'experiment';
+    if (/研究|安全|办公|音乐/.test(sourceCategory)) return 'other';
+  }
+  // Broad “experimental games” sections may contain art and games: name/description clarify it.
+  if (/实验玩法|experimental.*multiplayer/i.test(sourceCategory)) {
+    return classify(name) || classify(description) || 'experiment';
+  }
+  // Website/app/tool stay early from category/description/parents; game beats experiment across all fields including name.
+  for (const text of [sourceCategory, description, parents]) {
+    const early = classify(text);
+    if (early === 'website' || early === 'app' || early === 'tool') return early;
+  }
+  if ([name, sourceCategory, description, parents].some((text) => text && GAME_RE.test(text))) return 'game';
+  return classify(sourceCategory) || classify(description) || classify(parents) || classify(name) || 'other';
 }
 
 function stableId(name, authorName) {
@@ -162,7 +189,7 @@ export function parseCatalogMarkdown(markdown, options = {}) {
       id: stableId(name, author.name),
       name,
       description: (description || '').replace(/^[\s—–\-:：·]+/, '').trim(),
-      category: classifyWork(sourceCategory, description, headings.map(h => h.text).join(' ')),
+      category: classifyWork(sourceCategory, description, headings.map(h => h.text).join(' '), name),
       sourceCategory,
       author,
       demoUrl,
