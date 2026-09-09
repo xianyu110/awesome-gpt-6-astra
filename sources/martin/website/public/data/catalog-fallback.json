@@ -1,6 +1,96 @@
 {
   "works": [
     {
+      "id": "work-9b8c2b287a0f3693",
+      "name": "Stick Fighter — multiplayer stick-death",
+      "description": "可玩 Demo · 联机 / 多人 · 早期 Stick Death 怀旧，火柴人对战联机",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "CtrlAltDwayne",
+        "url": "https://x.com/CtrlAltDwayne"
+      },
+      "demoUrl": "https://stick-fighter-production.up.railway.app",
+      "sourceUrl": "https://x.com/CtrlAltDwayne/status/2097499157967818780",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097497362541465600%2Fimg%2F3NLO21_dFUTocoWJ.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097497362541465600%2Fimg%2F3NLO21_dFUTocoWJ.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1003
+    },
+    {
+      "id": "work-a7b1af572bf00b9b",
+      "name": "Swat — fruit-fly connectome",
+      "description": "可玩 Demo · 教育 / 科普 · 果蝇连接组浏览器小游戏，Astra 纯前端",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "Harry__Rook",
+        "url": "https://x.com/Harry__Rook"
+      },
+      "demoUrl": "https://fruitfly-tiny-brain.vercel.app",
+      "sourceUrl": "https://x.com/Harry__Rook/status/2097504514286768478",
+      "repoUrl": "https://github.com/hrook1/Swat",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097504447580577792%2FxnFWef5v%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097504447580577792%2FxnFWef5v%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1004
+    },
+    {
+      "id": "work-7ba9bdfb3d80b6b1",
+      "name": "Strata Field Lab",
+      "description": "可玩 Demo · 教育 / 科普 · 地质笔记→交互 3D 标本馆（59 标本 + 测验）",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "IsaacAttuah",
+        "url": "https://x.com/IsaacAttuah"
+      },
+      "demoUrl": "https://isaacattuah.github.io/strata-field-lab/",
+      "sourceUrl": "https://x.com/IsaacAttuah/status/2097513288632299874",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097513217102688256%2Fimg%2F2qO6aSOwjZ01mn5v.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097513217102688256%2Fimg%2F2qO6aSOwjZ01mn5v.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1005
+    },
+    {
+      "id": "work-9be3fb80ff02ca1b",
+      "name": "Spy or Lie",
+      "description": "可玩 Demo · 其他可玩 Demo · Astra 一发入魂的虚张声势对局游戏",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "NateLorenzen",
+        "url": "https://x.com/NateLorenzen"
+      },
+      "demoUrl": "https://Spyorlie.com",
+      "sourceUrl": "https://x.com/NateLorenzen/status/2097504974683152559",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097381338890547201%2FspQAH0nJ%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097381338890547201%2FspQAH0nJ%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1006
+    },
+    {
+      "id": "work-1457d625c8a918dc",
+      "name": "JUNK RUN",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 废品场重力竞速小游戏",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "hermesailab",
+        "url": "https://x.com/hermesailab"
+      },
+      "demoUrl": "https://junk-run.pages.dev/",
+      "sourceUrl": "https://x.com/hermesailab/status/2097508053901840850",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097507933794045952%2Fimg%2FBx8NfNseavv4l6JH.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097507933794045952%2Fimg%2FBx8NfNseavv4l6JH.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1007
+    },
+    {
       "id": "work-f3c567c8e4ad9261",
       "name": "Chao Garden / Chao Party — SA2 browser multiplayer",
       "description": "可玩 Demo · 联机 / 多人 · Sonic Adventure 2 Chao Garden Three.js 浏览器联机移植",
