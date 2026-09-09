@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-24b8f86e14d1ff2e",
+      "name": "ASCII DISTRICT — virus FPS",
+      "description": "可玩 Demo · 射击 / 动作 · ASCII 复古 FPS，电脑病毒当敌人，Codex+Astra 直出",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "acker_code",
+        "url": "https://x.com/acker_code"
+      },
+      "demoUrl": "https://ascii-district.vercel.app/",
+      "sourceUrl": "https://x.com/acker_code/status/2097542957070975286",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097542446540300288%2Fimg%2Fqjy4GYPPoVU8QzZ7.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097542446540300288%2Fimg%2Fqjy4GYPPoVU8QzZ7.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1009
+    },
+    {
+      "id": "work-f5b8b86ff3b3b097",
+      "name": "Chrome Slot Studio — fun-fact lever",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 拉杆老虎机，每次吐一条个人有趣冷知识",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "sushmithanairws",
+        "url": "https://x.com/sushmithanairws"
+      },
+      "demoUrl": "https://chrome-slot-studio.sushmithanair1402.chatgpt.site/",
+      "sourceUrl": "https://x.com/sushmithanairws/status/2097539537652289872",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097539482736373760%2Fimg%2FS31FO6XlRCNj0aiU.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097539482736373760%2Fimg%2FS31FO6XlRCNj0aiU.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1010
+    },
+    {
+      "id": "work-d64dc734a98522a2",
+      "name": "B-29 Superfortress Atlas",
+      "description": "可玩 Demo · 工程 / 仿真 · B-29 超级堡垒拆成 28 个部件，可旋转/平移/缩放看引擎与座舱",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "curiouswavefn",
+        "url": "https://x.com/curiouswavefn"
+      },
+      "demoUrl": "https://b29-superfortress-atlas.ashujo.chatgpt.site/",
+      "sourceUrl": "https://x.com/curiouswavefn/status/2097555293676945853",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097554276067524608%2Fimg%2FCLGBK2Ux4MCuVPgM.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097554276067524608%2Fimg%2FCLGBK2Ux4MCuVPgM.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1011
+    },
+    {
+      "id": "work-9a8e83197ddf0560",
+      "name": "Glass Rubik’s Cube",
+      "description": "可玩 Demo · 工程 / 仿真 · 可玩玻璃质感魔方，Three.js，约两小时迭代",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "JanusTiu",
+        "url": "https://x.com/JanusTiu"
+      },
+      "demoUrl": "https://glass-cube.janustiu.com/",
+      "sourceUrl": "https://x.com/JanusTiu/status/2097519017963458684",
+      "repoUrl": "https://github.com/janus-tiu/glass-rubik-cube",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097518964905820160%2Fimg%2Fjaj-ibwxFpbQ7fsA.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097518964905820160%2Fimg%2Fjaj-ibwxFpbQ7fsA.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1012
+    },
+    {
       "id": "work-9f6053150e543797",
       "name": "八荒幻世 · 热血归来（176 / Dragon Warrior）",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · 176 / 八荒幻世，热血归来，三职业独立存档",
@@ -13522,9 +13594,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-08T06:10:32.844Z",
-    "lastSuccessfulAt": "2026-09-08T06:10:32.844Z",
-    "revision": "playable-merge-20260908",
+    "checkedAt": "2026-09-09T06:48:00.000Z",
+    "lastSuccessfulAt": "2026-09-09T06:48:00.000Z",
+    "revision": "playable-sync-20260909-1440",
     "stale": false,
     "status": "fresh"
   },
