@@ -2,13 +2,13 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**85** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**86** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-09
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 9
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 10
 - [竞速 / 驾驶](#竞速--驾驶) — 12
 - [射击 / 动作](#射击--动作) — 6
 - [模拟经营 / 策略](#模拟经营--策略) — 4
@@ -51,6 +51,9 @@
 9. **Flappy Bird · Click to Fly** — [试玩](https://flappy-click-arcade-sept26.wesley-blomquist96.chatgpt.site/) · [原帖](https://x.com/i/status/2096347522226684105)
    - 试玩链接：`https://flappy-click-arcade-sept26.wesley-blomquist96.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096347522226684105
+
+10. **八荒幻世 · 热血归来（176 / Dragon Warrior）** — [试玩](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)
+   - 试玩链接：`https://mir176-dragon-warrior.geekcatxx.chatgpt.site/`
 
 ## 竞速 / 驾驶
 
