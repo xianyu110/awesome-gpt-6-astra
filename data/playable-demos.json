@@ -1,5 +1,61 @@
 [
   {
+    "title": "Bonkshot",
+    "demo_url": "https://bonkshot.com",
+    "post_url": "https://x.com/edmund5/status/2097603093819261002",
+    "likes": 0,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "One More",
+    "demo_url": "https://onemoreapp.vercel.app",
+    "post_url": "https://x.com/gregavola/status/2097318437030690831",
+    "likes": 2,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "iPhone Inside",
+    "demo_url": "https://iphone-inside-vercel.vercel.app",
+    "post_url": "https://x.com/OpenDesignHQ/status/2097256962497056962",
+    "likes": 21,
+    "category": "工程 / 仿真"
+  },
+  {
+    "title": "Bangalore GTA-style Three.js",
+    "demo_url": "https://genaiexperiments.vercel.app",
+    "post_url": "https://x.com/BuildFastWithAI/status/2097289129105223823",
+    "likes": 47,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "FOREX WARS",
+    "demo_url": "https://afterprime-forex-wars.argamon-2254.chatgpt.site/",
+    "post_url": "https://x.com/afterprime_com/status/2097159628119535866",
+    "likes": 3,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Bengaluru ORR Rush",
+    "demo_url": "https://orr-rush-bengaluru.ravitheja.chatgpt.site/",
+    "post_url": "https://x.com/ravithejads/status/2097181044625887392",
+    "likes": 22,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "AFTERLIGHT",
+    "demo_url": "https://afterlight.a-9724.chatgpt.site",
+    "post_url": "https://x.com/jhahimanshu653/status/2097172185513357794",
+    "likes": 6,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "诡秘之主 · Tarot Club",
+    "demo_url": "https://combos.game/play/c7eea0b6846f90a102537819c9147bd4",
+    "post_url": "https://x.com/TsinsiSun/status/2097214405373300859",
+    "likes": 5,
+    "category": "经典复刻 / 知名玩法"
+  },
+  {
     "title": "零点街区 · 弹壳特攻队 3D",
     "demo_url": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
     "post_url": "https://x.com/sonic0828/status/2097601232877781344",
