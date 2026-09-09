@@ -27,11 +27,11 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-09-09T02:33:21+00:00`
+最后同步：`2026-09-09T07:22:41+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `aee882ff52da` | 是 |
+| `MartinDelophy/awesome-gpt-6-astra` | `bf05d53224d0` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `f7ee13319caa` | 否 |
@@ -637,7 +637,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## 自动同步上游内容
 
-> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-09T02:33:21+00:00`。人工精选区保持不变。
+> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-09T07:22:41+00:00`。人工精选区保持不变。
 
 <!-- BEGIN AUTO-SYNC CONTENT -->
 
@@ -649,7 +649,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 18](https://img.shields.io/badge/Cases-18-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 43](https://img.shields.io/badge/Cases-43-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -665,7 +665,7 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **17 browser games and 1 interactive particle-art sandbox**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, and Orbital Garden. Click a title to open its demo or source with setup instructions.
+Explore **43 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to open its demo or source with setup instructions.
 
 Catalog updated: **2026-09-09**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
@@ -715,6 +715,37 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
   - Preview: ![IRON BASTION / 钢铁防线 — Gameplay](assets/screenshots/iron-bastion/gameplay.jpg)
 
+- **[Stick Fighter](https://stick-fighter-production.up.railway.app/)** — A work-in-progress stick-figure fighting game with punches, kicks, uppercuts, ninja stars and parries; includes bot practice and online/friends menu options.
+  - Creator: [Dwayne](https://x.com/CtrlAltDwayne)
+  - Platform: Desktop browser, keyboard controls; bot practice works without sign-in. Online multiplayer and controller support were not independently tested.
+  - GPT-6 Astra: [X](https://x.com/CtrlAltDwayne/status/2097499157967818780) — The creator explicitly states that he built this multiplayer fighting game using GPT-6 Astra and describes it as a work in progress.
+  - Preview: ![Stick Fighter — Gameplay](assets/screenshots/stick-fighter/gameplay.jpg)
+
+- **[Gogh Strike · Paint Clash](https://gogh-strike.surge.sh/)** — A Van Gogh-inspired FPS paint fight with six artists, signature weapons and a first-to-20 match format.
+  - Creator: [Peter Gostev](https://x.com/petergostev)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/petergostev/status/2096015315209449578) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/gogh-strike/SOURCE.md).
+  - Preview: ![Gogh Strike · Paint Clash — Gameplay](assets/screenshots/gogh-strike/gameplay.jpg)
+
+- **[ASTEROIDS · Deepfield](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/)** — Pilot an Asteroids-style cockpit with four camera views, radar, twin cannons and inertial flight.
+  - Creator: [Eyes Wide Open](https://x.com/DantesClown)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/DantesClown/status/2096085439052452064) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/asteroids-deepfield/SOURCE.md).
+  - Preview: ![ASTEROIDS · Deepfield — Gameplay](assets/screenshots/asteroids-deepfield/gameplay.jpg)
+
+- **[BLACKWATER · Silent Harbor](https://blackwater-roan.vercel.app/)** — Infiltrate a rain-soaked freight terminal in a tactical FPS with a detailed carbine, combat HUD and nine hostiles.
+  - Creator: [hiraeth](https://x.com/WoahWurdz)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/WoahWurdz/status/2095958882732355908) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/blackwater/SOURCE.md).
+  - Resources: [GitHub](https://github.com/Hiraeth010/blackwater)
+  - Preview: ![BLACKWATER · Silent Harbor](assets/screenshots/blackwater/gameplay.jpg)
+
+- **[Cinderfall · Fire, Shadow & Steel](https://rogue-omega.vercel.app/)** — A fantasy dueling arena with four champions, six class abilities and solo AI battles; online rooms are also offered.
+  - Creator: [JUMPERZ](https://x.com/jumperz)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/jumperz/status/2096600055301984738) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/cinderfall/SOURCE.md).
+  - Preview: ![Cinderfall · Fire, Shadow & Steel](assets/screenshots/cinderfall/gameplay.jpg)
+
 ### Puzzles & brain games
 
 Logic puzzles, physics challenges, word games, and clever little mechanisms.
@@ -739,9 +770,40 @@ Logic puzzles, physics challenges, word games, and clever little mechanisms.
   - Resources: [Source and setup](works/sunjing-puzzles/README.md) · [Requests](works/sunjing-puzzles/PROMPTS.md) · Built with: React, Vinext/Vite and Three.js.
   - Preview: ![Sunjing's six-piece wooden lock on a green 3D workbench, with numbered pieces and extraction controls.](assets/screenshots/sunjing-puzzles/gameplay.jpg)
 
+- **[二凤字阵 / Erfeng Glyph Formation](https://2feng.jay6697117.deno.net/)** — A Chinese-character word-building tower-defense game with an ink-wash interface and character progression.
+  - Creator: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - Platform: Browser; Google login required. Only the login gate was checked; gameplay is supported by creator screenshots. WeChat users are instructed to authorize in Chrome.
+  - GPT-6 Astra: [Issue #48](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/48) — Creator reports: GPT-6 Astra handled game logic, UI layout optimization and game-art generation.
+  - Preview: ![二凤字阵 / Erfeng Glyph Formation](https://github.com/user-attachments/assets/f237391f-1924-4607-b2a7-924cdab1dbc4)
+
 ### Strategy & simulation
 
 Tower defense, strategic card games, management games, building, and simulation sandboxes.
+
+- **[Dwellcraft · 住进想象](https://dwellcraft.vercel.app/)** — Furnish three homes by dragging furniture into a 3D layout, customize materials and lighting, then walk through the result at eye level; includes local saves and personal GLB model imports.
+  - Creator: [Ryan-fm](https://github.com/Ryan-fm).
+  - Platform: Modern desktop browser with WebGL; Chinese and English UI. Free, no login or API key. Designs and imported models stay in the current browser. WebXR controls are implemented, but physical Quest testing is pending.
+  - Model participation: [Development record](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/DEVELOPMENT.md) — Iterative Codex work on scene planning, code, furniture placement, materials, bilingual UI and tests; exact GPT-6 Astra attribution awaits creator confirmation.
+  - Resources: [Source and setup](https://github.com/Ryan-fm/Dwellcraft) · [Design plan](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/scene-design/development-plan.md) · [Asset credits](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/ASSETS.md) · Built with: React, TypeScript, Babylon.js and Vinext/Vite.
+  - Preview: ![Dwellcraft's running editor with a furnished 3D floor plan, a draggable furniture library and material and lighting controls.](https://raw.githubusercontent.com/Ryan-fm/Dwellcraft/main/docs/screenshots/editor-en.png)
+
+- **[Little Kingdom Chess / 작은 왕국 체스](https://little-kingdom-chess.echo3042.chatgpt.site/)** — Play chess against a computer on a rotatable 3D board with miniature characters, move history and undo.
+  - Creator: [에코_eco](https://x.com/echo3042)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/echo3042/status/2096123409029886250) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/little-kingdom-chess/SOURCE.md).
+  - Preview: ![Little Kingdom Chess / 작은 왕국 체스 — Gameplay](assets/screenshots/little-kingdom-chess/gameplay.jpg)
+
+- **[JUNK RUN](https://junk-run.pages.dev/)** — Assemble a gravity-powered vehicle from scrapyard parts and send it downhill; starts in a first-person workshop.
+  - Creator: [TheLabGuy](https://x.com/hermesailab)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/hermesailab/status/2097508053901840850) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/junk-run/SOURCE.md).
+  - Preview: ![JUNK RUN — Gameplay](assets/screenshots/junk-run/gameplay.jpg)
+
+- **[Spy or Lie](https://spyorlie.com/)** — A hexagonal strategy board game against a computer opponent: place hidden agents, bluff, and surround enemy groups to trigger capture chains.
+  - Creator: [Nate Lorenzen](https://x.com/NateLorenzen)
+  - Platform: Browser, English UI; the opening human/computer turn was verified without login or payment.
+  - GPT-6 Astra: [X](https://x.com/NateLorenzen/status/2097504974683152559) — The creator says Astra turned his game design into a playable demo in one shot; this is a creator claim, not an independently audited development record.
+  - Preview: ![Spy or Lie — Gameplay](assets/screenshots/spy-or-lie/gameplay.jpg)
 
 - **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — Lead Wei, Shu or Wu in a turn-based campaign across 15 cities, managing gold and grain and commanding a roster of 108 officers with individual AI-generated portraits as you compete with AI factions to unify the land.
   - Creator: [MartinDelophy](https://github.com/MartinDelophy) (project initiator and submitter).
@@ -783,15 +845,69 @@ Tower defense, strategic card games, management games, building, and simulation 
   - Resources: No public source or separate development record supplied.
   - Preview: ![Dave the Diver recreation in action: a diver among fish, with oxygen, depth and inventory indicators.](assets/screenshots/dave-the-diver/gameplay.jpg)
 
+- **[No Moat](https://no-moat.petergyang.chatgpt.site/)** — A startup-themed roguelike deckbuilder: recruit a team and play cards against copycats, bugs and cloud bills.
+  - Creator: [Peter Yang](https://x.com/petergyang)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/petergyang/status/2096297378584375672) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/no-moat/SOURCE.md).
+  - Preview: ![No Moat](assets/screenshots/no-moat/gameplay.jpg)
+
+- **[The Free Game](https://vale-dos-vinhedos.lucas579686.chatgpt.site/)** — Build a medieval village with roads, workers and production chains, presented as a detailed 3D tabletop settlement.
+  - Creator: [Lucas Marques, from Shiva](https://x.com/LucasMarquesSv)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/LucasMarquesSv/status/2096772160404504583) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/the-free-game/SOURCE.md).
+  - Resources: [GitHub](https://github.com/LucasMarquesShiva/the-free-game)
+  - Preview: ![The Free Game](assets/screenshots/the-free-game/gameplay.jpg)
+
 ### RPGs & adventures
 
 Role-playing, exploration, narrative adventures, and interactive stories.
 
-*Waiting for the first game.*
+- **[Lumbridge / Elderwood Realms](https://elderwood-realms.rohannvarma.chatgpt.site/)** — An old-school multiplayer adventure with a shared world, skills, gathering and combat; playable as a guest.
+  - Creator: [Rohan Varma](https://x.com/TheRohanVarma)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/TheRohanVarma/status/2096744577332068549) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/lumbridge/SOURCE.md).
+  - Preview: ![Lumbridge / Elderwood Realms — Gameplay](assets/screenshots/lumbridge/gameplay.jpg)
+
+- **[Silent Meridian / 静默子午线](https://silent-meridian.stackloom.org/)** — An atmospheric point-and-click adventure with four chapters and thirteen puzzles: compare the Present with its Echo, gather evidence and unravel the mystery of an observatory trapped at 00:17.
+  - Creator: [stackloomdev](https://github.com/stackloomdev)
+  - Platform: Desktop and mobile browsers; Chinese and English. Play online for free, with no login, installation or API key. Optional WebGL effects fall back to the original illustrations.
+  - GPT-6 Astra: [Development record](https://github.com/stackloomdev/silent-meridian/blob/main/docs/CREATION.md) — Iterative work in Codex on story, puzzles, bilingual text, code, procedural 3D effects and tests.
+  - Resources: [Source and setup](https://github.com/stackloomdev/silent-meridian) · [Art provenance](https://github.com/stackloomdev/silent-meridian/blob/main/docs/ART.md) · Built with: JavaScript, WebGL, Web Audio.
+  - Preview: ![Silent Meridian in action: the observatory with a brass 3D mechanism, clue markers, Present/Echo controls and a field journal.](assets/screenshots/silent-meridian/gameplay.png)
+
+- **[热血归来 · 八荒幻世 / Mir176 Dragon Warrior](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)** — A Legend-inspired action RPG with warrior, mage and taoist classes, equipment, dungeon combat and auto-battle.
+  - Creator: [知识猫AI实验室](https://x.com/GeekCatX)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/GeekCatX/status/2097530887558865115) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/mir176/SOURCE.md).
+  - Preview: ![热血归来 · 八荒幻世 / Mir176 Dragon Warrior](assets/screenshots/mir176/gameplay.jpg)
+
+- **[Zork · The Great Underground Empire](https://zork-underground-empire.netlify.app/)** — An unofficial 3D adaptation of Zork with first-person exploration, puzzles, combat and a journal.
+  - Creator: [Ethan Mollick](https://x.com/emollick)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/emollick/status/2096047660662722620) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/zork/SOURCE.md).
+  - Preview: ![Zork · The Great Underground Empire](assets/screenshots/zork/gameplay.jpg)
 
 ### Platformers & racing
 
 Parkour, platform challenges, racing, and games built around movement and routes.
+
+- **[STORM RACE](https://storm-race.vercel.app/)** — Mini 4WD racing with an exploded-parts garage, boost and changing dry, rainy and stormy track conditions.
+  - Creator: [BubuAi](https://x.com/BubuStd)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/BubuStd/status/2096587056755638553) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/storm-race/SOURCE.md).
+  - Preview: ![STORM RACE — Gameplay](assets/screenshots/storm-race/gameplay.jpg)
+
+- **[FANG STARLIGHT RUN](https://fang-starlight-run.yosshy666.chatgpt.site/)** — Guide a wolf through three moonlit platforming stages, collecting coins and star fragments with double jumps and dashes.
+  - Creator: [FANGプラス最強伝説🐺](https://x.com/FANGsaikyou)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/FANGsaikyou/status/2096192022596194588) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/fang-starlight-run/SOURCE.md).
+  - Preview: ![FANG STARLIGHT RUN — Gameplay](assets/screenshots/fang-starlight-run/gameplay.jpg)
+
+- **[Blue Bajaj Rally](https://bajaj.guzo.tech/)** — Race a three-wheeled Bajaj around an Ethiopian-inspired highland circuit against five AI rivals or the clock.
+  - Creator: [Guzo Technologies](https://x.com/guzotech)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/guzotech/status/2096209787864088638) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/blue-bajaj-rally/SOURCE.md).
+  - Preview: ![Blue Bajaj Rally — Gameplay](assets/screenshots/blue-bajaj-rally/gameplay.jpg)
 
 - **[APEX CLUB — Bay Kart Grand Prix](https://apex-club-racing.vercel.app)** — Race three laps around Bay Circuit, choose from six karts, and charge corner-exit mini turbos to climb the solo rankings or score for a 4v4 team.
   - Creator: Ryan
@@ -813,9 +929,34 @@ Parkour, platform challenges, racing, and games built around movement and routes
   - GPT-6 Astra: GPT-6 Astra usage and contribution details await creator confirmation.
   - Preview: ![狂飙赛车 · OVERDRIVE — Gameplay](assets/screenshots/overdrive/gameplay.jpg)
 
+- **[零界深潜 / ABYSS PROTOCOL](https://abyss-descent.zecoba.workers.dev/)** — Move left and right to descend through a 3D shaft of moving, crumbling and phase-shifting platforms, avoiding lasers and saws while collecting crystals and survival chips.
+  - Creator: [chat01.ai](https://linux.do/u/bandaot)
+  - Platform: Desktop browser; Chinese UI, A/D or arrow keys. Opened and started without login or payment; mobile play not tested.
+  - Model participation: [Chat01](https://chat01.ai/en/chat/01M221KFTPTBQV5ARQWJM7P86Y) — The shared record is labeled GPT-6 Pro and documents iterative game generation and revisions; it does not explicitly identify GPT-6 Astra.
+  - Resources: [HTML](https://files.chat01.ai/python-generations/9ab8f4f7-425f-4709-b741-7218d87122e6/abyss-descent.html) · [ZIP](https://files.chat01.ai/python-generations/9ab8f4f7-425f-4709-b741-7218d87122e6/abyss-descent-complete.zip)
+  - Preview: ![零界深潜 / ABYSS PROTOCOL](assets/screenshots/abyss-protocol/gameplay.jpg)
+
+- **[疾风赛道 / Kart Racing（跑跑卡丁车）](https://qwen3-8-test.vercel.app/)** — Race three laps with drifting, nitro and items; the live game is titled 疾风赛道 and offers a 2–4-player online mode.
+  - Creator: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - Platform: Browser; free, no login. Creator reports VPN/proxy access may be needed. Solo start checked; multiplayer not tested.
+  - GPT-6 Astra: [Issue #51](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/51) — Creator reports: The first version used Qwen3.8 Max; Astra comprehensively rebuilt the second version.
+  - Preview: ![疾风赛道 / Kart Racing（跑跑卡丁车）](https://github.com/user-attachments/assets/015e0ca1-7032-4d0e-9391-ad3f40d84227)
+
 ### Experimental & multiplayer
 
 Unusual mechanics, online competition, and cooperative experiences.
+
+- **[ASTRA Arcade](https://astra-arcade.antonioleivag.chatgpt.site/)** — Six browser games in one arcade, including mountain rally, snowboarding and antigravity racing; counted as one collection.
+  - Creator: [Antonio Leiva](https://x.com/antonioleivag)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/antonioleivag/status/2096509898481651770) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/astra-arcade/SOURCE.md).
+  - Preview: ![ASTRA Arcade — Gameplay](assets/screenshots/astra-arcade/gameplay.jpg)
+
+- **[Chao Party](https://chao.party/)** — An unofficial multiplayer Chao Garden fan game: choose a Sonic character, explore the garden and interact with Chao.
+  - Creator: [Hank](https://x.com/h4nkdog)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/h4nkdog/status/2097308970431987857) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/chao-party/SOURCE.md).
+  - Preview: ![Chao Party — Gameplay](assets/screenshots/chao-party/gameplay.jpg)
 
 - **[ORBITAL GARDEN · 轨道花园](https://orbital-garden-one.vercel.app)** — An interactive particle-art sandbox: morph 48,000 light points between a flower, a gravity ring, and a galaxy, disturb the sculpture, and export a moment as a poster.
   - Creator: [jackroc](https://github.com/jackroc)
@@ -830,6 +971,19 @@ Unusual mechanics, online competition, and cooperative experiences.
   - GPT-6 Astra: [Creator statement](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) — Creator reports that GPT-6 Astra autonomously implemented the games and carried out testing from toy descriptions and feature requirements.
   - Resources: [Source and setup](https://github.com/asmoyou/toy2game) · [Noncommercial license](https://github.com/asmoyou/toy2game/blob/main/LICENSE) — Source available; noncommercial use is free, commercial use requires prior written authorization from the author. Built with: TypeScript, React, Vite, Three.js.
   - Preview: ![Toy2Game overview with four actual 3D game scenes: penguin ice, rabbit traps, astronaut balancing and parking escape. Image provided by asmoyou.](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)
+
+- **[Jelly Baby](https://jelly.scottsun.io/)** — A soft-body jelly playground on a sunlit tabletop, with jumping, stretching, a swing and a trampoline.
+  - Creator: [Scott](https://x.com/scottstts)
+  - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
+  - GPT-6 Astra: [X](https://x.com/scottstts/status/2096364764054131119) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/jelly-baby/SOURCE.md).
+  - Resources: [GitHub](https://github.com/scottstts/Jelly-Baby)
+  - Preview: ![Jelly Baby](assets/screenshots/jelly-baby/gameplay.jpg)
+
+- **[泡泡坦克大作战联机版 / Toon Tank Arena](https://toon-tank-arena.jay6697117.deno.net/)** — Defend a rainbow core with bouncing shells and power-ups in a colorful tank arena, with solo, local co-op and online battle options.
+  - Creator: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - Platform: Browser; free, no login. Creator reports VPN/proxy access may be needed. Solo start checked; multiplayer not tested.
+  - GPT-6 Astra: [Issue #52](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/52) — Creator reports: GPT-6 Astra Pro built the first version; GPT-6 Astra in Codex handled later improvements.
+  - Preview: ![泡泡坦克大作战联机版 / Toon Tank Arena](https://github.com/user-attachments/assets/713d44f3-a77c-452c-ba6d-1231882dc670)
 
 ## What an entry includes
 
@@ -865,7 +1019,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 18](https://img.shields.io/badge/Cases-18-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 43](https://img.shields.io/badge/Cases-43-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -881,7 +1035,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **17 款浏览器游戏和 1 个交互式粒子艺术沙盒**：三国领土策略、木锁拆解与华容道、半流体水果合成、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编，以及轨道花园。点击作品名称可打开试玩或源码运行说明。
+目前收录 **43 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称可打开试玩或源码运行说明。
 
 目录更新：**2026-09-09**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
@@ -931,6 +1085,37 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra: GPT-6 Astra 使用情况及参与范围待作者确认。
   - 预览: ![IRON BASTION / 钢铁防线 — 实机画面](assets/screenshots/iron-bastion/gameplay.jpg)
 
+- **[Stick Fighter](https://stick-fighter-production.up.railway.app/)** — 仍在开发中的火柴人格斗游戏，包含拳脚连招、上勾拳、飞镖和格挡；提供电脑陪练及在线、好友模式入口。
+  - 作者: [Dwayne](https://x.com/CtrlAltDwayne)
+  - 平台: 桌面浏览器，键盘操作；无需登录即可进入电脑陪练，在线多人及手柄支持未独立测试。
+  - GPT-6 Astra: [X](https://x.com/CtrlAltDwayne/status/2097499157967818780) — 作者明确表示使用 GPT-6 Astra 制作这款多人格斗游戏，并说明作品仍在开发中。
+  - 预览: ![Stick Fighter — 实机画面](assets/screenshots/stick-fighter/gameplay.jpg)
+
+- **[Gogh Strike · Paint Clash](https://gogh-strike.surge.sh/)** — 梵高画作风格的第一人称颜料对战，包含六位艺术家、专属武器及率先获得 20 分的赛制。
+  - 作者: [Peter Gostev](https://x.com/petergostev)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/petergostev/status/2096015315209449578) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/gogh-strike/SOURCE.md).
+  - 预览: ![Gogh Strike · Paint Clash — 实机画面](assets/screenshots/gogh-strike/gameplay.jpg)
+
+- **[ASTEROIDS · Deepfield](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/)** — 驾驶小行星射击座舱，使用四向摄像头、雷达、双炮与惯性飞行。
+  - 作者: [Eyes Wide Open](https://x.com/DantesClown)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/DantesClown/status/2096085439052452064) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/asteroids-deepfield/SOURCE.md).
+  - 预览: ![ASTEROIDS · Deepfield — 实机画面](assets/screenshots/asteroids-deepfield/gameplay.jpg)
+
+- **[BLACKWATER · Silent Harbor](https://blackwater-roan.vercel.app/)** — 潜入雨夜货运港口的战术 FPS，包含精细步枪、战斗 HUD 和九名敌人。
+  - 作者: [hiraeth](https://x.com/WoahWurdz)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/WoahWurdz/status/2095958882732355908) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/blackwater/SOURCE.md).
+  - 开发资料: [GitHub](https://github.com/Hiraeth010/blackwater)
+  - 预览: ![BLACKWATER · Silent Harbor](assets/screenshots/blackwater/gameplay.jpg)
+
+- **[Cinderfall · Fire, Shadow & Steel](https://rogue-omega.vercel.app/)** — 四位英雄的奇幻对决竞技场，包含六项职业技能和单人 AI 对战，也提供在线房间。
+  - 作者: [JUMPERZ](https://x.com/jumperz)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/jumperz/status/2096600055301984738) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/cinderfall/SOURCE.md).
+  - 预览: ![Cinderfall · Fire, Shadow & Steel](assets/screenshots/cinderfall/gameplay.jpg)
+
 ### 解谜与益智
 
 逻辑谜题、物理解谜、文字游戏与巧妙的小机关。
@@ -955,9 +1140,40 @@ Original curated text and artwork in this repository are dedicated to the public
   - 开发资料：[源码与运行说明](works/sunjing-puzzles/README.md) · [需求记录](works/sunjing-puzzles/PROMPTS.md) · 技术：React、Vinext/Vite、Three.js。
   - 预览：![榫境实机画面：深绿色 3D 展台上的六构件木锁，旁边是木块编号与抽出操作。](assets/screenshots/sunjing-puzzles/gameplay.jpg)
 
+- **[二凤字阵 / Erfeng Glyph Formation](https://2feng.jay6697117.deno.net/)** — 将汉字拼字与塔防结合，采用水墨界面并包含角色养成。
+  - 作者: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - 平台: 浏览器，需 Google 登录；本次仅核对登录门槛，玩法依据作者实机截图。作者提示微信内访问时需在 Chrome 完成授权。
+  - GPT-6 Astra: [Issue #48](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/48) — 作者说明： GPT-6 Astra 完成游戏逻辑、UI 布局优化和游戏美术资产生成。
+  - 预览: ![二凤字阵 / Erfeng Glyph Formation](https://github.com/user-attachments/assets/f237391f-1924-4607-b2a7-924cdab1dbc4)
+
 ### 策略与模拟
 
 塔防、卡牌策略、经营建造与模拟沙盒。
+
+- **[Dwellcraft · 住进想象](https://dwellcraft.vercel.app/)** — 从家具库拖入物件，自由装修三个住宅，调整材质与光照，再以第一人称走进自己的设计；支持本机存档和自有 GLB 模型导入。
+  - 作者：[Ryan-fm](https://github.com/Ryan-fm)。
+  - 平台：支持 WebGL 的现代桌面浏览器，中英文界面；免费，无需登录或 API Key。作品和导入模型保存在当前浏览器。已接入 WebXR 操作，Quest 真机验收仍待完成。
+  - 模型参与：[开发记录](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/DEVELOPMENT.md) — 通过多轮 Codex 协作完成场景规划、代码、家具摆放、材质、双语界面与测试；具体 GPT-6 Astra 归因等待创作者确认。
+  - 开发资料：[源码与运行说明](https://github.com/Ryan-fm/Dwellcraft) · [设计计划](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/scene-design/development-plan.md) · [素材许可](https://github.com/Ryan-fm/Dwellcraft/blob/main/docs/ASSETS.md) · 技术：React、TypeScript、Babylon.js、Vinext/Vite。
+  - 预览：![Dwellcraft 实际装修工作台：已布置家具的 3D 户型、可拖放家具库，以及材质和光照设置。](https://raw.githubusercontent.com/Ryan-fm/Dwellcraft/main/docs/screenshots/editor-en.png)
+
+- **[Little Kingdom Chess / 작은 왕국 체스](https://little-kingdom-chess.echo3042.chatgpt.site/)** — 在可旋转的 3D 棋盘上与电脑下国际象棋，包含微缩角色、棋谱与悔棋。
+  - 作者: [에코_eco](https://x.com/echo3042)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/echo3042/status/2096123409029886250) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/little-kingdom-chess/SOURCE.md).
+  - 预览: ![Little Kingdom Chess / 작은 왕국 체스 — 实机画面](assets/screenshots/little-kingdom-chess/gameplay.jpg)
+
+- **[JUNK RUN](https://junk-run.pages.dev/)** — 用废料零件组装无动力小车，再依靠重力冲下山坡；从第一人称工坊开始。
+  - 作者: [TheLabGuy](https://x.com/hermesailab)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/hermesailab/status/2097508053901840850) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/junk-run/SOURCE.md).
+  - 预览: ![JUNK RUN — 实机画面](assets/screenshots/junk-run/gameplay.jpg)
+
+- **[Spy or Lie](https://spyorlie.com/)** — 与电脑对战的六边形策略桌游：放置隐藏身份的特工，通过虚张声势和包围敌方群组触发连锁占领。
+  - 作者: [Nate Lorenzen](https://x.com/NateLorenzen)
+  - 平台: 浏览器，英文界面；已无需登录或付费完成玩家落子及电脑回应。
+  - GPT-6 Astra: [X](https://x.com/NateLorenzen/status/2097504974683152559) — 作者称 Astra 将其设计的游戏一次生成了可玩演示；这是作者陈述，未独立审计开发过程。
+  - 预览: ![Spy or Lie — 实机画面](assets/screenshots/spy-or-lie/gameplay.jpg)
 
 - **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — 选择魏、蜀、吴，在 15 城地图上经营金粮、指挥拥有独立 AI 生成头像的 108 名武将，以回合制征战对抗 AI 势力，争夺天下统一。
   - 作者：[MartinDelophy](https://github.com/MartinDelophy)（项目发起人及提交者）。
@@ -999,15 +1215,69 @@ Original curated text and artwork in this repository are dedicated to the public
   - 开发资料：未提供公开源码或独立开发记录。
   - 预览：![潜水员戴夫复刻实机画面：潜水员穿行于鱼群之间，界面显示氧气、深度和收获背包。](assets/screenshots/dave-the-diver/gameplay.jpg)
 
+- **[No Moat](https://no-moat.petergyang.chatgpt.site/)** — 创业题材的肉鸽卡牌游戏：招募团队，打出卡牌应对抄袭者、程序错误和云服务账单。
+  - 作者: [Peter Yang](https://x.com/petergyang)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/petergyang/status/2096297378584375672) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/no-moat/SOURCE.md).
+  - 预览: ![No Moat](assets/screenshots/no-moat/gameplay.jpg)
+
+- **[The Free Game](https://vale-dos-vinhedos.lucas579686.chatgpt.site/)** — 修路、培养工人、搭建生产链，在细致的 3D 中世纪村庄里经营建设。
+  - 作者: [Lucas Marques, from Shiva](https://x.com/LucasMarquesSv)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/LucasMarquesSv/status/2096772160404504583) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/the-free-game/SOURCE.md).
+  - 开发资料: [GitHub](https://github.com/LucasMarquesShiva/the-free-game)
+  - 预览: ![The Free Game](assets/screenshots/the-free-game/gameplay.jpg)
+
 ### RPG 与冒险
 
 角色扮演、探索、叙事冒险与互动故事。
 
-*等待首个作品。*
+- **[Lumbridge / Elderwood Realms](https://elderwood-realms.rohannvarma.chatgpt.site/)** — 复古多人冒险，包含共享世界、技能、采集和战斗，可使用游客身份进入。
+  - 作者: [Rohan Varma](https://x.com/TheRohanVarma)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/TheRohanVarma/status/2096744577332068549) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/lumbridge/SOURCE.md).
+  - 预览: ![Lumbridge / Elderwood Realms — 实机画面](assets/screenshots/lumbridge/gameplay.jpg)
+
+- **[Silent Meridian / 静默子午线](https://silent-meridian.stackloom.org/)** — 一款包含四章、十三道谜题的氛围叙事解谜游戏：在“现在”与“回声”间对照线索、收集证据，解开停在 00:17 的观测站之谜。
+  - 作者: [stackloomdev](https://github.com/stackloomdev)
+  - 平台: 桌面与手机浏览器；中英文。可直接在线免费游玩，无需登录、安装或 API Key；可选 WebGL 视效，不支持时保留原始插画。
+  - GPT-6 Astra: [开发记录](https://github.com/stackloomdev/silent-meridian/blob/main/docs/CREATION.md) — 在 Codex 中多轮协作，参与故事、谜题、中英文文案、代码、程序化 3D 视效及测试。
+  - 开发资料: [源码与运行说明](https://github.com/stackloomdev/silent-meridian) · [美术来源](https://github.com/stackloomdev/silent-meridian/blob/main/docs/ART.md) · 技术: JavaScript, WebGL, Web Audio.
+  - 预览: ![静默子午线实机画面：观测穹顶中的立体青铜机关、线索标记、现在与回声切换按钮和调查手记。](assets/screenshots/silent-meridian/gameplay.png)
+
+- **[热血归来 · 八荒幻世 / Mir176 Dragon Warrior](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)** — 传奇风格动作 RPG，包含战士、法师、道士三职业、装备、副本战斗与自动战斗。
+  - 作者: [知识猫AI实验室](https://x.com/GeekCatX)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/GeekCatX/status/2097530887558865115) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/mir176/SOURCE.md).
+  - 预览: ![热血归来 · 八荒幻世 / Mir176 Dragon Warrior](assets/screenshots/mir176/gameplay.jpg)
+
+- **[Zork · The Great Underground Empire](https://zork-underground-empire.netlify.app/)** — Zork 的非官方 3D 改编，以第一人称探索地下世界，结合谜题、战斗与冒险日志。
+  - 作者: [Ethan Mollick](https://x.com/emollick)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/emollick/status/2096047660662722620) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/zork/SOURCE.md).
+  - 预览: ![Zork · The Great Underground Empire](assets/screenshots/zork/gameplay.jpg)
 
 ### 平台跳跃与竞速
 
 跑酷、平台闯关、赛车，以及考验路线与操作的游戏。
+
+- **[STORM RACE](https://storm-race.vercel.app/)** — 迷你四驱车竞速，包含零件拆解车库、加速和晴天、雨天、暴风雨赛道变化。
+  - 作者: [BubuAi](https://x.com/BubuStd)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/BubuStd/status/2096587056755638553) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/storm-race/SOURCE.md).
+  - 预览: ![STORM RACE — 实机画面](assets/screenshots/storm-race/gameplay.jpg)
+
+- **[FANG STARLIGHT RUN](https://fang-starlight-run.yosshy666.chatgpt.site/)** — 操控小狼穿越三个星夜横版关卡，利用二段跳与冲刺收集金币和星之碎片。
+  - 作者: [FANGプラス最強伝説🐺](https://x.com/FANGsaikyou)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/FANGsaikyou/status/2096192022596194588) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/fang-starlight-run/SOURCE.md).
+  - 预览: ![FANG STARLIGHT RUN — 实机画面](assets/screenshots/fang-starlight-run/gameplay.jpg)
+
+- **[Blue Bajaj Rally](https://bajaj.guzo.tech/)** — 驾驶三轮 Bajaj 在埃塞俄比亚风格的高地赛道上，与五名电脑车手竞速或挑战计时。
+  - 作者: [Guzo Technologies](https://x.com/guzotech)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/guzotech/status/2096209787864088638) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/blue-bajaj-rally/SOURCE.md).
+  - 预览: ![Blue Bajaj Rally — 实机画面](assets/screenshots/blue-bajaj-rally/gameplay.jpg)
 
 - **[APEX CLUB — Bay Kart Grand Prix](https://apex-club-racing.vercel.app)** — 在海湾赛道参加三圈卡丁车竞速，选择六款赛车，利用漂移蓄力与出弯小喷争夺个人名次或 4v4 队伍积分。
   - 作者：Ryan
@@ -1029,9 +1299,34 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra: GPT-6 Astra 使用情况及参与范围待作者确认。
   - 预览: ![狂飙赛车 · OVERDRIVE — 实机画面](assets/screenshots/overdrive/gameplay.jpg)
 
+- **[零界深潜 / ABYSS PROTOCOL](https://abyss-descent.zecoba.workers.dev/)** — 只靠左右移动，在 3D 深井中踩着移动、脆裂与相位平台不断下潜，躲避激光和锯刃，收集晶体与生存芯片。
+  - 作者: [chat01.ai](https://linux.do/u/bandaot)
+  - 平台: 桌面浏览器，中文界面，A/D 或左右方向键操作；已验证无需登录或付费即可开始，移动端未测试。
+  - 模型参与：[Chat01](https://chat01.ai/en/chat/01M221KFTPTBQV5ARQWJM7P86Y) — 分享记录标注 GPT-6 Pro，展示了游戏生成与多轮修改；页面未明确标注 GPT-6 Astra。
+  - 开发资料：[HTML](https://files.chat01.ai/python-generations/9ab8f4f7-425f-4709-b741-7218d87122e6/abyss-descent.html) · [ZIP](https://files.chat01.ai/python-generations/9ab8f4f7-425f-4709-b741-7218d87122e6/abyss-descent-complete.zip)
+  - 预览: ![零界深潜 / ABYSS PROTOCOL](assets/screenshots/abyss-protocol/gameplay.jpg)
+
+- **[疾风赛道 / Kart Racing（跑跑卡丁车）](https://qwen3-8-test.vercel.app/)** — 通过漂移积攒氮气，在三圈竞速中使用道具争夺名次；当前游戏名为“疾风赛道”，提供 2–4 人联机入口。
+  - 作者: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - 平台: 浏览器，免费、无需登录；作者提示可能需要 VPN／代理。已验证单人启动，联机未实测。
+  - GPT-6 Astra: [Issue #51](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/51) — 作者说明： 第一版使用 Qwen3.8 Max，第二版由 Astra 全面重构。
+  - 预览: ![疾风赛道 / Kart Racing（跑跑卡丁车）](https://github.com/user-attachments/assets/015e0ca1-7032-4d0e-9391-ad3f40d84227)
+
 ### 实验玩法与多人游戏
 
 难以归类的新玩法、联机对战与合作体验。
+
+- **[ASTRA Arcade](https://astra-arcade.antonioleivag.chatgpt.site/)** — 集山地拉力、滑雪、反重力竞速等六款浏览器游戏于一体的街机厅；按一个合集收录。
+  - 作者: [Antonio Leiva](https://x.com/antonioleivag)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/antonioleivag/status/2096509898481651770) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/astra-arcade/SOURCE.md).
+  - 预览: ![ASTRA Arcade — 实机画面](assets/screenshots/astra-arcade/gameplay.jpg)
+
+- **[Chao Party](https://chao.party/)** — 非官方 Chao Garden 多人同人游戏：选择索尼克角色，探索花园并与 Chao 互动。
+  - 作者: [Hank](https://x.com/h4nkdog)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/h4nkdog/status/2097308970431987857) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/chao-party/SOURCE.md).
+  - 预览: ![Chao Party — 实机画面](assets/screenshots/chao-party/gameplay.jpg)
 
 - **[ORBITAL GARDEN · 轨道花园](https://orbital-garden-one.vercel.app)** — 交互式粒子艺术沙盒：让 48,000 颗光点在花、引力环与星系之间变形，扰动雕塑并将瞬间导出为海报。
   - 作者：[jackroc](https://github.com/jackroc)
@@ -1046,6 +1341,19 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[作者说明](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) — 作者称只提供玩具描述和功能要求，由 GPT-6 Astra 自主完成游戏开发与测试验证。
   - 开发资料：[源码与运行说明](https://github.com/asmoyou/toy2game) · [非商业使用许可](https://github.com/asmoyou/toy2game/blob/main/LICENSE) — 源码开放，非商业使用免费；商业使用须事先取得作者书面授权。技术：TypeScript、React、Vite、Three.js。
   - 预览：![Toy2Game 四款游戏的实际 3D 场景：企鹅敲冰、小兔闯关、平衡太空人和移车出库。图片由 asmoyou 提供。](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)
+
+- **[Jelly Baby](https://jelly.scottsun.io/)** — 阳光木桌上的软体果冻游乐场，可以跳跃、拉伸，体验秋千和蹦床。
+  - 作者: [Scott](https://x.com/scottstts)
+  - 平台: 桌面浏览器；已无需登录或付费打开，未测试移动端。
+  - GPT-6 Astra: [X](https://x.com/scottstts/status/2096364764054131119) — 作者说明使用 Astra 参与本项目开发。 [核验记录（英文）](assets/screenshots/jelly-baby/SOURCE.md).
+  - 开发资料: [GitHub](https://github.com/scottstts/Jelly-Baby)
+  - 预览: ![Jelly Baby](assets/screenshots/jelly-baby/gameplay.jpg)
+
+- **[泡泡坦克大作战联机版 / Toon Tank Arena](https://toon-tank-arena.jay6697117.deno.net/)** — 用弹跳炮弹与强化道具守护彩虹核心，提供单人、双人同屏合作与在线对战模式的卡通坦克竞技场。
+  - 作者: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
+  - 平台: 浏览器，免费、无需登录；作者提示可能需要 VPN／代理。已验证单人启动，联机未实测。
+  - GPT-6 Astra: [Issue #52](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/52) — 作者说明： 第一版由 GPT-6 Astra Pro 完成，后续由 Codex 中的 GPT-6 Astra 优化。
+  - 预览: ![泡泡坦克大作战联机版 / Toon Tank Arena](https://github.com/user-attachments/assets/713d44f3-a77c-452c-ba6d-1231882dc670)
 
 ## 每个作品记录什么
 
