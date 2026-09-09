@@ -1,5 +1,40 @@
 [
   {
+    "title": "Stick Fighter — multiplayer stick-death",
+    "demo_url": "https://stick-fighter-production.up.railway.app",
+    "post_url": "https://x.com/CtrlAltDwayne/status/2097499157967818780",
+    "likes": null,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "Swat — fruit-fly connectome",
+    "demo_url": "https://fruitfly-tiny-brain.vercel.app",
+    "post_url": "https://x.com/Harry__Rook/status/2097504514286768478",
+    "likes": null,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Strata Field Lab",
+    "demo_url": "https://isaacattuah.github.io/strata-field-lab/",
+    "post_url": "https://x.com/IsaacAttuah/status/2097513288632299874",
+    "likes": null,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Spy or Lie",
+    "demo_url": "https://Spyorlie.com",
+    "post_url": "https://x.com/NateLorenzen/status/2097504974683152559",
+    "likes": null,
+    "category": "其他可玩 Demo"
+  },
+  {
+    "title": "JUNK RUN",
+    "demo_url": "https://junk-run.pages.dev/",
+    "post_url": "https://x.com/hermesailab/status/2097508053901840850",
+    "likes": null,
+    "category": "竞速 / 驾驶"
+  },
+  {
     "title": "STORM RACE · Tsuchiya Workshop",
     "demo_url": "https://storm-race.vercel.app",
     "post_url": "https://x.com/BubuStd/status/2096587056755638553",

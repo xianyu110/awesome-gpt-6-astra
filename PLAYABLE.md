@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**80** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-08
+- 收录：**85** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-09
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 9
-- [竞速 / 驾驶](#竞速--驾驶) — 11
+- [竞速 / 驾驶](#竞速--驾驶) — 12
 - [射击 / 动作](#射击--动作) — 6
 - [模拟经营 / 策略](#模拟经营--策略) — 4
-- [联机 / 多人](#联机--多人) — 3
+- [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 6
 - [音乐 / 表演](#音乐--表演) — 7
-- [教育 / 科普](#教育--科普) — 1
+- [教育 / 科普](#教育--科普) — 3
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 23
 - [工程 / 仿真](#工程--仿真) — 6
-- [其他可玩 Demo](#其他可玩-Demo) — 4
+- [其他可玩 Demo](#其他可玩-Demo) — 5
 
 ## 经典复刻 / 知名玩法
 
@@ -54,46 +54,50 @@
 
 ## 竞速 / 驾驶
 
-1. **STORM RACE · Tsuchiya Workshop** — [试玩](https://storm-race.vercel.app) · [原帖](https://x.com/BubuStd/status/2096587056755638553) · ❤ 4191
+1. **JUNK RUN** — [试玩](https://junk-run.pages.dev/) · [原帖](https://x.com/hermesailab/status/2097508053901840850)
+   - 试玩链接：`https://junk-run.pages.dev/`
+   - 原帖：https://x.com/hermesailab/status/2097508053901840850
+
+2. **STORM RACE · Tsuchiya Workshop** — [试玩](https://storm-race.vercel.app) · [原帖](https://x.com/BubuStd/status/2096587056755638553) · ❤ 4191
    - 试玩链接：`https://storm-race.vercel.app`
    - 原帖：https://x.com/BubuStd/status/2096587056755638553
 
-2. **Ashen Road — A journey to Ravenwatch** — [试玩](https://ashen-road.emad349385.chatgpt.site) · [原帖](https://x.com/i/status/2096359789525639290) · ❤ 286
+3. **Ashen Road — A journey to Ravenwatch** — [试玩](https://ashen-road.emad349385.chatgpt.site) · [原帖](https://x.com/i/status/2096359789525639290) · ❤ 286
    - 试玩链接：`https://ashen-road.emad349385.chatgpt.site`
    - 原帖：https://x.com/i/status/2096359789525639290
 
-3. **Tidal Rush — Paradise Grand Prix** — [试玩](https://tidal-rush-paradise-gp.skirano.chatgpt.site) · [原帖](https://x.com/alexgetmancom/status/2095598460921614825) · ❤ 24
+4. **Tidal Rush — Paradise Grand Prix** — [试玩](https://tidal-rush-paradise-gp.skirano.chatgpt.site) · [原帖](https://x.com/alexgetmancom/status/2095598460921614825) · ❤ 24
    - 试玩链接：`https://tidal-rush-paradise-gp.skirano.chatgpt.site`
    - 原帖：https://x.com/alexgetmancom/status/2095598460921614825
 
-4. **Blue Bajaj Rally 1.0.1 | Highland Loop** — [试玩](https://bajaj.guzo.tech/) · [原帖](https://x.com/guzotech/status/2096209787864088638) · ❤ 12
+5. **Blue Bajaj Rally 1.0.1 | Highland Loop** — [试玩](https://bajaj.guzo.tech/) · [原帖](https://x.com/guzotech/status/2096209787864088638) · ❤ 12
    - 试玩链接：`https://bajaj.guzo.tech/`
    - 原帖：https://x.com/guzotech/status/2096209787864088638
 
-5. **THE ROAD DREAMS · 梦境之径** — [试玩](https://the-road-dreams.x2026283037.chatgpt.site) · [原帖](https://x.com/i/status/2096313256264765440) · ❤ 1
+6. **THE ROAD DREAMS · 梦境之径** — [试玩](https://the-road-dreams.x2026283037.chatgpt.site) · [原帖](https://x.com/i/status/2096313256264765440) · ❤ 1
    - 试玩链接：`https://the-road-dreams.x2026283037.chatgpt.site`
    - 原帖：https://x.com/i/status/2096313256264765440
 
-6. **Zombie Escape Driver** — [试玩](https://zombiedriver.z.madsoftware.co) · [原帖](https://x.com/MarcDagatan/status/2096667577326190631) · ❤ 1
+7. **Zombie Escape Driver** — [试玩](https://zombiedriver.z.madsoftware.co) · [原帖](https://x.com/MarcDagatan/status/2096667577326190631) · ❤ 1
    - 试玩链接：`https://zombiedriver.z.madsoftware.co`
    - 原帖：https://x.com/MarcDagatan/status/2096667577326190631
 
-7. **COURTSIDE NBA2K** — [试玩](https://huhuhu.page.gd/COURTSIDE26.html)
+8. **COURTSIDE NBA2K** — [试玩](https://huhuhu.page.gd/COURTSIDE26.html)
    - 试玩链接：`https://huhuhu.page.gd/COURTSIDE26.html`
 
-8. **AI Mini Racer - Astra Edition** — [试玩](https://ai-mini-racer.code-crunche-2353.chatgpt.site) · [原帖](https://x.com/i/status/2096320362736714233)
+9. **AI Mini Racer - Astra Edition** — [试玩](https://ai-mini-racer.code-crunche-2353.chatgpt.site) · [原帖](https://x.com/i/status/2096320362736714233)
    - 试玩链接：`https://ai-mini-racer.code-crunche-2353.chatgpt.site`
    - 原帖：https://x.com/i/status/2096320362736714233
 
-9. **CYBER SUV · 互动设计展厅** — [试玩](https://cyber-suv-studio.banny911.chatgpt.site) · [原帖](https://x.com/i/status/2096384563459334256)
+10. **CYBER SUV · 互动设计展厅** — [试玩](https://cyber-suv-studio.banny911.chatgpt.site) · [原帖](https://x.com/i/status/2096384563459334256)
    - 试玩链接：`https://cyber-suv-studio.banny911.chatgpt.site`
    - 原帖：https://x.com/i/status/2096384563459334256
 
-10. **DUSKLINE — Canyon Circuit** — [试玩](https://duskline-canyon-run.abdulhadi-ai.chatgpt.site) · [原帖](https://x.com/1banke/status/2096394721115390301)
+11. **DUSKLINE — Canyon Circuit** — [试玩](https://duskline-canyon-run.abdulhadi-ai.chatgpt.site) · [原帖](https://x.com/1banke/status/2096394721115390301)
    - 试玩链接：`https://duskline-canyon-run.abdulhadi-ai.chatgpt.site`
    - 原帖：https://x.com/1banke/status/2096394721115390301
 
-11. **Lantern Cove · The Borrowed Light** — [试玩](https://lantern-cove.akartit.chatgpt.site/) · [原帖](https://x.com/akartit/status/2096520784449613981)
+12. **Lantern Cove · The Borrowed Light** — [试玩](https://lantern-cove.akartit.chatgpt.site/) · [原帖](https://x.com/akartit/status/2096520784449613981)
    - 试玩链接：`https://lantern-cove.akartit.chatgpt.site/`
    - 原帖：https://x.com/akartit/status/2096520784449613981
 
@@ -141,15 +145,19 @@
 
 ## 联机 / 多人
 
-1. **Chao Garden / Chao Party — SA2 browser multiplayer** — [试玩](https://chao.party) · [原帖](https://x.com/h4nkdog/status/2097308970431987857) · ❤ 6
+1. **Stick Fighter — multiplayer stick-death** — [试玩](https://stick-fighter-production.up.railway.app) · [原帖](https://x.com/CtrlAltDwayne/status/2097499157967818780)
+   - 试玩链接：`https://stick-fighter-production.up.railway.app`
+   - 原帖：https://x.com/CtrlAltDwayne/status/2097499157967818780
+
+2. **Chao Garden / Chao Party — SA2 browser multiplayer** — [试玩](https://chao.party) · [原帖](https://x.com/h4nkdog/status/2097308970431987857) · ❤ 6
    - 试玩链接：`https://chao.party`
    - 原帖：https://x.com/h4nkdog/status/2097308970431987857
 
-2. **Lumbridge | Old-school multiplayer adventure** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 702
+3. **Lumbridge | Old-school multiplayer adventure** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 702
    - 试玩链接：`https://elderwood-realms.rohannvarma.chatgpt.site/`
    - 原帖：https://x.com/TheRohanVarma/status/2096744577332068549
 
-3. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
+4. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
    - 试玩链接：`https://unstable-stables-online.danielgui30.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096282857400652262
 
@@ -211,7 +219,15 @@
 
 ## 教育 / 科普
 
-1. **Anatomy, unfolded.** — [试玩](https://anatomy-unfolded.brianp.chatgpt.site) · [原帖](https://x.com/i/status/2096253408009486619) · ❤ 1156
+1. **Swat — fruit-fly connectome** — [试玩](https://fruitfly-tiny-brain.vercel.app) · [原帖](https://x.com/Harry__Rook/status/2097504514286768478)
+   - 试玩链接：`https://fruitfly-tiny-brain.vercel.app`
+   - 原帖：https://x.com/Harry__Rook/status/2097504514286768478
+
+2. **Strata Field Lab** — [试玩](https://isaacattuah.github.io/strata-field-lab/) · [原帖](https://x.com/IsaacAttuah/status/2097513288632299874)
+   - 试玩链接：`https://isaacattuah.github.io/strata-field-lab/`
+   - 原帖：https://x.com/IsaacAttuah/status/2097513288632299874
+
+3. **Anatomy, unfolded.** — [试玩](https://anatomy-unfolded.brianp.chatgpt.site) · [原帖](https://x.com/i/status/2096253408009486619) · ❤ 1156
    - 试玩链接：`https://anatomy-unfolded.brianp.chatgpt.site`
    - 原帖：https://x.com/i/status/2096253408009486619
 
@@ -338,19 +354,23 @@
 
 ## 其他可玩 Demo
 
-1. **コヨーテの正直レビュー | ボドゲミツカル** — [试玩](https://bodoge-mitsukaru.t-natsu-6-17.chatgpt.site/games/coyote) · [原帖](https://x.com/BoardgameMt/status/2095829226650021941)
+1. **Spy or Lie** — [试玩](https://Spyorlie.com) · [原帖](https://x.com/NateLorenzen/status/2097504974683152559)
+   - 试玩链接：`https://Spyorlie.com`
+   - 原帖：https://x.com/NateLorenzen/status/2097504974683152559
+
+2. **コヨーテの正直レビュー | ボドゲミツカル** — [试玩](https://bodoge-mitsukaru.t-natsu-6-17.chatgpt.site/games/coyote) · [原帖](https://x.com/BoardgameMt/status/2095829226650021941)
    - 试玩链接：`https://bodoge-mitsukaru.t-natsu-6-17.chatgpt.site/games/coyote`
    - 原帖：https://x.com/BoardgameMt/status/2095829226650021941
 
-2. **TOP KNOWLEDGE — 30問チャレンジ** — [试玩](https://top-call-game.taisyou2525.chatgpt.site) · [原帖](https://x.com/taisyou2525/status/2096206177982099727)
+3. **TOP KNOWLEDGE — 30問チャレンジ** — [试玩](https://top-call-game.taisyou2525.chatgpt.site) · [原帖](https://x.com/taisyou2525/status/2096206177982099727)
    - 试玩链接：`https://top-call-game.taisyou2525.chatgpt.site`
    - 原帖：https://x.com/taisyou2525/status/2096206177982099727
 
-3. **Hand Replayer — PokerStars** — [试玩](https://hand-replayer.marko99999.chatgpt.site) · [原帖](https://x.com/i/status/2096299597689753600)
+4. **Hand Replayer — PokerStars** — [试玩](https://hand-replayer.marko99999.chatgpt.site) · [原帖](https://x.com/i/status/2096299597689753600)
    - 试玩链接：`https://hand-replayer.marko99999.chatgpt.site`
    - 原帖：https://x.com/i/status/2096299597689753600
 
-4. **Play GTA Vice City Online in Your Browser | Quenq GTA Vice City** — [试玩](https://quenq.com/apps/vice-city-online/) · [原帖](https://x.com/noman23761/status/2096554926965154037)
+5. **Play GTA Vice City Online in Your Browser | Quenq GTA Vice City** — [试玩](https://quenq.com/apps/vice-city-online/) · [原帖](https://x.com/noman23761/status/2096554926965154037)
    - 试玩链接：`https://quenq.com/apps/vice-city-online/`
    - 原帖：https://x.com/noman23761/status/2096554926965154037
 
