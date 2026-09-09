@@ -1,11 +1,20 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
-import { createCatalogService, parseCatalogMarkdown, safeUrl, REPOSITORY } from '../server/catalog.js';
+import { createCatalogService, classifyWork, parseCatalogMarkdown, safeUrl, REPOSITORY } from '../server/catalog.js';
 
 const entry = (name = 'Aurora', description = 'A useful project.', url = 'https://aurora.example/') => `- **[${name}](${url})** — ${description}\n  - 作者：[Maker](https://github.com/maker)\n  - 开发资料：[源码](https://github.com/maker/aurora/tree/main/src)\n`;
 const document = (entries = entry(), heading = '工具') => `# Awesome projects\n\n## 作品目录\n\n### ${heading}\n\n${entries}`;
 const ok = (markdown, etag = 'example') => new Response(markdown, { status: 200, headers: { etag } });
+
+test('classifyWork prefers game over experiment and respects PLAYABLE subsections', () => {
+  assert.equal(classifyWork('01. Afterlight · 45 分钟 3D 游戏', '概念图对标到 60fps 的 one-shot 原型。', '精选 16', 'Afterlight · 45 分钟 3D 游戏'), 'game');
+  assert.equal(classifyWork('PLAYABLE · 工程 / 仿真', '交互仿真', '可玩 Demo', 'Strata Field Lab'), 'experiment');
+  assert.equal(classifyWork('PLAYABLE · 经典复刻 / 知名玩法', '复刻街机', '可玩 Demo', 'PAC-MAN'), 'game');
+  assert.equal(classifyWork('实验玩法', 'A fun FPS shooter', '动作与街机', 'Neural Sight FPS'), 'game');
+  assert.equal(classifyWork('3D 世界与建模', '粒子可视化沙盒', '目录', 'ORBITAL GARDEN'), 'experiment');
+  assert.equal(classifyWork('CheerSelfAI · 界面与产品流程', '产品流程', '', 'Onboarding'), 'app');
+});
 
 test('current README parses every actual entry and excludes navigation, attribution, and contribution links', () => {
   const markdown = readFileSync(new URL('../../README.md', import.meta.url), 'utf8');
