@@ -40,7 +40,7 @@
       "id": "work-a7b1af572bf00b9b",
       "name": "Swat — fruit-fly connectome",
       "description": "可玩 Demo · 教育 / 科普 · 果蝇连接组浏览器小游戏，Astra 纯前端",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 教育 / 科普",
       "author": {
         "name": "Harry__Rook",
@@ -58,7 +58,7 @@
       "id": "work-7ba9bdfb3d80b6b1",
       "name": "Strata Field Lab",
       "description": "可玩 Demo · 教育 / 科普 · 地质笔记→交互 3D 标本馆（59 标本 + 测验）",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 教育 / 科普",
       "author": {
         "name": "IsaacAttuah",
@@ -184,7 +184,7 @@
       "id": "work-956b39d586362f91",
       "name": "KLIPZI CITY",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -202,7 +202,7 @@
       "id": "work-d7cf1ece56fa1dce",
       "name": "Geometry Dash · Fan Remix",
       "description": "可玩 Demo · 音乐 / 表演",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "17facet",
@@ -238,7 +238,7 @@
       "id": "work-dbebeceae8db26c6",
       "name": "Peel — your new main squeezes",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "Cryptosphere14",
@@ -256,7 +256,7 @@
       "id": "work-d1923b6b876a5a84",
       "name": "CARGO LAB · 컨테이너 적재 시뮬레이터",
       "description": "可玩 Demo · 工程 / 仿真",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "nanggos",
@@ -310,7 +310,7 @@
       "id": "work-757d386b5d00cea0",
       "name": "Astra — a dream in orbit",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "ReadEpoch",
@@ -346,7 +346,7 @@
       "id": "work-f130ed7649cf4ae1",
       "name": "One fingerprint button. Six Astra reconstructions.",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "magbicaleman",
@@ -418,7 +418,7 @@
       "id": "work-4dad37a3a6287ef1",
       "name": "无限庭院",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -454,7 +454,7 @@
       "id": "work-9b08aa629a627596",
       "name": "Piano libre — Piano virtuel",
       "description": "可玩 Demo · 音乐 / 表演",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "community",
@@ -490,7 +490,7 @@
       "id": "work-1dfa79c2205bde9e",
       "name": "Craft3D — More than a mesh.",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "Craft3dApp",
@@ -508,7 +508,7 @@
       "id": "work-7165f122f8556d68",
       "name": "Model X Studio",
       "description": "交互式 Tesla Model X 3D 工作室：圆形展台、零件说明、单件隔离，以及覆盖全部 334 个 mesh 的渐进爆炸视图。可玩 Demo。",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "ashemag",
@@ -544,7 +544,7 @@
       "id": "work-77c3940254bab267",
       "name": "Bernabéu · Visita 3D",
       "description": "可玩 Demo · 3D 场景 / 氛围探索",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "davidcanci",
@@ -598,7 +598,7 @@
       "id": "work-4fa359aa839d7e31",
       "name": "Portal Viewer",
       "description": "可玩 Demo · 工程 / 仿真",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "SexyTechNews",
@@ -616,7 +616,7 @@
       "id": "work-11d55bcd1d526f34",
       "name": "Gravitational Bloom",
       "description": "可玩 Demo · 音乐 / 表演",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "BuilderGuest",
@@ -652,7 +652,7 @@
       "id": "work-a29273ac68e188b2",
       "name": "スマートトレイン学習サイト｜マトレイン",
       "description": "可玩 Demo · 工程 / 仿真",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "shosuke_railfan",
@@ -706,7 +706,7 @@
       "id": "work-fa8bd141aa1127bb",
       "name": "RB19 交互仿真",
       "description": "可玩 Demo · 工程 / 仿真",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "community",
@@ -976,7 +976,7 @@
       "id": "work-4360a63589232070",
       "name": "LUMINA — Bloom of the Cosmos",
       "description": "可玩 Demo · 音乐 / 表演 · ❤ 2",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "community",
@@ -994,7 +994,7 @@
       "id": "work-9a90a285371c742d",
       "name": "MECHANICA — W12 Engine Lab",
       "description": "可玩 Demo · 工程 / 仿真 · ❤ 2",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "community",
@@ -1012,7 +1012,7 @@
       "id": "work-3ddbcd74f6f4ab34",
       "name": "Ember Causeway",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 2",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -1030,7 +1030,7 @@
       "id": "work-058ae9b80c886e3d",
       "name": "TR-909 / Play it.",
       "description": "可玩 Demo · 音乐 / 表演 · ❤ 2",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "community",
@@ -1066,7 +1066,7 @@
       "id": "work-36d59fad1c131e78",
       "name": "Komorebi — Cat World",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 2",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "thisjiro",
@@ -1084,7 +1084,7 @@
       "id": "work-730a5d657b6c5cdd",
       "name": "Persepolis — An Ancient World, Rediscovered",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 3",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "made_by_hossein",
@@ -1102,7 +1102,7 @@
       "id": "work-3bd2a089eb538b6a",
       "name": "Wildwood — A little world of your own",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 3",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "Krit12007",
@@ -1156,7 +1156,7 @@
       "id": "work-298cd080307f4f0e",
       "name": "Manu.Vision — SP Edition",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 5",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -1174,7 +1174,7 @@
       "id": "work-f804e082866c6e0c",
       "name": "Topological Rubik’s Synchronizer",
       "description": "可玩 Demo · 工程 / 仿真 · ❤ 10",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "community",
@@ -1210,7 +1210,7 @@
       "id": "work-d01e6d454686c531",
       "name": "NAVI City — A living liquidity network",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 16",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -1264,7 +1264,7 @@
       "id": "work-c45391db51a65a85",
       "name": "Eiffel — Light & Perspective",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 36",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "ayaboch",
@@ -1282,7 +1282,7 @@
       "id": "work-7f7c2adf0265cb0b",
       "name": "Fluid — a little space to get lost",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 57",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "LukeYoungblood",
@@ -1300,7 +1300,7 @@
       "id": "work-197a0c9ae8686fdc",
       "name": "Skyward: The Gathering",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 80",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "timourxyz",
@@ -1318,7 +1318,7 @@
       "id": "work-cb353236f8be8396",
       "name": "Diamond Light",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 113",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "LexnLin",
@@ -1354,7 +1354,7 @@
       "id": "work-14b4be584f4f33fc",
       "name": "Verdant Forest",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 326",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -1372,7 +1372,7 @@
       "id": "work-5c901aeba8108376",
       "name": "Flora Brush",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 567",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "soumyadesign",
@@ -1390,7 +1390,7 @@
       "id": "work-e57cb552d2209a34",
       "name": "Moonlit Forge",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 580",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "op7418",
@@ -1426,7 +1426,7 @@
       "id": "work-431d6e9afe8ca660",
       "name": "Pelagic — Ocean & Atmosphere",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · ❤ 894",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
       "author": {
         "name": "community",
@@ -1444,7 +1444,7 @@
       "id": "work-c9fc9328dcc828ae",
       "name": "Daybreak · A piano performance",
       "description": "可玩 Demo · 音乐 / 表演 · ❤ 1107",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "LexnLin",
@@ -1462,7 +1462,7 @@
       "id": "work-58161a636c39b27d",
       "name": "Anatomy, unfolded.",
       "description": "可玩 Demo · 教育 / 科普 · ❤ 1156",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 教育 / 科普",
       "author": {
         "name": "community",
@@ -1480,7 +1480,7 @@
       "id": "work-788e9a167d0ea571",
       "name": "Brandenburg Piano — J. S. Bach",
       "description": "可玩 Demo · 音乐 / 表演 · ❤ 1531",
-      "category": "game",
+      "category": "experiment",
       "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "DeryaTR_",
@@ -1516,7 +1516,7 @@
       "id": "work-6f19f9c3e72c1609",
       "name": "Afterlight · 45 分钟 3D 游戏",
       "description": "概念图对标到 60fps 的 one-shot 原型。",
-      "category": "experiment",
+      "category": "game",
       "sourceCategory": "01. Afterlight · 45 分钟 3D 游戏",
       "author": {
         "name": "Anshu",
@@ -1552,7 +1552,7 @@
       "id": "work-4168b43897d5a4c4",
       "name": "梵高小镇 + Gogh Strike",
       "description": "6 幅梵高画合成可漫游小镇，后又做成 5v5 射击。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "03. 梵高小镇 + Gogh Strike",
       "author": {
         "name": "Peter Gostev",
@@ -1660,7 +1660,7 @@
       "id": "work-e90553f09ef19acd",
       "name": "只看屏幕通关《火红》",
       "description": "Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "09. 只看屏幕通关《火红》",
       "author": {
         "name": "Clad3815",
@@ -1678,7 +1678,7 @@
       "id": "work-adf06a77853769b8",
       "name": "11 分钟巴赫钢琴",
       "description": "可弹虚拟钢琴，内置全部 6 首《勃兰登堡协奏曲》。",
-      "category": "other",
+      "category": "experiment",
       "sourceCategory": "10. 11 分钟巴赫钢琴",
       "author": {
         "name": "Derya Unutmaz",
@@ -1732,7 +1732,7 @@
       "id": "work-fe2ddca89a1193f4",
       "name": "语音通关《杀戮尖塔 2》",
       "description": "没写复杂 prompt，模型自学键位打了 48 层。",
-      "category": "experiment",
+      "category": "game",
       "sourceCategory": "13. 语音通关《杀戮尖塔 2》",
       "author": {
         "name": "paulwei",
@@ -1750,7 +1750,7 @@
       "id": "work-a5686a9aa8ea7b7d",
       "name": "Godot 索尼克 Max vs Medium",
       "description": "同一提示词：53 分钟 / 4% vs 25 分钟 / 1%。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "14. Godot 索尼克 Max vs Medium",
       "author": {
         "name": "AiBattle",
@@ -1768,7 +1768,7 @@
       "id": "work-11aa79598c612921",
       "name": "官方 KiCad / UE5 演示",
       "description": "原理图到 PCB，Blender 房子导入 Unreal Engine 5。",
-      "category": "other",
+      "category": "tool",
       "sourceCategory": "15. 官方 KiCad / UE5 演示",
       "author": {
         "name": "OpenAI",
@@ -1840,7 +1840,7 @@
       "id": "work-b44b856eb604423f",
       "name": "Three.js MMORPG 区域",
       "description": "网页端 one prompt：营地、交易、技能栏。oceanbennett · original · 09-05",
-      "category": "game",
+      "category": "website",
       "sourceCategory": "游戏与可玩原型",
       "author": {
         "name": "oceanbennett",
@@ -1966,7 +1966,7 @@
       "id": "work-d3f14703da032e8e",
       "name": "房子照片 → 完整 Blender 场景",
       "description": "家具玩具都在，可 60fps 浏览。tomkrcha · original · 09-03",
-      "category": "experiment",
+      "category": "game",
       "sourceCategory": "3D 世界与建模",
       "author": {
         "name": "tomkrcha",
@@ -2110,7 +2110,7 @@
       "id": "work-fc4ab7c8e69f71db",
       "name": "Tesla Model X 拆解站",
       "description": "334 个零件的 3D 网页。ashebytes · original · 09-04",
-      "category": "experiment",
+      "category": "website",
       "sourceCategory": "3D 世界与建模",
       "author": {
         "name": "ashebytes",
@@ -2182,7 +2182,7 @@
       "id": "work-056dad315e3c96b6",
       "name": "自动 bind 的功夫动作",
       "description": "角色自动绑骨与动画。thebuggeddev · original · 09-05",
-      "category": "experiment",
+      "category": "game",
       "sourceCategory": "3D 世界与建模",
       "author": {
         "name": "thebuggeddev",
@@ -2416,7 +2416,7 @@
       "id": "work-c23d4b96d93e9022",
       "name": "ZX Spectrum 48K 复刻",
       "description": "橡胶键盘、磅带加载、可玩 Gridrunner。DeryaTR_ · original · 09-05",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "音乐 / 科学 / Prompt",
       "author": {
         "name": "DeryaTR_",
@@ -2596,7 +2596,7 @@
       "id": "work-57cacc734ddc43d0",
       "name": "Ayi1337/gpt6-astra-one-shot-games",
       "description": "原始 Prompt 与可运行单文件 HTML",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2632,7 +2632,7 @@
       "id": "work-9e8d9df493264dae",
       "name": "Firnschnee/dual-model-mcp",
       "description": "Fable 5.1 与 Astra 双模型 MCP",
-      "category": "experiment",
+      "category": "other",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2704,7 +2704,7 @@
       "id": "work-c77aaeb31d06b9cf",
       "name": "coreprocess/openai-relay-for-cursor",
       "description": "在 Cursor 中接入 Responses API 模型",
-      "category": "experiment",
+      "category": "other",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2740,7 +2740,7 @@
       "id": "work-dc81dce77bca9260",
       "name": "marius4lui/NULLSPACE",
       "description": "生存恐怖 FPS",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2758,7 +2758,7 @@
       "id": "work-7e42ba1b0b9fa540",
       "name": "Rising1234Sun/qingmingshanghetu",
       "description": "清明上河图实时 3D 场景",
-      "category": "experiment",
+      "category": "other",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2812,7 +2812,7 @@
       "id": "work-04f3eeac4963586e",
       "name": "paveljor/agent-bluff",
       "description": "多模型欺骗能力对赛",
-      "category": "experiment",
+      "category": "other",
       "sourceCategory": "社区项目",
       "author": {
         "name": "",
@@ -2830,7 +2830,7 @@
       "id": "work-13437626d2614973",
       "name": "Zork 文字冒险改为 3D 动作冒险",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -2848,7 +2848,7 @@
       "id": "work-4ddddd7991f91259",
       "name": "浏览器第三人称动作游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -2866,7 +2866,7 @@
       "id": "work-e072428bf4e9a66d",
       "name": "反重力竞速游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -2884,7 +2884,7 @@
       "id": "work-113936e041b40d68",
       "name": "Mario Kart 风格赛车",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -2902,7 +2902,7 @@
       "id": "work-4539d57dce6c7bfd",
       "name": "Gogh Strike 艺术风格射击游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -2920,7 +2920,7 @@
       "id": "work-2cee9e15bfcb4cb0",
       "name": "Cut the Rope 风格解谜游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3028,7 +3028,7 @@
       "id": "work-ec2b5297b79042ba",
       "name": "批量尝试网站视觉设计",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "website",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3082,7 +3082,7 @@
       "id": "work-c0bedca7ad3f55a0",
       "name": "重做现有网站 onboarding",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "website",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3136,7 +3136,7 @@
       "id": "work-1af1c117ec6ee018",
       "name": "macOS App onboarding",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "app",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3298,7 +3298,7 @@
       "id": "work-92ed718fbed3d617",
       "name": "实时海岸模拟",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3316,7 +3316,7 @@
       "id": "work-e482d91a16545e18",
       "name": "双摆数值模拟与交互画布",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3370,7 +3370,7 @@
       "id": "work-c9f1227930823113",
       "name": "化学分析 macOS 应用原型",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "app",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3514,7 +3514,7 @@
       "id": "work-ee80f4a851b651a7",
       "name": "Panzer Dragoon Episode 1 风格游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3586,7 +3586,7 @@
       "id": "work-742787bb6344a461",
       "name": "Street Heat 浏览器街机赛车",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3640,7 +3640,7 @@
       "id": "work-0ef1a40c3e0b2b63",
       "name": "3D mockup 生成工具",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "tool",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3676,7 +3676,7 @@
       "id": "work-e059c4e5330acca6",
       "name": "单 prompt 游戏展示",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3748,7 +3748,7 @@
       "id": "work-a48440f070c10ce4",
       "name": "Web to App 转原生移动 App",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "app",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3766,7 +3766,7 @@
       "id": "work-eefabe71d89f49af",
       "name": "20 星球探索游戏",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3874,7 +3874,7 @@
       "id": "work-877dafd9bb67b1d6",
       "name": "Pokemon 风格游戏重建",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -3892,7 +3892,7 @@
       "id": "work-8549faac0f37b81f",
       "name": "WoW / RuneScape 风格 RPG",
       "description": "CheerSelfAI 公开使用案例。",
-      "category": "other",
+      "category": "game",
       "sourceCategory": "CheerSelfAI 使用案例",
       "author": {
         "name": "",
@@ -4036,7 +4036,7 @@
       "id": "work-2a33f9a6e675b74d",
       "name": "11. 没有拍摄，没有剪辑，只用一个 prompt",
       "description": "公开案例声称用一个提示词生成 30 秒 AI 视频。",
-      "category": "tool",
+      "category": "other",
       "sourceCategory": "X 线程新增案例 · 11",
       "author": {
         "name": "NΞKO_SHΛRK / @cat_shark_L1011",
@@ -4054,7 +4054,7 @@
       "id": "work-fd985aaa8039a25b",
       "name": "14. 在 Aseprite 里画初音未来像素画",
       "description": "在 Aseprite 中制作真正的点阵图，而非像素风插画。",
-      "category": "tool",
+      "category": "other",
       "sourceCategory": "X 线程新增案例 · 14",
       "author": {
         "name": "すえまる / @suemaruuuuuuX",
@@ -4072,7 +4072,7 @@
       "id": "work-6df22c87815603cb",
       "name": "18. 完整可玩的卡牌游戏",
       "description": "从抽卡动画需求扩展成可上线的完整卡牌游戏。",
-      "category": "tool",
+      "category": "game",
       "sourceCategory": "X 线程新增案例 · 18",
       "author": {
         "name": "ギガビット@ゲームつくるひと / @gigabit_million",
@@ -4090,7 +4090,7 @@
       "id": "work-fe85e86986201154",
       "name": "19. 完整的 Final Cut 项目",
       "description": "自动导入片段、调色、同步剪辑，为后续视频编辑准备工程。",
-      "category": "tool",
+      "category": "other",
       "sourceCategory": "X 线程新增案例 · 19",
       "author": {
         "name": "Ben Davis / @davis7",
@@ -4108,7 +4108,7 @@
       "id": "work-a112776f77c5a2cc",
       "name": "20. GPT-6 Astra 与其他模型的视觉对比",
       "description": "让多个模型根据同一张扑克牌绘制真实感眼睛并对比结果。",
-      "category": "tool",
+      "category": "other",
       "sourceCategory": "X 线程新增案例 · 20",
       "author": {
         "name": "Ann Nguyen / @ann_nnng",
