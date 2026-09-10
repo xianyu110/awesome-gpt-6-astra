@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**116** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**122** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 11
-- [竞速 / 驾驶](#竞速--驾驶) — 13
+- [竞速 / 驾驶](#竞速--驾驶) — 15
 - [射击 / 动作](#射击--动作) — 11
-- [模拟经营 / 策略](#模拟经营--策略) — 6
+- [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
 - [音乐 / 表演](#音乐--表演) — 7
 - [教育 / 科普](#教育--科普) — 7
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 30
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 32
 - [工程 / 仿真](#工程--仿真) — 10
-- [其他可玩 Demo](#其他可玩-Demo) — 5
+- [其他可玩 Demo](#其他可玩-Demo) — 6
 
 ## 经典复刻 / 知名玩法
 
@@ -112,6 +112,17 @@
    - 试玩链接：`https://lantern-cove.akartit.chatgpt.site/`
    - 原帖：https://x.com/akartit/status/2096520784449613981
 
+14. **Desi Mayhem** — [试玩](https://desimayhem.com) · [原帖](https://x.com/GetKishore/status/2097906401159102811) · ❤ 32
+   - 试玩链接：`https://desimayhem.com`
+   - 原帖：https://x.com/GetKishore/status/2097906401159102811
+   - 备注：印度版 Road Rash：Chennai 堵车 / 牛 / 交警摩托对战，浏览器可玩
+
+15. **蘑菇卡丁车 · 马里奥的赛道冒险** — [试玩](https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/) · [原帖](https://x.com/zccjjs8/status/2097943884445925808) · ❤ 1
+   - 试玩链接：`https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/`
+   - 原帖：https://x.com/zccjjs8/status/2097943884445925808
+   - 备注：Astra × Three.js 怀旧卡丁车，打开就能上手
+
+
 ## 射击 / 动作
 
 1. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
@@ -181,6 +192,12 @@
 6. **Le Bon Rayon — Épicerie de quartier** — [试玩](https://le-bon-rayon.alexxondre.chatgpt.site) · [原帖](https://x.com/i/status/2096652925527314554)
    - 试玩链接：`https://le-bon-rayon.alexxondre.chatgpt.site`
    - 原帖：https://x.com/i/status/2096652925527314554
+
+7. **NÁCAR — Nacar Microcosmo** — [试玩](https://nacar-microcosmo.preda2005.chatgpt.site) · [原帖](https://x.com/Preda2005/status/2097954217180921928) · ❤ 29
+   - 试玩链接：`https://nacar-microcosmo.preda2005.chatgpt.site`
+   - 原帖：https://x.com/Preda2005/status/2097954217180921928
+   - 备注：蜗牛壳里的微观进化沙盒：吃、探、活、进化，捡到啥长啥，五语界面
+
 
 ## 联机 / 多人
 
@@ -437,6 +454,16 @@
    - 原帖：https://x.com/TonyweiP/status/2097886969472974895
    - 备注：爱知·名古屋亚洲大会 47 区 54 场馆可旋转缩放的浏览器 3D 地图
 
+31. **The Last Ember — The Sunken Sanctuary** — [试玩](https://environment-design-1.julius.site) · [原帖](https://x.com/Motion_Viz/status/2097943908684587330) · ❤ 20
+   - 试玩链接：`https://environment-design-1.julius.site`
+   - 原帖：https://x.com/Motion_Viz/status/2097943908684587330
+   - 备注：Julius 里用 Astra 把 2D 概念图做成 three.js / WebGL 可逛关卡（~1h / ~$2 / 157fps）
+
+32. **Helion City** — [试玩](https://helion-city.vercel.app) · [原帖](https://x.com/nelsonpatrao/status/2097992927842635783) · ❤ 6
+   - 试玩链接：`https://helion-city.vercel.app`
+   - 原帖：https://x.com/nelsonpatrao/status/2097992927842635783
+   - 备注：Dream Loop 全栈：Astra 主流程 + Sol 抠 token + Meshy / ComfyUI / Gemini，Three.js 收口
+
 
 ## 工程 / 仿真
 
@@ -501,6 +528,12 @@
 5. **Play GTA Vice City Online in Your Browser | Quenq GTA Vice City** — [试玩](https://quenq.com/apps/vice-city-online/) · [原帖](https://x.com/noman23761/status/2096554926965154037)
    - 试玩链接：`https://quenq.com/apps/vice-city-online/`
    - 原帖：https://x.com/noman23761/status/2096554926965154037
+
+6. **GPT-TV** — [试玩](https://openai.com/gpt-tv/) · [原帖](https://x.com/ara_que/status/2097970104285753604)
+   - 试玩链接：`https://openai.com/gpt-tv/`
+   - 原帖：https://x.com/ara_que/status/2097970104285753604
+   - 备注：OpenAI 官网隐藏交互展：指南 + 灯光 + 三个小游戏（Astra+Codex 从 Figma→React）
+
 
 ## 说明
 

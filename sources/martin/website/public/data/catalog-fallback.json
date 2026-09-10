@@ -1,6 +1,114 @@
 {
   "works": [
     {
+      "id": "work-b784f2e57ea61a00",
+      "name": "Desi Mayhem",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 印度版 Road Rash：Chennai 堵车 / 牛 / 交警摩托对战，浏览器可玩 · ❤ 32",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "GetKishore",
+        "url": "https://x.com/GetKishore"
+      },
+      "demoUrl": "https://desimayhem.com",
+      "sourceUrl": "https://x.com/GetKishore/status/2097906401159102811",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fassets.desimayhem.com%2Fimages%2Fog-desi-mayhem.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fassets.desimayhem.com%2Fimages%2Fog-desi-mayhem.png",
+      "videoUrl": null,
+      "sourceOrder": -1039
+    },
+    {
+      "id": "work-dafa1f7dc3185ea7",
+      "name": "蘑菇卡丁车 · 马里奥的赛道冒险",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Astra × Three.js 怀旧卡丁车，打开就能上手 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "zccjjs8",
+        "url": "https://x.com/zccjjs8"
+      },
+      "demoUrl": "https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/",
+      "sourceUrl": "https://x.com/zccjjs8/status/2097943884445925808",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR1k109bgAAlacv.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR1k109bgAAlacv.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1040
+    },
+    {
+      "id": "work-94f96e744c28b597",
+      "name": "NÁCAR — Nacar Microcosmo",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 蜗牛壳里的微观进化沙盒：吃、探、活、进化，捡到啥长啥，五语界面 · ❤ 29",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "Preda2005",
+        "url": "https://x.com/Preda2005"
+      },
+      "demoUrl": "https://nacar-microcosmo.preda2005.chatgpt.site",
+      "sourceUrl": "https://x.com/Preda2005/status/2097954217180921928",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097889030277140480%2Fimg%2FDP_G2BEUVxrRcYsS.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097889030277140480%2Fimg%2FDP_G2BEUVxrRcYsS.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1041
+    },
+    {
+      "id": "work-4a4321e0947c8f80",
+      "name": "The Last Ember — The Sunken Sanctuary",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Julius 里用 Astra 把 2D 概念图做成 three.js / WebGL 可逛关卡（~1h / ~$2 / 157fps） · ❤ 20",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "Motion_Viz",
+        "url": "https://x.com/Motion_Viz"
+      },
+      "demoUrl": "https://environment-design-1.julius.site",
+      "sourceUrl": "https://x.com/Motion_Viz/status/2097943908684587330",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fz3sq55dc6ngtzpwmujusgnzpem.julius.site%2Fog-image.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fz3sq55dc6ngtzpwmujusgnzpem.julius.site%2Fog-image.png",
+      "videoUrl": null,
+      "sourceOrder": -1042
+    },
+    {
+      "id": "work-f88dbaa44efad1eb",
+      "name": "Helion City",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Dream Loop 全栈：Astra 主流程 + Sol 抠 token + Meshy / ComfyUI / Gemini，Three.js 收口 · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "nelsonpatrao",
+        "url": "https://x.com/nelsonpatrao"
+      },
+      "demoUrl": "https://helion-city.vercel.app",
+      "sourceUrl": "https://x.com/nelsonpatrao/status/2097992927842635783",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097992281618042880%2Fimg%2Fuynh9-odhlR8RnWL.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097992281618042880%2Fimg%2Fuynh9-odhlR8RnWL.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1043
+    },
+    {
+      "id": "work-373e9541101169c0",
+      "name": "GPT-TV",
+      "description": "可玩 Demo · 其他可玩 Demo · OpenAI 官网隐藏交互展：指南 + 灯光 + 三个小游戏（Astra+Codex 从 Figma→React）",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "ara_que",
+        "url": "https://x.com/ara_que"
+      },
+      "demoUrl": "https://openai.com/gpt-tv/",
+      "sourceUrl": "https://x.com/ara_que/status/2097970104285753604",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F2wXGfhZTLJFsthLRGvqQ8J%2F2f20ce9553c5153a7f3424da52384e0f%2FGPT-TV_Seo_16x9.png%3Fw%3D1600%26h%3D900%26fit%3Dfill",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F2wXGfhZTLJFsthLRGvqQ8J%2F2f20ce9553c5153a7f3424da52384e0f%2FGPT-TV_Seo_16x9.png%3Fw%3D1600%26h%3D900%26fit%3Dfill",
+      "videoUrl": null,
+      "sourceOrder": -1044
+    },
+    {
       "id": "work-4cb8f33c927242fa",
       "name": "Antikythera Mechanism — Cosmos in Bronze",
       "description": "可玩 Demo · 教育 / 科普 · 安提基特拉机械精密 3D 复刻，可交互拆解并下载零件 3D 打印 · ❤ 746",

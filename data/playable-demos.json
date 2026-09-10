@@ -1,5 +1,47 @@
 [
   {
+    "title": "Desi Mayhem",
+    "demo_url": "https://desimayhem.com",
+    "post_url": "https://x.com/GetKishore/status/2097906401159102811",
+    "likes": 32,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "蘑菇卡丁车 · 马里奥的赛道冒险",
+    "demo_url": "https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/",
+    "post_url": "https://x.com/zccjjs8/status/2097943884445925808",
+    "likes": 1,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "NÁCAR — Nacar Microcosmo",
+    "demo_url": "https://nacar-microcosmo.preda2005.chatgpt.site",
+    "post_url": "https://x.com/Preda2005/status/2097954217180921928",
+    "likes": 29,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "The Last Ember — The Sunken Sanctuary",
+    "demo_url": "https://environment-design-1.julius.site",
+    "post_url": "https://x.com/Motion_Viz/status/2097943908684587330",
+    "likes": 20,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "Helion City",
+    "demo_url": "https://helion-city.vercel.app",
+    "post_url": "https://x.com/nelsonpatrao/status/2097992927842635783",
+    "likes": 6,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "GPT-TV",
+    "demo_url": "https://openai.com/gpt-tv/",
+    "post_url": "https://x.com/ara_que/status/2097970104285753604",
+    "likes": null,
+    "category": "其他可玩 Demo"
+  },
+  {
     "title": "Antikythera Mechanism — Cosmos in Bronze",
     "demo_url": "https://antikythera-cosmos-in-bronze.alexandrosm.chatgpt.site/",
     "post_url": "https://x.com/alexandrosM/status/2097825301879554296",
