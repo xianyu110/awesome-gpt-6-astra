@@ -1,5 +1,26 @@
 [
   {
+    "title": "Dungeon of Astra",
+    "demo_url": "https://wavedash.com/games/dungeon-of-astra",
+    "post_url": "https://x.com/tonysurix/status/2097873333551616355",
+    "likes": 1,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "Fly Escape — Brain Chamber",
+    "demo_url": "https://fly-escape.vercel.app",
+    "post_url": "https://x.com/AiTool35148/status/2097853121913356540",
+    "likes": 1,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Jelly iPhone",
+    "demo_url": "https://jelly-iphone.signalizeai.org",
+    "post_url": "https://x.com/royalpinto007/status/2097790394067189803",
+    "likes": 2,
+    "category": "工程 / 仿真"
+  },
+  {
     "title": "Bonkshot",
     "demo_url": "https://bonkshot.com",
     "post_url": "https://x.com/edmund5/status/2097603093819261002",
