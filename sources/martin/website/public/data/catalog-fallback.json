@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-9031add49f421fe7",
+      "name": "Westward — The Oregon Trail",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 俄勒冈小道现代 3D 复刻：西进路上的资源、风险与抉择，Three.js 浏览器可玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "bis_waz",
+        "url": "https://x.com/bis_waz"
+      },
+      "demoUrl": "https://biswaz.me/westward/",
+      "sourceUrl": "https://x.com/bis_waz/status/2098023593468907747",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098022734869807105%2Fimg%2Fyk0icIiHR3CGo8eg.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098022734869807105%2Fimg%2Fyk0icIiHR3CGo8eg.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1047
+    },
+    {
+      "id": "work-bbb7e867d39b77fb",
+      "name": "Stadium Elite",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "askmaddyy",
+        "url": "https://x.com/askmaddyy"
+      },
+      "demoUrl": "https://stadium-elite.mindblown.ai",
+      "sourceUrl": "https://x.com/askmaddyy/status/2098018810192375832",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098018723936542720%2Fimg%2FNrDmw6mLZaqKSJqG.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098018723936542720%2Fimg%2FNrDmw6mLZaqKSJqG.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1048
+    },
+    {
+      "id": "work-3224a7ab0fadb51e",
+      "name": "Billionaire Pit",
+      "description": "可玩 Demo · 射击 / 动作 · 赛博朋克 MMA 擂台：四名选手、三回合、一个冠军，小实验格斗可玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "siyam_uddin_t",
+        "url": "https://x.com/siyam_uddin_t"
+      },
+      "demoUrl": "https://billionaire-pit.vercel.app/",
+      "sourceUrl": "https://x.com/siyam_uddin_t/status/2098025717057614109",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR2t_3jb0AAsWMC.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR2t_3jb0AAsWMC.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1049
+    },
+    {
       "id": "work-c6de91e218de6a94",
       "name": "Mario + Duck Hunt Mobile",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · Astra 把超级马里奥和 Duck Hunt 揉进手机端可玩移植，补丁还在狂更",

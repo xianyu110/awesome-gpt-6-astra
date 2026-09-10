@@ -2,15 +2,15 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**124** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**127** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 12
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 15
-- [射击 / 动作](#射击--动作) — 11
+- [射击 / 动作](#射击--动作) — 12
 - [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
@@ -63,6 +63,16 @@
    - 试玩链接：`https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/`
    - 原帖：https://x.com/TrustMeOrElse/status/2097974925365485946
    - 备注：Astra 把超级马里奥和 Duck Hunt 揉进手机端可玩移植，补丁还在狂更
+
+13. **Westward — The Oregon Trail** — [试玩](https://biswaz.me/westward/) · [原帖](https://x.com/bis_waz/status/2098023593468907747)
+   - 试玩链接：`https://biswaz.me/westward/`
+   - 原帖：https://x.com/bis_waz/status/2098023593468907747
+   - 备注：俄勒冈小道现代 3D 复刻：西进路上的资源、风险与抉择，Three.js 浏览器可玩
+
+14. **Stadium Elite** — [试玩](https://stadium-elite.mindblown.ai) · [原帖](https://x.com/askmaddyy/status/2098018810192375832) · ❤ 3
+   - 试玩链接：`https://stadium-elite.mindblown.ai`
+   - 原帖：https://x.com/askmaddyy/status/2098018810192375832
+   - 备注：浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩
 
 
 ## 竞速 / 驾驶
@@ -173,6 +183,11 @@
 11. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
    - 试玩链接：`https://ascii-district.vercel.app/`
    - 原帖：https://x.com/acker_code/status/2097542957070975286
+
+12. **Billionaire Pit** — [试玩](https://billionaire-pit.vercel.app/) · [原帖](https://x.com/siyam_uddin_t/status/2098025717057614109)
+   - 试玩链接：`https://billionaire-pit.vercel.app/`
+   - 原帖：https://x.com/siyam_uddin_t/status/2098025717057614109
+   - 备注：赛博朋克 MMA 擂台：四名选手、三回合、一个冠军，小实验格斗可玩
 
 
 ## 模拟经营 / 策略
