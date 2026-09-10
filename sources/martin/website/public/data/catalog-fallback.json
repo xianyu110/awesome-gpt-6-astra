@@ -1,6 +1,96 @@
 {
   "works": [
     {
+      "id": "work-4cb8f33c927242fa",
+      "name": "Antikythera Mechanism — Cosmos in Bronze",
+      "description": "可玩 Demo · 教育 / 科普 · 安提基特拉机械精密 3D 复刻，可交互拆解并下载零件 3D 打印 · ❤ 746",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "alexandrosM",
+        "url": "https://x.com/alexandrosM"
+      },
+      "demoUrl": "https://antikythera-cosmos-in-bronze.alexandrosm.chatgpt.site/",
+      "sourceUrl": "https://x.com/alexandrosM/status/2097825301879554296",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097824717801750528%2Fimg%2Fboh6E2MjxVtPAu7D.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097824717801750528%2Fimg%2Fboh6E2MjxVtPAu7D.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1034
+    },
+    {
+      "id": "work-a1f77f2d86e6ec0b",
+      "name": "OMNISCIENT_",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Sandbox Studio three.js 沙盒游戏（含隐藏关） · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "lifemademe",
+        "url": "https://x.com/lifemademe"
+      },
+      "demoUrl": "https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb",
+      "sourceUrl": "https://x.com/lifemademe/status/2097889652573085871",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097888183111606273%2Fimg%2Fy5BcJOj28LJROX0B.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097888183111606273%2Fimg%2Fy5BcJOj28LJROX0B.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1035
+    },
+    {
+      "id": "work-9301c55caac97f8c",
+      "name": "名古屋亚运会场馆体素地图",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 爱知·名古屋亚洲大会 47 区 54 场馆可旋转缩放的浏览器 3D 地图",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "TonyweiP",
+        "url": "https://x.com/TonyweiP"
+      },
+      "demoUrl": "https://nagoya-voxel-map.web.app/?lang=ja",
+      "sourceUrl": "https://x.com/TonyweiP/status/2097886969472974895",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097886884949340160%2Fimg%2FxMl4wh1klwn6RhyV.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097886884949340160%2Fimg%2FxMl4wh1klwn6RhyV.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1036
+    },
+    {
+      "id": "work-7b0e07a3e698d803",
+      "name": "decompwlj Atlas",
+      "description": "可玩 Demo · 教育 / 科普 · three.js 交互 3D 数列分解图谱（50 组序列） · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "decompwlj",
+        "url": "https://x.com/decompwlj"
+      },
+      "demoUrl": "https://decompwlj.com/decompwlj-atlas/dist/",
+      "sourceUrl": "https://x.com/decompwlj/status/2097890709554511934",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097890044958916608%2Fimg%2F9sYNbbPmb9N3E78d.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097890044958916608%2Fimg%2F9sYNbbPmb9N3E78d.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1037
+    },
+    {
+      "id": "work-cf1152aa8a71e9dd",
+      "name": "Fluid Sim — Navier–Stokes Playground",
+      "description": "可玩 Demo · 工程 / 仿真 · 可拖拽扰动的流体仿真，调参并复制代码",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "Prajwal96343052",
+        "url": "https://x.com/Prajwal96343052"
+      },
+      "demoUrl": "https://01a089d5-5b04-72f3-ba4a-055d86591971.arena.site/",
+      "sourceUrl": "https://x.com/Prajwal96343052/status/2097925378186883234",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097925378396532736%2FeqmnF2eS%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097925378396532736%2FeqmnF2eS%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1038
+    },
+    {
       "id": "work-ae8a8c4d68269138",
       "name": "The Legend of Deller",
       "description": "可玩 Demo · 射击 / 动作 · Astra + PicoBerry three.js ARPG（村庄 / 地牢 / 风暴王 Vael） · ❤ 6",
