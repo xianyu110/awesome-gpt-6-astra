@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**127** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**128** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,7 +10,7 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 15
-- [射击 / 动作](#射击--动作) — 12
+- [射击 / 动作](#射击--动作) — 13
 - [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
@@ -188,6 +188,11 @@
    - 试玩链接：`https://billionaire-pit.vercel.app/`
    - 原帖：https://x.com/siyam_uddin_t/status/2098025717057614109
    - 备注：赛博朋克 MMA 擂台：四名选手、三回合、一个冠军，小实验格斗可玩
+
+13. **Last Light — City 1 Update** — [试玩](https://spectacular-jargon-xtw.julius.site/) · [原帖](https://x.com/PheonixTech17/status/2097989218006130724) · ❤ 7
+   - 试玩链接：`https://spectacular-jargon-xtw.julius.site/`
+   - 原帖：https://x.com/PheonixTech17/status/2097989218006130724
+   - 备注：Julius + Three.js 丧尸生存：3D 城区、战斗物理、传送门目标，浏览器开打就能玩
 
 
 ## 模拟经营 / 策略
