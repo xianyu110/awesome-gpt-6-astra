@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-ae8a8c4d68269138",
+      "name": "The Legend of Deller",
+      "description": "可玩 Demo · 射击 / 动作 · Astra + PicoBerry three.js ARPG（村庄 / 地牢 / 风暴王 Vael） · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "UModeler",
+        "url": "https://x.com/UModeler"
+      },
+      "demoUrl": "https://rain-court-js.umodeler-inc-4323.chatgpt.site",
+      "sourceUrl": "https://x.com/UModeler/status/2097792348407099553",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F2097792244472287234%2Fpu%2Fimg%2FPEj0ud9bC37ocy71.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F2097792244472287234%2Fpu%2Fimg%2FPEj0ud9bC37ocy71.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1033
+    },
+    {
       "id": "work-0751dc4e0b9b7bc1",
       "name": "Dungeon of Astra",
       "description": "可玩 Demo · 射击 / 动作 · Wavedash 上线的 Astra 百层地牢小队 RPG（打魔王） · ❤ 1",
