@@ -4,7 +4,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 43](https://img.shields.io/badge/Cases-43-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 61](https://img.shields.io/badge/Cases-61-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -20,12 +20,14 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **43 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to open its demo or source with setup instructions.
+Explore **61 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
 Catalog updated: **2026-09-09**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
+New additions: [16 browser games discovered on X](docs/x-high-traffic-games-2026-09-09.md), with a verification table ordered by observed post views.
+
 - **Looking for something to play?** Browse the genres below.
-- **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a playable or source link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
+- **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a direct browser game link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
 - **Found a great project?** Recommend someone else's public work and credit its creator.
 
 This is a community-maintained list with no affiliation to OpenAI. Inclusion is an invitation to explore, not a benchmark or an official endorsement.
@@ -101,6 +103,31 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: [X](https://x.com/jumperz/status/2096600055301984738) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/cinderfall/SOURCE.md).
   - Preview: ![Cinderfall · Fire, Shadow & Steel](assets/screenshots/cinderfall/gameplay.jpg)
 
+- **[Oz Breakdance](https://satriodewantono.com/breakdance/)** — Drag a ragdoll dancer’s limbs into matching targets to score points and extend a timed breaking round.
+  - Creator: [Satrio](https://x.com/satrio_d)
+  - Platform: Desktop browser, mouse controls; a timed round started without sign-in.
+  - GPT-6 Astra: [X](https://x.com/satrio_d/status/2096022866097758500) — The creator says Astra improved his existing breakdance game and its presentation. [Verification notes](assets/screenshots/breakdance/SOURCE.md).
+  - Preview: ![A ragdoll dancer aiming for a foot target in the timed breakdance arena.](assets/screenshots/breakdance/gameplay.jpg)
+
+- **[Astral War](https://astralwar.io/)** — A World War II themed browser FPS with soldier and zombie appearances, weapon loadouts, bot training and lobby options.
+  - Creator: [Rishi](https://x.com/0xRishi)
+  - Platform: Desktop browser, keyboard/mouse; bot training started without sign-in. Multiplayer and controller support were not tested.
+  - GPT-6 Astra: [X](https://x.com/0xRishi/status/2096079660605997264) — Rishi reports building Astral War with Astra, Three.js, Meshy and ElevenLabs. The current site also credits Vesper; see the attribution note. [Verification notes](assets/screenshots/astral-war/SOURCE.md).
+  - Preview: ![Astral War’s running combat view with weapon and battlefield controls.](assets/screenshots/astral-war/gameplay.jpg)
+
+- **[FLOP CLUB](https://bubucn.com/ai-model-evals/flop-club/game/index.html)** — Dive from three platform heights, perform flips and twists, and aim for a floating ring to improve your landing score.
+  - Creator: [BubuAi](https://x.com/BubuStd)
+  - Platform: Browser; the standalone game starts directly without sign-in or downloads. A dive was started during the 2026-09-09 check; keyboard and documented touch controls.
+  - GPT-6 Astra: [X](https://x.com/BubuStd/status/2096402783805354091) — The creator reports a one-prompt Astra Pro build using Three.js. [Verification notes](assets/screenshots/flop-club/SOURCE.md).
+  - Resources: [Project introduction](https://bubucn.com/zh/ai-model-evals/flop-club)
+  - Preview: ![A diver on the high platform above the target ring and landing controls.](assets/screenshots/flop-club/gameplay.jpg)
+
+- **[Vector Dive — Beyond the Signal](https://vector-dive.openai.chatgpt.site/)** — Pilot through neon wireframe circuits that accelerate with each loop, timing boosts and phase moves to survive longer.
+  - Creator: [Thomas Ricouard](https://x.com/Dimillian)
+  - Platform: Desktop browser; a scored flight was started without sign-in. WASD flight, Space boost and Shift phase.
+  - GPT-6 Astra: [X](https://x.com/Dimillian/status/2097188900888322323) — The creator says Astra built the game and music from a neon/synthwave visual brief and concept art. [Verification notes](assets/screenshots/vector-dive/SOURCE.md).
+  - Preview: ![Vector Dive’s neon flight course with the player craft and gameplay HUD.](assets/screenshots/vector-dive/gameplay.jpg)
+
 ### Puzzles & brain games
 
 Logic puzzles, physics challenges, word games, and clever little mechanisms.
@@ -125,11 +152,12 @@ Logic puzzles, physics challenges, word games, and clever little mechanisms.
   - Resources: [Source and setup](works/sunjing-puzzles/README.md) · [Requests](works/sunjing-puzzles/PROMPTS.md) · Built with: React, Vinext/Vite and Three.js.
   - Preview: ![Sunjing's six-piece wooden lock on a green 3D workbench, with numbered pieces and extraction controls.](assets/screenshots/sunjing-puzzles/gameplay.jpg)
 
-- **[二凤字阵 / Erfeng Glyph Formation](https://2feng.jay6697117.deno.net/)** — A Chinese-character word-building tower-defense game with an ink-wash interface and character progression.
-  - Creator: [SteveZhang / jay6697117](https://github.com/jay6697117) · [X](https://x.com/stevezh10058543)
-  - Platform: Browser; Google login required. Only the login gate was checked; gameplay is supported by creator screenshots. WeChat users are instructed to authorize in Chrome.
-  - GPT-6 Astra: [Issue #48](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/48) — Creator reports: GPT-6 Astra handled game logic, UI layout optimization and game-art generation.
-  - Preview: ![二凤字阵 / Erfeng Glyph Formation](https://github.com/user-attachments/assets/f237391f-1924-4607-b2a7-924cdab1dbc4)
+- **[CityMaker](https://citymaker.0to1app.com)** — A 2048 puzzle played on a 4×4 city block: merge matching buildings to climb eleven architectural tiers per city, from traditional homes to a recognizable skyline, across twelve cities with a view you can rotate 45° at a time.
+  - Creator: [Derek Wang](https://github.com/derek-wangpch)
+  - Platform: Desktop and mobile browsers with WebGL; English, Simplified Chinese and Traditional Chinese. Free, no login or API key; progress is saved per city in the current browser and can be installed to the iOS Home Screen.
+  - GPT-6 Astra: [Creation record](https://github.com/derek-wangpch/OpenCityMaker/blob/master/docs/CREATION.md) — The creator reports using GPT-6 Astra to generate the procedural geometry for all 132 building models, through a reference-driven workflow of multi-view research, silhouette-first massing and screenshot validation; not a one-shot test.
+  - Resources: [Source and setup](https://github.com/derek-wangpch/OpenCityMaker) · [Verification notes](https://github.com/derek-wangpch/OpenCityMaker/blob/master/QA.md) · Built with: React, TypeScript, Vite and Three.js; all 132 building models are original procedural geometry.
+  - Preview: ![CityMaker gameplay: a Hong Kong board of low-poly 3D buildings on a 4×4 grid, with score, city rail and rotation controls.](assets/screenshots/citymaker/gameplay.png)
 
 ### Strategy & simulation
 
@@ -213,6 +241,31 @@ Tower defense, strategic card games, management games, building, and simulation 
   - Resources: [GitHub](https://github.com/LucasMarquesShiva/the-free-game)
   - Preview: ![The Free Game](assets/screenshots/the-free-game/gameplay.jpg)
 
+- **[AGI of Empires — The Compute Wars](https://agiofempires.com/)** — Gather funding and GPUs, build data centers and armies, and race rival AI labs to ASI or destroy their headquarters.
+  - Creator: [timour kosters](https://x.com/timourxyz)
+  - Platform: Desktop browser; a free satirical real-time strategy game. The opening computer-opponent match and resource collection were verified without sign-in.
+  - GPT-6 Astra: [X](https://x.com/timourxyz/status/2096662786692776293) — The creator says he developed this Age of Empires-inspired game with Astra over two days. [Verification notes](assets/screenshots/agi-of-empires/SOURCE.md).
+  - Preview: ![The AGI of Empires battlefield, resource counters and headquarters.](assets/screenshots/agi-of-empires/gameplay.jpg)
+
+- **[Atlas Go](https://atlas-go.borisxp.chatgpt.site/)** — Play Go on street networks and unusual graph boards, with local pass-and-play and friend-game options.
+  - Creator: [Boris Power](https://x.com/BorisMPower)
+  - Platform: Browser; local board opened without sign-in. Online friend matches were not tested.
+  - GPT-6 Astra: [X](https://x.com/BorisMPower/status/2096784808399843582) — The creator describes this arbitrary-graph multiplayer Go game as a single-prompt Astra creation. [Verification notes](assets/screenshots/atlas-go/SOURCE.md).
+  - Preview: ![Black and white stones on Atlas Go’s honeycomb graph board.](assets/screenshots/atlas-go/gameplay.jpg)
+
+- **[Ironwood — The Art of Industry](https://ironwood.sparkles.dev/)** — Gather raw materials, power machines and connect conveyor belts to turn a clearing into a working factory.
+  - Creator: [Dan](https://x.com/aidaniil)
+  - Platform: Desktop browser; a guest tutorial opens without sign-in, while saving progress requires login. Multiplayer was not independently tested.
+  - GPT-6 Astra: [X](https://x.com/aidaniil/status/2096426970930106530) — The creator says he and his brother built it with Astra, Blender MCP and Cloudflare Durable Objects, inspired by Satisfactory and Besiege. [Verification notes](assets/screenshots/ironwood/SOURCE.md).
+  - Preview: ![Ironwood’s factory machines, conveyor belts and resource-management tutorial.](assets/screenshots/ironwood/gameplay.jpg)
+
+- **[前线指令 / Frontline Command](https://fluffy-biscotti-dad318.netlify.app/)** — Build a base, contest resource zones and command tanks, infantry, aircraft and drones against AI armies in a modern-war RTS, using spies and intelligence to gain an advantage.
+  - Creator: [嘟啊嘟](https://x.com/HDLhN783wtLkpPR)
+  - Platform: Desktop browser, Chinese UI, mouse and keyboard; a single-player match started without login, payment or installation.
+  - GPT-6 Astra: [X](https://x.com/HDLhN783wtLkpPR/status/2097321360641122393) — The creator credits “GPT Astra” for building this RTS in the linked post; the exact model version and detailed development workflow are not specified.
+  - References: [Submission](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/66) · [Verification notes](assets/screenshots/frontline-command/SOURCE.md)
+  - Preview: ![Frontline Command: a base, three selected tanks and power-plant placement during a live match; v0.8, captured 2026-09-09.](assets/screenshots/frontline-command/gameplay.jpg)
+
 ### RPGs & adventures
 
 Role-playing, exploration, narrative adventures, and interactive stories.
@@ -241,6 +294,38 @@ Role-playing, exploration, narrative adventures, and interactive stories.
   - Platform: Desktop browser; opened without login or payment. Mobile support was not tested.
   - GPT-6 Astra: [X](https://x.com/emollick/status/2096047660662722620) — The creator reports using Astra to develop this project. [Verification notes (English)](assets/screenshots/zork/SOURCE.md).
   - Preview: ![Zork · The Great Underground Empire](assets/screenshots/zork/gameplay.jpg)
+
+- **[The Simpsons: Hit & Run — Browser Recreation](https://vheissu.github.io/hit-and-run-web/)** — Explore Springfield on foot and by car in an unofficial browser recreation with missions, traffic and police chases.
+  - Creator: [Dwayne](https://x.com/CtrlAltDwayne)
+  - Platform: Desktop browser; the first mission loaded without sign-in after a large initial asset load. Full campaign completion was not tested.
+  - GPT-6 Astra: [X](https://x.com/CtrlAltDwayne/status/2096872309936287887) — The creator describes rebuilding the game for the web with GPT-6 Astra; the repository also credits Claude assistance with loading. Original game assets retain their own rights. [Verification notes](assets/screenshots/hit-and-run-web/SOURCE.md).
+  - Resources: [Source and setup](https://github.com/Vheissu/hit-and-run-web)
+  - Preview: ![Homer in Springfield with the first mission objective and minimap visible.](assets/screenshots/hit-and-run-web/gameplay.jpg)
+
+- **[Where the Wind Wanders](https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5)** — Wander through a sunlit 2.5D valley, follow paths and gather three wind letters in a quiet exploration adventure.
+  - Creator: [Tushar](https://x.com/TusharXo)
+  - Platform: Browser, hosted on Crayon; the public game page and embedded player were checked.
+  - GPT-6 Astra: [X](https://x.com/TusharXo/status/2096037482739683574) — Tushar describes Astra generating paths and assets; a follow-up announces the playable release using Astra, Three.js and Crayon. [Verification notes](assets/screenshots/crayon-adventure/SOURCE.md).
+  - Resources: [Creator release post](https://x.com/TusharXo/status/2096741535891251261)
+  - Preview: ![A character exploring the flower-filled valley with the wind-letter objective visible.](assets/screenshots/crayon-adventure/gameplay.jpg)
+
+- **[ALIBI — The Last Light](https://alibi-blackthorn-manor.vercel.app/)** — Investigate Blackthorn Manor in a point-and-click murder mystery, examining scenes and following clues to identify the killer.
+  - Creator: [Christos Antonopoulos](https://x.com/Christos_antono)
+  - Platform: Browser; the interactive manor entrance opened without sign-in. Later generated scenes were not fully tested.
+  - GPT-6 Astra: [X](https://x.com/Christos_antono/status/2096435122669297892) — The creator credits both GPT Astra and H3 Max for this generative detective game. [Verification notes](assets/screenshots/alibi-blackthorn-manor/SOURCE.md).
+  - Preview: ![The manor entrance with a clickable door and the opening investigation text.](assets/screenshots/alibi-blackthorn-manor/gameplay.jpg)
+
+- **[Skyward: The Gathering](https://edge-city-skyward-quests.vercel.app/)** — Explore floating islands, jump and glide between communities, and complete quests for their residents.
+  - Creator: [timour kosters](https://x.com/timourxyz)
+  - Platform: Desktop browser, keyboard and mouse; the quest-edition page and controls were checked.
+  - GPT-6 Astra: [X](https://x.com/timourxyz/status/2096379521926840339) — The creator says Astra built a playable 3D game with NPCs and quests inspired by Edge City locations. [Verification notes](assets/screenshots/skyward-gathering/SOURCE.md).
+  - Preview: ![Skyward’s floating-island overview with exploration and journal controls.](assets/screenshots/skyward-gathering/gameplay.jpg)
+
+- **[Anna & Leo · The Starstone Adventure](https://anna-leo-starstone.vercel.app/)** — Switch between Anna’s musical magic and Leo’s superpowers to awaken melody flowers and explore Wonder Garden.
+  - Creator: [Dharma Utomo](https://x.com/dharmautomo)
+  - Platform: Browser; the opening quest started without sign-in. WASD movement, Space jump, E power and Tab hero switching.
+  - GPT-6 Astra: [X](https://x.com/dharmautomo/status/2096573649235091967) — The creator says GPT-6 Astra helped him build the 3D adventure and shares a video of his children play-testing it. [Verification notes](assets/screenshots/anna-leo-starstone/SOURCE.md).
+  - Preview: ![Anna and Leo’s 3D adventure world and quest interface.](assets/screenshots/anna-leo-starstone/gameplay.jpg)
 
 ### Platformers & racing
 
@@ -297,6 +382,40 @@ Parkour, platform challenges, racing, and games built around movement and routes
   - GPT-6 Astra: [Issue #51](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/51) — Creator reports: The first version used Qwen3.8 Max; Astra comprehensively rebuilt the second version.
   - Preview: ![疾风赛道 / Kart Racing（跑跑卡丁车）](https://github.com/user-attachments/assets/015e0ca1-7032-4d0e-9391-ad3f40d84227)
 
+- **[TIDAL RUSH — Paradise GP](https://tidal-rush-paradise-gp.skirano.chatgpt.site/)** — Drift through a tropical kart circuit, use items and race seven rivals over three laps.
+  - Creator: [Pietro Schirano](https://x.com/skirano)
+  - Platform: Browser; the three-lap race started without sign-in. Keyboard driving, drift and item controls, plus on-screen touch buttons.
+  - GPT-6 Astra: [Model attribution](https://openai.com/index/gpt-6-astra/) — OpenAI’s Astra launch page links this interactive kart game and credits Pietro Schirano. The X discovery post is a community share, not the creator’s own post. [Verification notes](assets/screenshots/tidal-rush/SOURCE.md).
+  - Resources: [X discovery](https://x.com/alexgetmancom/status/2095598460921614825)
+  - Preview: ![Tidal Rush’s tropical kart track with race position and drift controls.](assets/screenshots/tidal-rush/gameplay.jpg)
+
+- **[LUNA — Crimson Requiem / 紅月のレクイエム](https://luna-crimson-requiem.ponsuke.chatgpt.site/)** — Jump through a gothic pixel-art stage, slash enemies, stomp them or summon an attack in a short side-scrolling adventure.
+  - Creator: [音羽ぽんすけ](https://x.com/ponsuke_otowa)
+  - Platform: Browser, Japanese UI; keyboard controls and creator-reported smartphone support. One stage is available.
+  - GPT-6 Astra: [X](https://x.com/ponsuke_otowa/status/2096531744933425299) — The creator reports about 25 minutes of Astra development and one correction to the walking animation; the music is credited separately to Suno. [Verification notes](assets/screenshots/luna-crimson-requiem/SOURCE.md).
+  - Preview: ![LUNA fighting through a red-moon gothic street with health and summon meters.](assets/screenshots/luna-crimson-requiem/gameplay.jpg)
+
+- **[Strange Orbit](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8)** — Race astronaut cyclists around a planet’s rings, collect stardust, draft rivals and boost through the Orbital Cup.
+  - Creator: [Crayon](https://x.com/usecrayon)
+  - Platform: Browser on Crayon; keyboard and documented touch controls. The public page offers racing, time-trial and endless-wander modes.
+  - GPT-6 Astra: [X](https://x.com/usecrayon/status/2097468975995302167) — Crayon credits GPT-6 Astra, Crayon Pro and Three.js for the space biking game. [Verification notes](assets/screenshots/crayon-space-bike/SOURCE.md).
+  - Preview: ![Astronaut cyclists racing along a planetary ring with lap, position and stardust indicators.](assets/screenshots/crayon-space-bike/gameplay.jpg)
+
+- **[One More Vine — Into the Wild](https://onemorevine.bennash.dev/)** — Run, jump and swing across four jungle levels, collect treasure and avoid crocodiles while improving your time.
+  - Creator: [Ben Nash](https://x.com/bennash)
+  - Platform: Browser, keyboard and on-screen movement controls; the opening level and instructions loaded without sign-in.
+  - GPT-6 Astra: [X](https://x.com/bennash/status/2096282758930645170) — The creator explicitly calls it a four-level Pitfall-inspired game made with GPT-6 Astra. [Verification notes](assets/screenshots/one-more-vine/SOURCE.md).
+  - Preview: ![A jungle platforming level with hanging vines, treasures, pits and crocodiles.](assets/screenshots/one-more-vine/gameplay.jpg)
+
+- **[混合马里奥Ⅱ · 忍者龙剑传 × 坦克大战 / Mario Mix II](https://aha-xiaoq.github.io/games/mario-mix-2/play.html)** — Bring Ninja Gaiden’s Ryu Hayabusa and the Battle City tank into Mario’s underground World 1-2: jump, climb walls and fight as Ryu, battle from above as the tank, or rescue the princess in a ninja-to-tank relay.
+  - Creator: [在下_小Q（Aha-xiaoQ）](https://github.com/Aha-xiaoQ)
+  - Platform: Desktop browser, Chinese UI, keyboard recommended; free, no login or installation.
+  - GPT-6 Astra: [Issue #65](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/65) — The creator reports using GPT-6 Astra to iteratively develop and debug the game code and interactions, while providing gameplay direction and feedback; not a one-shot generation.
+  - Resources: [Project page](https://aha-xiaoq.github.io/games/mario-mix-2/) · [Video](https://www.bilibili.com/video/BV1erYt69EFP/) · [Verification and image credits](assets/screenshots/mario-mix-2/SOURCE.md)
+  - Rights: Unofficial fan game; classic characters, images and music retain their respective owners’ rights. See the original game’s material credits.
+  - Preview: ![Mario Mix II — video cover supplied by the creator, not a gameplay capture.](https://aha-xiaoq.github.io/games/mario-mix-2/cover.jpg)
+  - Screenshot: ![Mario Mix II tank firing at the World 1-2 entrance; running version 1.0, captured 2026-09-09.](assets/screenshots/mario-mix-2/gameplay.jpg)
+
 ### Experimental & multiplayer
 
 Unusual mechanics, online competition, and cooperative experiences.
@@ -348,7 +467,7 @@ A useful recommendation makes it easy to understand what a game is, where to try
 | --- | --- |
 | Game & creator | The game title and a link to its original creator or team |
 | Why it is interesting | One sentence about the core mechanic, without promotional filler |
-| Access | A playable link, or a public source repository with setup instructions |
+| Access | A direct browser game link without downloads, installation, local setup or mandatory sign-in |
 | Gameplay screenshot | At least one actual gameplay screenshot with a publicly accessible image URL |
 | Platform & requirements | Browser / desktop / mobile; disclose payment, login, or special hardware requirements |
 | Astra's role | A creator statement, development log, or public record explaining how GPT-6 Astra contributed |
