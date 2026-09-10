@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-a7db1947d15e55b7",
+      "name": "Last Light — City 1 Update",
+      "description": "可玩 Demo · 射击 / 动作 · Julius + Three.js 丧尸生存：3D 城区、战斗物理、传送门目标，浏览器开打就能玩 · ❤ 7",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "PheonixTech17",
+        "url": "https://x.com/PheonixTech17"
+      },
+      "demoUrl": "https://spectacular-jargon-xtw.julius.site/",
+      "sourceUrl": "https://x.com/PheonixTech17/status/2097989218006130724",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fspectacular-jargon-xtw.julius.site%2Fog-image.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fspectacular-jargon-xtw.julius.site%2Fog-image.png",
+      "videoUrl": null,
+      "sourceOrder": -1050
+    },
+    {
       "id": "work-9031add49f421fe7",
       "name": "Westward — The Oregon Trail",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · 俄勒冈小道现代 3D 复刻：西进路上的资源、风险与抉择，Three.js 浏览器可玩",
