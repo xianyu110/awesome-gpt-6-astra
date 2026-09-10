@@ -8,9 +8,18 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **[86 个已核验可玩 Demo](PLAYABLE.md)**（每条附试玩链接）、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **751 个独立作品**。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条；另有 **[116 个已核验可玩 Demo](PLAYABLE.md)**（每条附试玩链接）、17 个社区项目、23 个病毒级 Demo、社区热帖与深度评测。本仓库另整理了 3three_AI X 线程中已核验的 **28 个独立案例（公开线程编号 1–30，其中 2 条重复）**，并收录 CheerSelfAI 的 **610 条公开案例**。全部来源按原帖 URL 去重后，网站展示 **751 个独立作品**。
 
 配套入口： [GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [指南仓库](https://github.com/xianyu110/GPT6)
+
+## 友链
+
+本项目完整开源，并链接认可 [LINUX DO](https://linux.do/) 社区。
+
+- [LINUX DO](https://linux.do/) — 中文社区，开源与技术讨论
+- [GPT-6 Astra 国内使用指南](https://github.com/xianyu110/GPT6) — 国内访问与上手
+- [Awesome GPT Image 2.5](https://github.com/xianyu110/awesome-gpt-image2.5) — Image 2.5 案例与提示词合集
+- [ChatGPT Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5) — Flare / Sunburst / Sketch
 
 ## 合并来源
 
@@ -39,6 +48,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ## Contents
 
+- [友链](#友链)
 - [精选 16](#精选-16)
 - [分类目录](#分类目录)
 - [X 线程新增案例（去重 28 条）](#x-线程新增案例去重-28-条)
@@ -254,7 +264,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ## 可直接体验的游戏与沙盒
 
-完整清单（**86** 条，每条都附带试玩链接，已探活去重）见：**[PLAYABLE.md](PLAYABLE.md)** · 数据：[`data/playable-demos.json`](data/playable-demos.json)
+完整清单（**116** 条，每条都附带试玩链接，已探活去重）见：**[PLAYABLE.md](PLAYABLE.md)** · 数据：[`data/playable-demos.json`](data/playable-demos.json)
 
 下面是一组高信号速览（完整 URL，可直接点开）：
 
