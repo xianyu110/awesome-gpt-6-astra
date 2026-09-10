@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**110** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**111** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,7 +10,7 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 11
 - [竞速 / 驾驶](#竞速--驾驶) — 13
-- [射击 / 动作](#射击--动作) — 10
+- [射击 / 动作](#射击--动作) — 11
 - [模拟经营 / 策略](#模拟经营--策略) — 6
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
@@ -114,42 +114,46 @@
 
 ## 射击 / 动作
 
-1. **Dungeon of Astra** — [试玩](https://wavedash.com/games/dungeon-of-astra) · [原帖](https://x.com/tonysurix/status/2097873333551616355) · ❤ 1
+1. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
+   - 试玩链接：`https://rain-court-js.umodeler-inc-4323.chatgpt.site`
+   - 原帖：https://x.com/UModeler/status/2097792348407099553
+
+2. **Dungeon of Astra** — [试玩](https://wavedash.com/games/dungeon-of-astra) · [原帖](https://x.com/tonysurix/status/2097873333551616355) · ❤ 1
    - 试玩链接：`https://wavedash.com/games/dungeon-of-astra`
    - 原帖：https://x.com/tonysurix/status/2097873333551616355
-2. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
+3. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
    - 试玩链接：`https://bonkshot.com`
    - 原帖：https://x.com/edmund5/status/2097603093819261002
 
-3. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
+4. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
    - 试玩链接：`https://gpt6astra-game.vercel.app/`
    - 原帖：https://x.com/OpenDesignHQ/status/2097635757917983223
 
-4. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
+5. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
    - 试玩链接：`https://last-light-northline.pages.dev`
    - 原帖：https://x.com/md_taqui_imam/status/2096255279650517081
 
-5. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
+6. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
    - 试玩链接：`https://fang-starlight-run.yosshy666.chatgpt.site/`
    - 原帖：https://x.com/FANGsaikyou/status/2096192445667283326
 
-6. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
+7. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
    - 试玩链接：`https://infinitum-game.vercel.app/`
    - 原帖：https://x.com/HpMani56403/status/2097188417709002822
 
-7. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
+8. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
    - 试玩链接：`https://prism-world-demo.krrish18.chatgpt.site`
    - 原帖：https://x.com/krishnap1810/status/2095633183567945941
 
-8. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
+9. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
    - 试玩链接：`https://knightmare-medusa-3d.robin-hwang.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096984386566815920
 
-9. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
+10. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
    - 试玩链接：`https://monstercameron.github.io/Neural-Sight/`
    - 原帖：https://x.com/monstercameron/status/2097117275127959629
 
-10. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
+11. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
    - 试玩链接：`https://ascii-district.vercel.app/`
    - 原帖：https://x.com/acker_code/status/2097542957070975286
 
