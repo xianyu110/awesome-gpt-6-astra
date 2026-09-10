@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**107** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-09
+- 收录：**110** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 11
 - [竞速 / 驾驶](#竞速--驾驶) — 13
-- [射击 / 动作](#射击--动作) — 9
+- [射击 / 动作](#射击--动作) — 10
 - [模拟经营 / 策略](#模拟经营--策略) — 6
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
 - [音乐 / 表演](#音乐--表演) — 7
-- [教育 / 科普](#教育--科普) — 4
+- [教育 / 科普](#教育--科普) — 5
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 28
-- [工程 / 仿真](#工程--仿真) — 8
+- [工程 / 仿真](#工程--仿真) — 9
 - [其他可玩 Demo](#其他可玩-Demo) — 5
 
 ## 经典复刻 / 知名玩法
@@ -114,41 +114,45 @@
 
 ## 射击 / 动作
 
-1. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
+1. **Dungeon of Astra** — [试玩](https://wavedash.com/games/dungeon-of-astra) · [原帖](https://x.com/tonysurix/status/2097873333551616355) · ❤ 1
+   - 试玩链接：`https://wavedash.com/games/dungeon-of-astra`
+   - 原帖：https://x.com/tonysurix/status/2097873333551616355
+2. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
    - 试玩链接：`https://bonkshot.com`
    - 原帖：https://x.com/edmund5/status/2097603093819261002
 
-2. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
+3. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
    - 试玩链接：`https://gpt6astra-game.vercel.app/`
    - 原帖：https://x.com/OpenDesignHQ/status/2097635757917983223
 
-3. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
+4. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
    - 试玩链接：`https://last-light-northline.pages.dev`
    - 原帖：https://x.com/md_taqui_imam/status/2096255279650517081
 
-4. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
+5. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
    - 试玩链接：`https://fang-starlight-run.yosshy666.chatgpt.site/`
    - 原帖：https://x.com/FANGsaikyou/status/2096192445667283326
 
-5. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
+6. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
    - 试玩链接：`https://infinitum-game.vercel.app/`
    - 原帖：https://x.com/HpMani56403/status/2097188417709002822
 
-6. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
+7. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
    - 试玩链接：`https://prism-world-demo.krrish18.chatgpt.site`
    - 原帖：https://x.com/krishnap1810/status/2095633183567945941
 
-7. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
+8. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
    - 试玩链接：`https://knightmare-medusa-3d.robin-hwang.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096984386566815920
 
-8. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
+9. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
    - 试玩链接：`https://monstercameron.github.io/Neural-Sight/`
    - 原帖：https://x.com/monstercameron/status/2097117275127959629
 
-9. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
+10. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
    - 试玩链接：`https://ascii-district.vercel.app/`
    - 原帖：https://x.com/acker_code/status/2097542957070975286
+
 
 ## 模拟经营 / 策略
 
@@ -274,21 +278,25 @@
 
 ## 教育 / 科普
 
-1. **Inside the Blowup — A living mathematical book** — [试玩](https://explain-navier-stokes.netlify.app/) · [原帖](https://x.com/aurel_pr/status/2097588775710818472)
+1. **Fly Escape — Brain Chamber** — [试玩](https://fly-escape.vercel.app) · [原帖](https://x.com/AiTool35148/status/2097853121913356540) · ❤ 1
+   - 试玩链接：`https://fly-escape.vercel.app`
+   - 原帖：https://x.com/AiTool35148/status/2097853121913356540
+2. **Inside the Blowup — A living mathematical book** — [试玩](https://explain-navier-stokes.netlify.app/) · [原帖](https://x.com/aurel_pr/status/2097588775710818472)
    - 试玩链接：`https://explain-navier-stokes.netlify.app/`
    - 原帖：https://x.com/aurel_pr/status/2097588775710818472
 
-2. **Swat — fruit-fly connectome** — [试玩](https://fruitfly-tiny-brain.vercel.app) · [原帖](https://x.com/Harry__Rook/status/2097504514286768478)
+3. **Swat — fruit-fly connectome** — [试玩](https://fruitfly-tiny-brain.vercel.app) · [原帖](https://x.com/Harry__Rook/status/2097504514286768478)
    - 试玩链接：`https://fruitfly-tiny-brain.vercel.app`
    - 原帖：https://x.com/Harry__Rook/status/2097504514286768478
 
-3. **Strata Field Lab** — [试玩](https://isaacattuah.github.io/strata-field-lab/) · [原帖](https://x.com/IsaacAttuah/status/2097513288632299874)
+4. **Strata Field Lab** — [试玩](https://isaacattuah.github.io/strata-field-lab/) · [原帖](https://x.com/IsaacAttuah/status/2097513288632299874)
    - 试玩链接：`https://isaacattuah.github.io/strata-field-lab/`
    - 原帖：https://x.com/IsaacAttuah/status/2097513288632299874
 
-4. **Anatomy, unfolded.** — [试玩](https://anatomy-unfolded.brianp.chatgpt.site) · [原帖](https://x.com/i/status/2096253408009486619) · ❤ 1156
+5. **Anatomy, unfolded.** — [试玩](https://anatomy-unfolded.brianp.chatgpt.site) · [原帖](https://x.com/i/status/2096253408009486619) · ❤ 1156
    - 试玩链接：`https://anatomy-unfolded.brianp.chatgpt.site`
    - 原帖：https://x.com/i/status/2096253408009486619
+
 
 ## 3D 场景 / 氛围探索
 
@@ -407,36 +415,40 @@
 
 ## 工程 / 仿真
 
-1. **iPhone Inside** — [试玩](https://iphone-inside-vercel.vercel.app) · [原帖](https://x.com/OpenDesignHQ/status/2097256962497056962) · ❤ 21
+1. **Jelly iPhone** — [试玩](https://jelly-iphone.signalizeai.org) · [原帖](https://x.com/royalpinto007/status/2097790394067189803) · ❤ 2
+   - 试玩链接：`https://jelly-iphone.signalizeai.org`
+   - 原帖：https://x.com/royalpinto007/status/2097790394067189803
+2. **iPhone Inside** — [试玩](https://iphone-inside-vercel.vercel.app) · [原帖](https://x.com/OpenDesignHQ/status/2097256962497056962) · ❤ 21
    - 试玩链接：`https://iphone-inside-vercel.vercel.app`
    - 原帖：https://x.com/OpenDesignHQ/status/2097256962497056962
 
-2. **Topological Rubik’s Synchronizer** — [试玩](https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/) · [原帖](https://x.com/i/status/2096304797687099568) · ❤ 10
+3. **Topological Rubik’s Synchronizer** — [试玩](https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/) · [原帖](https://x.com/i/status/2096304797687099568) · ❤ 10
    - 试玩链接：`https://topological-rubik-synchronizer.ela-dev-27.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096304797687099568
 
-3. **MECHANICA — W12 Engine Lab** — [试玩](https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/) · [原帖](https://x.com/i/status/2096346500364206536) · ❤ 2
+4. **MECHANICA — W12 Engine Lab** — [试玩](https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/) · [原帖](https://x.com/i/status/2096346500364206536) · ❤ 2
    - 试玩链接：`https://mechanica-w12-engine-lab.nm-8755.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096346500364206536
 
-4. **RB19 交互仿真** — [试玩](https://rb19-engineering-lab.moraxc.chatgpt.site/)
+5. **RB19 交互仿真** — [试玩](https://rb19-engineering-lab.moraxc.chatgpt.site/)
    - 试玩链接：`https://rb19-engineering-lab.moraxc.chatgpt.site/`
 
-5. **スマートトレイン学習サイト｜マトレイン** — [试玩](https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks) · [原帖](https://x.com/shosuke_railfan/status/2095825467886784550)
+6. **スマートトレイン学習サイト｜マトレイン** — [试玩](https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks) · [原帖](https://x.com/shosuke_railfan/status/2095825467886784550)
    - 试玩链接：`https://matrain-smarttrain-learning.mato111.chatgpt.site/learn/lab/tracks`
    - 原帖：https://x.com/shosuke_railfan/status/2095825467886784550
 
-6. **Portal Viewer** — [试玩](https://portal-headview-3d.leo1973.chatgpt.site/) · [原帖](https://x.com/SexyTechNews/status/2095982479396188179)
+7. **Portal Viewer** — [试玩](https://portal-headview-3d.leo1973.chatgpt.site/) · [原帖](https://x.com/SexyTechNews/status/2095982479396188179)
    - 试玩链接：`https://portal-headview-3d.leo1973.chatgpt.site/`
    - 原帖：https://x.com/SexyTechNews/status/2095982479396188179
 
-7. **CARGO LAB · 컨테이너 적재 시뮬레이터** — [试玩](https://cargo-lab.nanggo.chatgpt.site) · [原帖](https://x.com/nanggos/status/2096582509035438291)
+8. **CARGO LAB · 컨테이너 적재 시뮬레이터** — [试玩](https://cargo-lab.nanggo.chatgpt.site) · [原帖](https://x.com/nanggos/status/2096582509035438291)
    - 试玩链接：`https://cargo-lab.nanggo.chatgpt.site`
    - 原帖：https://x.com/nanggos/status/2096582509035438291
 
-8. **B-29 Superfortress Atlas** — [试玩](https://b29-superfortress-atlas.ashujo.chatgpt.site/) · [原帖](https://x.com/curiouswavefn/status/2097555293676945853)
+9. **B-29 Superfortress Atlas** — [试玩](https://b29-superfortress-atlas.ashujo.chatgpt.site/) · [原帖](https://x.com/curiouswavefn/status/2097555293676945853)
    - 试玩链接：`https://b29-superfortress-atlas.ashujo.chatgpt.site/`
    - 原帖：https://x.com/curiouswavefn/status/2097555293676945853
+
 
 ## 其他可玩 Demo
 
@@ -465,4 +477,3 @@
 - 来源主要为 X 公开帖与社区部署；版权归原作者。
 - 欢迎 PR 补充：**必须带可打开的试玩 URL**。
 - 相关：[GPT-6 Astra 国内使用指南](https://xianyu110.github.io/GPT6/) · [Codex 国内站](https://codex.maynorai.top/)
-
