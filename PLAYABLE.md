@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**111** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**116** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -15,9 +15,9 @@
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 12
 - [音乐 / 表演](#音乐--表演) — 7
-- [教育 / 科普](#教育--科普) — 5
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 28
-- [工程 / 仿真](#工程--仿真) — 9
+- [教育 / 科普](#教育--科普) — 7
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 30
+- [工程 / 仿真](#工程--仿真) — 10
 - [其他可玩 Demo](#其他可玩-Demo) — 5
 
 ## 经典复刻 / 知名玩法
@@ -301,6 +301,16 @@
    - 试玩链接：`https://anatomy-unfolded.brianp.chatgpt.site`
    - 原帖：https://x.com/i/status/2096253408009486619
 
+6. **Antikythera Mechanism — Cosmos in Bronze** — [试玩](https://antikythera-cosmos-in-bronze.alexandrosm.chatgpt.site/) · [原帖](https://x.com/alexandrosM/status/2097825301879554296) · ❤ 746
+   - 试玩链接：`https://antikythera-cosmos-in-bronze.alexandrosm.chatgpt.site/`
+   - 原帖：https://x.com/alexandrosM/status/2097825301879554296
+   - 备注：安提基特拉机械精密 3D 复刻，可交互拆解并下载零件 3D 打印
+
+7. **decompwlj Atlas** — [试玩](https://decompwlj.com/decompwlj-atlas/dist/) · [原帖](https://x.com/decompwlj/status/2097890709554511934) · ❤ 4
+   - 试玩链接：`https://decompwlj.com/decompwlj-atlas/dist/`
+   - 原帖：https://x.com/decompwlj/status/2097890709554511934
+   - 备注：three.js 交互 3D 数列分解图谱（50 组序列）
+
 
 ## 3D 场景 / 氛围探索
 
@@ -417,6 +427,17 @@
    - 试玩链接：`https://klipzi-city.deadcoolapps.chatgpt.site`
    - 原帖：https://x.com/i/status/2096951400106209628
 
+29. **OMNISCIENT_** — [试玩](https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb) · [原帖](https://x.com/lifemademe/status/2097889652573085871) · ❤ 6
+   - 试玩链接：`https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb`
+   - 原帖：https://x.com/lifemademe/status/2097889652573085871
+   - 备注：Sandbox Studio three.js 沙盒游戏（含隐藏关）
+
+30. **名古屋亚运会场馆体素地图** — [试玩](https://nagoya-voxel-map.web.app/?lang=ja) · [原帖](https://x.com/TonyweiP/status/2097886969472974895)
+   - 试玩链接：`https://nagoya-voxel-map.web.app/?lang=ja`
+   - 原帖：https://x.com/TonyweiP/status/2097886969472974895
+   - 备注：爱知·名古屋亚洲大会 47 区 54 场馆可旋转缩放的浏览器 3D 地图
+
+
 ## 工程 / 仿真
 
 1. **Jelly iPhone** — [试玩](https://jelly-iphone.signalizeai.org) · [原帖](https://x.com/royalpinto007/status/2097790394067189803) · ❤ 2
@@ -452,6 +473,11 @@
 9. **B-29 Superfortress Atlas** — [试玩](https://b29-superfortress-atlas.ashujo.chatgpt.site/) · [原帖](https://x.com/curiouswavefn/status/2097555293676945853)
    - 试玩链接：`https://b29-superfortress-atlas.ashujo.chatgpt.site/`
    - 原帖：https://x.com/curiouswavefn/status/2097555293676945853
+
+10. **Fluid Sim — Navier–Stokes Playground** — [试玩](https://01a089d5-5b04-72f3-ba4a-055d86591971.arena.site/) · [原帖](https://x.com/Prajwal96343052/status/2097925378186883234)
+   - 试玩链接：`https://01a089d5-5b04-72f3-ba4a-055d86591971.arena.site/`
+   - 原帖：https://x.com/Prajwal96343052/status/2097925378186883234
+   - 备注：可拖拽扰动的流体仿真，调参并复制代码
 
 
 ## 其他可玩 Demo
