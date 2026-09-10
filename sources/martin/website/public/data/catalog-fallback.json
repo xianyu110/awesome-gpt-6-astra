@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-0751dc4e0b9b7bc1",
+      "name": "Dungeon of Astra",
+      "description": "可玩 Demo · 射击 / 动作 · Wavedash 上线的 Astra 百层地牢小队 RPG（打魔王） · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "tonysurix",
+        "url": "https://x.com/tonysurix"
+      },
+      "demoUrl": "https://wavedash.com/games/dungeon-of-astra",
+      "sourceUrl": "https://x.com/tonysurix/status/2097873333551616355",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097872655710105600%2FeHwF59m2%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2097872655710105600%2FeHwF59m2%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1030
+    },
+    {
+      "id": "work-2a02e88068800305",
+      "name": "Fly Escape — Brain Chamber",
+      "description": "可玩 Demo · 教育 / 科普 · 果蝇全脑仿真驱动的浏览器关卡游戏（与 Swat 不同部署） · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "dzhng",
+        "url": "https://x.com/dzhng"
+      },
+      "demoUrl": "https://fly-escape.vercel.app",
+      "sourceUrl": "https://x.com/AiTool35148/status/2097853121913356540",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-fly-escape.jpg",
+      "posterUrl": "/previews/playable-fly-escape.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1031
+    },
+    {
+      "id": "work-9666a6136b19b190",
+      "name": "Jelly iPhone",
+      "description": "可玩 Demo · 工程 / 仿真 · 果冻 iPhone Duo 软体掉落物理实验 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "royalpinto007",
+        "url": "https://x.com/royalpinto007"
+      },
+      "demoUrl": "https://jelly-iphone.signalizeai.org",
+      "sourceUrl": "https://x.com/royalpinto007/status/2097790394067189803",
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": -1032
+    },
+    {
       "id": "work-3821930997250fa7",
       "name": "Bonkshot",
       "description": "可玩 Demo · 射击 / 动作 · Three.js 物理破坏弹射，GPT-6 Astra + Suno",
@@ -13900,9 +13954,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-08T06:10:32.844Z",
-    "lastSuccessfulAt": "2026-09-08T06:10:32.844Z",
-    "revision": "playable-merge-20260908",
+    "checkedAt": "2026-09-10T02:49:32.826Z",
+    "lastSuccessfulAt": "2026-09-10T02:49:32.826Z",
+    "revision": "playable-sync-20260910-1040",
     "stale": false,
     "status": "fresh"
   },
