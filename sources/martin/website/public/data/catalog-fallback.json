@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-c6de91e218de6a94",
+      "name": "Mario + Duck Hunt Mobile",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Astra 把超级马里奥和 Duck Hunt 揉进手机端可玩移植，补丁还在狂更",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "TrustMeOrElse",
+        "url": "https://x.com/TrustMeOrElse"
+      },
+      "demoUrl": "https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/",
+      "sourceUrl": "https://x.com/TrustMeOrElse/status/2097974925365485946",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097974799565815808%2Fimg%2FWWb5BM-p9rKRhD9u.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097974799565815808%2Fimg%2FWWb5BM-p9rKRhD9u.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1045
+    },
+    {
+      "id": "work-b80d72869d8de28a",
+      "name": "Below the Hollow",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 生成式水下洞穴：TSL + 游泳物理，移动端也能稳 60 FPS 瞎逛 · ❤ 9",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "thebuggeddev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "demoUrl": "https://below-the-hollow.thebuggeddev.chatgpt.site/",
+      "sourceUrl": "https://x.com/thebuggeddev/status/2097983281094594597",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097980438413475840%2Fimg%2FhSfAKGLGwlOgu71y.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2097980438413475840%2Fimg%2FhSfAKGLGwlOgu71y.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1046
+    },
+    {
       "id": "work-b784f2e57ea61a00",
       "name": "Desi Mayhem",
       "description": "可玩 Demo · 竞速 / 驾驶 · 印度版 Road Rash：Chennai 堵车 / 牛 / 交警摩托对战，浏览器可玩 · ❤ 32",

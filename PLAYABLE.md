@@ -2,13 +2,13 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**122** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**124** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-10
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 11
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 12
 - [竞速 / 驾驶](#竞速--驾驶) — 15
 - [射击 / 动作](#射击--动作) — 11
 - [模拟经营 / 策略](#模拟经营--策略) — 7
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 12
 - [音乐 / 表演](#音乐--表演) — 7
 - [教育 / 科普](#教育--科普) — 7
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 32
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 33
 - [工程 / 仿真](#工程--仿真) — 10
 - [其他可玩 Demo](#其他可玩-Demo) — 6
 
@@ -58,6 +58,12 @@
 
 11. **八荒幻世 · 热血归来（176 / Dragon Warrior）** — [试玩](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)
    - 试玩链接：`https://mir176-dragon-warrior.geekcatxx.chatgpt.site/`
+
+12. **Mario + Duck Hunt Mobile** — [试玩](https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/) · [原帖](https://x.com/TrustMeOrElse/status/2097974925365485946)
+   - 试玩链接：`https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/`
+   - 原帖：https://x.com/TrustMeOrElse/status/2097974925365485946
+   - 备注：Astra 把超级马里奥和 Duck Hunt 揉进手机端可玩移植，补丁还在狂更
+
 
 ## 竞速 / 驾驶
 
@@ -463,6 +469,11 @@
    - 试玩链接：`https://helion-city.vercel.app`
    - 原帖：https://x.com/nelsonpatrao/status/2097992927842635783
    - 备注：Dream Loop 全栈：Astra 主流程 + Sol 抠 token + Meshy / ComfyUI / Gemini，Three.js 收口
+
+33. **Below the Hollow** — [试玩](https://below-the-hollow.thebuggeddev.chatgpt.site/) · [原帖](https://x.com/thebuggeddev/status/2097983281094594597) · ❤ 9
+   - 试玩链接：`https://below-the-hollow.thebuggeddev.chatgpt.site/`
+   - 原帖：https://x.com/thebuggeddev/status/2097983281094594597
+   - 备注：生成式水下洞穴：TSL + 游泳物理，移动端也能稳 60 FPS 瞎逛
 
 
 ## 工程 / 仿真
