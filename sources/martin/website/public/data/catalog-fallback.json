@@ -14453,6 +14453,42 @@
       "posterUrl": null,
       "videoUrl": null,
       "sourceOrder": 666
+    },
+    {
+      "id": "work-8d6273b31b884294",
+      "name": "DUST FRONT — Free browser RTS",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 浏览器单人 RTS：Astra + Blender MCP，约 40 prompts 出资产与玩法 · ❤ 1267",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "mustafaakin",
+        "url": "https://x.com/mustafaakin"
+      },
+      "demoUrl": "https://dust-front.mustafaakin.dev/",
+      "sourceUrl": "https://x.com/mustafaakin/status/2097658461228069121",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-dust-front.jpg",
+      "posterUrl": "/previews/playable-dust-front.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1061
+    },
+    {
+      "id": "work-febb902e00af6eb9",
+      "name": "Signals Keynote — The New Failure Modes",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 不用幻灯片：Astra 搓的 3D 渲染引擎当 Signals Berlin 2026 开场演讲 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "AxSaucedo",
+        "url": "https://x.com/AxSaucedo"
+      },
+      "demoUrl": "https://ethical.institute/keynote/#2B.3",
+      "sourceUrl": "https://x.com/AxSaucedo/status/2098290714492727800",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-signals-failure-modes.jpg",
+      "posterUrl": "/previews/playable-signals-failure-modes.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1062
     }
   ],
   "source": {
