@@ -14417,6 +14417,78 @@
       "posterUrl": null,
       "videoUrl": null,
       "sourceOrder": 666
+    },
+    {
+      "id": "work-dde330a3ddae2692",
+      "name": "猫咪开饭啦",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 猫咪接小鱼：爱心/磁铁道具，手机电脑网页版 · Astra · Crypto-陌清",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "MoQing_8",
+        "url": "https://x.com/MoQing_8"
+      },
+      "demoUrl": "https://kitty-fish-catch.zutk41980668692.chatgpt.site/",
+      "sourceUrl": "https://x.com/MoQing_8/status/2098289453114826828",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-maomi-kaifan.jpg",
+      "posterUrl": "/previews/playable-maomi-kaifan.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1059
+    },
+    {
+      "id": "work-21c16d514fea7c50",
+      "name": "MR. NIPS · Twin Trouble",
+      "description": "可玩 Demo · 射击 / 动作 · 恶搞街机射击：双枪激光，刷高分，Astra 搓的网页街机",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "creepztopia",
+        "url": "https://x.com/creepztopia"
+      },
+      "demoUrl": "https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/",
+      "sourceUrl": "https://x.com/creepztopia/status/2098264198971331011",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-mr-nips-twin-trouble.jpg",
+      "posterUrl": "/previews/playable-mr-nips-twin-trouble.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1060
+    },
+    {
+      "id": "work-8d6273b31b884294",
+      "name": "DUST FRONT — Free browser RTS",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 浏览器单人 RTS：Astra + Blender MCP，约 40 prompts 出资产与玩法 · ❤ 1267",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "mustafaakin",
+        "url": "https://x.com/mustafaakin"
+      },
+      "demoUrl": "https://dust-front.mustafaakin.dev/",
+      "sourceUrl": "https://x.com/mustafaakin/status/2097658461228069121",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-dust-front.jpg",
+      "posterUrl": "/previews/playable-dust-front.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1061
+    },
+    {
+      "id": "work-febb902e00af6eb9",
+      "name": "Signals Keynote — The New Failure Modes",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 不用幻灯片：Astra 搓的 3D 渲染引擎当 Signals Berlin 2026 开场演讲 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "AxSaucedo",
+        "url": "https://x.com/AxSaucedo"
+      },
+      "demoUrl": "https://ethical.institute/keynote/#2B.3",
+      "sourceUrl": "https://x.com/AxSaucedo/status/2098290714492727800",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-signals-failure-modes.jpg",
+      "posterUrl": "/previews/playable-signals-failure-modes.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1062
     }
   ],
   "source": {

@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**136** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**140** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,13 +10,13 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 18
-- [射击 / 动作](#射击--动作) — 14
-- [模拟经营 / 策略](#模拟经营--策略) — 7
+- [射击 / 动作](#射击--动作) — 15
+- [模拟经营 / 策略](#模拟经营--策略) — 8
 - [联机 / 多人](#联机--多人) — 4
-- [街机 / 小游戏包](#街机--小游戏包) — 13
+- [街机 / 小游戏包](#街机--小游戏包) — 14
 - [音乐 / 表演](#音乐--表演) — 8
 - [教育 / 科普](#教育--科普) — 7
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 34
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 35
 - [工程 / 仿真](#工程--仿真) — 10
 - [其他可玩 Demo](#其他可玩-Demo) — 7
 
@@ -214,6 +214,11 @@
    - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
    - 备注：Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel
 
+15. **MR. NIPS · Twin Trouble** — [试玩](https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/) · [原帖](https://x.com/creepztopia/status/2098264198971331011)
+   - 试玩链接：`https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/`
+   - 原帖：https://x.com/creepztopia/status/2098264198971331011
+   - 备注：恶搞街机射击：双枪激光，刷高分，Astra 搓的网页街机
+
 
 ## 模拟经营 / 策略
 
@@ -243,6 +248,11 @@
    - 试玩链接：`https://nacar-microcosmo.preda2005.chatgpt.site`
    - 原帖：https://x.com/Preda2005/status/2097954217180921928
    - 备注：蜗牛壳里的微观进化沙盒：吃、探、活、进化，捡到啥长啥，五语界面
+
+8. **DUST FRONT — Free browser RTS** — [试玩](https://dust-front.mustafaakin.dev/) · [原帖](https://x.com/mustafaakin/status/2097658461228069121) · ❤ 1267
+   - 试玩链接：`https://dust-front.mustafaakin.dev/`
+   - 原帖：https://x.com/mustafaakin/status/2097658461228069121
+   - 备注：浏览器单人 RTS：Astra + Blender MCP，约 40 prompts 出资产与玩法
 
 
 ## 联机 / 多人
@@ -317,6 +327,11 @@
    - 试玩链接：`https://velvet-ace.vercel.app/`
    - 原帖：https://x.com/DeryaTR_/status/2098227850188833047
    - 备注：星际迷航船员进赌场：Poker / Blackjack，Astra 搓的私密赌场厅
+
+14. **猫咪开饭啦** — [试玩](https://kitty-fish-catch.zutk41980668692.chatgpt.site/) · [原帖](https://x.com/MoQing_8/status/2098289453114826828)
+   - 试玩链接：`https://kitty-fish-catch.zutk41980668692.chatgpt.site/`
+   - 原帖：https://x.com/MoQing_8/status/2098289453114826828
+   - 备注：猫咪接小鱼：爱心/磁铁道具，手机电脑网页版 · Astra · Crypto-陌清
 
 
 ## 音乐 / 表演
@@ -531,6 +546,11 @@
    - 试玩链接：`https://czech-game.vercel.app/`
    - 原帖：https://x.com/petrroyce/status/2098165938822504662
    - 备注：捷克沙盒：开车/开飞机/酒吧/宜家/滑雪/太空/火车/重机… Astra 乐趣测
+
+35. **Signals Keynote — The New Failure Modes** — [试玩](https://ethical.institute/keynote/#2B.3) · [原帖](https://x.com/AxSaucedo/status/2098290714492727800) · ❤ 1
+   - 试玩链接：`https://ethical.institute/keynote/#2B.3`
+   - 原帖：https://x.com/AxSaucedo/status/2098290714492727800
+   - 备注：不用幻灯片：Astra 搓的 3D 渲染引擎当 Signals Berlin 2026 开场演讲
 
 
 ## 工程 / 仿真
