@@ -967,5 +967,19 @@
     "post_url": null,
     "likes": null,
     "category": "经典复刻 / 知名玩法"
+  },
+  {
+    "title": "DUST FRONT — Free browser RTS",
+    "demo_url": "https://dust-front.mustafaakin.dev/",
+    "post_url": "https://x.com/mustafaakin/status/2097658461228069121",
+    "likes": 1267,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Signals Keynote — The New Failure Modes",
+    "demo_url": "https://ethical.institute/keynote/#2B.3",
+    "post_url": "https://x.com/AxSaucedo/status/2098290714492727800",
+    "likes": 1,
+    "category": "3D 场景 / 氛围探索"
   }
 ]
