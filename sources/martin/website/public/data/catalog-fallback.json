@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-5509d22bdb6d12ef",
+      "name": "Outermate: First Count",
+      "description": "可玩 Demo · 射击 / 动作 · 浏览器越狱逃脱小游戏（GPT-6 Astra / SoftN）",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "LanceBlah",
+        "url": "https://x.com/LanceBlah"
+      },
+      "demoUrl": "https://outermate.com",
+      "sourceUrl": "https://x.com/LanceBlah/status/2098407876603895859",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Foutermate.com%2Fshare.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Foutermate.com%2Fshare.png",
+      "videoUrl": null,
+      "sourceOrder": -1069
+    },
+    {
+      "id": "work-8efaf42d819fe79f",
+      "name": "Pub Brawl",
+      "description": "可玩 Demo · 射击 / 动作 · Astra + Godot 英式酒吧清街：Streets of Rage 风 beat ’em up（itch.io） · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Paul78550262",
+        "url": "https://x.com/Paul78550262"
+      },
+      "demoUrl": "https://ember-tech.itch.io/pub-brawl",
+      "sourceUrl": "https://x.com/Paul78550262/status/2098393050812690564",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1nLzI5OTE0MjQ2LnBuZw%3D%3D%2Foriginal%2FjBHcqf.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fimg.itch.zone%2FaW1nLzI5OTE0MjQ2LnBuZw%3D%3D%2Foriginal%2FjBHcqf.png",
+      "videoUrl": null,
+      "sourceOrder": -1070
+    },
+    {
+      "id": "work-d55d0256fae1bebe",
+      "name": "Outerstead · First Light",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 四名幸存者殖民地模拟：建据点、保人命、探索未知（SoftN 浏览器） · ❤ 10",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "LanceBlah",
+        "url": "https://x.com/LanceBlah"
+      },
+      "demoUrl": "https://outerstead.com",
+      "sourceUrl": "https://x.com/LanceBlah/status/2098370893164785761",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fouterstead.com%2Fshare.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fouterstead.com%2Fshare.png",
+      "videoUrl": null,
+      "sourceOrder": -1071
+    },
+    {
+      "id": "work-e50287e5ed8c6e94",
+      "name": "Gogh Strike",
+      "description": "可玩 Demo · 射击 / 动作 · 梵高风浏览器 FPS；SoonLab 现已支持 GPT-6 Astra · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "SoonLab_AI",
+        "url": "https://x.com/SoonLab_AI"
+      },
+      "demoUrl": "https://www.soonlab.ai/game/8996/",
+      "sourceUrl": "https://x.com/SoonLab_AI/status/2098367876734558579",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fssr.iappsign.com%2Fsoonlab%2Fadmin%2Fimages%2Fexec-0a61ef41-502f-4197-834c-41794fe1f30c.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fssr.iappsign.com%2Fsoonlab%2Fadmin%2Fimages%2Fexec-0a61ef41-502f-4197-834c-41794fe1f30c.png",
+      "videoUrl": null,
+      "sourceOrder": -1072
+    },
+    {
       "id": "work-1d2a8107bfeca888",
       "name": "APEX. Heat City",
       "description": "可玩 Demo · 竞速 / 驾驶 · mindblown 平台 NFS 风浏览器飙车（GPT-6 Astra）；来自 @rammcodes 试玩反应帖 · ❤ 1",

@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**146** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**150** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,8 +10,8 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 20
-- [射击 / 动作](#射击--动作) — 15
-- [模拟经营 / 策略](#模拟经营--策略) — 9
+- [射击 / 动作](#射击--动作) — 18
+- [模拟经营 / 策略](#模拟经营--策略) — 10
 - [联机 / 多人](#联机--多人) — 5
 - [街机 / 小游戏包](#街机--小游戏包) — 15
 - [音乐 / 表演](#音乐--表演) — 9
@@ -229,6 +229,21 @@
    - 原帖：https://x.com/szounft/status/2098310992770007365
    - 备注：活动等候时用 Seedance/H3 动画 + Astra 搓的双人格斗：必杀切入、超必杀与胜利演出齐全
 
+16. **Outermate: First Count** — [试玩](https://outermate.com) · [原帖](https://x.com/LanceBlah/status/2098407876603895859)
+   - 试玩链接：`https://outermate.com`
+   - 原帖：https://x.com/LanceBlah/status/2098407876603895859
+   - 备注：浏览器越狱逃脱小游戏（GPT-6 Astra / SoftN）
+
+17. **Pub Brawl** — [试玩](https://ember-tech.itch.io/pub-brawl) · [原帖](https://x.com/Paul78550262/status/2098393050812690564) · ❤ 1
+   - 试玩链接：`https://ember-tech.itch.io/pub-brawl`
+   - 原帖：https://x.com/Paul78550262/status/2098393050812690564
+   - 备注：Astra + Godot 英式酒吧清街：Streets of Rage 风 beat ’em up（itch.io）
+
+18. **Gogh Strike** — [试玩](https://www.soonlab.ai/game/8996/) · [原帖](https://x.com/SoonLab_AI/status/2098367876734558579) · ❤ 3
+   - 试玩链接：`https://www.soonlab.ai/game/8996/`
+   - 原帖：https://x.com/SoonLab_AI/status/2098367876734558579
+   - 备注：梵高风浏览器 FPS；SoonLab 现已支持 GPT-6 Astra
+
 
 ## 模拟经营 / 策略
 
@@ -268,6 +283,11 @@
    - 试玩链接：`https://loulous-apartment.vercel.app/`
    - 原帖：https://x.com/LouiseDSadeleer/status/2098340442500653368
    - 备注：把自家公寓做成等距互动小游戏：遛狗/补剂/阅读等日常习惯都能点，还有狗 Maggie
+
+10. **Outerstead · First Light** — [试玩](https://outerstead.com) · [原帖](https://x.com/LanceBlah/status/2098370893164785761) · ❤ 10
+   - 试玩链接：`https://outerstead.com`
+   - 原帖：https://x.com/LanceBlah/status/2098370893164785761
+   - 备注：四名幸存者殖民地模拟：建据点、保人命、探索未知（SoftN 浏览器）
 
 
 ## 联机 / 多人
