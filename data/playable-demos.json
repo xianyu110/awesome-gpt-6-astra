@@ -1,5 +1,47 @@
 [
   {
+    "title": "APEX. Heat City",
+    "demo_url": "https://apex-city.mindblown.ai/",
+    "post_url": "https://x.com/rammcodes/status/2098354066179109333",
+    "likes": 1,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Neon Wake — Dubai Coast",
+    "demo_url": "https://neonwake.ethraship.com/",
+    "post_url": "https://x.com/captain_m1k/status/2098310479714369926",
+    "likes": 7,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "CHRONO RAID | SUZUNE & AOI",
+    "demo_url": "https://suzune-aoi-fighters.szou2003.chatgpt.site/",
+    "post_url": "https://x.com/szounft/status/2098310992770007365",
+    "likes": 10,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "Little Mud",
+    "demo_url": "https://littlemud.gameassets.app/",
+    "post_url": "https://x.com/LuwisTsang/status/2098301185115730177",
+    "likes": null,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "Loulou's Apartment",
+    "demo_url": "https://loulous-apartment.vercel.app/",
+    "post_url": "https://x.com/LouiseDSadeleer/status/2098340442500653368",
+    "likes": 8,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "RIFF//VERSE",
+    "demo_url": "https://bagidea.github.io/riff-verse-studio/",
+    "post_url": "https://x.com/bagideastudio/status/2098340163831349372",
+    "likes": 1,
+    "category": "音乐 / 表演"
+  },
+  {
     "title": "猫咪开饭啦 · Kitty Fish Catch",
     "demo_url": "https://kitty-fish-catch.zutk41980668692.chatgpt.site/",
     "post_url": "https://x.com/MoQing_8/status/2098289453114826828",
