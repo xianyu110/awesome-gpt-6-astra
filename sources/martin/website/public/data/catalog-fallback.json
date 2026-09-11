@@ -1,6 +1,114 @@
 {
   "works": [
     {
+      "id": "work-1d2a8107bfeca888",
+      "name": "APEX. Heat City",
+      "description": "可玩 Demo · 竞速 / 驾驶 · mindblown 平台 NFS 风浏览器飙车（GPT-6 Astra）；来自 @rammcodes 试玩反应帖 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "mindblown_ai",
+        "url": "https://x.com/mindblown_ai"
+      },
+      "demoUrl": "https://apex-city.mindblown.ai/",
+      "sourceUrl": "https://x.com/rammcodes/status/2098354066179109333",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098350334880124928%2Fimg%2FfjSvOsNsFHfJMZls.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098350334880124928%2Fimg%2FfjSvOsNsFHfJMZls.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1063
+    },
+    {
+      "id": "work-6c5b47565ab5d7c2",
+      "name": "Neon Wake — Dubai Coast",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Ethra 鲨鱼船长拖拽竞速迪拜海岸：冲坡飞跃，最高 1300 km/h，手机也能录一波 · ❤ 7",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "captain_m1k",
+        "url": "https://x.com/captain_m1k"
+      },
+      "demoUrl": "https://neonwake.ethraship.com/",
+      "sourceUrl": "https://x.com/captain_m1k/status/2098310479714369926",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098309564437532672%2Fimg%2FeO-nSP-YMX9P2AcW.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098309564437532672%2Fimg%2FeO-nSP-YMX9P2AcW.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1064
+    },
+    {
+      "id": "work-f5281c694900585f",
+      "name": "CHRONO RAID | SUZUNE & AOI",
+      "description": "可玩 Demo · 射击 / 动作 · 活动等候时用 Seedance/H3 动画 + Astra 搓的双人格斗：必杀切入、超必杀与胜利演出齐全 · ❤ 10",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "szounft",
+        "url": "https://x.com/szounft"
+      },
+      "demoUrl": "https://suzune-aoi-fighters.szou2003.chatgpt.site/",
+      "sourceUrl": "https://x.com/szounft/status/2098310992770007365",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098310915980681216%2Fimg%2FOKAuZH6ci8EZ3Duu.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098310915980681216%2Fimg%2FOKAuZH6ci8EZ3Duu.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1065
+    },
+    {
+      "id": "work-269ce670dd40de2e",
+      "name": "Little Mud",
+      "description": "可玩 Demo · 联机 / 多人 · 地下挖隧道抢装备、跟朋友斗智的浏览器小游戏",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "LuwisTsang",
+        "url": "https://x.com/LuwisTsang"
+      },
+      "demoUrl": "https://littlemud.gameassets.app/",
+      "sourceUrl": "https://x.com/LuwisTsang/status/2098301185115730177",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Flittlemud.gameassets.app%2Fshare-card.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Flittlemud.gameassets.app%2Fshare-card.png",
+      "videoUrl": null,
+      "sourceOrder": -1066
+    },
+    {
+      "id": "work-61f80551250e8f6e",
+      "name": "Loulou's Apartment",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 把自家公寓做成等距互动小游戏：遛狗/补剂/阅读等日常习惯都能点，还有狗 Maggie · ❤ 8",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "LouiseDSadeleer",
+        "url": "https://x.com/LouiseDSadeleer"
+      },
+      "demoUrl": "https://loulous-apartment.vercel.app/",
+      "sourceUrl": "https://x.com/LouiseDSadeleer/status/2098340442500653368",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR7NQOQaAAA7ON3.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR7NQOQaAAA7ON3.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1067
+    },
+    {
+      "id": "work-10e8bbbfaff2ecf3",
+      "name": "RIFF//VERSE",
+      "description": "可玩 Demo · 音乐 / 表演 · 浏览器音乐工作室：作曲、定制 3D 乐队、导出演出；Astra 1–2 小时原型 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
+      "author": {
+        "name": "bagideastudio",
+        "url": "https://x.com/bagideastudio"
+      },
+      "demoUrl": "https://bagidea.github.io/riff-verse-studio/",
+      "sourceUrl": "https://x.com/bagideastudio/status/2098340163831349372",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR7NDa-bUAEUUBD.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR7NDa-bUAEUUBD.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1068
+    },
+    {
       "id": "work-dde330a3ddae2692",
       "name": "猫咪开饭啦 · Kitty Fish Catch",
       "description": "可玩 Demo · 街机 / 小游戏包 · 摸鱼养猫：Astra 搓的小猫捞鱼小游戏，打开就能开饭",
