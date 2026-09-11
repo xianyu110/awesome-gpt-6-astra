@@ -3,9 +3,9 @@
     {
       "id": "work-31060ba24fa0a67c",
       "name": "Wings of Freedom — Levi Skyrun",
-      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 进击的巨人 ODM 自动跑酷：左躲右闪、空格翻越/斩击，Three.js + Astra 几小时搓出的中世纪城空战",
+      "description": "可玩 Demo · 射击 / 动作 · Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel · ❤ 1",
       "category": "game",
-      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
       "author": {
         "name": "dhrubhagatsingh",
         "url": "https://x.com/dhrubhagatsingh"
@@ -13,33 +13,15 @@
       "demoUrl": "https://attack-on-titan-jet.vercel.app/",
       "sourceUrl": "https://x.com/dhrubhagatsingh/status/2098236388462223820",
       "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098234157654814720%2Fimg%2FLpuTi1Fv6OFgeysc.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098234157654814720%2Fimg%2FLpuTi1Fv6OFgeysc.jpg",
+      "imageUrl": "/previews/playable-wings-of-freedom-levi-skyrun.jpg",
+      "posterUrl": "/previews/playable-wings-of-freedom-levi-skyrun.jpg",
       "videoUrl": null,
       "sourceOrder": -1051
     },
     {
-      "id": "work-5f4290d745eef330",
-      "name": "Strange Orbit — Ring Skate",
-      "description": "可玩 Demo · 竞速 / 驾驶 · Crayon Pro + Astra + Three.js：绕行星环带滑板竞速，浏览器开玩 · ❤ 6",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
-      "author": {
-        "name": "usecrayon",
-        "url": "https://x.com/usecrayon"
-      },
-      "demoUrl": "https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8",
-      "sourceUrl": "https://x.com/usecrayon/status/2098208685428449623",
-      "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F47df78e2-1410-45d1-833c-196e1161c0b8%2Freleases%2F20260909-v1%2Fcover-hero.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F47df78e2-1410-45d1-833c-196e1161c0b8%2Freleases%2F20260909-v1%2Fcover-hero.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1052
-    },
-    {
       "id": "work-16089f7a72c3f46a",
       "name": "VELVET ACE · Private Casino Lounge",
-      "description": "可玩 Demo · 街机 / 小游戏包 · 星舰船员进赌场：玩钱德州扑克 / Blackjack，Astra 搓的私密牌桌，Kirk Spock 也能上桌 · ❤ 16",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 星际迷航船员进赌场：Poker / Blackjack，Astra 搓的私密赌场厅 · ❤ 16",
       "category": "game",
       "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
       "author": {
@@ -49,17 +31,89 @@
       "demoUrl": "https://velvet-ace.vercel.app/",
       "sourceUrl": "https://x.com/DeryaTR_/status/2098227850188833047",
       "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098227394951729152%2Fimg%2F5dRizVjQ8mOy7i5e.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098227394951729152%2Fimg%2F5dRizVjQ8mOy7i5e.jpg",
+      "imageUrl": "/previews/playable-velvet-ace.jpg",
+      "posterUrl": "/previews/playable-velvet-ace.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1052
+    },
+    {
+      "id": "work-2facb3e7c73065a8",
+      "name": "Cosmic Tides",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 超现实星系竞速 · Astra + Blender MCP + Crayon harness · ❤ 18",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "aniketjart",
+        "url": "https://x.com/aniketjart"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942",
+      "sourceUrl": "https://x.com/aniketjart/status/2098207146647433534",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-cosmic-tides.jpg",
+      "posterUrl": "/previews/playable-cosmic-tides.jpg",
       "videoUrl": null,
       "sourceOrder": -1053
     },
     {
-      "id": "work-9d4c881097199320",
-      "name": "RepoRoad — lo-fi drive through GitHub",
-      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 体素开源公路片：仓库楼层跟 star 数走，挂上 .reporoad.yml 就能上路听 lofi",
+      "id": "work-5f4290d745eef330",
+      "name": "Strange Orbit",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 在行星环上滑冰竞速 · Astra + Crayon Pro + Three.js · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "usecrayon",
+        "url": "https://x.com/usecrayon"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8",
+      "sourceUrl": "https://x.com/usecrayon/status/2098208685428449623",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-strange-orbit.jpg",
+      "posterUrl": "/previews/playable-strange-orbit.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1054
+    },
+    {
+      "id": "work-572f8a2b860e0492",
+      "name": "Above the rooftops",
+      "description": "可玩 Demo · 其他可玩 Demo · 温馨 2.5D 放风筝：给风筝上色再起飞 · Astra + Images 2.5 + Crayon · ❤ 18",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "TusharXo",
+        "url": "https://x.com/TusharXo"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28",
+      "sourceUrl": "https://x.com/TusharXo/status/2098156783181467801",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-above-the-rooftops.jpg",
+      "posterUrl": "/previews/playable-above-the-rooftops.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1055
+    },
+    {
+      "id": "work-24aa9049ccdc62f7",
+      "name": "Česká dobrodružství — Tvůj malý velký svět",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 捷克沙盒：开车/开飞机/酒吧/宜家/滑雪/太空/火车/重机… Astra 乐趣测",
       "category": "game",
       "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "petrroyce",
+        "url": "https://x.com/petrroyce"
+      },
+      "demoUrl": "https://czech-game.vercel.app/",
+      "sourceUrl": "https://x.com/petrroyce/status/2098165938822504662",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-ceska-dobrodruzstvi.jpg",
+      "posterUrl": "/previews/playable-ceska-dobrodruzstvi.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1056
+    },
+    {
+      "id": "work-9d4c881097199320",
+      "name": "RepoRoad",
+      "description": "可玩 Demo · 音乐 / 表演 · 开源小黑客松：一边听 lo-fi，一边看你的 GitHub 仓库上路巡游",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
         "name": "suppers_ai",
         "url": "https://x.com/suppers_ai"
@@ -67,10 +121,28 @@
       "demoUrl": "https://reporoad.org/",
       "sourceUrl": "https://x.com/suppers_ai/status/2098237803926790452",
       "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR5vemoaUAE2GVH.jpg%3Fname%3Dorig",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHR5vemoaUAE2GVH.jpg%3Fname%3Dorig",
+      "imageUrl": "/previews/playable-reporoad.jpg",
+      "posterUrl": "/previews/playable-reporoad.jpg",
       "videoUrl": null,
-      "sourceOrder": -1054
+      "sourceOrder": -1057
+    },
+    {
+      "id": "work-f2297fced4e707ff",
+      "name": "RED FLAG GAME",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 日本一般道 3D 安全限速计时赛：变限速、喇叭、红旗，冷静开到终点 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "seimusic",
+        "url": "https://x.com/seimusic"
+      },
+      "demoUrl": "https://seimusic.info/file/red_flag_game.html",
+      "sourceUrl": "https://x.com/seimusic/status/2098045891781480757",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-red-flag-game.jpg",
+      "posterUrl": "/previews/playable-red-flag-game.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1058
     },
     {
       "id": "work-a7db1947d15e55b7",

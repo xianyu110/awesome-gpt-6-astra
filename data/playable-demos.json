@@ -3,15 +3,8 @@
     "title": "Wings of Freedom — Levi Skyrun",
     "demo_url": "https://attack-on-titan-jet.vercel.app/",
     "post_url": "https://x.com/dhrubhagatsingh/status/2098236388462223820",
-    "likes": null,
-    "category": "经典复刻 / 知名玩法"
-  },
-  {
-    "title": "Strange Orbit — Ring Skate",
-    "demo_url": "https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8",
-    "post_url": "https://x.com/usecrayon/status/2098208685428449623",
-    "likes": 6,
-    "category": "竞速 / 驾驶"
+    "likes": 1,
+    "category": "射击 / 动作"
   },
   {
     "title": "VELVET ACE · Private Casino Lounge",
@@ -21,11 +14,46 @@
     "category": "街机 / 小游戏包"
   },
   {
-    "title": "RepoRoad — lo-fi drive through GitHub",
+    "title": "Cosmic Tides",
+    "demo_url": "https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942",
+    "post_url": "https://x.com/aniketjart/status/2098207146647433534",
+    "likes": 18,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Strange Orbit",
+    "demo_url": "https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8",
+    "post_url": "https://x.com/usecrayon/status/2098208685428449623",
+    "likes": 6,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Above the rooftops",
+    "demo_url": "https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28",
+    "post_url": "https://x.com/TusharXo/status/2098156783181467801",
+    "likes": 18,
+    "category": "其他可玩 Demo"
+  },
+  {
+    "title": "Česká dobrodružství — Tvůj malý velký svět",
+    "demo_url": "https://czech-game.vercel.app/",
+    "post_url": "https://x.com/petrroyce/status/2098165938822504662",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "RepoRoad",
     "demo_url": "https://reporoad.org/",
     "post_url": "https://x.com/suppers_ai/status/2098237803926790452",
     "likes": null,
-    "category": "3D 场景 / 氛围探索"
+    "category": "音乐 / 表演"
+  },
+  {
+    "title": "RED FLAG GAME",
+    "demo_url": "https://seimusic.info/file/red_flag_game.html",
+    "post_url": "https://x.com/seimusic/status/2098045891781480757",
+    "likes": 4,
+    "category": "竞速 / 驾驶"
   },
   {
     "title": "Last Light — City 1 Update",
