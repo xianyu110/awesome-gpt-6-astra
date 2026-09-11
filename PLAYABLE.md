@@ -2,19 +2,19 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**140** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**146** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 18
-- [射击 / 动作](#射击--动作) — 14
-- [模拟经营 / 策略](#模拟经营--策略) — 8
-- [联机 / 多人](#联机--多人) — 4
+- [竞速 / 驾驶](#竞速--驾驶) — 20
+- [射击 / 动作](#射击--动作) — 15
+- [模拟经营 / 策略](#模拟经营--策略) — 9
+- [联机 / 多人](#联机--多人) — 5
 - [街机 / 小游戏包](#街机--小游戏包) — 15
-- [音乐 / 表演](#音乐--表演) — 8
+- [音乐 / 表演](#音乐--表演) — 9
 - [教育 / 科普](#教育--科普) — 7
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 35
 - [工程 / 仿真](#工程--仿真) — 10
@@ -153,6 +153,16 @@
    - 原帖：https://x.com/seimusic/status/2098045891781480757
    - 备注：日本一般道 3D 安全限速计时赛：变限速、喇叭、红旗，冷静开到终点
 
+19. **APEX. Heat City** — [试玩](https://apex-city.mindblown.ai/) · [原帖](https://x.com/rammcodes/status/2098354066179109333) · ❤ 1
+   - 试玩链接：`https://apex-city.mindblown.ai/`
+   - 原帖：https://x.com/rammcodes/status/2098354066179109333
+   - 备注：mindblown 平台 NFS 风浏览器飙车（GPT-6 Astra）；来自 @rammcodes 试玩反应帖
+
+20. **Neon Wake — Dubai Coast** — [试玩](https://neonwake.ethraship.com/) · [原帖](https://x.com/captain_m1k/status/2098310479714369926) · ❤ 7
+   - 试玩链接：`https://neonwake.ethraship.com/`
+   - 原帖：https://x.com/captain_m1k/status/2098310479714369926
+   - 备注：Ethra 鲨鱼船长拖拽竞速迪拜海岸：冲坡飞跃，最高 1300 km/h，手机也能录一波
+
 
 ## 射击 / 动作
 
@@ -214,6 +224,11 @@
    - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
    - 备注：Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel
 
+15. **CHRONO RAID | SUZUNE & AOI** — [试玩](https://suzune-aoi-fighters.szou2003.chatgpt.site/) · [原帖](https://x.com/szounft/status/2098310992770007365) · ❤ 10
+   - 试玩链接：`https://suzune-aoi-fighters.szou2003.chatgpt.site/`
+   - 原帖：https://x.com/szounft/status/2098310992770007365
+   - 备注：活动等候时用 Seedance/H3 动画 + Astra 搓的双人格斗：必杀切入、超必杀与胜利演出齐全
+
 
 ## 模拟经营 / 策略
 
@@ -249,6 +264,11 @@
    - 原帖：https://x.com/mustafaakin/status/2097658461228069121
    - 备注：浏览器单人 RTS：Astra + Blender MCP，约 40 prompts 出资产与玩法
 
+9. **Loulou's Apartment** — [试玩](https://loulous-apartment.vercel.app/) · [原帖](https://x.com/LouiseDSadeleer/status/2098340442500653368) · ❤ 8
+   - 试玩链接：`https://loulous-apartment.vercel.app/`
+   - 原帖：https://x.com/LouiseDSadeleer/status/2098340442500653368
+   - 备注：把自家公寓做成等距互动小游戏：遛狗/补剂/阅读等日常习惯都能点，还有狗 Maggie
+
 
 ## 联机 / 多人
 
@@ -267,6 +287,12 @@
 4. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
    - 试玩链接：`https://unstable-stables-online.danielgui30.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096282857400652262
+
+5. **Little Mud** — [试玩](https://littlemud.gameassets.app/) · [原帖](https://x.com/LuwisTsang/status/2098301185115730177)
+   - 试玩链接：`https://littlemud.gameassets.app/`
+   - 原帖：https://x.com/LuwisTsang/status/2098301185115730177
+   - 备注：地下挖隧道抢装备、跟朋友斗智的浏览器小游戏
+
 
 ## 街机 / 小游戏包
 
@@ -368,6 +394,11 @@
    - 试玩链接：`https://reporoad.org/`
    - 原帖：https://x.com/suppers_ai/status/2098237803926790452
    - 备注：开源小黑客松：一边听 lo-fi，一边看你的 GitHub 仓库上路巡游
+
+9. **RIFF//VERSE** — [试玩](https://bagidea.github.io/riff-verse-studio/) · [原帖](https://x.com/bagideastudio/status/2098340163831349372) · ❤ 1
+   - 试玩链接：`https://bagidea.github.io/riff-verse-studio/`
+   - 原帖：https://x.com/bagideastudio/status/2098340163831349372
+   - 备注：浏览器音乐工作室：作曲、定制 3D 乐队、导出演出；Astra 1–2 小时原型
 
 
 ## 教育 / 科普
