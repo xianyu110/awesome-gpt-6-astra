@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**132** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**136** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
-- [竞速 / 驾驶](#竞速--驾驶) — 16
-- [射击 / 动作](#射击--动作) — 13
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
+- [竞速 / 驾驶](#竞速--驾驶) — 18
+- [射击 / 动作](#射击--动作) — 14
 - [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
 - [街机 / 小游戏包](#街机--小游戏包) — 13
-- [音乐 / 表演](#音乐--表演) — 7
+- [音乐 / 表演](#音乐--表演) — 8
 - [教育 / 科普](#教育--科普) — 7
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 34
 - [工程 / 仿真](#工程--仿真) — 10
-- [其他可玩 Demo](#其他可玩-Demo) — 6
+- [其他可玩 Demo](#其他可玩-Demo) — 7
 
 ## 经典复刻 / 知名玩法
 
@@ -73,11 +73,6 @@
    - 试玩链接：`https://stadium-elite.mindblown.ai`
    - 原帖：https://x.com/askmaddyy/status/2098018810192375832
    - 备注：浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩
-
-15. **Wings of Freedom — Levi Skyrun** — [试玩](https://attack-on-titan-jet.vercel.app/) · [原帖](https://x.com/dhrubhagatsingh/status/2098236388462223820)
-   - 试玩链接：`https://attack-on-titan-jet.vercel.app/`
-   - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
-   - 备注：进击的巨人 ODM 自动跑酷：左躲右闪、空格翻越/斩击，Three.js + Astra 几小时搓出的中世纪城空战
 
 
 ## 竞速 / 驾驶
@@ -143,10 +138,20 @@
    - 原帖：https://x.com/zccjjs8/status/2097943884445925808
    - 备注：Astra × Three.js 怀旧卡丁车，打开就能上手
 
-16. **Strange Orbit — Ring Skate** — [试玩](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8) · [原帖](https://x.com/usecrayon/status/2098208685428449623) · ❤ 6
+16. **Cosmic Tides** — [试玩](https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942) · [原帖](https://x.com/aniketjart/status/2098207146647433534) · ❤ 18
+   - 试玩链接：`https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942`
+   - 原帖：https://x.com/aniketjart/status/2098207146647433534
+   - 备注：超现实星系竞速 · Astra + Blender MCP + Crayon harness
+
+17. **Strange Orbit** — [试玩](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8) · [原帖](https://x.com/usecrayon/status/2098208685428449623) · ❤ 6
    - 试玩链接：`https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8`
    - 原帖：https://x.com/usecrayon/status/2098208685428449623
-   - 备注：Crayon Pro + Astra + Three.js：绕行星环带滑板竞速，浏览器开玩
+   - 备注：在行星环上滑冰竞速 · Astra + Crayon Pro + Three.js
+
+18. **RED FLAG GAME** — [试玩](https://seimusic.info/file/red_flag_game.html) · [原帖](https://x.com/seimusic/status/2098045891781480757) · ❤ 4
+   - 试玩链接：`https://seimusic.info/file/red_flag_game.html`
+   - 原帖：https://x.com/seimusic/status/2098045891781480757
+   - 备注：日本一般道 3D 安全限速计时赛：变限速、喇叭、红旗，冷静开到终点
 
 
 ## 射击 / 动作
@@ -203,6 +208,11 @@
    - 试玩链接：`https://spectacular-jargon-xtw.julius.site/`
    - 原帖：https://x.com/PheonixTech17/status/2097989218006130724
    - 备注：Julius + Three.js 丧尸生存：3D 城区、战斗物理、传送门目标，浏览器开打就能玩
+
+14. **Wings of Freedom — Levi Skyrun** — [试玩](https://attack-on-titan-jet.vercel.app/) · [原帖](https://x.com/dhrubhagatsingh/status/2098236388462223820) · ❤ 1
+   - 试玩链接：`https://attack-on-titan-jet.vercel.app/`
+   - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
+   - 备注：Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel
 
 
 ## 模拟经营 / 策略
@@ -306,7 +316,7 @@
 13. **VELVET ACE · Private Casino Lounge** — [试玩](https://velvet-ace.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2098227850188833047) · ❤ 16
    - 试玩链接：`https://velvet-ace.vercel.app/`
    - 原帖：https://x.com/DeryaTR_/status/2098227850188833047
-   - 备注：星舰船员进赌场：玩钱德州扑克 / Blackjack，Astra 搓的私密牌桌，Kirk Spock 也能上桌
+   - 备注：星际迷航船员进赌场：Poker / Blackjack，Astra 搓的私密赌场厅
 
 
 ## 音乐 / 表演
@@ -338,6 +348,12 @@
 7. **Geometry Dash · Fan Remix** — [试玩](https://geometry-dash-fan-nako.deif79.chatgpt.site) · [原帖](https://x.com/17facet/status/2096856546512982486)
    - 试玩链接：`https://geometry-dash-fan-nako.deif79.chatgpt.site`
    - 原帖：https://x.com/17facet/status/2096856546512982486
+
+8. **RepoRoad** — [试玩](https://reporoad.org/) · [原帖](https://x.com/suppers_ai/status/2098237803926790452)
+   - 试玩链接：`https://reporoad.org/`
+   - 原帖：https://x.com/suppers_ai/status/2098237803926790452
+   - 备注：开源小黑客松：一边听 lo-fi，一边看你的 GitHub 仓库上路巡游
+
 
 ## 教育 / 科普
 
@@ -511,10 +527,10 @@
    - 原帖：https://x.com/thebuggeddev/status/2097983281094594597
    - 备注：生成式水下洞穴：TSL + 游泳物理，移动端也能稳 60 FPS 瞎逛
 
-34. **RepoRoad — lo-fi drive through GitHub** — [试玩](https://reporoad.org/) · [原帖](https://x.com/suppers_ai/status/2098237803926790452)
-   - 试玩链接：`https://reporoad.org/`
-   - 原帖：https://x.com/suppers_ai/status/2098237803926790452
-   - 备注：体素开源公路片：仓库楼层跟 star 数走，挂上 .reporoad.yml 就能上路听 lofi
+34. **Česká dobrodružství — Tvůj malý velký svět** — [试玩](https://czech-game.vercel.app/) · [原帖](https://x.com/petrroyce/status/2098165938822504662)
+   - 试玩链接：`https://czech-game.vercel.app/`
+   - 原帖：https://x.com/petrroyce/status/2098165938822504662
+   - 备注：捷克沙盒：开车/开飞机/酒吧/宜家/滑雪/太空/火车/重机… Astra 乐趣测
 
 
 ## 工程 / 仿真
@@ -585,6 +601,11 @@
    - 试玩链接：`https://openai.com/gpt-tv/`
    - 原帖：https://x.com/ara_que/status/2097970104285753604
    - 备注：OpenAI 官网隐藏交互展：指南 + 灯光 + 三个小游戏（Astra+Codex 从 Figma→React）
+
+7. **Above the rooftops** — [试玩](https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28) · [原帖](https://x.com/TusharXo/status/2098156783181467801) · ❤ 18
+   - 试玩链接：`https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28`
+   - 原帖：https://x.com/TusharXo/status/2098156783181467801
+   - 备注：温馨 2.5D 放风筝：给风筝上色再起飞 · Astra + Images 2.5 + Crayon
 
 
 ## 说明
