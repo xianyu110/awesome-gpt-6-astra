@@ -2,21 +2,21 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**128** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-10
+- 收录：**132** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 15
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
+- [竞速 / 驾驶](#竞速--驾驶) — 16
 - [射击 / 动作](#射击--动作) — 13
 - [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
-- [街机 / 小游戏包](#街机--小游戏包) — 12
+- [街机 / 小游戏包](#街机--小游戏包) — 13
 - [音乐 / 表演](#音乐--表演) — 7
 - [教育 / 科普](#教育--科普) — 7
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 33
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 34
 - [工程 / 仿真](#工程--仿真) — 10
 - [其他可玩 Demo](#其他可玩-Demo) — 6
 
@@ -73,6 +73,11 @@
    - 试玩链接：`https://stadium-elite.mindblown.ai`
    - 原帖：https://x.com/askmaddyy/status/2098018810192375832
    - 备注：浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩
+
+15. **Wings of Freedom — Levi Skyrun** — [试玩](https://attack-on-titan-jet.vercel.app/) · [原帖](https://x.com/dhrubhagatsingh/status/2098236388462223820)
+   - 试玩链接：`https://attack-on-titan-jet.vercel.app/`
+   - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
+   - 备注：进击的巨人 ODM 自动跑酷：左躲右闪、空格翻越/斩击，Three.js + Astra 几小时搓出的中世纪城空战
 
 
 ## 竞速 / 驾驶
@@ -137,6 +142,11 @@
    - 试玩链接：`https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/`
    - 原帖：https://x.com/zccjjs8/status/2097943884445925808
    - 备注：Astra × Three.js 怀旧卡丁车，打开就能上手
+
+16. **Strange Orbit — Ring Skate** — [试玩](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8) · [原帖](https://x.com/usecrayon/status/2098208685428449623) · ❤ 6
+   - 试玩链接：`https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8`
+   - 原帖：https://x.com/usecrayon/status/2098208685428449623
+   - 备注：Crayon Pro + Astra + Three.js：绕行星环带滑板竞速，浏览器开玩
 
 
 ## 射击 / 动作
@@ -292,6 +302,12 @@
 12. **Chrome Slot Studio — fun-fact slot** — [试玩](https://chrome-slot-studio.sushmithanair1402.chatgpt.site/) · [原帖](https://x.com/sushmithanairws/status/2097539537652289872)
    - 试玩链接：`https://chrome-slot-studio.sushmithanair1402.chatgpt.site/`
    - 原帖：https://x.com/sushmithanairws/status/2097539537652289872
+
+13. **VELVET ACE · Private Casino Lounge** — [试玩](https://velvet-ace.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2098227850188833047) · ❤ 16
+   - 试玩链接：`https://velvet-ace.vercel.app/`
+   - 原帖：https://x.com/DeryaTR_/status/2098227850188833047
+   - 备注：星舰船员进赌场：玩钱德州扑克 / Blackjack，Astra 搓的私密牌桌，Kirk Spock 也能上桌
+
 
 ## 音乐 / 表演
 
@@ -494,6 +510,11 @@
    - 试玩链接：`https://below-the-hollow.thebuggeddev.chatgpt.site/`
    - 原帖：https://x.com/thebuggeddev/status/2097983281094594597
    - 备注：生成式水下洞穴：TSL + 游泳物理，移动端也能稳 60 FPS 瞎逛
+
+34. **RepoRoad — lo-fi drive through GitHub** — [试玩](https://reporoad.org/) · [原帖](https://x.com/suppers_ai/status/2098237803926790452)
+   - 试玩链接：`https://reporoad.org/`
+   - 原帖：https://x.com/suppers_ai/status/2098237803926790452
+   - 备注：体素开源公路片：仓库楼层跟 star 数走，挂上 .reporoad.yml 就能上路听 lofi
 
 
 ## 工程 / 仿真
