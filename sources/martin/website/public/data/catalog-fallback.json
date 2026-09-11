@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-dde330a3ddae2692",
+      "name": "猫咪开饭啦 · Kitty Fish Catch",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 摸鱼养猫：Astra 搓的小猫捞鱼小游戏，打开就能开饭",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "MoQing_8",
+        "url": "https://x.com/MoQing_8"
+      },
+      "demoUrl": "https://kitty-fish-catch.zutk41980668692.chatgpt.site/",
+      "sourceUrl": "https://x.com/MoQing_8/status/2098289453114826828",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-kitty-fish-catch.jpg",
+      "posterUrl": "/previews/playable-kitty-fish-catch.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1059
+    },
+    {
+      "id": "work-21c16d514fea7c50",
+      "name": "Mr. Nips — Twin Laser Arcade",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 街机双激光射击：给技术权限后的离谱产物，刷高分请自备羞耻心",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "creepztopia",
+        "url": "https://x.com/creepztopia"
+      },
+      "demoUrl": "https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/",
+      "sourceUrl": "https://x.com/creepztopia/status/2098264198971331011",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-mr-nips-twin-laser-arcade.jpg",
+      "posterUrl": "/previews/playable-mr-nips-twin-laser-arcade.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1060
+    },
+    {
       "id": "work-31060ba24fa0a67c",
       "name": "Wings of Freedom — Levi Skyrun",
       "description": "可玩 Demo · 射击 / 动作 · Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel · ❤ 1",

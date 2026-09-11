@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**136** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**138** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-11
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -13,7 +13,7 @@
 - [射击 / 动作](#射击--动作) — 14
 - [模拟经营 / 策略](#模拟经营--策略) — 7
 - [联机 / 多人](#联机--多人) — 4
-- [街机 / 小游戏包](#街机--小游戏包) — 13
+- [街机 / 小游戏包](#街机--小游戏包) — 15
 - [音乐 / 表演](#音乐--表演) — 8
 - [教育 / 科普](#教育--科普) — 7
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 34
@@ -317,6 +317,16 @@
    - 试玩链接：`https://velvet-ace.vercel.app/`
    - 原帖：https://x.com/DeryaTR_/status/2098227850188833047
    - 备注：星际迷航船员进赌场：Poker / Blackjack，Astra 搓的私密赌场厅
+
+14. **猫咪开饭啦 · Kitty Fish Catch** — [试玩](https://kitty-fish-catch.zutk41980668692.chatgpt.site/) · [原帖](https://x.com/MoQing_8/status/2098289453114826828)
+   - 试玩链接：`https://kitty-fish-catch.zutk41980668692.chatgpt.site/`
+   - 原帖：https://x.com/MoQing_8/status/2098289453114826828
+   - 备注：摸鱼养猫：Astra 搓的小猫捞鱼小游戏，打开就能开饭
+
+15. **Mr. Nips — Twin Laser Arcade** — [试玩](https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/) · [原帖](https://x.com/creepztopia/status/2098264198971331011)
+   - 试玩链接：`https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/`
+   - 原帖：https://x.com/creepztopia/status/2098264198971331011
+   - 备注：街机双激光射击：给技术权限后的离谱产物，刷高分请自备羞耻心
 
 
 ## 音乐 / 表演
