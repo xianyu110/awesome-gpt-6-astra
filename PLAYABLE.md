@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**159** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**162** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-14
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 21
+- [竞速 / 驾驶](#竞速--驾驶) — 22
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 6
 - [街机 / 小游戏包](#街机--小游戏包) — 17
 - [音乐 / 表演](#音乐--表演) — 9
 - [教育 / 科普](#教育--科普) — 8
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 36
-- [工程 / 仿真](#工程--仿真) — 11
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 37
+- [工程 / 仿真](#工程--仿真) — 12
 - [其他可玩 Demo](#其他可玩-Demo) — 8
 
 ## 经典复刻 / 知名玩法
@@ -167,6 +167,12 @@
    - 试玩链接：`https://hot-wheeler.vercel.app`
    - 原帖：https://x.com/varavibes/status/2099269587401580886
    - 备注：童年遥控车狂想：环圈、氮气、喷火龙，Astra 周末搓的浏览器特技车世界，车还能随地投放
+
+22. **SPZ Drive · Brno** — [试玩](https://spz-drive.martinmachava.com/) · [原帖](https://x.com/MartinMachava1/status/2099382051778560402)
+   - 试玩链接：`https://spz-drive.martinmachava.com/`
+   - 原帖：https://x.com/MartinMachava1/status/2099382051778560402
+   - 备注：Brno 实景开车：多人 / 电台 / 漂移，Astra 四次重置后搓出的城市代步沙盒
+
 
 
 ## 射击 / 动作
@@ -638,6 +644,12 @@
    - 原帖：https://x.com/mieliepit/status/2098421911793405975
    - 备注：小拖船大海捞：打捞会改操控，海岸三航程 + 起重机，Astra 海边小品
 
+37. **Mini Moto — Pine Ridge Park** — [试玩](https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/) · [原帖](https://x.com/chrisjdimarco/status/2098919328368197682)
+   - 试玩链接：`https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/`
+   - 原帖：https://x.com/chrisjdimarco/status/2098919328368197682
+   - 备注：松岭公园迷你摩托微缩场景：Astra 搓的可逛 diorama，打开就能转一圈
+
+
 
 ## 工程 / 仿真
 
@@ -684,6 +696,12 @@
    - 试玩链接：`https://unfold-assembly.silas-yke.chatgpt.site`
    - 原帖：https://x.com/SilasYeem/status/2099323272211185984
    - 备注：2D 装配手册变 3D 动画指引：拍照识件 + 语音副驾，双手忙时也能问步骤
+
+12. **Realsee × Astra × Blender · Editable Space** — [试玩](https://realsee-developer.github.io/realsee-astra-blender/) · [原帖](https://x.com/laruence/status/2099384661374087297)
+   - 试玩链接：`https://realsee-developer.github.io/realsee-astra-blender/`
+   - 原帖：https://x.com/laruence/status/2099384661374087297
+   - 备注：扫描空间→可编辑 Blender 场景：Realsee × Astra，附 demo / 代码 / 教程
+
 
 
 ## 其他可玩 Demo

@@ -1114,5 +1114,26 @@
     "post_url": "https://x.com/AxSaucedo/status/2098290714492727800",
     "likes": 1,
     "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "SPZ Drive · Brno",
+    "demo_url": "https://spz-drive.martinmachava.com/",
+    "post_url": "https://x.com/MartinMachava1/status/2099382051778560402",
+    "likes": 0,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Mini Moto — Pine Ridge Park",
+    "demo_url": "https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/",
+    "post_url": "https://x.com/chrisjdimarco/status/2098919328368197682",
+    "likes": 0,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "Realsee × Astra × Blender · Editable Space",
+    "demo_url": "https://realsee-developer.github.io/realsee-astra-blender/",
+    "post_url": "https://x.com/laruence/status/2099384661374087297",
+    "likes": 0,
+    "category": "工程 / 仿真"
   }
 ]
