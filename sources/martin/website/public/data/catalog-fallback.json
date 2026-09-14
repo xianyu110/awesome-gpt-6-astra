@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-6721c6635de7fb07",
+      "name": "GRAL 03 · 3D 网络收音机",
+      "description": "可玩 Demo · 音乐 / 表演 · YouWare + GPT-6 Astra 搓的沉浸式 3D 世界电台：全球网络电台、随机/收藏、按钮互动，多语言友好 · ❤ 8",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
+      "author": {
+        "name": "berryxia",
+        "url": "https://x.com/berryxia"
+      },
+      "demoUrl": "https://radio.youware.app",
+      "sourceUrl": "https://x.com/berryxia/status/2099436739886739932",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-gral-03-radio.jpg",
+      "posterUrl": "/previews/playable-gral-03-radio.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1089
+    },
+    {
+      "id": "work-532a0d47c54e521d",
+      "name": "Tiny Redline",
+      "description": "可玩 Demo · 竞速 / 驾驶 · SoonLab 上 Astra+Blender 搓的桌面四驱小赛车：向《爆走兄弟》致敬，打开就能飙 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "SoonLab_AI",
+        "url": "https://x.com/SoonLab_AI"
+      },
+      "demoUrl": "https://www.soonlab.ai/game/9415/",
+      "sourceUrl": "https://x.com/SoonLab_AI/status/2099430750429057313",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-tiny-redline.jpg",
+      "posterUrl": "/previews/playable-tiny-redline.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1090
+    },
+    {
       "id": "work-518fa03412ff2c9f",
       "name": "The Tide Remembers",
       "description": "可玩 Demo · 模拟经营 / 策略 · 吉卜力风 2.5D 海边模拟小品：Crayon + Astra + Three.js，潮汐记得你走过的每一步 · ❤ 43",
@@ -14962,9 +14998,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-14T06:42:00.000Z",
-    "lastSuccessfulAt": "2026-09-14T06:42:00.000Z",
-    "revision": "playable-sync-20260914-1442",
+    "checkedAt": "2026-09-14T10:45:00.000Z",
+    "lastSuccessfulAt": "2026-09-14T10:45:00.000Z",
+    "revision": "playable-sync-20260914-1840",
     "stale": false,
     "status": "fresh"
   },
