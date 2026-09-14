@@ -14831,14 +14831,68 @@
       "posterUrl": "/previews/playable-signals-failure-modes.jpg",
       "videoUrl": null,
       "sourceOrder": -1062
+    },
+    {
+      "id": "work-2a5c91b6831d1eec",
+      "name": "SPZ Drive · Brno",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Brno 实景开车：多人 / 电台 / 漂移，Astra 四次重置后搓出的城市代步沙盒",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "MartinMachava1",
+        "url": "https://x.com/MartinMachava1"
+      },
+      "demoUrl": "https://spz-drive.martinmachava.com/",
+      "sourceUrl": "https://x.com/MartinMachava1/status/2099382051778560402",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099381305930838016%2Fimg%2F5SIEUhfky7ahXpU8.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099381305930838016%2Fimg%2F5SIEUhfky7ahXpU8.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1082
+    },
+    {
+      "id": "work-3e12e1f7db12c595",
+      "name": "Mini Moto — Pine Ridge Park",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 松岭公园迷你摩托微缩场景：Astra 搓的可逛 diorama，打开就能转一圈",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "chrisjdimarco",
+        "url": "https://x.com/chrisjdimarco"
+      },
+      "demoUrl": "https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/",
+      "sourceUrl": "https://x.com/chrisjdimarco/status/2098919328368197682",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098917952896524290%2Fimg%2FljcLadfWppy7R47z.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098917952896524290%2Fimg%2FljcLadfWppy7R47z.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1083
+    },
+    {
+      "id": "work-8a87f978641a8624",
+      "name": "Realsee × Astra × Blender · Editable Space",
+      "description": "可玩 Demo · 工程 / 仿真 · 扫描空间→可编辑 Blender 场景：Realsee × Astra，附 demo / 代码 / 教程",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "laruence",
+        "url": "https://x.com/laruence"
+      },
+      "demoUrl": "https://realsee-developer.github.io/realsee-astra-blender/",
+      "sourceUrl": "https://x.com/laruence/status/2099384661374087297",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099384523431825408%2Fimg%2FT-uGg7kwObV4PDwY.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099384523431825408%2Fimg%2FT-uGg7kwObV4PDwY.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1084
     }
   ],
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-10T02:49:32.826Z",
-    "lastSuccessfulAt": "2026-09-10T02:49:32.826Z",
-    "revision": "playable-sync-20260910-1040",
+    "checkedAt": "2026-09-14T06:42:00.000Z",
+    "lastSuccessfulAt": "2026-09-14T06:42:00.000Z",
+    "revision": "playable-sync-20260914-1442",
     "stale": false,
     "status": "fresh"
   },
