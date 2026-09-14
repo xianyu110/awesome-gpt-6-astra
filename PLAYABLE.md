@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**162** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**166** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-14
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -15,10 +15,10 @@
 - [联机 / 多人](#联机--多人) — 6
 - [街机 / 小游戏包](#街机--小游戏包) — 17
 - [音乐 / 表演](#音乐--表演) — 9
-- [教育 / 科普](#教育--科普) — 8
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 37
+- [教育 / 科普](#教育--科普) — 9
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 39
 - [工程 / 仿真](#工程--仿真) — 12
-- [其他可玩 Demo](#其他可玩-Demo) — 8
+- [其他可玩 Demo](#其他可玩-Demo) — 9
 
 ## 经典复刻 / 知名玩法
 
@@ -488,6 +488,11 @@
    - 原帖：https://x.com/JakeAstraea/status/2099233535164891432
    - 备注：Astra 搓的健身房解剖动态图鉴：动作示范有点抽象好笑，直臂下拉是作者本命
 
+9. **WLJ Atlas · eismannre** — [试玩](https://wlj-atlas.eismannre.chatgpt.site/) · [原帖](https://x.com/decompwlj/status/2099367286423388464) · ❤ 1
+   - 试玩链接：`https://wlj-atlas.eismannre.chatgpt.site/`
+   - 原帖：https://x.com/decompwlj/status/2099367286423388464
+   - 备注：three.js 交互 3D 数列图谱：60 组序列分解，Astra 站又一版可逛数学可视化
+
 
 ## 3D 场景 / 氛围探索
 
@@ -649,6 +654,15 @@
    - 原帖：https://x.com/chrisjdimarco/status/2098919328368197682
    - 备注：松岭公园迷你摩托微缩场景：Astra 搓的可逛 diorama，打开就能转一圈
 
+38. **2861 California · Unit 4 Tour** — [试玩](https://2861-california-unit-4.vercel.app) · [原帖](https://x.com/dylan_szeto/status/2099332206103794152) · ❤ 4
+   - 试玩链接：`https://2861-california-unit-4.vercel.app`
+   - 原帖：https://x.com/dylan_szeto/status/2099332206103794152
+   - 备注：12 张公寓照片 + 户型图喂给 Astra/Blender，搓出可逛虚拟看房
+
+39. **3D Seoul Bus Tour** — [试玩](https://seoul-bus-tour.vercel.app/) · [原帖](https://x.com/bluesarang/status/2099352353262669948)
+   - 试玩链接：`https://seoul-bus-tour.vercel.app/`
+   - 原帖：https://x.com/bluesarang/status/2099352353262669948
+   - 备注：React+TS+Three.js+MapLibre 首尔 3D 巴士巡游，Astra xhigh 约 4–5 小时搓完
 
 
 ## 工程 / 仿真
@@ -740,6 +754,11 @@
    - 试玩链接：`https://sgyno09-source.github.io/dual-realms/`
    - 原帖：https://x.com/you1873118/status/2098421955296931931
    - 备注：Astra 额度磨出来的双界放学路第二关，GitHub Pages 可玩
+
+9. **Photon Studio** — [试玩](https://tenzen.studio/photon/) · [原帖](https://x.com/alwayspriyesh/status/2099360569350644179) · ❤ 25
+   - 试玩链接：`https://tenzen.studio/photon/`
+   - 原帖：https://x.com/alwayspriyesh/status/2099360569350644179
+   - 备注：Astra vibe-coded 的 Photoshop 平替：约 2k tokens + Computer Use 自测，打开就能搓图层
 
 
 ## 说明

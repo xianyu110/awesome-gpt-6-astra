@@ -14885,6 +14885,78 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099384523431825408%2Fimg%2FT-uGg7kwObV4PDwY.jpg",
       "videoUrl": null,
       "sourceOrder": -1084
+    },
+    {
+      "id": "work-9c0da0abd49e4d4f",
+      "name": "Photon Studio",
+      "description": "可玩 Demo · 其他可玩 Demo · Astra vibe-coded Photoshop 平替：约 2k tokens + Computer Use QA，打开就能搓 · ❤ 25",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "alwayspriyesh",
+        "url": "https://x.com/alwayspriyesh"
+      },
+      "demoUrl": "https://tenzen.studio/photon/",
+      "sourceUrl": "https://x.com/alwayspriyesh/status/2099360569350644179",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099360394649489408%2Fimg%2Fzlq1w6OYs-0t4KHo.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099360394649489408%2Fimg%2Fzlq1w6OYs-0t4KHo.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1085
+    },
+    {
+      "id": "work-ef9cfe5c375ea86c",
+      "name": "WLJ Atlas · eismannre",
+      "description": "可玩 Demo · 教育 / 科普 · three.js 交互 3D 数列图谱（60 组序列分解） · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "decompwlj",
+        "url": "https://x.com/decompwlj"
+      },
+      "demoUrl": "https://wlj-atlas.eismannre.chatgpt.site/",
+      "sourceUrl": "https://x.com/decompwlj/status/2099367286423388464",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099366451601620995%2Fimg%2FD3oa1IlKZxy1DWfo.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099366451601620995%2Fimg%2FD3oa1IlKZxy1DWfo.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1086
+    },
+    {
+      "id": "work-4243d1dfab915ec8",
+      "name": "2861 California · Unit 4 Tour",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 12 张实拍 + 户型图 → Astra/Blender 可逛公寓虚拟看房 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "dylan_szeto",
+        "url": "https://x.com/dylan_szeto"
+      },
+      "demoUrl": "https://2861-california-unit-4.vercel.app",
+      "sourceUrl": "https://x.com/dylan_szeto/status/2099332206103794152",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099331753093853184%2Fimg%2FFZQJmx58DgOtFL2U.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099331753093853184%2Fimg%2FFZQJmx58DgOtFL2U.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1087
+    },
+    {
+      "id": "work-935e58913405a7f9",
+      "name": "3D Seoul Bus Tour",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · React+Three.js+MapLibre 首尔 3D 巴士巡游，Astra xhigh 约 4–5h",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "bluesarang",
+        "url": "https://x.com/bluesarang"
+      },
+      "demoUrl": "https://seoul-bus-tour.vercel.app/",
+      "sourceUrl": "https://x.com/bluesarang/status/2099352353262669948",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099351531804037120%2Fimg%2FCu8Rel4gc4IUj2yf.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099351531804037120%2Fimg%2FCu8Rel4gc4IUj2yf.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1088
     }
   ],
   "source": {
