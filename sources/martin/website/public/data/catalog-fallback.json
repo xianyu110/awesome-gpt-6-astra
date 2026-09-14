@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-518fa03412ff2c9f",
+      "name": "The Tide Remembers",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 吉卜力风 2.5D 海边模拟小品：Crayon + Astra + Three.js，潮汐记得你走过的每一步 · ❤ 43",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "aniketjart",
+        "url": "https://x.com/aniketjart"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/5d89e610-23c5-4d2b-a15b-cd18652a9503",
+      "sourceUrl": "https://x.com/aniketjart/status/2099284881058705768",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F5d89e610-23c5-4d2b-a15b-cd18652a9503%2Freleases%2F20260907-cover-v2%2Fcover-hero.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F5d89e610-23c5-4d2b-a15b-cd18652a9503%2Freleases%2F20260907-cover-v2%2Fcover-hero.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1080
+    },
+    {
+      "id": "work-36f8be5b568602a1",
+      "name": "Strength Atlas",
+      "description": "可玩 Demo · 教育 / 科普 · Astra 搓的健身房解剖动态图鉴：动作示范有点抽象好笑，直臂下拉是作者本命 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "JakeAstraea",
+        "url": "https://x.com/JakeAstraea"
+      },
+      "demoUrl": "https://strength-atlas-ten.vercel.app/",
+      "sourceUrl": "https://x.com/JakeAstraea/status/2099233535164891432",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-strength-atlas.png",
+      "posterUrl": "/previews/playable-strength-atlas.png",
+      "videoUrl": null,
+      "sourceOrder": -1081
+    },
+    {
       "id": "work-b4a463239d510796",
       "name": "Hot Wheeler",
       "description": "可玩 Demo · 竞速 / 驾驶 · 童年遥控车狂想：环圈、氮气、喷火龙，Astra 周末搓的浏览器特技车世界，车还能随地投放 · ❤ 1",
