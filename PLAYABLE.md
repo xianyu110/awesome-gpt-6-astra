@@ -320,10 +320,10 @@
    - 试玩链接：`https://chao.party`
    - 原帖：https://x.com/h4nkdog/status/2097308970431987857
 
-3. **Lumbridge | Old-school multiplayer adventure** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 702
+3. **Elderwood Realms · Lumbridge（RuneScape 浏览器多人）** — [试玩](https://elderwood-realms.rohannvarma.chatgpt.site/) · [原帖](https://x.com/TheRohanVarma/status/2096744577332068549) · ❤ 730
    - 试玩链接：`https://elderwood-realms.rohannvarma.chatgpt.site/`
    - 原帖：https://x.com/TheRohanVarma/status/2096744577332068549
-
+   - 备注：Rohan Varma 用 GPT-6 Astra + Codex 部署到 ChatGPT Sites；首日约 3000 注册、1000+ 小时在线，后经 r/2007scape 二次冲量
 4. **Unstable Stables Online** — [试玩](https://unstable-stables-online.danielgui30.chatgpt.site/) · [原帖](https://x.com/i/status/2096282857400652262)
    - 试玩链接：`https://unstable-stables-online.danielgui30.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096282857400652262
