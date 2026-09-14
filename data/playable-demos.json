@@ -1135,5 +1135,33 @@
     "post_url": "https://x.com/laruence/status/2099384661374087297",
     "likes": 0,
     "category": "工程 / 仿真"
+  },
+  {
+    "title": "Photon Studio",
+    "demo_url": "https://tenzen.studio/photon/",
+    "post_url": "https://x.com/alwayspriyesh/status/2099360569350644179",
+    "likes": 25,
+    "category": "其他可玩 Demo"
+  },
+  {
+    "title": "WLJ Atlas · eismannre",
+    "demo_url": "https://wlj-atlas.eismannre.chatgpt.site/",
+    "post_url": "https://x.com/decompwlj/status/2099367286423388464",
+    "likes": 1,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "2861 California · Unit 4 Tour",
+    "demo_url": "https://2861-california-unit-4.vercel.app",
+    "post_url": "https://x.com/dylan_szeto/status/2099332206103794152",
+    "likes": 4,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "3D Seoul Bus Tour",
+    "demo_url": "https://seoul-bus-tour.vercel.app/",
+    "post_url": "https://x.com/bluesarang/status/2099352353262669948",
+    "likes": 0,
+    "category": "3D 场景 / 氛围探索"
   }
 ]
