@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**157** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**159** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-14
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -11,11 +11,11 @@
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 21
 - [射击 / 动作](#射击--动作) — 18
-- [模拟经营 / 策略](#模拟经营--策略) — 10
+- [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 6
 - [街机 / 小游戏包](#街机--小游戏包) — 17
 - [音乐 / 表演](#音乐--表演) — 9
-- [教育 / 科普](#教育--科普) — 7
+- [教育 / 科普](#教育--科普) — 8
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 36
 - [工程 / 仿真](#工程--仿真) — 11
 - [其他可玩 Demo](#其他可玩-Demo) — 8
@@ -294,6 +294,11 @@
    - 原帖：https://x.com/LanceBlah/status/2098370893164785761
    - 备注：四名幸存者殖民地模拟：建据点、保人命、探索未知（SoftN 浏览器）
 
+11. **The Tide Remembers** — [试玩](https://app.usecrayon.ai/play/5d89e610-23c5-4d2b-a15b-cd18652a9503) · [原帖](https://x.com/aniketjart/status/2099284881058705768) · ❤ 43
+   - 试玩链接：`https://app.usecrayon.ai/play/5d89e610-23c5-4d2b-a15b-cd18652a9503`
+   - 原帖：https://x.com/aniketjart/status/2099284881058705768
+   - 备注：吉卜力风 2.5D 海边模拟小品：Crayon + Astra + Three.js，潮汐记得你走过的每一步
+
 
 ## 联机 / 多人
 
@@ -471,6 +476,11 @@
    - 试玩链接：`https://decompwlj.com/decompwlj-atlas/dist/`
    - 原帖：https://x.com/decompwlj/status/2097890709554511934
    - 备注：three.js 交互 3D 数列分解图谱（50 组序列）
+
+8. **Strength Atlas** — [试玩](https://strength-atlas-ten.vercel.app/) · [原帖](https://x.com/JakeAstraea/status/2099233535164891432) · ❤ 1
+   - 试玩链接：`https://strength-atlas-ten.vercel.app/`
+   - 原帖：https://x.com/JakeAstraea/status/2099233535164891432
+   - 备注：Astra 搓的健身房解剖动态图鉴：动作示范有点抽象好笑，直臂下拉是作者本命
 
 
 ## 3D 场景 / 氛围探索
