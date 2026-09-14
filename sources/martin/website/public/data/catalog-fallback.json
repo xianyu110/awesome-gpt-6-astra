@@ -1,6 +1,132 @@
 {
   "works": [
     {
+      "id": "work-b4a463239d510796",
+      "name": "Hot Wheeler",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 童年遥控车狂想：环圈、氮气、喷火龙，Astra 周末搓的浏览器特技车世界，车还能随地投放 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "varavibes",
+        "url": "https://x.com/varavibes"
+      },
+      "demoUrl": "https://hot-wheeler.vercel.app",
+      "sourceUrl": "https://x.com/varavibes/status/2099269587401580886",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099269396233658368%2Fimg%2FJ4Xg_RGG6zDTXI7h.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099269396233658368%2Fimg%2FJ4Xg_RGG6zDTXI7h.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1073
+    },
+    {
+      "id": "work-07d6ebf077117d0a",
+      "name": "Settlecoast",
+      "description": "可玩 Demo · 联机 / 多人 · MengTo 用 Astra 四天搓出的类卡坦多人海岛经营：大厅、语音、扩展齐全，手机也能开黑 · ❤ 1225",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "demoUrl": "https://settlecoast.com",
+      "sourceUrl": "https://x.com/MengTo/status/2099125215708234119",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099122355142537216%2Fimg%2FjLHascE9pPz_3BrC.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099122355142537216%2Fimg%2FjLHascE9pPz_3BrC.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1074
+    },
+    {
+      "id": "work-a0cd470346024722",
+      "name": "Barrelbound — The Lost Cargo",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 丛林双英雄平台跳跃三章节，Astra + 生成美术，浏览器白嫖开跑",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "mieliepit",
+        "url": "https://x.com/mieliepit"
+      },
+      "demoUrl": "https://barrelbound.vercel.app/",
+      "sourceUrl": "https://x.com/mieliepit/status/2098419911747907983",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098417923140296705%2Fimg%2F658qNOsbc_s1E7VX.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098417923140296705%2Fimg%2F658qNOsbc_s1E7VX.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1075
+    },
+    {
+      "id": "work-e3e0efc031197d81",
+      "name": "Tidehook",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 小拖船大海捞：打捞会改操控，海岸三航程 + 起重机，Astra 海边小品",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "mieliepit",
+        "url": "https://x.com/mieliepit"
+      },
+      "demoUrl": "https://tidehook-mallow.vercel.app/",
+      "sourceUrl": "https://x.com/mieliepit/status/2098421911793405975",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098420936202723328%2Fimg%2Fp3JdCJslvx-1Q5iU.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098420936202723328%2Fimg%2Fp3JdCJslvx-1Q5iU.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1076
+    },
+    {
+      "id": "work-7603ad5d5c2339aa",
+      "name": "血裔决斗 · Nightborn Clash",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 吸血鬼街机对打初稿，Astra 一键开撕，细节还在加料 · ❤ 5",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "CloakofEcstasy",
+        "url": "https://x.com/CloakofEcstasy"
+      },
+      "demoUrl": "https://nightborn-clash.dixonefg5.chatgpt.site",
+      "sourceUrl": "https://x.com/CloakofEcstasy/status/2098415220645564857",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-nightborn-clash.jpg",
+      "posterUrl": "/previews/playable-nightborn-clash.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1077
+    },
+    {
+      "id": "work-8965174902eae3d1",
+      "name": "Unfold",
+      "description": "可玩 Demo · 工程 / 仿真 · 2D 装配手册变 3D 动画指引：拍照识件 + 语音副驾，双手忙时也能问步骤",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "SilasYeem",
+        "url": "https://x.com/SilasYeem"
+      },
+      "demoUrl": "https://unfold-assembly.silas-yke.chatgpt.site",
+      "sourceUrl": "https://x.com/SilasYeem/status/2099323272211185984",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSJLSOPbMAAllQi.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSJLSOPbMAAllQi.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1078
+    },
+    {
+      "id": "work-0f8c80d4f0f8fbd2",
+      "name": "旧城区 · 放学路",
+      "description": "可玩 Demo · 其他可玩 Demo · Astra 额度磨出来的双界放学路第二关，GitHub Pages 可玩 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "you1873118",
+        "url": "https://x.com/you1873118"
+      },
+      "demoUrl": "https://sgyno09-source.github.io/dual-realms/",
+      "sourceUrl": "https://x.com/you1873118/status/2098421955296931931",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098421570503077888%2Fimg%2FpYShAop_a0_-__bl.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098421570503077888%2Fimg%2FpYShAop_a0_-__bl.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1079
+    },
+    {
       "id": "work-5509d22bdb6d12ef",
       "name": "Outermate: First Count",
       "description": "可玩 Demo · 射击 / 动作 · 浏览器越狱逃脱小游戏（GPT-6 Astra / SoftN）",

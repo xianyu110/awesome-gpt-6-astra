@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**150** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-11
+- 收录：**157** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-14
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 20
+- [竞速 / 驾驶](#竞速--驾驶) — 21
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 10
-- [联机 / 多人](#联机--多人) — 5
-- [街机 / 小游戏包](#街机--小游戏包) — 15
+- [联机 / 多人](#联机--多人) — 6
+- [街机 / 小游戏包](#街机--小游戏包) — 17
 - [音乐 / 表演](#音乐--表演) — 9
 - [教育 / 科普](#教育--科普) — 7
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 35
-- [工程 / 仿真](#工程--仿真) — 10
-- [其他可玩 Demo](#其他可玩-Demo) — 7
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 36
+- [工程 / 仿真](#工程--仿真) — 11
+- [其他可玩 Demo](#其他可玩-Demo) — 8
 
 ## 经典复刻 / 知名玩法
 
@@ -162,6 +162,11 @@
    - 试玩链接：`https://neonwake.ethraship.com/`
    - 原帖：https://x.com/captain_m1k/status/2098310479714369926
    - 备注：Ethra 鲨鱼船长拖拽竞速迪拜海岸：冲坡飞跃，最高 1300 km/h，手机也能录一波
+
+21. **Hot Wheeler** — [试玩](https://hot-wheeler.vercel.app) · [原帖](https://x.com/varavibes/status/2099269587401580886) · ❤ 1
+   - 试玩链接：`https://hot-wheeler.vercel.app`
+   - 原帖：https://x.com/varavibes/status/2099269587401580886
+   - 备注：童年遥控车狂想：环圈、氮气、喷火龙，Astra 周末搓的浏览器特技车世界，车还能随地投放
 
 
 ## 射击 / 动作
@@ -313,6 +318,11 @@
    - 原帖：https://x.com/LuwisTsang/status/2098301185115730177
    - 备注：地下挖隧道抢装备、跟朋友斗智的浏览器小游戏
 
+6. **Settlecoast** — [试玩](https://settlecoast.com) · [原帖](https://x.com/MengTo/status/2099125215708234119) · ❤ 1225
+   - 试玩链接：`https://settlecoast.com`
+   - 原帖：https://x.com/MengTo/status/2099125215708234119
+   - 备注：MengTo 用 Astra 四天搓出的类卡坦多人海岛经营：大厅、语音、扩展齐全，手机也能开黑
+
 
 ## 街机 / 小游戏包
 
@@ -378,6 +388,16 @@
    - 试玩链接：`https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/`
    - 原帖：https://x.com/creepztopia/status/2098264198971331011
    - 备注：街机双激光射击：给技术权限后的离谱产物，刷高分请自备羞耻心
+
+16. **Barrelbound — The Lost Cargo** — [试玩](https://barrelbound.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098419911747907983)
+   - 试玩链接：`https://barrelbound.vercel.app/`
+   - 原帖：https://x.com/mieliepit/status/2098419911747907983
+   - 备注：丛林双英雄平台跳跃三章节，Astra + 生成美术，浏览器白嫖开跑
+
+17. **血裔决斗 · Nightborn Clash** — [试玩](https://nightborn-clash.dixonefg5.chatgpt.site) · [原帖](https://x.com/CloakofEcstasy/status/2098415220645564857) · ❤ 5
+   - 试玩链接：`https://nightborn-clash.dixonefg5.chatgpt.site`
+   - 原帖：https://x.com/CloakofEcstasy/status/2098415220645564857
+   - 备注：吸血鬼街机对打初稿，Astra 一键开撕，细节还在加料
 
 
 ## 音乐 / 表演
@@ -603,6 +623,11 @@
    - 原帖：https://x.com/AxSaucedo/status/2098290714492727800
    - 备注：不用幻灯片：Astra 搓的 3D 渲染引擎当 Signals Berlin 2026 开场演讲
 
+36. **Tidehook** — [试玩](https://tidehook-mallow.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098421911793405975)
+   - 试玩链接：`https://tidehook-mallow.vercel.app/`
+   - 原帖：https://x.com/mieliepit/status/2098421911793405975
+   - 备注：小拖船大海捞：打捞会改操控，海岸三航程 + 起重机，Astra 海边小品
+
 
 ## 工程 / 仿真
 
@@ -645,6 +670,11 @@
    - 原帖：https://x.com/Prajwal96343052/status/2097925378186883234
    - 备注：可拖拽扰动的流体仿真，调参并复制代码
 
+11. **Unfold** — [试玩](https://unfold-assembly.silas-yke.chatgpt.site) · [原帖](https://x.com/SilasYeem/status/2099323272211185984)
+   - 试玩链接：`https://unfold-assembly.silas-yke.chatgpt.site`
+   - 原帖：https://x.com/SilasYeem/status/2099323272211185984
+   - 备注：2D 装配手册变 3D 动画指引：拍照识件 + 语音副驾，双手忙时也能问步骤
+
 
 ## 其他可玩 Demo
 
@@ -677,6 +707,11 @@
    - 试玩链接：`https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28`
    - 原帖：https://x.com/TusharXo/status/2098156783181467801
    - 备注：温馨 2.5D 放风筝：给风筝上色再起飞 · Astra + Images 2.5 + Crayon
+
+8. **旧城区 · 放学路** — [试玩](https://sgyno09-source.github.io/dual-realms/) · [原帖](https://x.com/you1873118/status/2098421955296931931) · ❤ 3
+   - 试玩链接：`https://sgyno09-source.github.io/dual-realms/`
+   - 原帖：https://x.com/you1873118/status/2098421955296931931
+   - 备注：Astra 额度磨出来的双界放学路第二关，GitHub Pages 可玩
 
 
 ## 说明

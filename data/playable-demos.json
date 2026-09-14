@@ -1,5 +1,54 @@
 [
   {
+    "title": "Hot Wheeler",
+    "demo_url": "https://hot-wheeler.vercel.app",
+    "post_url": "https://x.com/varavibes/status/2099269587401580886",
+    "likes": 1,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Settlecoast",
+    "demo_url": "https://settlecoast.com",
+    "post_url": "https://x.com/MengTo/status/2099125215708234119",
+    "likes": 1225,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "Barrelbound — The Lost Cargo",
+    "demo_url": "https://barrelbound.vercel.app/",
+    "post_url": "https://x.com/mieliepit/status/2098419911747907983",
+    "likes": null,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "Tidehook",
+    "demo_url": "https://tidehook-mallow.vercel.app/",
+    "post_url": "https://x.com/mieliepit/status/2098421911793405975",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "血裔决斗 · Nightborn Clash",
+    "demo_url": "https://nightborn-clash.dixonefg5.chatgpt.site",
+    "post_url": "https://x.com/CloakofEcstasy/status/2098415220645564857",
+    "likes": 5,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "Unfold",
+    "demo_url": "https://unfold-assembly.silas-yke.chatgpt.site",
+    "post_url": "https://x.com/SilasYeem/status/2099323272211185984",
+    "likes": null,
+    "category": "工程 / 仿真"
+  },
+  {
+    "title": "旧城区 · 放学路",
+    "demo_url": "https://sgyno09-source.github.io/dual-realms/",
+    "post_url": "https://x.com/you1873118/status/2098421955296931931",
+    "likes": 3,
+    "category": "其他可玩 Demo"
+  },
+  {
     "title": "Outermate: First Count",
     "demo_url": "https://outermate.com",
     "post_url": "https://x.com/LanceBlah/status/2098407876603895859",
