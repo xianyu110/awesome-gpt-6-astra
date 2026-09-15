@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**179** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**182** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -12,13 +12,13 @@
 - [竞速 / 驾驶](#竞速--驾驶) — 24
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 11
-- [联机 / 多人](#联机--多人) — 7
+- [联机 / 多人](#联机--多人) — 8
 - [街机 / 小游戏包](#街机--小游戏包) — 19
 - [音乐 / 表演](#音乐--表演) — 11
 - [教育 / 科普](#教育--科普) — 10
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 42
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
 - [工程 / 仿真](#工程--仿真) — 14
-- [其他可玩 Demo](#其他可玩-Demo) — 9
+- [其他可玩 Demo](#其他可玩-Demo) — 10
 
 ## 经典复刻 / 知名玩法
 
@@ -347,6 +347,11 @@
    - 试玩链接：`https://veilfall.replit.app`
    - 原帖：https://x.com/Noni_Shehnoor/status/2099641097030959469
    - 备注：Replit 上的 MOBA/RTS 半成品挑战局：兄弟打赌开搓，桌面端先试水
+
+8. **Anime Rift** — [试玩](https://anime-rift-cade.theyounganimation.chatgpt.site) · [原帖](https://x.com/Cade_Animation/status/2099718119287668901)
+   - 试玩链接：`https://anime-rift-cade.theyounganimation.chatgpt.site`
+   - 原帖：https://x.com/Cade_Animation/status/2099718119287668901
+   - 备注：二次元大乱斗：选角色约朋友，2–4 人平台格斗，桌面手机都能上手
 
 
 ## 街机 / 小游戏包
@@ -719,6 +724,11 @@
    - 原帖：https://x.com/fMinZhou/status/2099807979969315323
    - 备注：Astra + Three.js @ Happycapy：液态金属小宠在充气家具房里乱跑，打开就能摸
 
+43. **Void Explorer** — [试玩](https://void-explorer.openai.chatgpt.site/) · [原帖](https://x.com/KeisukeIshikawa/status/2099785223827259515) · ❤ 2
+   - 试玩链接：`https://void-explorer.openai.chatgpt.site/`
+   - 原帖：https://x.com/KeisukeIshikawa/status/2099785223827259515
+   - 备注：官方同款边玩边改：Astra+Codex 迭代造出的星系探索，2048 星系上万行星，浏览器能飞
+
 
 ## 工程 / 仿真
 
@@ -823,6 +833,11 @@
    - 试玩链接：`https://tenzen.studio/photon/`
    - 原帖：https://x.com/alwayspriyesh/status/2099360569350644179
    - 备注：Astra vibe-coded 的 Photoshop 平替：约 2k tokens + Computer Use 自测，打开就能搓图层
+
+10. **OpenJung · Personality Town** — [试玩](https://openjung.org/play/town) · [原帖](https://x.com/yaluotao/status/2099789073909244400) · ❤ 1
+   - 试玩链接：`https://openjung.org/play/town`
+   - 原帖：https://x.com/yaluotao/status/2099789073909244400
+   - 备注：人格测试做成可逛小世界：gpt-6-astra + AmpCode，点开就能逛 town
 
 
 ## 说明
