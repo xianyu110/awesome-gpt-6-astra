@@ -1,5 +1,40 @@
 [
   {
+    "title": "木构图志 · Timber Atlas",
+    "demo_url": "https://timber-atlas.xiaodan.io/",
+    "post_url": "https://x.com/DuXiaodan/status/2099653288756932859",
+    "likes": 4,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Le Petit Illustré · 1934",
+    "demo_url": "https://lepetitillustre.com",
+    "post_url": "https://x.com/OdinLovis/status/2099662203531973001",
+    "likes": 7,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "VeilFall",
+    "demo_url": "https://veilfall.replit.app",
+    "post_url": "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+    "likes": 3,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "VESPER",
+    "demo_url": "https://vesper.mansgullberg.chatgpt.site/",
+    "post_url": "https://x.com/MansGullberg/status/2099594470454899093",
+    "likes": 2,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "吉卜力火车 · Ghibli Train Sim",
+    "demo_url": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+    "post_url": "https://x.com/aniketjart/status/2099652076829909064",
+    "likes": 28,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
     "title": "GRAL 03 · 3D 网络收音机",
     "demo_url": "https://radio.youware.app",
     "post_url": "https://x.com/berryxia/status/2099436739886739932",

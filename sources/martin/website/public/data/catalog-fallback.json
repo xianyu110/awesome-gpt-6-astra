@@ -1,6 +1,96 @@
 {
   "works": [
     {
+      "id": "work-58228baf142f67b4",
+      "name": "木构图志 · Timber Atlas",
+      "description": "可玩 Demo · 教育 / 科普 · 佛光寺等中国古建木构互动图志：Astra×Codex 周末搓出的三维拆解图鉴，打开就能逛 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "DuXiaodan",
+        "url": "https://x.com/DuXiaodan"
+      },
+      "demoUrl": "https://timber-atlas.xiaodan.io/",
+      "sourceUrl": "https://x.com/DuXiaodan/status/2099653288756932859",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099652682004779009%2Fimg%2FNgqv_UKS-kGi_TvA.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099652682004779009%2Fimg%2FNgqv_UKS-kGi_TvA.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1091
+    },
+    {
+      "id": "work-1cbfa2ec5fe2d80f",
+      "name": "Le Petit Illustré · 1934",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 向被遗忘的法文画报致敬：fal H3 + three.js + Astra 把 1934 年刊页重新点活 · ❤ 7",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "OdinLovis",
+        "url": "https://x.com/OdinLovis"
+      },
+      "demoUrl": "https://lepetitillustre.com",
+      "sourceUrl": "https://x.com/OdinLovis/status/2099662203531973001",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099661212153675776%2Fimg%2FPJiLJvmordhfJeJW.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099661212153675776%2Fimg%2FPJiLJvmordhfJeJW.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1092
+    },
+    {
+      "id": "work-ac8f87b19be02139",
+      "name": "VeilFall",
+      "description": "可玩 Demo · 联机 / 多人 · Replit 上的 MOBA/RTS 半成品挑战局：兄弟打赌开搓，桌面端先试水 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "Noni_Shehnoor",
+        "url": "https://x.com/Noni_Shehnoor"
+      },
+      "demoUrl": "https://veilfall.replit.app",
+      "sourceUrl": "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099641039220826112%2Fimg%2F_nd0WW348dlv4gSR.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099641039220826112%2Fimg%2F_nd0WW348dlv4gSR.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1093
+    },
+    {
+      "id": "work-978dcd7fe4e65cd2",
+      "name": "VESPER",
+      "description": "可玩 Demo · 街机 / 小游戏包 · three.js 解谜+Boss 三关浏览器小品：Astra 一键开打，看你能不能通关 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "MansGullberg",
+        "url": "https://x.com/MansGullberg"
+      },
+      "demoUrl": "https://vesper.mansgullberg.chatgpt.site/",
+      "sourceUrl": "https://x.com/MansGullberg/status/2099594470454899093",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSNBkgCW0AEAy0I.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSNBkgCW0AEAy0I.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1094
+    },
+    {
+      "id": "work-1a55514167d11b98",
+      "name": "吉卜力火车 · Ghibli Train Sim",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 吉卜力风火车模拟：Astra + Crayon UI + three.js，打开就能慢悠悠兜风，后续还在加料 · ❤ 28",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "aniketjart",
+        "url": "https://x.com/aniketjart"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+      "sourceUrl": "https://x.com/aniketjart/status/2099652076829909064",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099651681910992896%2Fimg%2FDF5BMddGcBWIhYbV.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099651681910992896%2Fimg%2FDF5BMddGcBWIhYbV.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1095
+    },
+    {
       "id": "work-6721c6635de7fb07",
       "name": "GRAL 03 · 3D 网络收音机",
       "description": "可玩 Demo · 音乐 / 表演 · YouWare + GPT-6 Astra 搓的沉浸式 3D 世界电台：全球网络电台、随机/收藏、按钮互动，多语言友好 · ❤ 8",
