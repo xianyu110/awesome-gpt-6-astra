@@ -1,6 +1,6 @@
 # 上游 README 快照
 
-> 自动生成于 `2026-09-15T02:24:44+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
+> 自动生成于 `2026-09-15T07:43:33+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
 
 ## MartinDelophy/awesome-gpt-6-astra
 
@@ -16,7 +16,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 98](https://img.shields.io/badge/Cases-98-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 108](https://img.shields.io/badge/Cases-108-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -32,11 +32,11 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **98 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
+Explore **108 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
 Catalog updated: **2026-09-15**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
-Latest additions: [10 browser games from creator sites, Reddit and X](docs/browser-games-2026-09-12.md), with gameplay screenshots and access checks. Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
+Latest additions: [10 browser games from Reddit, GitHub, LINUX DO and X](docs/browser-games-2026-09-15.md), with gameplay screenshots and access checks. [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
 
 - **Looking for something to play?** Browse the genres below.
 - **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a direct browser game link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
@@ -203,6 +203,26 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: [X](https://x.com/siyam_uddin_t/status/2098025717057614109) — The creator says he built this experimental fighting game with GPT-Astra. [Verification notes](assets/screenshots/billionaire-pit/SOURCE.md).
   - Preview: ![Two parody fighters in the arena during Round 1, with health, stamina and a 57-second timer.](assets/screenshots/billionaire-pit/gameplay.jpg)
 
+- **[水果忍者 · 再来一刀 / Fruit Ninja Dojo](https://fruit-ninja-dojo-20260905.yongqixue666.chatgpt.site/)** — Swipe through flying fruit to build combos in an unofficial Fruit Ninja recreation, with Classic, 60-second Arcade and 90-second Zen modes.
+  - Creator: [Laplace9 / yongqixue99-hue](https://linux.do/u/Laplace9)
+  - Platform: Browser; mouse dragging or touch swipes, no sign-in or installation.
+  - GPT-6 Astra: [LINUX DO](https://linux.do/t/topic/2857340) — The creator says a single prompt asking Astra to recreate Fruit Ninja produced the game with very high reasoning effort, and subsequently shared its source. [Verification notes](assets/screenshots/fruit-ninja-dojo/SOURCE.md).
+  - Resources: [Source](https://github.com/yongqixue99-hue/fruit-ninja-dojo).
+  - Preview: ![Zen mode with a visible slicing trail, split fruit, 48 points and a seven-hit combo.](assets/screenshots/fruit-ninja-dojo/gameplay.jpg)
+
+- **[血裔决斗Ⅱ / Nightborn Clash](https://nightborn-clash.dixonefg5.chatgpt.site/)** — Choose one of four vampire fighters, combine attacks and energy-powered skills, and practice against a training opponent or enter a 99-second AI duel.
+  - Creator: [Cloaker Vampiror](https://x.com/CloakofEcstasy)
+  - Platform: Desktop browser; keyboard movement and clickable skill buttons, no sign-in or installation.
+  - GPT-6 Astra: [X](https://x.com/CloakofEcstasy/status/2098415220645564857) — The creator explicitly says he used GPT-6 Astra to make this vampire arcade game. [Verification notes](assets/screenshots/nightborn-clash/SOURCE.md).
+  - Preview: ![The Crimson Count begins a super move against the Night Noble, with health, energy, damage and skill buttons visible.](assets/screenshots/nightborn-clash/gameplay.jpg)
+
+- **[DUST II · 沙漠行动 / Desert Operations](https://dust-ii-map.yelin8130.chatgpt.site/)** — Fight bots on a desert map in free-for-all, team, bomb or infection modes, switching weapons and using optional invincibility and flight assists.
+  - Creator: [lin_ye / lin ye](https://linux.do/u/lin_ye)
+  - Platform: Desktop browser; mouse and keyboard, no sign-in or installation. Default invincibility is enabled; drag-to-look and F-to-fire are available when mouse lock is unavailable.
+  - GPT-6 Astra: [LINUX DO](https://linux.do/t/topic/2857361) — The creator describes using Astra first to model the desert map, then to add FPS rules, bots, weapons, four game modes and optional assists. [Verification notes](assets/screenshots/dust-ii-ops/SOURCE.md).
+  - Resources: [Original map and prompts](https://linux.do/t/topic/2857326).
+  - Preview: ![A live free-for-all match on the desert map, with AK-47, tactical radar, bot kill feed and the invincibility assist enabled.](assets/screenshots/dust-ii-ops/gameplay.jpg)
+
 ### Puzzles & brain games
 
 Logic puzzles, physics challenges, word games, and clever little mechanisms.
@@ -259,6 +279,19 @@ Logic puzzles, physics challenges, word games, and clever little mechanisms.
   - Platform: Browser; click Play, then Begin. Free, no sign-in; English and Chinese controls.
   - GPT-6 Astra: [Creator listing](https://www.aigameshare.com/games/greenhouse-escape-room) — The creator identifies GPT-6 Astra and Codex as development tools, with ImageGen and WebAudio. [Verification notes](assets/screenshots/greenhouse-escape-room/SOURCE.md).
   - Preview: ![The Waterworks room of the greenhouse escape game, with a nine-tile pipe apparatus, timer and inventory.](assets/screenshots/greenhouse-escape-room/gameplay.jpg)
+
+- **[无限庭院 · Infinite Garden — Atlas of Echoes](https://infinite-garden.yelin8130.chatgpt.site/)** — Explore 48 gravity-bending gardens, carry colored fruits to matching sockets and awaken circuits in a world where falling leads into another side of the architecture.
+  - Creator: [lin_ye / lin ye](https://linux.do/u/lin_ye)
+  - Platform: Desktop browser; mouse and keyboard, no sign-in or installation.
+  - GPT-6 Astra: [LINUX DO](https://linux.do/t/topic/2857449) — The creator shares the Astra prompts used to produce the HTML game and extend it from six to 48 gardens. [Verification notes](assets/screenshots/infinite-garden/SOURCE.md).
+  - Preview: ![First-person view of the first garden, showing the cyan fruit, its circuit objective and gravity controls.](assets/screenshots/infinite-garden/gameplay.jpg)
+
+- **[Pixel Orchard — Memory Harvest](https://miaai-lab.github.io/GPT-6-Astra-100-HTML-Files/013-pixel-orchard.html)** — Flip twelve seed packets to find six matching pairs in a small memory game that tracks moves and lets you reshuffle for another harvest.
+  - Creator: [MiaAI-Lab](https://github.com/MiaAI-Lab)
+  - Platform: Browser; mouse, touch or keyboard, no sign-in or installation.
+  - GPT-6 Astra: [GitHub README](https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files/blob/main/README.md) — The creator identifies the collection's standalone HTML studies as generated with GPT-6 Astra; the game's public prompt specifies a twelve-card memory game with move tracking, matching and reset behavior. [Verification notes](assets/screenshots/pixel-orchard/SOURCE.md).
+  - Resources: [Game prompt](https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files/blob/main/013-pixel-orchard.txt).
+  - Preview: ![Pixel Orchard after three turns, showing the matched diamond pair and the 1/6 pairs counter.](assets/screenshots/pixel-orchard/gameplay.jpg)
 
 ### Strategy & simulation
 
@@ -416,6 +449,18 @@ Tower defense, strategic card games, management games, building, and simulation 
   - GPT-6 Astra: [X](https://x.com/petrroyce/status/2098165938822504662) — The creator describes the project as an Astra experiment made for his son and lists the expanding vehicles, activities and tasks. [Verification notes](assets/screenshots/czech-adventures/SOURCE.md).
   - Preview: ![A steam train passes through a miniature Czech town with speed and railway-switch controls.](assets/screenshots/czech-adventures/gameplay.jpg)
 
+- **[Land, If You Can](https://landifyoucan.naylalabs.xyz/)** — Take over an airliner or light aircraft, follow tower instructions and manage a landing approach across five scenarios, with an interactive cabin and flight replays.
+  - Creator: [Taniai_](https://www.reddit.com/user/Taniai_/)
+  - Platform: Desktop browser with mouse and keyboard; free, no sign-in or installation. Initial asset loading takes time; flight replays are shared automatically.
+  - GPT-6 Astra: [Reddit](https://www.reddit.com/r/TurkOyunSektoru/comments/1w96dlh/herkes_gpt_6_astra_ile_bir_%C5%9Feyler_payla%C5%9F%C4%B1yordu/) — The creator says Astra used Godot 4 and Blender to build the landing simulation, iterating on mechanics, scenery and replays through roughly 30 prompts. [Verification notes](assets/screenshots/land-if-you-can/SOURCE.md).
+  - Preview: ![Airliner cockpit under manual control, with tower heading, speed, altitude and crosswind instruments.](assets/screenshots/land-if-you-can/gameplay.jpg)
+
+- **[Last Train to the Sea](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107)** — Drive a winged tram between five towns above the clouds, balance the carriage and carry passengers while collecting fares, tickets and station stamps.
+  - Creator: [Aniket J](https://x.com/aniketjart)
+  - Platform: Browser; keyboard or on-screen controls, free anonymous wanderer option, no installation. Ticket fares are in-game currency.
+  - GPT-6 Astra: [X](https://x.com/aniketjart/status/2099652426559369311) — In the release update and embedded announcement, the creator says he built the train simulation using GPT-6 Astra, Crayon for its UI and Three.js. [Verification notes](assets/screenshots/last-train-to-the-sea/SOURCE.md).
+  - Preview: ![Hearthwing at Mango Tide, with four passengers, a 1 km/h speed reading, balance bar and power controls.](assets/screenshots/last-train-to-the-sea/gameplay.jpg)
+
 ### RPGs & adventures
 
 Role-playing, exploration, narrative adventures, and interactive stories.
@@ -513,6 +558,13 @@ Role-playing, exploration, narrative adventures, and interactive stories.
   - Platform: Browser; keyboard and mouse, with touch controls documented; no login. Mobile and completion were not tested.
   - GPT-6 Astra: [X](https://x.com/thebuggeddev/status/2097983281094594597) — The creator explicitly credits GPT-6 Astra for this cave experience and describes TSL rendering and integrated swimming physics. [Verification notes](assets/screenshots/below-the-hollow/SOURCE.md).
   - Preview: ![A dive line winds through a flooded cave, with the depth HUD reading 38.4 m below the surface.](assets/screenshots/below-the-hollow/gameplay.jpg)
+
+- **[The Road to Kufa](https://road-to-kufa.vercel.app/)** — Explore an Arabian desert world on foot or horseback, visit oasis towns and discover landmarks in a work-in-progress adventure prototype.
+  - Creator: [Zenpher](https://www.reddit.com/user/Zenpher/)
+  - Platform: Desktop browser; solo mode without sign-in or installation. Initial world loading needed one retry during this check.
+  - GPT-6 Astra: [Reddit](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) — The creator describes directing Astra to build the procedural Arabian world; a follow-up devlog identifies PlayCanvas and a mix of licensed assets and Astra-generated NPC models. [Verification notes](assets/screenshots/road-to-kufa/SOURCE.md).
+  - Resources: [Playable release and development notes](https://www.reddit.com/r/aigamedev/comments/1weyznt/week_1_of_my_adventure_game_set_in_arabia/).
+  - Preview: ![The mounted traveler exploring Medina near an oasis market, with region map, daylight clock and solo-session controls.](assets/screenshots/road-to-kufa/gameplay.jpg)
 
 ### Platformers & racing
 
@@ -654,6 +706,19 @@ Parkour, platform challenges, racing, and games built around movement and routes
   - Resources: [Character and art credits](https://attack-on-titan-jet.vercel.app/assets/ATTRIBUTION.md)
   - Preview: ![Levi performs an aerial roll above the wall district's rooftops, with distance, score and three action buttons.](assets/screenshots/levi-skyrun/gameplay.jpg)
 
+- **[Hot Wheeler](https://hot-wheeler.vercel.app/)** — Drive toy cars through loops, ramps and boost pads in Pocket Stunt Park or Bedroom Megamix, with automatic laps, manual control and car placement.
+  - Creator: [Varun Arora](https://x.com/varavibes)
+  - Platform: Desktop browser; mouse and keyboard, no sign-in or installation.
+  - GPT-6 Astra: [X](https://x.com/varavibes/status/2099269587401580886) — The creator says he spent the weekend building the browser stunt-driving game with GPT-6 Astra, including a test of its Blender skills. [Verification notes](assets/screenshots/hot-wheeler/SOURCE.md).
+  - Preview: ![The Comet on the orange looped stunt track, with lap 2 and manual driving at 6 m/s.](assets/screenshots/hot-wheeler/gameplay.jpg)
+
+- **[旧城区 · 放学路 / Dual Realms](https://sgyno09-source.github.io/dual-realms/)** — Switch between two heroines in a side-scrolling adventure, double-jump over streets and rooftops, chain attacks and dodge through two open chapters.
+  - Creator: [serein](https://x.com/you1873118)
+  - Platform: Browser; keyboard and on-screen combat controls, no sign-in or installation. Saves are local; the static build has no cloud leaderboard.
+  - GPT-6 Astra: [X](https://x.com/you1873118/status/2098421955296931931) — The creator says he used Astra to develop the game through its second chapter, then used Grok Bot to move the project to GitHub. [Verification notes](assets/screenshots/dual-realms/SOURCE.md).
+  - Resources: [Source and devlog](https://github.com/sgyno09-source/dual-realms).
+  - Preview: ![Baiyi in the opening Old Town street, with the running stage timer, health and combat controls.](assets/screenshots/dual-realms/gameplay.jpg)
+
 ### Experimental & multiplayer
 
 Unusual mechanics, online competition, and cooperative experiences.
@@ -745,7 +810,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 98](https://img.shields.io/badge/Cases-98-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 108](https://img.shields.io/badge/Cases-108-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -761,11 +826,11 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **98 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **108 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
 目录更新：**2026-09-15**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
-最新新增：[10 款来自作者站点、Reddit 与 X 的在线游戏](docs/browser-games-2026-09-12.md)，附实机截图与入口核验。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
+最新新增：[10 款来自 Reddit、GitHub、LINUX DO 与 X 的在线游戏](docs/browser-games-2026-09-15.md)，附实机截图与入口核验。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
 - **想玩游戏：** 从下面的分类寻找你喜欢的玩法。
 - **做了游戏：** [提交你的作品](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，附上在线游戏直达入口、实机截图，以及使用 GPT-6 Astra 的说明。
@@ -932,6 +997,26 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[X](https://x.com/siyam_uddin_t/status/2098025717057614109) — 作者明确说明使用 GPT-Astra 制作这款实验性格斗游戏。 [核验记录](assets/screenshots/billionaire-pit/SOURCE.md)。
   - 预览：![第 1 轮拳台上的两名恶搞角色，显示生命、耐力与 57 秒倒计时。](assets/screenshots/billionaire-pit/gameplay.jpg)
 
+- **[水果忍者 · 再来一刀 / Fruit Ninja Dojo](https://fruit-ninja-dojo-20260905.yongqixue666.chatgpt.site/)** — 滑动切开飞起的水果、累积连击；这款非官方水果忍者改编提供经典、60 秒街机和 90 秒禅模式。
+  - 作者：[Laplace9 / yongqixue99-hue](https://linux.do/u/Laplace9)
+  - 平台：浏览器；鼠标拖动或触摸滑动，无需登录或安装。
+  - GPT-6 Astra：[LINUX DO](https://linux.do/t/topic/2857340) — 作者称使用极高推理强度的 Astra，通过一句复刻水果忍者的提示生成游戏，随后公开了源码。[核验记录](assets/screenshots/fruit-ninja-dojo/SOURCE.md)。
+  - 开发资料：[源码](https://github.com/yongqixue99-hue/fruit-ninja-dojo)。
+  - 预览：![禅模式实机画面，可见刀光、切开的水果、48 分和 7 连击。](assets/screenshots/fruit-ninja-dojo/gameplay.jpg)
+
+- **[血裔决斗Ⅱ / Nightborn Clash](https://nightborn-clash.dixonefg5.chatgpt.site/)** — 选择四名吸血鬼斗士之一，组合普通攻击、聚气技能和超必杀，可进入练习场或进行 99 秒人机决斗。
+  - 作者：[Cloaker Vampiror](https://x.com/CloakofEcstasy)
+  - 平台：桌面浏览器；键盘移动并可点击技能按钮，无需登录或安装。
+  - GPT-6 Astra：[X](https://x.com/CloakofEcstasy/status/2098415220645564857) — 作者明确说明使用 GPT-6 Astra 制作这款吸血鬼街机游戏。[核验记录](assets/screenshots/nightborn-clash/SOURCE.md)。
+  - 预览：![猩红伯爵对夜幕贵族发动超必杀，可见生命、聚气、伤害和技能按钮。](assets/screenshots/nightborn-clash/gameplay.jpg)
+
+- **[DUST II · 沙漠行动 / Desert Operations](https://dust-ii-map.yelin8130.chatgpt.site/)** — 在沙漠地图上与机器人交战，选择个人竞技、团队、爆破或生化模式，切换装备并使用可选的无敌与飞行辅助。
+  - 作者：[lin_ye / lin ye](https://linux.do/u/lin_ye)
+  - 平台：桌面浏览器；鼠标与键盘操作，无需登录或安装。默认开启无敌；鼠标锁定不可用时可拖动转向并按 F 开火。
+  - GPT-6 Astra：[LINUX DO](https://linux.do/t/topic/2857361) — 作者说明先用 Astra 建模沙漠地图，再加入 FPS 规则、机器人、装备、四种模式和可选辅助功能。[核验记录](assets/screenshots/dust-ii-ops/SOURCE.md)。
+  - 开发资料：[原地图与提示词](https://linux.do/t/topic/2857326)。
+  - 预览：![沙漠地图的个人竞技实机画面，可见 AK-47、战术雷达、机器人击杀记录和已开启的无敌辅助。](assets/screenshots/dust-ii-ops/gameplay.jpg)
+
 ### 解谜与益智
 
 逻辑谜题、物理解谜、文字游戏与巧妙的小机关。
@@ -988,6 +1073,19 @@ Original curated text and artwork in this repository are dedicated to the public
   - 平台：浏览器；点击 Play 后选择 Begin，免费且无需登录，支持中英文界面。
   - GPT-6 Astra：[作者发布页](https://www.aigameshare.com/games/greenhouse-escape-room) — 作者将 GPT-6 Astra 与 Codex 列为开发工具，并注明使用 ImageGen 和 WebAudio。 [核验记录](assets/screenshots/greenhouse-escape-room/SOURCE.md)。
   - 预览：![温室密室逃脱的 Waterworks 房间，展示九格水路装置、计时器与物品栏。](assets/screenshots/greenhouse-escape-room/gameplay.jpg)
+
+- **[无限庭院 · Infinite Garden — Atlas of Echoes](https://infinite-garden.yelin8130.chatgpt.site/)** — 探索 48 座可改变重力的庭院，把彩色果实送到对应底座、唤醒回路，在没有边界的建筑空间中解谜。
+  - 作者：[lin_ye / lin ye](https://linux.do/u/lin_ye)
+  - 平台：桌面浏览器；鼠标与键盘操作，无需登录或安装。
+  - GPT-6 Astra：[LINUX DO](https://linux.do/t/topic/2857449) — 作者公开了用 Astra 生成 HTML 游戏、并将庭院从 6 关扩展到 48 关的提示词。[核验记录](assets/screenshots/infinite-garden/SOURCE.md)。
+  - 预览：![第一座庭院的实机画面，可见青色果实、回路目标和重力操作提示。](assets/screenshots/infinite-garden/gameplay.jpg)
+
+- **[Pixel Orchard — Memory Harvest](https://miaai-lab.github.io/GPT-6-Astra-100-HTML-Files/013-pixel-orchard.html)** — 翻开十二张种子卡片寻找六组配对，通过计步和重新洗牌练习记忆力。
+  - 作者：[MiaAI-Lab](https://github.com/MiaAI-Lab)
+  - 平台：浏览器；支持鼠标、触摸或键盘，无需登录或安装。
+  - GPT-6 Astra：[GitHub README](https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files/blob/main/README.md) — 作者将这组独立 HTML 作品归于 GPT-6 Astra 生成；本游戏公开的提示词指定了十二张卡片、计步、配对和重开机制。[核验记录](assets/screenshots/pixel-orchard/SOURCE.md)。
+  - 开发资料：[游戏提示词](https://github.com/MiaAI-Lab/GPT-6-Astra-100-HTML-Files/blob/main/013-pixel-orchard.txt)。
+  - 预览：![三轮翻牌后的 Pixel Orchard，显示已配对的菱形卡和 1/6 对计数。](assets/screenshots/pixel-orchard/gameplay.jpg)
 
 ### 策略与模拟
 
@@ -1145,6 +1243,18 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[X](https://x.com/petrroyce/status/2098165938822504662) — 作者说明这是为儿子制作的 Astra 实验，并说明持续扩展的载具、活动与任务。 [核验记录](assets/screenshots/czech-adventures/SOURCE.md)。
   - 预览：![蒸汽列车驶过微缩捷克城镇，显示速度与道岔控制。](assets/screenshots/czech-adventures/gameplay.jpg)
 
+- **[Land, If You Can](https://landifyoucan.naylalabs.xyz/)** — 接管客机或轻型飞机，跟随塔台指引完成进近与降落挑战，包含五个场景、可互动客舱和飞行回放。
+  - 作者：[Taniai_](https://www.reddit.com/user/Taniai_/)
+  - 平台：桌面浏览器，鼠标与键盘操作；免费，无需登录或安装。首次需等待资源加载；游戏会自动公开飞行回放。
+  - GPT-6 Astra：[Reddit](https://www.reddit.com/r/TurkOyunSektoru/comments/1w96dlh/herkes_gpt_6_astra_ile_bir_%C5%9Feyler_payla%C5%9F%C4%B1yordu/) — 作者说明 Astra 使用 Godot 4 和 Blender 制作降落模拟，并通过约 30 轮提示迭代机制、场景和回放。[核验记录](assets/screenshots/land-if-you-can/SOURCE.md)。
+  - 预览：![接管后的客机驾驶舱，可见塔台航向、速度、高度和侧风仪表。](assets/screenshots/land-if-you-can/gameplay.jpg)
+
+- **[Last Train to the Sea](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107)** — 驾驶长着翅膀的电车穿行五座云上小镇，维持车身平衡、接送乘客，并收集车资、车票和车站印章。
+  - 作者：[Aniket J](https://x.com/aniketjart)
+  - 平台：浏览器；键盘或屏幕按钮操作，可免费以匿名旅人身份开局，无需安装。车票使用游戏内车资。
+  - GPT-6 Astra：[X](https://x.com/aniketjart/status/2099652426559369311) — 作者在上线更新及其引用的公告中说明，使用 GPT-6 Astra、负责 UI 的 Crayon 和 Three.js 制作这款火车模拟游戏。[核验记录](assets/screenshots/last-train-to-the-sea/SOURCE.md)。
+  - 预览：![Mango Tide 的 Hearthwing 电车，显示四名乘客、1 km/h 速度、平衡条与动力按钮。](assets/screenshots/last-train-to-the-sea/gameplay.jpg)
+
 ### RPG 与冒险
 
 角色扮演、探索、叙事冒险与互动故事。
@@ -1242,6 +1352,13 @@ Original curated text and artwork in this repository are dedicated to the public
   - 平台：浏览器；键盘鼠标操作，也提供触屏说明，无需登录；未测试手机端或完整出洞路线。
   - GPT-6 Astra：[X](https://x.com/thebuggeddev/status/2097983281094594597) — 作者明确说明使用 GPT-6 Astra 制作水下洞穴体验，并介绍了 TSL 渲染与游泳物理。 [核验记录](assets/screenshots/below-the-hollow/SOURCE.md)。
   - 预览：![引导绳穿过水下洞穴，深度 HUD 显示距水面 38.4 米。](assets/screenshots/below-the-hollow/gameplay.jpg)
+
+- **[The Road to Kufa](https://road-to-kufa.vercel.app/)** — 步行或骑马探索阿拉伯沙漠世界，游览绿洲城镇并发现地标；当前为开发中的冒险原型。
+  - 作者：[Zenpher](https://www.reddit.com/user/Zenpher/)
+  - 平台：桌面浏览器；单人模式无需登录或安装。本次首次加载世界失败，重试后成功进入。
+  - GPT-6 Astra：[Reddit](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) — 作者说明持续指导 Astra 构建程序化阿拉伯世界；后续开发记录注明使用 PlayCanvas，并混合使用授权素材和 Astra 生成的 NPC 模型。[核验记录](assets/screenshots/road-to-kufa/SOURCE.md)。
+  - 开发资料：[试玩发布与开发记录](https://www.reddit.com/r/aigamedev/comments/1weyznt/week_1_of_my_adventure_game_set_in_arabia/)。
+  - 预览：![骑马旅人在 Medina 的绿洲市集附近探索，可见区域地图、日间时钟和单人模式控件。](assets/screenshots/road-to-kufa/gameplay.jpg)
 
 ### 平台跳跃与竞速
 
@@ -1382,6 +1499,19 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[X](https://x.com/dhrubhagatsingh/status/2098236388462223820) — 作者说明使用 OpenAI Astra 和 Three.js 制作游戏；角色模型另行注明原艺术家署名。 [核验记录](assets/screenshots/levi-skyrun/SOURCE.md)。
   - 开发资料：[角色与美术署名](https://attack-on-titan-jet.vercel.app/assets/ATTRIBUTION.md)
   - 预览：![利威尔在城墙区屋顶上空翻滚，显示距离、分数与三个操作按钮。](assets/screenshots/levi-skyrun/gameplay.jpg)
+
+- **[Hot Wheeler](https://hot-wheeler.vercel.app/)** — 驾驶玩具赛车穿过特技公园或卧室赛道的环形轨道、坡道与加速区，可切换自动跑圈、手动驾驶和放置车辆。
+  - 作者：[Varun Arora](https://x.com/varavibes)
+  - 平台：桌面浏览器；鼠标与键盘操作，无需登录或安装。
+  - GPT-6 Astra：[X](https://x.com/varavibes/status/2099269587401580886) — 作者说明周末使用 GPT-6 Astra 制作这款浏览器特技驾驶游戏，其中也测试了它的 Blender 能力。[核验记录](assets/screenshots/hot-wheeler/SOURCE.md)。
+  - 预览：![Comet 行驶在橙色环形特技赛道上，显示第 2 圈、手动模式和 6 m/s。](assets/screenshots/hot-wheeler/gameplay.jpg)
+
+- **[旧城区 · 放学路 / Dual Realms](https://sgyno09-source.github.io/dual-realms/)** — 在两位女主间切换，二段跳穿过街道与屋顶，使用三连击和闪避闯过当前开放的两个横版冒险章节。
+  - 作者：[serein](https://x.com/you1873118)
+  - 平台：浏览器；键盘与屏幕战斗按钮操作，无需登录或安装。存档保存在本机，静态版本没有云端排行榜。
+  - GPT-6 Astra：[X](https://x.com/you1873118/status/2098421955296931931) — 作者说明持续使用 Astra 将游戏开发到第二关，再借助 Grok Bot 将项目迁移到 GitHub。[核验记录](assets/screenshots/dual-realms/SOURCE.md)。
+  - 开发资料：[源码与开发日志](https://github.com/sgyno09-source/dual-realms)。
+  - 预览：![白衣位于旧城区首段街道，可见持续计时、生命和战斗操作按钮。](assets/screenshots/dual-realms/gameplay.jpg)
 
 ### 实验玩法与多人游戏
 
