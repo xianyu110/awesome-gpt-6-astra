@@ -15119,14 +15119,68 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099351531804037120%2Fimg%2FCu8Rel4gc4IUj2yf.jpg",
       "videoUrl": null,
       "sourceOrder": -1088
+    },
+    {
+      "id": "work-1b93dd52fac20665",
+      "name": "Armor Workshop · Tony Stark",
+      "description": "可玩 Demo · 工程 / 仿真 · 钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "yash_yk45",
+        "url": "https://x.com/yash_yk45"
+      },
+      "demoUrl": "https://armor-workshop.vercel.app",
+      "sourceUrl": "https://x.com/yash_yk45/status/2099457678481510812",
+      "repoUrl": "https://github.com/yashkhandelwal2828/armor-workshop",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099456564084305921%2Fimg%2F-wlgAsV5K4ePZ6QM.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099456564084305921%2Fimg%2F-wlgAsV5K4ePZ6QM.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1098
+    },
+    {
+      "id": "work-0018f0bfcfca9a75",
+      "name": "Marble Run · Rube Goldberg",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 一小时鲁布·戈德堡弹珠跑酷：蹦床、弹簧、缆车、降落伞全开 · Astra 物理小品",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "mhmazur",
+        "url": "https://x.com/mhmazur"
+      },
+      "demoUrl": "https://www.emergentmind.com/marble-run",
+      "sourceUrl": "https://x.com/mhmazur/status/2099490723003253127",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099487903646662658%2Fimg%2FbJ6rjWarNrBHn_Qo.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099487903646662658%2Fimg%2FbJ6rjWarNrBHn_Qo.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1099
+    },
+    {
+      "id": "work-53385fba6413f84e",
+      "name": "Ganapati Aarti · 3D 互动拜祭",
+      "description": "可玩 Demo · 音乐 / 表演 · 打车路上 5 分钟搓出的 3D 甘尼许 aarti 互动站 · Astra oneshot",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
+      "author": {
+        "name": "niinnnu",
+        "url": "https://x.com/niinnnu"
+      },
+      "demoUrl": "https://ganapati-aarti.vercel.app",
+      "sourceUrl": "https://x.com/niinnnu/status/2099492850450993631",
+      "repoUrl": "https://github.com/ninadsonawane/ganapati-bappa",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099490327807889408%2Fimg%2FI2MNkk0K0g7G4Poz.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099490327807889408%2Fimg%2FI2MNkk0K0g7G4Poz.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1100
     }
   ],
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-14T10:45:00.000Z",
-    "lastSuccessfulAt": "2026-09-14T10:45:00.000Z",
-    "revision": "playable-sync-20260914-1840",
+    "checkedAt": "2026-09-15T06:58:03.000Z",
+    "lastSuccessfulAt": "2026-09-15T06:58:03.000Z",
+    "revision": "playable-sync-20260915-1440",
     "stale": false,
     "status": "fresh"
   },
