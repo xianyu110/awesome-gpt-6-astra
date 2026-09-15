@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**173** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**174** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 10
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 41
-- [工程 / 仿真](#工程--仿真) — 12
+- [工程 / 仿真](#工程--仿真) — 13
 - [其他可玩 Demo](#其他可玩-Demo) — 9
 
 ## 经典复刻 / 知名玩法
@@ -750,6 +750,10 @@
    - 原帖：https://x.com/laruence/status/2099384661374087297
    - 备注：扫描空间→可编辑 Blender 场景：Realsee × Astra，附 demo / 代码 / 教程
 
+13. **Microwave X-Ray** — [试玩](https://interactive-microwave-teardown.replit.app/) · [原帖](https://x.com/mohammedkhan_10/status/2099691375021195656)
+   - 试玩链接：`https://interactive-microwave-teardown.replit.app/`
+   - 原帖：https://x.com/mohammedkhan_10/status/2099691375021195656
+   - 备注：微波炉交互透视拆解：Replit + GPT-6 Astra 搓的爆炸视图，零件拨开就能看内部结构
 
 
 ## 其他可玩 Demo
