@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**174** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**175** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 23
+- [竞速 / 驾驶](#竞速--驾驶) — 24
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 7
@@ -177,6 +177,11 @@
    - 试玩链接：`https://www.soonlab.ai/game/9415/`
    - 原帖：https://x.com/SoonLab_AI/status/2099430750429057313
    - 备注：SoonLab 上 Astra+Blender 搓的桌面四驱小赛车：向《爆走兄弟》致敬，打开就能飙
+
+24. **Race Jimothy** — [试玩](https://tayttm.github.io/race-jimothy/) · [原帖](https://x.com/YutingM84881/status/2099737945414750718)
+   - 试玩链接：`https://tayttm.github.io/race-jimothy/`
+   - 原帖：https://x.com/YutingM84881/status/2099737945414750718
+   - 备注：画轨开跑的浣熊竞速：GPT-6 Astra 搓的 draw-to-race，打开就能飙
 
 
 ## 射击 / 动作
