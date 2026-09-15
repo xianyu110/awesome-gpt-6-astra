@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-b2ab9b58c29ed990",
+      "name": "Race Jimothy",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 画轨开跑的浣熊竞速：GPT-6 Astra 搓的 draw-to-race，打开就能飙",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "YutingM84881",
+        "url": "https://x.com/YutingM84881"
+      },
+      "demoUrl": "https://tayttm.github.io/race-jimothy/",
+      "sourceUrl": "https://x.com/YutingM84881/status/2099737945414750718",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-race-jimothy.png",
+      "posterUrl": "/previews/playable-race-jimothy.png",
+      "videoUrl": null,
+      "sourceOrder": -1097
+    },
+    {
       "id": "work-7c5143eea4a42314",
       "name": "Microwave X-Ray",
       "description": "可玩 Demo · 工程 / 仿真 · 微波炉交互透视拆解：Replit + GPT-6 Astra 搓的爆炸视图，零件拨开就能看内部结构",
