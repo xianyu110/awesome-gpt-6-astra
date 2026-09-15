@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**168** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-14
+- 收录：**173** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -12,11 +12,11 @@
 - [竞速 / 驾驶](#竞速--驾驶) — 23
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 11
-- [联机 / 多人](#联机--多人) — 6
-- [街机 / 小游戏包](#街机--小游戏包) — 17
+- [联机 / 多人](#联机--多人) — 7
+- [街机 / 小游戏包](#街机--小游戏包) — 18
 - [音乐 / 表演](#音乐--表演) — 10
-- [教育 / 科普](#教育--科普) — 9
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 39
+- [教育 / 科普](#教育--科普) — 10
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 41
 - [工程 / 仿真](#工程--仿真) — 12
 - [其他可玩 Demo](#其他可玩-Demo) — 9
 
@@ -338,6 +338,11 @@
    - 原帖：https://x.com/MengTo/status/2099125215708234119
    - 备注：MengTo 用 Astra 四天搓出的类卡坦多人海岛经营：大厅、语音、扩展齐全，手机也能开黑
 
+7. **VeilFall** — [试玩](https://veilfall.replit.app) · [原帖](https://x.com/Noni_Shehnoor/status/2099641097030959469) · ❤ 3
+   - 试玩链接：`https://veilfall.replit.app`
+   - 原帖：https://x.com/Noni_Shehnoor/status/2099641097030959469
+   - 备注：Replit 上的 MOBA/RTS 半成品挑战局：兄弟打赌开搓，桌面端先试水
+
 
 ## 街机 / 小游戏包
 
@@ -413,6 +418,11 @@
    - 试玩链接：`https://nightborn-clash.dixonefg5.chatgpt.site`
    - 原帖：https://x.com/CloakofEcstasy/status/2098415220645564857
    - 备注：吸血鬼街机对打初稿，Astra 一键开撕，细节还在加料
+
+18. **VESPER** — [试玩](https://vesper.mansgullberg.chatgpt.site/) · [原帖](https://x.com/MansGullberg/status/2099594470454899093) · ❤ 2
+   - 试玩链接：`https://vesper.mansgullberg.chatgpt.site/`
+   - 原帖：https://x.com/MansGullberg/status/2099594470454899093
+   - 备注：three.js 解谜+Boss 三关浏览器小品：Astra 一键开打，看你能不能通关
 
 
 ## 音乐 / 表演
@@ -501,6 +511,11 @@
    - 试玩链接：`https://wlj-atlas.eismannre.chatgpt.site/`
    - 原帖：https://x.com/decompwlj/status/2099367286423388464
    - 备注：three.js 交互 3D 数列图谱：60 组序列分解，Astra 站又一版可逛数学可视化
+
+10. **木构图志 · Timber Atlas** — [试玩](https://timber-atlas.xiaodan.io/) · [原帖](https://x.com/DuXiaodan/status/2099653288756932859) · ❤ 4
+   - 试玩链接：`https://timber-atlas.xiaodan.io/`
+   - 原帖：https://x.com/DuXiaodan/status/2099653288756932859
+   - 备注：佛光寺等中国古建木构互动图志：Astra×Codex 周末搓出的三维拆解图鉴，打开就能逛
 
 
 ## 3D 场景 / 氛围探索
@@ -672,6 +687,16 @@
    - 试玩链接：`https://seoul-bus-tour.vercel.app/`
    - 原帖：https://x.com/bluesarang/status/2099352353262669948
    - 备注：React+TS+Three.js+MapLibre 首尔 3D 巴士巡游，Astra xhigh 约 4–5 小时搓完
+
+40. **Le Petit Illustré · 1934** — [试玩](https://lepetitillustre.com) · [原帖](https://x.com/OdinLovis/status/2099662203531973001) · ❤ 7
+   - 试玩链接：`https://lepetitillustre.com`
+   - 原帖：https://x.com/OdinLovis/status/2099662203531973001
+   - 备注：向被遗忘的法文画报致敬：fal H3 + three.js + Astra 把 1934 年刊页重新点活
+
+41. **吉卜力火车 · Ghibli Train Sim** — [试玩](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原帖](https://x.com/aniketjart/status/2099652076829909064) · ❤ 28
+   - 试玩链接：`https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107`
+   - 原帖：https://x.com/aniketjart/status/2099652076829909064
+   - 备注：吉卜力风火车模拟：Astra + Crayon UI + three.js，打开就能慢悠悠兜风，后续还在加料
 
 
 ## 工程 / 仿真
