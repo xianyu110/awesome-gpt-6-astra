@@ -1,5 +1,26 @@
 [
   {
+    "title": "Void Explorer",
+    "demo_url": "https://void-explorer.openai.chatgpt.site/",
+    "post_url": "https://x.com/KeisukeIshikawa/status/2099785223827259515",
+    "likes": 2,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "OpenJung · Personality Town",
+    "demo_url": "https://openjung.org/play/town",
+    "post_url": "https://x.com/yaluotao/status/2099789073909244400",
+    "likes": 1,
+    "category": "其他可玩 Demo"
+  },
+  {
+    "title": "Anime Rift",
+    "demo_url": "https://anime-rift-cade.theyounganimation.chatgpt.site",
+    "post_url": "https://x.com/Cade_Animation/status/2099718119287668901",
+    "likes": null,
+    "category": "联机 / 多人"
+  },
+  {
     "title": "Race Jimothy",
     "demo_url": "https://tayttm.github.io/race-jimothy/",
     "post_url": "https://x.com/YutingM84881/status/2099737945414750718",
