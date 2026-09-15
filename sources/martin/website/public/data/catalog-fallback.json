@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-c143dc50f601f86f",
+      "name": "Void Explorer",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 官方同款边玩边改：Astra+Codex 迭代造出的星系探索，2048 星系上万行星，浏览器能飞 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "KeisukeIshikawa",
+        "url": "https://x.com/KeisukeIshikawa"
+      },
+      "demoUrl": "https://void-explorer.openai.chatgpt.site/",
+      "sourceUrl": "https://x.com/KeisukeIshikawa/status/2099785223827259515",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099784817403478017%2Fimg%2FfrgJ8S8AdqTx9Mc5.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099784817403478017%2Fimg%2FfrgJ8S8AdqTx9Mc5.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1102
+    },
+    {
+      "id": "work-602a53f756fa78f7",
+      "name": "OpenJung · Personality Town",
+      "description": "可玩 Demo · 其他可玩 Demo · 人格测试做成可逛小世界：gpt-6-astra + AmpCode，点开就能逛 town · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "yaluotao",
+        "url": "https://x.com/yaluotao"
+      },
+      "demoUrl": "https://openjung.org/play/town",
+      "sourceUrl": "https://x.com/yaluotao/status/2099789073909244400",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-openjung-town.png",
+      "posterUrl": "/previews/playable-openjung-town.png",
+      "videoUrl": null,
+      "sourceOrder": -1103
+    },
+    {
+      "id": "work-3aa0c6a094b449e9",
+      "name": "Anime Rift",
+      "description": "可玩 Demo · 联机 / 多人 · 二次元大乱斗：选角色约朋友，2–4 人平台格斗，桌面手机都能上手",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "Cade_Animation",
+        "url": "https://x.com/Cade_Animation"
+      },
+      "demoUrl": "https://anime-rift-cade.theyounganimation.chatgpt.site",
+      "sourceUrl": "https://x.com/Cade_Animation/status/2099718119287668901",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099718084693045248%2Fimg%2F3IYO6SPYZvmwUciy.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099718084693045248%2Fimg%2F3IYO6SPYZvmwUciy.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1104
+    },
+    {
       "id": "work-b2ab9b58c29ed990",
       "name": "Race Jimothy",
       "description": "可玩 Demo · 竞速 / 驾驶 · 画轨开跑的浣熊竞速：GPT-6 Astra 搓的 draw-to-race，打开就能飙",
@@ -15196,9 +15250,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-15T06:58:03.000Z",
-    "lastSuccessfulAt": "2026-09-15T06:58:03.000Z",
-    "revision": "playable-sync-20260915-1440",
+    "checkedAt": "2026-09-15T10:53:53.000Z",
+    "lastSuccessfulAt": "2026-09-15T10:53:53.000Z",
+    "revision": "playable-sync-20260915-1840",
     "stale": false,
     "status": "fresh"
   },
