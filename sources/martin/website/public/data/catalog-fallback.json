@@ -15173,6 +15173,24 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099490327807889408%2Fimg%2FI2MNkk0K0g7G4Poz.jpg",
       "videoUrl": null,
       "sourceOrder": -1100
+    },
+    {
+      "id": "work-4c1fc54cc9a9e451",
+      "name": "液态金属小宠 · Inflatable Room",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Astra + Three.js @ Happycapy：液态金属小宠在充气家具房里乱跑，打开就能摸",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "fMinZhou",
+        "url": "https://x.com/fMinZhou"
+      },
+      "demoUrl": "https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1",
+      "sourceUrl": "https://x.com/fMinZhou/status/2099807979969315323",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-liquid-pet.png",
+      "posterUrl": "/previews/playable-liquid-pet.png",
+      "videoUrl": null,
+      "sourceOrder": -1101
     }
   ],
   "source": {

@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**178** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**179** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 19
 - [音乐 / 表演](#音乐--表演) — 11
 - [教育 / 科普](#教育--科普) — 10
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 41
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 42
 - [工程 / 仿真](#工程--仿真) — 14
 - [其他可玩 Demo](#其他可玩-Demo) — 9
 
@@ -712,6 +712,12 @@
    - 试玩链接：`https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107`
    - 原帖：https://x.com/aniketjart/status/2099652076829909064
    - 备注：吉卜力风火车模拟：Astra + Crayon UI + three.js，打开就能慢悠悠兜风，后续还在加料
+
+
+42. **液态金属小宠 · Inflatable Room** — [试玩](https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1) · [原帖](https://x.com/fMinZhou/status/2099807979969315323) · ❤ 3
+   - 试玩链接：`https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1`
+   - 原帖：https://x.com/fMinZhou/status/2099807979969315323
+   - 备注：Astra + Three.js @ Happycapy：液态金属小宠在充气家具房里乱跑，打开就能摸
 
 
 ## 工程 / 仿真
