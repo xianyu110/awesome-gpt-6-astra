@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**175** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**178** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-15
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -13,11 +13,11 @@
 - [射击 / 动作](#射击--动作) — 18
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 7
-- [街机 / 小游戏包](#街机--小游戏包) — 18
-- [音乐 / 表演](#音乐--表演) — 10
+- [街机 / 小游戏包](#街机--小游戏包) — 19
+- [音乐 / 表演](#音乐--表演) — 11
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 41
-- [工程 / 仿真](#工程--仿真) — 13
+- [工程 / 仿真](#工程--仿真) — 14
 - [其他可玩 Demo](#其他可玩-Demo) — 9
 
 ## 经典复刻 / 知名玩法
@@ -429,6 +429,11 @@
    - 原帖：https://x.com/MansGullberg/status/2099594470454899093
    - 备注：three.js 解谜+Boss 三关浏览器小品：Astra 一键开打，看你能不能通关
 
+19. **Marble Run · Rube Goldberg** — [试玩](https://www.emergentmind.com/marble-run) · [原帖](https://x.com/mhmazur/status/2099490723003253127)
+   - 试玩链接：`https://www.emergentmind.com/marble-run`
+   - 原帖：https://x.com/mhmazur/status/2099490723003253127
+   - 备注：一小时鲁布·戈德堡弹珠跑酷：蹦床、弹簧、缆车、降落伞全开 · Astra 物理小品
+
 
 ## 音乐 / 表演
 
@@ -474,6 +479,11 @@
    - 试玩链接：`https://radio.youware.app`
    - 原帖：https://x.com/berryxia/status/2099436739886739932
    - 备注：YouWare + GPT-6 Astra 搓的沉浸式 3D 世界电台：全球网络电台、随机/收藏、按钮互动，多语言友好
+
+11. **Ganapati Aarti · 3D 互动拜祭** — [试玩](https://ganapati-aarti.vercel.app) · [原帖](https://x.com/niinnnu/status/2099492850450993631)
+   - 试玩链接：`https://ganapati-aarti.vercel.app`
+   - 原帖：https://x.com/niinnnu/status/2099492850450993631
+   - 备注：打车路上 5 分钟搓出的 3D 甘尼许 aarti 互动站 · Astra oneshot
 
 
 ## 教育 / 科普
@@ -759,6 +769,11 @@
    - 试玩链接：`https://interactive-microwave-teardown.replit.app/`
    - 原帖：https://x.com/mohammedkhan_10/status/2099691375021195656
    - 备注：微波炉交互透视拆解：Replit + GPT-6 Astra 搓的爆炸视图，零件拨开就能看内部结构
+
+14. **Armor Workshop · Tony Stark** — [试玩](https://armor-workshop.vercel.app) · [原帖](https://x.com/yash_yk45/status/2099457678481510812)
+   - 试玩链接：`https://armor-workshop.vercel.app`
+   - 原帖：https://x.com/yash_yk45/status/2099457678481510812
+   - 备注：钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite
 
 
 ## 其他可玩 Demo

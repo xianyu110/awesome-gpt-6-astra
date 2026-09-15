@@ -1228,5 +1228,26 @@
     "post_url": "https://x.com/bluesarang/status/2099352353262669948",
     "likes": 0,
     "category": "3D 场景 / 氛围探索"
+  },
+  {
+    "title": "Armor Workshop · Tony Stark",
+    "demo_url": "https://armor-workshop.vercel.app",
+    "post_url": "https://x.com/yash_yk45/status/2099457678481510812",
+    "likes": null,
+    "category": "工程 / 仿真"
+  },
+  {
+    "title": "Marble Run · Rube Goldberg",
+    "demo_url": "https://www.emergentmind.com/marble-run",
+    "post_url": "https://x.com/mhmazur/status/2099490723003253127",
+    "likes": null,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "Ganapati Aarti · 3D 互动拜祭",
+    "demo_url": "https://ganapati-aarti.vercel.app",
+    "post_url": "https://x.com/niinnnu/status/2099492850450993631",
+    "likes": null,
+    "category": "音乐 / 表演"
   }
 ]
