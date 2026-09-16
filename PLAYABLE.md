@@ -806,10 +806,10 @@
    - 原帖：https://x.com/yash_yk45/status/2099457678481510812
    - 备注：钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite
 
-15. **Javici · Just A Rather Very Intelligent Car Inspector** — [试玩](https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b) · [原帖](https://x.com/apprentice17/status/2100111010229309921)
-   - 试玩链接：`https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b`
+15. **JARVICI · 语音验车助手** — [试玩](https://jarvici.wengsiong22.chatgpt.site/) · [原帖](https://x.com/apprentice17/status/2100111010229309921)
+   - 试玩链接：`https://jarvici.wengsiong22.chatgpt.site/`
    - 原帖：https://x.com/apprentice17/status/2100111010229309921
-   - 备注：Astra Hackathon Singapore 参赛：会检车的智能助手 Javici（JARVIS 梗），打开 gallery 就能试玩
+   - 备注：Astra 黑客松新加坡：语音优先二手车检测，3D 拆解零件 + 口述验车出报告（真试玩站，非 gallery 投票页）
 
 
 ## 其他可玩 Demo
