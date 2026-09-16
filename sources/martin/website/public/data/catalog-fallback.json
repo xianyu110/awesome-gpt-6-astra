@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-921422bf195406e1",
+      "name": "CANTEEN CRASHERS",
+      "description": "可玩 Demo · 联机 / 多人 · 多人食堂配方大盗：组队偷秘方别被抓，GPT-6 Astra + Blender，Wasm+WebGPU 浏览器开黑 · ❤ 13",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "chongdashu",
+        "url": "https://x.com/chongdashu"
+      },
+      "demoUrl": "https://wavedash.com/games/canteen-crashers",
+      "sourceUrl": "https://x.com/chongdashu/status/2100207494375285029",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100206148838387713%2Fimg%2Fsdl9vMXOUDJU5_sf.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100206148838387713%2Fimg%2Fsdl9vMXOUDJU5_sf.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1113
+    },
+    {
       "id": "work-fa7a51d65eaddbe6",
       "name": "Sundrift · Boat Explorer",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · 同款 Three.js 出海 prompt 四模型对打，Astra 赢了海洋：金色黄昏慢帆，耳机一戴就开漂 · ❤ 45",
@@ -15394,9 +15412,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-16T10:51:12.000Z",
-    "lastSuccessfulAt": "2026-09-16T10:51:12.000Z",
-    "revision": "playable-sync-20260916-1850",
+    "checkedAt": "2026-09-16T14:10:56.000Z",
+    "lastSuccessfulAt": "2026-09-16T14:10:56.000Z",
+    "revision": "playable-sync-20260916-2140",
     "stale": false,
     "status": "fresh"
   },
