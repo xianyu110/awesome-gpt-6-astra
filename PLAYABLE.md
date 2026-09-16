@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**189** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**190** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 21
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 44
 - [工程 / 仿真](#工程--仿真) — 15
 - [其他可玩 Demo](#其他可玩-Demo) — 11
 
@@ -754,6 +754,11 @@
    - 试玩链接：`https://void-explorer.openai.chatgpt.site/`
    - 原帖：https://x.com/KeisukeIshikawa/status/2099785223827259515
    - 备注：官方同款边玩边改：Astra+Codex 迭代造出的星系探索，2048 星系上万行星，浏览器能飞
+
+44. **Sundrift · Boat Explorer** — [试玩](https://wesche.com/lab/astra/boat-explorer/) · [原帖](https://x.com/WescheNex1q/status/2100043868565561533) · ❤ 45
+   - 试玩链接：`https://wesche.com/lab/astra/boat-explorer/`
+   - 原帖：https://x.com/WescheNex1q/status/2100043868565561533
+   - 备注：同款 Three.js 出海 prompt 四模型对打，Astra 赢了海洋：金色黄昏慢帆，耳机一戴就开漂
 
 
 ## 工程 / 仿真
