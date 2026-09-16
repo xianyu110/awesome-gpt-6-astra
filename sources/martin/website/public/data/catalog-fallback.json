@@ -1,40 +1,76 @@
 {
   "works": [
     {
-      "id": "work-b74ca06a7d0380ca",
-      "name": "Pressurized",
-      "description": "可玩 Demo · 射击 / 动作 · 海底 2400 米高压夺核 CTF FPS：Savi + GPT-6，Spawn 上免费开打，多人水下射击 · ❤ 28",
+      "id": "work-c1e3c60e4d53052e",
+      "name": "Dead End",
+      "description": "可玩 Demo · 射击 / 动作 · 末日街区僵尸生存：Astra+Replit+three.js 把 2D 关卡搓成 3D，打开就能躲尸潮 · ❤ 9",
       "category": "game",
       "sourceCategory": "PLAYABLE · 射击 / 动作",
       "author": {
-        "name": "majidmanzarpour",
-        "url": "https://x.com/majidmanzarpour"
+        "name": "msdkim0424",
+        "url": "https://x.com/msdkim0424"
       },
-      "demoUrl": "https://www.spawn.co/@majid/pressurized/play",
-      "sourceUrl": "https://x.com/majidmanzarpour/status/2099724721067581899",
+      "demoUrl": "https://dead-end.replit.app",
+      "sourceUrl": "https://x.com/msdkim0424/status/2099852357660262425",
       "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724188999143424%2Fimg%2FutoBGUynTf73DFqs.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724188999143424%2Fimg%2FutoBGUynTf73DFqs.jpg",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099851484175466496%2Fimg%2FJ4g8YkopypoCM-rv.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099851484175466496%2Fimg%2FJ4g8YkopypoCM-rv.jpg",
       "videoUrl": null,
       "sourceOrder": -1105
     },
     {
-      "id": "work-892e5d6eca04fb4c",
-      "name": "FLY HIGH — Natural Selection",
-      "description": "可玩 Demo · 工程 / 仿真 · 果蝇策略进化实验室：观察钱包买卖→基因突变→留谱系，观察模式不下单 · GPT-6 Astra + MIT 开源 · ❤ 59",
+      "id": "work-75be535b41e3cb30",
+      "name": "ZEN SAY KAI HO! · 星屑のサイファー",
+      "description": "可玩 Demo · 音乐 / 表演 · HIPHOP 系咏唱节奏游戏：挡攻击、接长咏唱冲「全星解放」，GPT-6 Astra 主制，手机电脑都能玩 · ❤ 7",
       "category": "game",
-      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
       "author": {
-        "name": "immortalhowwl",
-        "url": "https://x.com/immortalhowwl"
+        "name": "mittooney",
+        "url": "https://x.com/mittooney"
       },
-      "demoUrl": "https://flyhigh.fun",
-      "sourceUrl": "https://x.com/immortalhowwl/status/2099821884619493629",
-      "repoUrl": "https://github.com/immortalhowwl/fly-high",
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSQQ3y5WIAAeejO.jpg%3Fname%3Dorig",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSQQ3y5WIAAeejO.jpg%3Fname%3Dorig",
+      "demoUrl": "https://zensay.agari.studio",
+      "sourceUrl": "https://x.com/mittooney/status/2099724447339212816",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724344385822720%2Fimg%2FKwGbXd2yA7D52owB.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724344385822720%2Fimg%2FKwGbXd2yA7D52owB.jpg",
       "videoUrl": null,
       "sourceOrder": -1106
+    },
+    {
+      "id": "work-a4f155f8c501b2fa",
+      "name": "DUSTLINE — Tactical FPS",
+      "description": "可玩 Demo · 射击 / 动作 · CS2 风战术 FPS 试玩：Astra + Fable 5.1 + Opus 搓的 Dustline，浏览器里就能冲锋 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "FMamatkhalilov",
+        "url": "https://x.com/FMamatkhalilov"
+      },
+      "demoUrl": "https://cs2-eight-self.vercel.app/",
+      "sourceUrl": "https://x.com/FMamatkhalilov/status/2099467206350229597",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099466459235655680%2Fimg%2FcYUzZD89c--5A9vO.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099466459235655680%2Fimg%2FcYUzZD89c--5A9vO.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1107
+    },
+    {
+      "id": "work-55b4545be4c6ff1c",
+      "name": "SprayFit — 3D T-shirt Studio",
+      "description": "可玩 Demo · 其他可玩 Demo · 浏览器 3D 定制 T 恤：Astra + Tripo + Image 2.5，涂鸦喷漆随心改，打开就能玩 · ❤ 525",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "thebuggeddev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "demoUrl": "https://sprayfit-studio.thebuggeddev.chatgpt.site/",
+      "sourceUrl": "https://x.com/thebuggeddev/status/2098479092916265331",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098475915709927424%2Fimg%2F-nJmAB_VGSrW9mHf.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2098475915709927424%2Fimg%2F-nJmAB_VGSrW9mHf.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1108
     },
     {
       "id": "work-c143dc50f601f86f",
@@ -15286,9 +15322,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-16T02:51:41.000Z",
-    "lastSuccessfulAt": "2026-09-16T02:51:41.000Z",
-    "revision": "playable-sync-20260916-1048",
+    "checkedAt": "2026-09-16T02:51:54.000Z",
+    "lastSuccessfulAt": "2026-09-16T02:51:54.000Z",
+    "revision": "playable-sync-20260916-1040",
     "stale": false,
     "status": "fresh"
   },
