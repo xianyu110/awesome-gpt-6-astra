@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**190** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**191** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -12,7 +12,7 @@
 - [竞速 / 驾驶](#竞速--驾驶) — 24
 - [射击 / 动作](#射击--动作) — 20
 - [模拟经营 / 策略](#模拟经营--策略) — 11
-- [联机 / 多人](#联机--多人) — 8
+- [联机 / 多人](#联机--多人) — 9
 - [街机 / 小游戏包](#街机--小游戏包) — 21
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
@@ -362,6 +362,11 @@
    - 试玩链接：`https://anime-rift-cade.theyounganimation.chatgpt.site`
    - 原帖：https://x.com/Cade_Animation/status/2099718119287668901
    - 备注：二次元大乱斗：选角色约朋友，2–4 人平台格斗，桌面手机都能上手
+
+9. **CANTEEN CRASHERS** — [试玩](https://wavedash.com/games/canteen-crashers) · [原帖](https://x.com/chongdashu/status/2100207494375285029) · ❤ 13
+   - 试玩链接：`https://wavedash.com/games/canteen-crashers`
+   - 原帖：https://x.com/chongdashu/status/2100207494375285029
+   - 备注：多人食堂配方劫案：组队偷秘方别被抓 · GPT-6 Astra + Blender，浏览器 Wasm+WebGPU（Wavedash）
 
 
 ## 街机 / 小游戏包
