@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**187** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**189** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -13,7 +13,7 @@
 - [射击 / 动作](#射击--动作) — 20
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 8
-- [街机 / 小游戏包](#街机--小游戏包) — 19
+- [街机 / 小游戏包](#街机--小游戏包) — 21
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
@@ -448,6 +448,17 @@
    - 试玩链接：`https://www.emergentmind.com/marble-run`
    - 原帖：https://x.com/mhmazur/status/2099490723003253127
    - 备注：一小时鲁布·戈德堡弹珠跑酷：蹦床、弹簧、缆车、降落伞全开 · Astra 物理小品
+
+20. **こもれびの木の実あつめ** — [试玩](https://komorebi-kinomi-0916.inu03550.chatgpt.site/) · [原帖](https://x.com/Kazumib0/status/2100129970236334179)
+   - 试玩链接：`https://komorebi-kinomi-0916.inu03550.chatgpt.site/`
+   - 原帖：https://x.com/Kazumib0/status/2100129970236334179
+   - 备注：Codex + GPT-6 Astra 三步搓出的手游小品：采木之实，浏览器即开即玩
+
+21. **Tokyo Batting · Neon** — [试玩](https://rezona.ai/game/share/gabSFeBe/v9) · [原帖](https://x.com/TokenGremlin/status/2100152995203760614) · ❤ 15
+   - 试玩链接：`https://rezona.ai/game/share/gabSFeBe/v9`
+   - 原帖：https://x.com/TokenGremlin/status/2100152995203760614
+   - 备注：东京打击练习：Astra 一键在 Rezona 搓出的霓虹棒球馆，挥棒时机跟得上
+
 
 
 ## 音乐 / 表演
