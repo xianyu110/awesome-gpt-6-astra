@@ -1,6 +1,6 @@
 # 上游 README 快照
 
-> 自动生成于 `2026-09-15T07:43:33+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
+> 自动生成于 `2026-09-16T02:28:13+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
 
 ## MartinDelophy/awesome-gpt-6-astra
 
@@ -16,7 +16,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 108](https://img.shields.io/badge/Cases-108-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 109](https://img.shields.io/badge/Cases-109-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -32,7 +32,7 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **108 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
+Explore **109 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
 Catalog updated: **2026-09-15**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
@@ -222,6 +222,12 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: [LINUX DO](https://linux.do/t/topic/2857361) — The creator describes using Astra first to model the desert map, then to add FPS rules, bots, weapons, four game modes and optional assists. [Verification notes](assets/screenshots/dust-ii-ops/SOURCE.md).
   - Resources: [Original map and prompts](https://linux.do/t/topic/2857326).
   - Preview: ![A live free-for-all match on the desert map, with AK-47, tactical radar, bot kill feed and the invincibility assist enabled.](assets/screenshots/dust-ii-ops/gameplay.jpg)
+
+- **[Thornwake](https://thornwake-moth-descent.ltodd.chatgpt.site/)** — An insect action roguelite: fight with a needle, jump and dash through root-filled chambers, and collect silk and ember seeds across repeated descents.
+  - Creator: [Lehiem / LiamTodd98](https://github.com/LiamTodd98)
+  - Platform: Desktop browser; keyboard controls, free, no login or installation. Opening combat verified.
+  - GPT-6 Astra: [Creator submission](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) — The creator reports asking Astra for a Silksong-style game, then refining the gameplay with two additional prompts. [Verification notes](assets/screenshots/thornwake/SOURCE.md).
+  - Preview: ![Thornwake's first chamber, The Pale Undergrowth, with insect enemies, platforms, health and silk meters, and keyboard controls. Captured on 2026-09-15.](assets/screenshots/thornwake/gameplay.jpg)
 
 ### Puzzles & brain games
 
@@ -810,7 +816,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 108](https://img.shields.io/badge/Cases-108-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 109](https://img.shields.io/badge/Cases-109-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -826,7 +832,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **108 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **109 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
 目录更新：**2026-09-15**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
@@ -1016,6 +1022,12 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[LINUX DO](https://linux.do/t/topic/2857361) — 作者说明先用 Astra 建模沙漠地图，再加入 FPS 规则、机器人、装备、四种模式和可选辅助功能。[核验记录](assets/screenshots/dust-ii-ops/SOURCE.md)。
   - 开发资料：[原地图与提示词](https://linux.do/t/topic/2857326)。
   - 预览：![沙漠地图的个人竞技实机画面，可见 AK-47、战术雷达、机器人击杀记录和已开启的无敌辅助。](assets/screenshots/dust-ii-ops/gameplay.jpg)
+
+- **[Thornwake](https://thornwake-moth-descent.ltodd.chatgpt.site/)** — 昆虫主题的动作 Roguelite：挥动针刃作战，在盘根错节的房间中跳跃、冲刺，通过反复探索收集丝线与余烬种子。
+  - 作者: [Lehiem / LiamTodd98](https://github.com/LiamTodd98)
+  - 平台: 桌面浏览器；键盘操作，免费，无需登录或安装。已验证开场战斗。
+  - GPT-6 Astra: [作者投稿](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) — 作者表示，先让 Astra 制作一款 Silksong 风格的游戏，再通过两轮追加提示调整玩法。 [核验记录](assets/screenshots/thornwake/SOURCE.md).
+  - 预览: ![Thornwake 的首个房间 The Pale Undergrowth，展示昆虫敌人、平台、生命值与丝线计量，以及键盘操作提示。拍摄于 2026-09-15。](assets/screenshots/thornwake/gameplay.jpg)
 
 ### 解谜与益智
 
