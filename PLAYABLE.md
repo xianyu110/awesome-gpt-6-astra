@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**186** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**187** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
-- [工程 / 仿真](#工程--仿真) — 14
+- [工程 / 仿真](#工程--仿真) — 15
 - [其他可玩 Demo](#其他可玩-Demo) — 11
 
 ## 经典复刻 / 知名玩法
@@ -805,6 +805,11 @@
    - 试玩链接：`https://armor-workshop.vercel.app`
    - 原帖：https://x.com/yash_yk45/status/2099457678481510812
    - 备注：钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite
+
+15. **Javici · Just A Rather Very Intelligent Car Inspector** — [试玩](https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b) · [原帖](https://x.com/apprentice17/status/2100111010229309921)
+   - 试玩链接：`https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b`
+   - 原帖：https://x.com/apprentice17/status/2100111010229309921
+   - 备注：Astra Hackathon Singapore 参赛：会检车的智能助手 Javici（JARVIS 梗），打开 gallery 就能试玩
 
 
 ## 其他可玩 Demo
