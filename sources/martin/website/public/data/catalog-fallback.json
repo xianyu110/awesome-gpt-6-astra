@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-fa7a51d65eaddbe6",
+      "name": "Sundrift · Boat Explorer",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 同款 Three.js 出海 prompt 四模型对打，Astra 赢了海洋：金色黄昏慢帆，耳机一戴就开漂 · ❤ 45",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "WescheNex1q",
+        "url": "https://x.com/WescheNex1q"
+      },
+      "demoUrl": "https://wesche.com/lab/astra/boat-explorer/",
+      "sourceUrl": "https://x.com/WescheNex1q/status/2100043868565561533",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100041486440058881%2Fimg%2FWCNMhHZQVxK-9bna.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100041486440058881%2Fimg%2FWCNMhHZQVxK-9bna.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1112
+    },
+    {
       "id": "work-ec603fea3395c100",
       "name": "Tokyo Batting · Neon",
       "description": "可玩 Demo · 街机 / 小游戏包 · 东京打击练习：Astra 一键在 Rezona 搓出的霓虹棒球馆，挥棒时机跟得上",
@@ -15376,9 +15394,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-16T10:48:41.000Z",
-    "lastSuccessfulAt": "2026-09-16T10:48:41.000Z",
-    "revision": "playable-sync-20260916-1845",
+    "checkedAt": "2026-09-16T10:51:12.000Z",
+    "lastSuccessfulAt": "2026-09-16T10:51:12.000Z",
+    "revision": "playable-sync-20260916-1850",
     "stale": false,
     "status": "fresh"
   },
