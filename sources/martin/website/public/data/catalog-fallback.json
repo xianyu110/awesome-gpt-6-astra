@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-6d442ec349be30b1",
+      "name": "Javici · Just A Rather Very Intelligent Car Inspector",
+      "description": "可玩 Demo · 工程 / 仿真 · Astra Hackathon Singapore 参赛：会检车的智能助手 Javici（JARVIS 梗），打开 gallery 就能试玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "apprentice17",
+        "url": "https://x.com/apprentice17"
+      },
+      "demoUrl": "https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b",
+      "sourceUrl": "https://x.com/apprentice17/status/2100111010229309921",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100109381413240832%2Fimg%2F1rCRVyOVaDQwof-v.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100109381413240832%2Fimg%2F1rCRVyOVaDQwof-v.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1109
+    },
+    {
       "id": "work-c1e3c60e4d53052e",
       "name": "Dead End",
       "description": "可玩 Demo · 射击 / 动作 · 末日街区僵尸生存：Astra+Replit+three.js 把 2D 关卡搓成 3D，打开就能躲尸潮 · ❤ 9",
@@ -15322,9 +15340,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-16T02:51:54.000Z",
-    "lastSuccessfulAt": "2026-09-16T02:51:54.000Z",
-    "revision": "playable-sync-20260916-1040",
+    "checkedAt": "2026-09-16T06:48:25.000Z",
+    "lastSuccessfulAt": "2026-09-16T06:48:25.000Z",
+    "revision": "playable-sync-20260916-1445",
     "stale": false,
     "status": "fresh"
   },
