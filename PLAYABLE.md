@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**182** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-15
+- 收录：**184** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 24
-- [射击 / 动作](#射击--动作) — 18
+- [射击 / 动作](#射击--动作) — 19
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 8
 - [街机 / 小游戏包](#街机--小游戏包) — 19
 - [音乐 / 表演](#音乐--表演) — 11
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
-- [工程 / 仿真](#工程--仿真) — 14
+- [工程 / 仿真](#工程--仿真) — 15
 - [其他可玩 Demo](#其他可玩-Demo) — 10
 
 ## 经典复刻 / 知名玩法
@@ -263,6 +263,11 @@
    - 试玩链接：`https://www.soonlab.ai/game/8996/`
    - 原帖：https://x.com/SoonLab_AI/status/2098367876734558579
    - 备注：梵高风浏览器 FPS；SoonLab 现已支持 GPT-6 Astra
+
+19. **Pressurized** — [试玩](https://www.spawn.co/@majid/pressurized/play) · [原帖](https://x.com/majidmanzarpour/status/2099724721067581899) · ❤ 28
+   - 试玩链接：`https://www.spawn.co/@majid/pressurized/play`
+   - 原帖：https://x.com/majidmanzarpour/status/2099724721067581899
+   - 备注：海底 2400 米高压夺核 CTF FPS：Savi + GPT-6，Spawn 上免费开打，多人水下射击
 
 
 ## 模拟经营 / 策略
@@ -790,6 +795,11 @@
    - 试玩链接：`https://armor-workshop.vercel.app`
    - 原帖：https://x.com/yash_yk45/status/2099457678481510812
    - 备注：钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite
+
+15. **FLY HIGH — Natural Selection** — [试玩](https://flyhigh.fun) · [原帖](https://x.com/immortalhowwl/status/2099821884619493629) · ❤ 59
+   - 试玩链接：`https://flyhigh.fun`
+   - 原帖：https://x.com/immortalhowwl/status/2099821884619493629
+   - 备注：果蝇策略进化实验室：观察钱包买卖→基因突变→留谱系，观察模式不下单 · GPT-6 Astra + MIT 开源
 
 
 ## 其他可玩 Demo
