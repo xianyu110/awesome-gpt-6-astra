@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**184** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**186** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-16
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,15 +10,15 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 24
-- [射击 / 动作](#射击--动作) — 19
+- [射击 / 动作](#射击--动作) — 20
 - [模拟经营 / 策略](#模拟经营--策略) — 11
 - [联机 / 多人](#联机--多人) — 8
 - [街机 / 小游戏包](#街机--小游戏包) — 19
-- [音乐 / 表演](#音乐--表演) — 11
+- [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 43
-- [工程 / 仿真](#工程--仿真) — 15
-- [其他可玩 Demo](#其他可玩-Demo) — 10
+- [工程 / 仿真](#工程--仿真) — 14
+- [其他可玩 Demo](#其他可玩-Demo) — 11
 
 ## 经典复刻 / 知名玩法
 
@@ -264,10 +264,15 @@
    - 原帖：https://x.com/SoonLab_AI/status/2098367876734558579
    - 备注：梵高风浏览器 FPS；SoonLab 现已支持 GPT-6 Astra
 
-19. **Pressurized** — [试玩](https://www.spawn.co/@majid/pressurized/play) · [原帖](https://x.com/majidmanzarpour/status/2099724721067581899) · ❤ 28
-   - 试玩链接：`https://www.spawn.co/@majid/pressurized/play`
-   - 原帖：https://x.com/majidmanzarpour/status/2099724721067581899
-   - 备注：海底 2400 米高压夺核 CTF FPS：Savi + GPT-6，Spawn 上免费开打，多人水下射击
+19. **Dead End** — [试玩](https://dead-end.replit.app) · [原帖](https://x.com/msdkim0424/status/2099852357660262425) · ❤ 9
+   - 试玩链接：`https://dead-end.replit.app`
+   - 原帖：https://x.com/msdkim0424/status/2099852357660262425
+   - 备注：末日街区僵尸生存：Astra+Replit+three.js 把 2D 关卡搓成 3D，打开就能躲尸潮
+
+20. **DUSTLINE — Tactical FPS** — [试玩](https://cs2-eight-self.vercel.app/) · [原帖](https://x.com/FMamatkhalilov/status/2099467206350229597) · ❤ 4
+   - 试玩链接：`https://cs2-eight-self.vercel.app/`
+   - 原帖：https://x.com/FMamatkhalilov/status/2099467206350229597
+   - 备注：CS2 风战术 FPS 试玩：Astra + Fable 5.1 + Opus 搓的 Dustline，浏览器里就能冲锋
 
 
 ## 模拟经营 / 策略
@@ -494,6 +499,11 @@
    - 试玩链接：`https://ganapati-aarti.vercel.app`
    - 原帖：https://x.com/niinnnu/status/2099492850450993631
    - 备注：打车路上 5 分钟搓出的 3D 甘尼许 aarti 互动站 · Astra oneshot
+
+12. **ZEN SAY KAI HO! · 星屑のサイファー** — [试玩](https://zensay.agari.studio) · [原帖](https://x.com/mittooney/status/2099724447339212816) · ❤ 7
+   - 试玩链接：`https://zensay.agari.studio`
+   - 原帖：https://x.com/mittooney/status/2099724447339212816
+   - 备注：HIPHOP 系咏唱节奏游戏：挡攻击、接长咏唱冲「全星解放」，GPT-6 Astra 主制，手机电脑都能玩
 
 
 ## 教育 / 科普
@@ -796,11 +806,6 @@
    - 原帖：https://x.com/yash_yk45/status/2099457678481510812
    - 备注：钢铁侠工坊：换装甲、喷漆、看机械臂装零件 · Astra + Three.js + Blender + Vite
 
-15. **FLY HIGH — Natural Selection** — [试玩](https://flyhigh.fun) · [原帖](https://x.com/immortalhowwl/status/2099821884619493629) · ❤ 59
-   - 试玩链接：`https://flyhigh.fun`
-   - 原帖：https://x.com/immortalhowwl/status/2099821884619493629
-   - 备注：果蝇策略进化实验室：观察钱包买卖→基因突变→留谱系，观察模式不下单 · GPT-6 Astra + MIT 开源
-
 
 ## 其他可玩 Demo
 
@@ -848,6 +853,11 @@
    - 试玩链接：`https://openjung.org/play/town`
    - 原帖：https://x.com/yaluotao/status/2099789073909244400
    - 备注：人格测试做成可逛小世界：gpt-6-astra + AmpCode，点开就能逛 town
+
+11. **SprayFit — 3D T-shirt Studio** — [试玩](https://sprayfit-studio.thebuggeddev.chatgpt.site/) · [原帖](https://x.com/thebuggeddev/status/2098479092916265331) · ❤ 525
+   - 试玩链接：`https://sprayfit-studio.thebuggeddev.chatgpt.site/`
+   - 原帖：https://x.com/thebuggeddev/status/2098479092916265331
+   - 备注：浏览器 3D 定制 T 恤：Astra + Tripo + Image 2.5，涂鸦喷漆随心改，打开就能玩
 
 
 ## 说明
