@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-b74ca06a7d0380ca",
+      "name": "Pressurized",
+      "description": "可玩 Demo · 射击 / 动作 · 海底 2400 米高压夺核 CTF FPS：Savi + GPT-6，Spawn 上免费开打，多人水下射击 · ❤ 28",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "majidmanzarpour",
+        "url": "https://x.com/majidmanzarpour"
+      },
+      "demoUrl": "https://www.spawn.co/@majid/pressurized/play",
+      "sourceUrl": "https://x.com/majidmanzarpour/status/2099724721067581899",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724188999143424%2Fimg%2FutoBGUynTf73DFqs.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2099724188999143424%2Fimg%2FutoBGUynTf73DFqs.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1105
+    },
+    {
+      "id": "work-892e5d6eca04fb4c",
+      "name": "FLY HIGH — Natural Selection",
+      "description": "可玩 Demo · 工程 / 仿真 · 果蝇策略进化实验室：观察钱包买卖→基因突变→留谱系，观察模式不下单 · GPT-6 Astra + MIT 开源 · ❤ 59",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "immortalhowwl",
+        "url": "https://x.com/immortalhowwl"
+      },
+      "demoUrl": "https://flyhigh.fun",
+      "sourceUrl": "https://x.com/immortalhowwl/status/2099821884619493629",
+      "repoUrl": "https://github.com/immortalhowwl/fly-high",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSQQ3y5WIAAeejO.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSQQ3y5WIAAeejO.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1106
+    },
+    {
       "id": "work-c143dc50f601f86f",
       "name": "Void Explorer",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · 官方同款边玩边改：Astra+Codex 迭代造出的星系探索，2048 星系上万行星，浏览器能飞 · ❤ 2",
@@ -15250,9 +15286,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-15T10:53:53.000Z",
-    "lastSuccessfulAt": "2026-09-15T10:53:53.000Z",
-    "revision": "playable-sync-20260915-1840",
+    "checkedAt": "2026-09-16T02:51:41.000Z",
+    "lastSuccessfulAt": "2026-09-16T02:51:41.000Z",
+    "revision": "playable-sync-20260916-1048",
     "stale": false,
     "status": "fresh"
   },
