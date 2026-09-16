@@ -2,15 +2,15 @@
   "works": [
     {
       "id": "work-6d442ec349be30b1",
-      "name": "Javici · Just A Rather Very Intelligent Car Inspector",
-      "description": "可玩 Demo · 工程 / 仿真 · Astra Hackathon Singapore 参赛：会检车的智能助手 Javici（JARVIS 梗），打开 gallery 就能试玩",
+      "name": "JARVICI · 语音验车助手",
+      "description": "可玩 Demo · 工程 / 仿真 · Astra 黑客松新加坡：语音优先二手车检测，3D 拆解零件 + 口述验车出报告",
       "category": "game",
       "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "apprentice17",
         "url": "https://x.com/apprentice17"
       },
-      "demoUrl": "https://astra-hackathon-singapore.openai.chatgpt.site/gallery/0af379ed-d3da-4408-8926-8448bcc83f8b",
+      "demoUrl": "https://jarvici.wengsiong22.chatgpt.site/",
       "sourceUrl": "https://x.com/apprentice17/status/2100111010229309921",
       "repoUrl": null,
       "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100109381413240832%2Fimg%2F1rCRVyOVaDQwof-v.jpg",
