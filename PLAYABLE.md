@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**207** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**209** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -15,9 +15,9 @@
 - [联机 / 多人](#联机--多人) — 11
 - [街机 / 小游戏包](#街机--小游戏包) — 24
 - [音乐 / 表演](#音乐--表演) — 12
-- [教育 / 科普](#教育--科普) — 10
+- [教育 / 科普](#教育--科普) — 11
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 47
-- [工程 / 仿真](#工程--仿真) — 16
+- [工程 / 仿真](#工程--仿真) — 17
 - [其他可玩 Demo](#其他可玩-Demo) — 12
 
 ## 经典复刻 / 知名玩法
@@ -77,7 +77,7 @@
 15. **Frostbound · Icy Tower** — [试玩](https://icy-tower-frostbound.netlify.app/) · [原帖](https://x.com/SafaElmali/status/2100562918937165996)
    - 试玩链接：`https://icy-tower-frostbound.netlify.app/`
    - 原帖：https://x.com/SafaElmali/status/2100562918937165996
-   - 备注：Icy Tower 风爬塔：墙跳连招、每日塔、可和朋友竞速；Astra 出品，Netlify + CrazyGames 都能开玩
+   - 备注：Icy Tower 风 3D 爬塔：墙跳连招、上升霜冻、每日塔与好友竞速；Astra 构建，Netlify 直玩
 
 
 ## 竞速 / 驾驶
@@ -622,6 +622,11 @@
    - 原帖：https://x.com/DuXiaodan/status/2099653288756932859
    - 备注：佛光寺等中国古建木构互动图志：Astra×Codex 周末搓出的三维拆解图鉴，打开就能逛
 
+11. **Misconception Lab** — [试玩](https://misconception-lab.likhariinder.chatgpt.site/) · [原帖](https://x.com/inder_the_grt/status/2100558371653124537)
+   - 试玩链接：`https://misconception-lab.likhariinder.chatgpt.site/`
+   - 原帖：https://x.com/inder_the_grt/status/2100558371653124537
+   - 备注：日常信念小实验室：预测→实验→改观，给孩子/青少年试错用的动态可视化；Astra agentic 工程
+
 
 ## 3D 场景 / 氛围探索
 
@@ -905,6 +910,11 @@
    - 试玩链接：`https://landsculpt-studio.hueezer.chatgpt.site/`
    - 原帖：https://x.com/hueezer/status/2100318258549383197
    - 备注：3D 园艺景观工作室：种植、生长、四季与地底层 · Astra 几天搓出模型+网页+宣传片
+
+17. **Fields & Spacetime** — [试玩](https://astounding-piroshki-294a68.netlify.app/) · [原帖](https://x.com/McHodlHorizon/status/2100548386722357517)
+   - 试玩链接：`https://astounding-piroshki-294a68.netlify.app/`
+   - 原帖：https://x.com/McHodlHorizon/status/2100548386722357517
+   - 备注：物理与数学互动实验合集：场与时空可视化 playground；Astra 非一锤子，Netlify 打开就能玩
 
 
 ## 其他可玩 Demo
