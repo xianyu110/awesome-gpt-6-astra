@@ -1,5 +1,19 @@
 [
   {
+    "title": "Duck Off",
+    "demo_url": "https://duckoff.fun",
+    "post_url": "https://x.com/swarnimodi/status/2100196454367437275",
+    "likes": 18,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "Star Outpost",
+    "demo_url": "https://staging.staroutpost.com",
+    "post_url": "https://x.com/JudiciousBlaze/status/2100378652081053918",
+    "likes": 1,
+    "category": "模拟经营 / 策略"
+  },
+  {
     "title": "Wildwake Rally",
     "demo_url": "https://wildwake-rally.vercel.app/",
     "post_url": "https://x.com/DefyEntropyV/status/2100226359649820721",
