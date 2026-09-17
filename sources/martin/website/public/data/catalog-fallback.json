@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-b2efcd6779452501",
+      "name": "Mog Mode · Yesterday Arcade",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 科技 CEO 握手对决恶搞小品：Astra+Codex，Yesterday Arcade 第二作，打开就能 mog",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "YesterdayArcade",
+        "url": "https://x.com/YesterdayArcade"
+      },
+      "demoUrl": "https://yesterdayarcade.com/games/mog-mode/",
+      "sourceUrl": "https://x.com/YesterdayArcade/status/2100510743422734658",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fyesterdayarcade.com%2Fshare%2Fmog-mode-v1.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fyesterdayarcade.com%2Fshare%2Fmog-mode-v1.png",
+      "videoUrl": null,
+      "sourceOrder": -1127
+    },
+    {
+      "id": "work-e30cb3e488cd13f2",
+      "name": "Claude of Duty · Vibe Slops II",
+      "description": "可玩 Demo · 射击 / 动作 · 浏览器 Three.js FPS：Black Ops II Hijacked 图导出 + 胶囊碰撞 + Recast 导航网格，非官方同人 · 打开就能冲 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "ForestManSol555",
+        "url": "https://x.com/ForestManSol555"
+      },
+      "demoUrl": "https://vibeslops.luckeysystems.com/",
+      "sourceUrl": "https://x.com/ForestManSol555/status/2100498101614026893",
+      "repoUrl": "https://github.com/luckeyfaraday/claude-of-duty",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fvibeslops.luckeysystems.com%2Fsocial%2Fog-cover.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fvibeslops.luckeysystems.com%2Fsocial%2Fog-cover.png",
+      "videoUrl": null,
+      "sourceOrder": -1128
+    },
+    {
       "id": "work-ccbf24e2e760726f",
       "name": "Opportunity Scout",
       "description": "可玩 Demo · 其他可玩 Demo · Hackathon / grant / 付费机会聚合 + AI shortlist：源链接、截止倒计时、奖金证据；Astra+Codex 构建，Convex 托管 · ❤ 2",
@@ -15646,9 +15682,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T10:46:23.000Z",
-    "lastSuccessfulAt": "2026-09-17T10:46:23.000Z",
-    "revision": "playable-sync-20260917-1840",
+    "checkedAt": "2026-09-17T10:52:04.000Z",
+    "lastSuccessfulAt": "2026-09-17T10:52:04.000Z",
+    "revision": "playable-sync-20260917-1850",
     "stale": false,
     "status": "fresh"
   },
