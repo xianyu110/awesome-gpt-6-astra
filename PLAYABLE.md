@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**200** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**203** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,13 +10,13 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 26
-- [射击 / 动作](#射击--动作) — 20
+- [射击 / 动作](#射击--动作) — 21
 - [模拟经营 / 策略](#模拟经营--策略) — 12
 - [联机 / 多人](#联机--多人) — 11
 - [街机 / 小游戏包](#街机--小游戏包) — 23
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 45
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 47
 - [工程 / 仿真](#工程--仿真) — 16
 - [其他可玩 Demo](#其他可玩-Demo) — 11
 
@@ -283,6 +283,11 @@
    - 试玩链接：`https://cs2-eight-self.vercel.app/`
    - 原帖：https://x.com/FMamatkhalilov/status/2099467206350229597
    - 备注：CS2 风战术 FPS 试玩：Astra + Fable 5.1 + Opus 搓的 Dustline，浏览器里就能冲锋
+
+21. **Don't Look Away · Saint Orison** — [试玩](https://weeping-angels.vercel.app) · [原帖](https://x.com/BlendiByl/status/2100442177159729336) · ❤ 60
+   - 试玩链接：`https://weeping-angels.vercel.app`
+   - 原帖：https://x.com/BlendiByl/status/2100442177159729336
+   - 备注：Doctor Who 哭泣天使风恐怖：看不见才动，桌面+耳机推荐 · Astra + fal + Three.js
 
 
 ## 模拟经营 / 策略
@@ -803,6 +808,16 @@
    - 试玩链接：`https://space-storage.mandeeplabs.com/`
    - 原帖：https://x.com/copmanually/status/2100393684898386260
    - 备注：3D 仓储营销展：可走仓库、开仓、比尺寸，帮客户想象单位能装啥 · GPT-6 Astra
+
+46. **四点金 · 入厝** — [试玩](https://sidianjin-chaoshan.vercel.app) · [原帖](https://x.com/megurosumi/status/2100417100263334222) · ❤ 1
+   - 试玩链接：`https://sidianjin-chaoshan.vercel.app`
+   - 原帖：https://x.com/megurosumi/status/2100417100263334222
+   - 备注：潮汕四点金院子：Astra+Tripo+Blender，四关 3D 解谜还原爷爷未完成的礼物 · EN/ZH
+
+47. **The Tide Machine** — [试玩](https://the-tide-machine-0hmslice.ohmslice.chatgpt.site) · [原帖](https://x.com/0hmslice/status/2100415525415236010)
+   - 试玩链接：`https://the-tide-machine-0hmslice.ohmslice.chatgpt.site`
+   - 原帖：https://x.com/0hmslice/status/2100415525415236010
+   - 备注：潮汐奇观浏览器小品：Astra 搓的 spectacle，打开就能转一圈
 
 
 ## 工程 / 仿真

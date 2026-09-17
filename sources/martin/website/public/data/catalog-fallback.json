@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-47d574fe304a2684",
+      "name": "Don't Look Away · Saint Orison",
+      "description": "可玩 Demo · 射击 / 动作 · Doctor Who 哭泣天使风恐怖：看不见才动，桌面+耳机推荐 · Astra + fal + Three.js · ❤ 60",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "demoUrl": "https://weeping-angels.vercel.app",
+      "sourceUrl": "https://x.com/BlendiByl/status/2100442177159729336",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100441933349113856%2Fimg%2F-zcl_oknjJHeAKF8.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100441933349113856%2Fimg%2F-zcl_oknjJHeAKF8.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1123
+    },
+    {
+      "id": "work-0429b3f4f3851cad",
+      "name": "四点金 · 入厝",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 潮汕四点金院子：Astra+Tripo+Blender，四关 3D 解谜还原爷爷未完成的礼物 · EN/ZH · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "megurosumi",
+        "url": "https://x.com/megurosumi"
+      },
+      "demoUrl": "https://sidianjin-chaoshan.vercel.app",
+      "sourceUrl": "https://x.com/megurosumi/status/2100417100263334222",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100413154006368256%2Fimg%2FZXfbqTBtkLVAil9M.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100413154006368256%2Fimg%2FZXfbqTBtkLVAil9M.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1124
+    },
+    {
+      "id": "work-a60c455b0f23b708",
+      "name": "The Tide Machine",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 潮汐奇观浏览器小品：Astra 搓的 spectacle，打开就能转一圈",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "0hmslice",
+        "url": "https://x.com/0hmslice"
+      },
+      "demoUrl": "https://the-tide-machine-0hmslice.ohmslice.chatgpt.site",
+      "sourceUrl": "https://x.com/0hmslice/status/2100415525415236010",
+      "repoUrl": null,
+      "imageUrl": null,
+      "posterUrl": null,
+      "videoUrl": null,
+      "sourceOrder": -1125
+    },
+    {
       "id": "work-595466cc7776e68d",
       "name": "Trailer Sprint · Yesterday Arcade",
       "description": "可玩 Demo · 竞速 / 驾驶 · 病毒视频→可玩 3D：追移动拖车、爬坡、刹车泊车 · Astra + Codex 首作，打开就能飙",
@@ -15574,9 +15628,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T02:53:33.000Z",
-    "lastSuccessfulAt": "2026-09-17T02:53:33.000Z",
-    "revision": "playable-sync-20260917-1050",
+    "checkedAt": "2026-09-17T06:52:54.000Z",
+    "lastSuccessfulAt": "2026-09-17T06:52:54.000Z",
+    "revision": "playable-sync-20260917-1440",
     "stale": false,
     "status": "fresh"
   },
