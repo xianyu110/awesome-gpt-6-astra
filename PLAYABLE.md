@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**197** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**199** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -11,8 +11,8 @@
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 25
 - [射击 / 动作](#射击--动作) — 20
-- [模拟经营 / 策略](#模拟经营--策略) — 11
-- [联机 / 多人](#联机--多人) — 10
+- [模拟经营 / 策略](#模拟经营--策略) — 12
+- [联机 / 多人](#联机--多人) — 11
 - [街机 / 小游戏包](#街机--小游戏包) — 23
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
@@ -329,6 +329,11 @@
    - 原帖：https://x.com/aniketjart/status/2099284881058705768
    - 备注：吉卜力风 2.5D 海边模拟小品：Crayon + Astra + Three.js，潮汐记得你走过的每一步
 
+12. **Star Outpost** — [试玩](https://staging.staroutpost.com) · [原帖](https://x.com/JudiciousBlaze/status/2100378652081053918) · ❤ 1
+   - 试玩链接：`https://staging.staroutpost.com`
+   - 原帖：https://x.com/JudiciousBlaze/status/2100378652081053918
+   - 备注：持久化文字向多人太空策略：补给、扩张、出征一条命令流 · 多模型混搭含 GPT-6 Astra，找测试员中
+
 
 ## 联机 / 多人
 
@@ -377,6 +382,11 @@
    - 试玩链接：`https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/`
    - 原帖：https://x.com/Tim_LB/status/2100212668778828172
    - 备注：多人 3D 海岸猎手：Astra + Fable + DeepSeek 出资产，自定义 three.js 引擎，浏览器联机
+
+11. **Duck Off** — [试玩](https://duckoff.fun) · [原帖](https://x.com/swarnimodi/status/2100196454367437275) · ❤ 18
+   - 试玩链接：`https://duckoff.fun`
+   - 原帖：https://x.com/swarnimodi/status/2100196454367437275
+   - 备注：浏览器多人橡皮鸭竞速：点按划水、躲障碍、用道具抢先 · Astra + Fable，12 小时搓出来
 
 
 ## 街机 / 小游戏包
