@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**203** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**204** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -18,7 +18,7 @@
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 47
 - [工程 / 仿真](#工程--仿真) — 16
-- [其他可玩 Demo](#其他可玩-Demo) — 11
+- [其他可玩 Demo](#其他可玩-Demo) — 12
 
 ## 经典复刻 / 知名玩法
 
@@ -943,6 +943,11 @@
    - 试玩链接：`https://sprayfit-studio.thebuggeddev.chatgpt.site/`
    - 原帖：https://x.com/thebuggeddev/status/2098479092916265331
    - 备注：浏览器 3D 定制 T 恤：Astra + Tripo + Image 2.5，涂鸦喷漆随心改，打开就能玩
+
+12. **Opportunity Scout** — [试玩](https://graceful-spoonbill-850.convex.site) · [原帖](https://x.com/jhahimanshu653/status/2100529730101612800) · ❤ 2
+   - 试玩链接：`https://graceful-spoonbill-850.convex.site`
+   - 原帖：https://x.com/jhahimanshu653/status/2100529730101612800
+   - 备注：Hackathon / grant / 付费机会聚合 + AI shortlist：源链接、截止倒计时、奖金证据；Astra+Codex 构建，Convex 托管
 
 
 ## 说明
