@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-ccbf24e2e760726f",
+      "name": "Opportunity Scout",
+      "description": "可玩 Demo · 其他可玩 Demo · Hackathon / grant / 付费机会聚合 + AI shortlist：源链接、截止倒计时、奖金证据；Astra+Codex 构建，Convex 托管 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "jhahimanshu653",
+        "url": "https://x.com/jhahimanshu653"
+      },
+      "demoUrl": "https://graceful-spoonbill-850.convex.site",
+      "sourceUrl": "https://x.com/jhahimanshu653/status/2100529730101612800",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100528460036976640%2Fimg%2FHDfkA8gRNmEYJbYl.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100528460036976640%2Fimg%2FHDfkA8gRNmEYJbYl.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1126
+    },
+    {
       "id": "work-47d574fe304a2684",
       "name": "Don't Look Away · Saint Orison",
       "description": "可玩 Demo · 射击 / 动作 · Doctor Who 哭泣天使风恐怖：看不见才动，桌面+耳机推荐 · Astra + fal + Three.js · ❤ 60",
@@ -15628,9 +15646,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T06:52:54.000Z",
-    "lastSuccessfulAt": "2026-09-17T06:52:54.000Z",
-    "revision": "playable-sync-20260917-1440",
+    "checkedAt": "2026-09-17T10:46:23.000Z",
+    "lastSuccessfulAt": "2026-09-17T10:46:23.000Z",
+    "revision": "playable-sync-20260917-1840",
     "stale": false,
     "status": "fresh"
   },
