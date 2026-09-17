@@ -1,6 +1,114 @@
 {
   "works": [
     {
+      "id": "work-99bdb318435c863b",
+      "name": "Wildwake Rally",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 森林 / 山路 / 海岸拉力：Astra 搓的浏览器竞速，打开就能开 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "DefyEntropyV",
+        "url": "https://x.com/DefyEntropyV"
+      },
+      "demoUrl": "https://wildwake-rally.vercel.app/",
+      "sourceUrl": "https://x.com/DefyEntropyV/status/2100226359649820721",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100196373874311168%2Fimg%2FsHjCjcbz9ij8jPPA.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100196373874311168%2Fimg%2FsHjCjcbz9ij8jPPA.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1114
+    },
+    {
+      "id": "work-5480202a8cd77295",
+      "name": "Tideglass Hunt",
+      "description": "可玩 Demo · 联机 / 多人 · 多人 3D 海岸猎手：Astra + Fable + DeepSeek 出资产，自定义 three.js 引擎，浏览器联机 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "Tim_LB",
+        "url": "https://x.com/Tim_LB"
+      },
+      "demoUrl": "https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/",
+      "sourceUrl": "https://x.com/Tim_LB/status/2100212668778828172",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100212170671673345%2Fimg%2F1ejhIEp0kM7VVJ1E.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100212170671673345%2Fimg%2F1ejhIEp0kM7VVJ1E.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1115
+    },
+    {
+      "id": "work-9bcbcb13a5f8c7b1",
+      "name": "Starship Foundry · Isometric Flight Lab",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 等距造船再飞：拼零件、绑舱体，进关卡做特技 / Zaxxon 风跳跃 · Three.js + Astra · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "Aaron_Wacker",
+        "url": "https://x.com/Aaron_Wacker"
+      },
+      "demoUrl": "https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html",
+      "sourceUrl": "https://x.com/Aaron_Wacker/status/2100382539697254828",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100381636613275648%2Fimg%2FTMc6B_ZNs0S85RjC.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100381636613275648%2Fimg%2FTMc6B_ZNs0S85RjC.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1116
+    },
+    {
+      "id": "work-3bfd67c35ed0684b",
+      "name": "LandSculpt — landscape design studio",
+      "description": "可玩 Demo · 工程 / 仿真 · 3D 园艺景观工作室：种植、生长、四季与地底层 · Astra 几天搓出模型+网页+宣传片 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "hueezer",
+        "url": "https://x.com/hueezer"
+      },
+      "demoUrl": "https://landsculpt-studio.hueezer.chatgpt.site/",
+      "sourceUrl": "https://x.com/hueezer/status/2100318258549383197",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100316134004359168%2Fimg%2FFMg7q_XQwB6ZJVnF.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100316134004359168%2Fimg%2FFMg7q_XQwB6ZJVnF.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1117
+    },
+    {
+      "id": "work-061c4ae1ee090f8a",
+      "name": "Space Storage",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 3D 仓储营销展：可走仓库、开仓、比尺寸，帮客户想象单位能装啥 · GPT-6 Astra",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "copmanually",
+        "url": "https://x.com/copmanually"
+      },
+      "demoUrl": "https://space-storage.mandeeplabs.com/",
+      "sourceUrl": "https://x.com/copmanually/status/2100393684898386260",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100393115664195584%2Fimg%2F2p48S1Ej4ljEu1iV.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100393115664195584%2Fimg%2F2p48S1Ej4ljEu1iV.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1118
+    },
+    {
+      "id": "work-269d719b0c424072",
+      "name": "POCKET_01 · Personal Game System",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 浏览器复古掌机：单色手持机 + Snake 等小游戏，本地记忆 · Astra vibe coding · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "LeHari_eth",
+        "url": "https://x.com/LeHari_eth"
+      },
+      "demoUrl": "https://devoshub.com/",
+      "sourceUrl": "https://x.com/LeHari_eth/status/2100392850823471600",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSYYGzibkAAUqgL.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSYYGzibkAAUqgL.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1119
+    },
+    {
       "id": "work-921422bf195406e1",
       "name": "CANTEEN CRASHERS",
       "description": "可玩 Demo · 联机 / 多人 · 多人食堂配方大盗：组队偷秘方别被抓，GPT-6 Astra + Blender，Wasm+WebGPU 浏览器开黑 · ❤ 13",
@@ -15412,9 +15520,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-16T14:10:56.000Z",
-    "lastSuccessfulAt": "2026-09-16T14:10:56.000Z",
-    "revision": "playable-sync-20260916-2140",
+    "checkedAt": "2026-09-17T02:49:38.000Z",
+    "lastSuccessfulAt": "2026-09-17T02:49:38.000Z",
+    "revision": "playable-sync-20260917-1040",
     "stale": false,
     "status": "fresh"
   },
