@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-f492623c5a60855d",
+      "name": "Duck Off",
+      "description": "可玩 Demo · 联机 / 多人 · 浏览器多人橡皮鸭竞速：点按划水、躲障碍、用道具抢先 · Astra + Fable，12 小时搓出来 · ❤ 18",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "swarnimodi",
+        "url": "https://x.com/swarnimodi"
+      },
+      "demoUrl": "https://duckoff.fun",
+      "sourceUrl": "https://x.com/swarnimodi/status/2100196454367437275",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100195153252323328%2Fimg%2F8U5-d0z27NlV2hs5.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100195153252323328%2Fimg%2F8U5-d0z27NlV2hs5.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1120
+    },
+    {
+      "id": "work-8e6373e470b8386e",
+      "name": "Star Outpost",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 持久化文字向多人太空策略：补给、扩张、出征一条命令流 · 多模型混搭含 GPT-6 Astra，找测试员中 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "JudiciousBlaze",
+        "url": "https://x.com/JudiciousBlaze"
+      },
+      "demoUrl": "https://staging.staroutpost.com",
+      "sourceUrl": "https://x.com/JudiciousBlaze/status/2100378652081053918",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSYLQGnbMAAlvZl.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSYLQGnbMAAlvZl.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1121
+    },
+    {
       "id": "work-99bdb318435c863b",
       "name": "Wildwake Rally",
       "description": "可玩 Demo · 竞速 / 驾驶 · 森林 / 山路 / 海岸拉力：Astra 搓的浏览器竞速，打开就能开 · ❤ 2",
@@ -15520,8 +15556,8 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T02:49:38.000Z",
-    "lastSuccessfulAt": "2026-09-17T02:49:38.000Z",
+    "checkedAt": "2026-09-17T02:52:07.000Z",
+    "lastSuccessfulAt": "2026-09-17T02:52:07.000Z",
     "revision": "playable-sync-20260917-1040",
     "stale": false,
     "status": "fresh"
