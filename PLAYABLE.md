@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**204** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**206** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,10 +10,10 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
 - [竞速 / 驾驶](#竞速--驾驶) — 26
-- [射击 / 动作](#射击--动作) — 21
+- [射击 / 动作](#射击--动作) — 22
 - [模拟经营 / 策略](#模拟经营--策略) — 12
 - [联机 / 多人](#联机--多人) — 11
-- [街机 / 小游戏包](#街机--小游戏包) — 23
+- [街机 / 小游戏包](#街机--小游戏包) — 24
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 47
@@ -289,6 +289,11 @@
    - 原帖：https://x.com/BlendiByl/status/2100442177159729336
    - 备注：Doctor Who 哭泣天使风恐怖：看不见才动，桌面+耳机推荐 · Astra + fal + Three.js
 
+22. **Claude of Duty · Vibe Slops II** — [试玩](https://vibeslops.luckeysystems.com/) · [原帖](https://x.com/ForestManSol555/status/2100498101614026893) · ❤ 1
+   - 试玩链接：`https://vibeslops.luckeysystems.com/`
+   - 原帖：https://x.com/ForestManSol555/status/2100498101614026893
+   - 备注：浏览器 Three.js FPS：Black Ops II Hijacked 图导出 + 胶囊碰撞 + Recast 导航网格，非官方同人 · 打开就能冲
+
 
 ## 模拟经营 / 策略
 
@@ -503,6 +508,11 @@
    - 试玩链接：`https://devoshub.com/`
    - 原帖：https://x.com/LeHari_eth/status/2100392850823471600
    - 备注：浏览器复古掌机：单色手持机 + Snake 等小游戏，本地记忆 · Astra vibe coding
+
+24. **Mog Mode · Yesterday Arcade** — [试玩](https://yesterdayarcade.com/games/mog-mode/) · [原帖](https://x.com/YesterdayArcade/status/2100510743422734658)
+   - 试玩链接：`https://yesterdayarcade.com/games/mog-mode/`
+   - 原帖：https://x.com/YesterdayArcade/status/2100510743422734658
+   - 备注：科技 CEO 握手对决恶搞小品：Astra+Codex，Yesterday Arcade 第二作，打开就能 mog
 
 
 ## 音乐 / 表演
