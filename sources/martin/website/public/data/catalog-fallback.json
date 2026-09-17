@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-595466cc7776e68d",
+      "name": "Trailer Sprint · Yesterday Arcade",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 病毒视频→可玩 3D：追移动拖车、爬坡、刹车泊车 · Astra + Codex 首作，打开就能飙",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "YesterdayArcade",
+        "url": "https://x.com/YesterdayArcade"
+      },
+      "demoUrl": "https://yesterdayarcade.com",
+      "sourceUrl": "https://x.com/YesterdayArcade/status/2100462073721548965",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100462035922554880%2Fimg%2FqpRBnvXzvdpLQZTq.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100462035922554880%2Fimg%2FqpRBnvXzvdpLQZTq.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1122
+    },
+    {
       "id": "work-f492623c5a60855d",
       "name": "Duck Off",
       "description": "可玩 Demo · 联机 / 多人 · 浏览器多人橡皮鸭竞速：点按划水、躲障碍、用道具抢先 · Astra + Fable，12 小时搓出来 · ❤ 18",
