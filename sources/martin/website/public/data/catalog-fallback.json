@@ -3,7 +3,7 @@
     {
       "id": "work-8d759ffa1e13d524",
       "name": "Frostbound · Icy Tower",
-      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Icy Tower 风爬塔：墙跳连招、每日塔、可和朋友竞速；Astra 出品，Netlify + CrazyGames 都能开玩",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Icy Tower 风 3D 爬塔：墙跳连招、上升霜冻、每日塔与好友竞速；Astra 构建，Netlify 直玩",
       "category": "game",
       "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
       "author": {
@@ -13,10 +13,46 @@
       "demoUrl": "https://icy-tower-frostbound.netlify.app/",
       "sourceUrl": "https://x.com/SafaElmali/status/2100562918937165996",
       "repoUrl": "https://github.com/SafaElmali/icy-tower-frostbound",
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Ficy-tower-frostbound.netlify.app%2Ffrostbound-cover.png",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Ficy-tower-frostbound.netlify.app%2Ffrostbound-cover.png",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100561549177860096%2Fimg%2FNh7w529iGE1a01ya.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100561549177860096%2Fimg%2FNh7w529iGE1a01ya.jpg",
       "videoUrl": null,
       "sourceOrder": -1129
+    },
+    {
+      "id": "work-47982ba841013370",
+      "name": "Misconception Lab",
+      "description": "可玩 Demo · 教育 / 科普 · 日常信念小实验室：预测→实验→改观，给孩子/青少年试错用的动态可视化；Astra agentic 工程",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "inder_the_grt",
+        "url": "https://x.com/inder_the_grt"
+      },
+      "demoUrl": "https://misconception-lab.likhariinder.chatgpt.site/",
+      "sourceUrl": "https://x.com/inder_the_grt/status/2100558371653124537",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-misconception-lab.jpg",
+      "posterUrl": "/previews/playable-misconception-lab.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1130
+    },
+    {
+      "id": "work-cfcc5a1f09b787d6",
+      "name": "Fields & Spacetime",
+      "description": "可玩 Demo · 工程 / 仿真 · 物理与数学互动实验合集：场与时空可视化 playground；Astra 非一锤子，Netlify 打开就能玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "McHodlHorizon",
+        "url": "https://x.com/McHodlHorizon"
+      },
+      "demoUrl": "https://astounding-piroshki-294a68.netlify.app/",
+      "sourceUrl": "https://x.com/McHodlHorizon/status/2100548386722357517",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-fields-spacetime.jpg",
+      "posterUrl": "/previews/playable-fields-spacetime.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1131
     },
     {
       "id": "work-b2efcd6779452501",
@@ -15700,9 +15736,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T14:05:49.000Z",
-    "lastSuccessfulAt": "2026-09-17T14:05:49.000Z",
-    "revision": "playable-sync-20260917-2203",
+    "checkedAt": "2026-09-17T14:07:23.000Z",
+    "lastSuccessfulAt": "2026-09-17T14:07:23.000Z",
+    "revision": "playable-sync-20260917-2140",
     "stale": false,
     "status": "fresh"
   },
