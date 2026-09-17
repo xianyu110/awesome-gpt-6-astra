@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**199** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**200** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 25
+- [竞速 / 驾驶](#竞速--驾驶) — 26
 - [射击 / 动作](#射击--动作) — 20
 - [模拟经营 / 策略](#模拟经营--策略) — 12
 - [联机 / 多人](#联机--多人) — 11
@@ -187,6 +187,11 @@
    - 试玩链接：`https://wildwake-rally.vercel.app/`
    - 原帖：https://x.com/DefyEntropyV/status/2100226359649820721
    - 备注：森林 / 山路 / 海岸拉力：Astra 搓的浏览器竞速，打开就能开
+
+26. **Trailer Sprint · Yesterday Arcade** — [试玩](https://yesterdayarcade.com) · [原帖](https://x.com/YesterdayArcade/status/2100462073721548965)
+   - 试玩链接：`https://yesterdayarcade.com`
+   - 原帖：https://x.com/YesterdayArcade/status/2100462073721548965
+   - 备注：病毒视频→可玩 3D：追移动拖车、爬坡、刹车泊车 · Astra + Codex 首作，打开就能飙
 
 
 ## 射击 / 动作
