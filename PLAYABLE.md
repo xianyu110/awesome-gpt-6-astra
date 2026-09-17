@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**191** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-16
+- 收录：**197** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
-- [竞速 / 驾驶](#竞速--驾驶) — 24
+- [竞速 / 驾驶](#竞速--驾驶) — 25
 - [射击 / 动作](#射击--动作) — 20
 - [模拟经营 / 策略](#模拟经营--策略) — 11
-- [联机 / 多人](#联机--多人) — 9
-- [街机 / 小游戏包](#街机--小游戏包) — 21
+- [联机 / 多人](#联机--多人) — 10
+- [街机 / 小游戏包](#街机--小游戏包) — 23
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 10
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 44
-- [工程 / 仿真](#工程--仿真) — 15
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 45
+- [工程 / 仿真](#工程--仿真) — 16
 - [其他可玩 Demo](#其他可玩-Demo) — 11
 
 ## 经典复刻 / 知名玩法
@@ -182,6 +182,11 @@
    - 试玩链接：`https://tayttm.github.io/race-jimothy/`
    - 原帖：https://x.com/YutingM84881/status/2099737945414750718
    - 备注：画轨开跑的浣熊竞速：GPT-6 Astra 搓的 draw-to-race，打开就能飙
+
+25. **Wildwake Rally** — [试玩](https://wildwake-rally.vercel.app/) · [原帖](https://x.com/DefyEntropyV/status/2100226359649820721) · ❤ 2
+   - 试玩链接：`https://wildwake-rally.vercel.app/`
+   - 原帖：https://x.com/DefyEntropyV/status/2100226359649820721
+   - 备注：森林 / 山路 / 海岸拉力：Astra 搓的浏览器竞速，打开就能开
 
 
 ## 射击 / 动作
@@ -368,6 +373,11 @@
    - 原帖：https://x.com/chongdashu/status/2100207494375285029
    - 备注：多人食堂配方大盗：组队偷秘方别被抓，GPT-6 Astra + Blender，Wasm+WebGPU 浏览器开黑
 
+10. **Tideglass Hunt** — [试玩](https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/) · [原帖](https://x.com/Tim_LB/status/2100212668778828172) · ❤ 2
+   - 试玩链接：`https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/`
+   - 原帖：https://x.com/Tim_LB/status/2100212668778828172
+   - 备注：多人 3D 海岸猎手：Astra + Fable + DeepSeek 出资产，自定义 three.js 引擎，浏览器联机
+
 
 ## 街机 / 小游戏包
 
@@ -464,6 +474,15 @@
    - 原帖：https://x.com/TokenGremlin/status/2100152995203760614
    - 备注：东京打击练习：Astra 一键在 Rezona 搓出的霓虹棒球馆，挥棒时机跟得上
 
+22. **Starship Foundry · Isometric Flight Lab** — [试玩](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [原帖](https://x.com/Aaron_Wacker/status/2100382539697254828) · ❤ 2
+   - 试玩链接：`https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html`
+   - 原帖：https://x.com/Aaron_Wacker/status/2100382539697254828
+   - 备注：等距造船再飞：拼零件、绑舱体，进关卡做特技 / Zaxxon 风跳跃 · Three.js + Astra
+
+23. **POCKET_01 · Personal Game System** — [试玩](https://devoshub.com/) · [原帖](https://x.com/LeHari_eth/status/2100392850823471600) · ❤ 1
+   - 试玩链接：`https://devoshub.com/`
+   - 原帖：https://x.com/LeHari_eth/status/2100392850823471600
+   - 备注：浏览器复古掌机：单色手持机 + Snake 等小游戏，本地记忆 · Astra vibe coding
 
 
 ## 音乐 / 表演
@@ -765,6 +784,11 @@
    - 原帖：https://x.com/WescheNex1q/status/2100043868565561533
    - 备注：同款 Three.js 出海 prompt 四模型对打，Astra 赢了海洋：金色黄昏慢帆，耳机一戴就开漂
 
+45. **Space Storage** — [试玩](https://space-storage.mandeeplabs.com/) · [原帖](https://x.com/copmanually/status/2100393684898386260)
+   - 试玩链接：`https://space-storage.mandeeplabs.com/`
+   - 原帖：https://x.com/copmanually/status/2100393684898386260
+   - 备注：3D 仓储营销展：可走仓库、开仓、比尺寸，帮客户想象单位能装啥 · GPT-6 Astra
+
 
 ## 工程 / 仿真
 
@@ -831,6 +855,11 @@
    - 试玩链接：`https://jarvici.wengsiong22.chatgpt.site/`
    - 原帖：https://x.com/apprentice17/status/2100111010229309921
    - 备注：Astra 黑客松新加坡：语音优先二手车检测，3D 拆解零件 + 口述验车出报告（真试玩站，非 gallery 投票页）
+
+16. **LandSculpt — landscape design studio** — [试玩](https://landsculpt-studio.hueezer.chatgpt.site/) · [原帖](https://x.com/hueezer/status/2100318258549383197) · ❤ 1
+   - 试玩链接：`https://landsculpt-studio.hueezer.chatgpt.site/`
+   - 原帖：https://x.com/hueezer/status/2100318258549383197
+   - 备注：3D 园艺景观工作室：种植、生长、四季与地底层 · Astra 几天搓出模型+网页+宣传片
 
 
 ## 其他可玩 Demo
