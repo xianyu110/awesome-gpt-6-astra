@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-8d759ffa1e13d524",
+      "name": "Frostbound · Icy Tower",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Icy Tower 风爬塔：墙跳连招、每日塔、可和朋友竞速；Astra 出品，Netlify + CrazyGames 都能开玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "SafaElmali",
+        "url": "https://x.com/SafaElmali"
+      },
+      "demoUrl": "https://icy-tower-frostbound.netlify.app/",
+      "sourceUrl": "https://x.com/SafaElmali/status/2100562918937165996",
+      "repoUrl": "https://github.com/SafaElmali/icy-tower-frostbound",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Ficy-tower-frostbound.netlify.app%2Ffrostbound-cover.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Ficy-tower-frostbound.netlify.app%2Ffrostbound-cover.png",
+      "videoUrl": null,
+      "sourceOrder": -1129
+    },
+    {
       "id": "work-b2efcd6779452501",
       "name": "Mog Mode · Yesterday Arcade",
       "description": "可玩 Demo · 街机 / 小游戏包 · 科技 CEO 握手对决恶搞小品：Astra+Codex，Yesterday Arcade 第二作，打开就能 mog",
@@ -15682,9 +15700,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T10:52:04.000Z",
-    "lastSuccessfulAt": "2026-09-17T10:52:04.000Z",
-    "revision": "playable-sync-20260917-1850",
+    "checkedAt": "2026-09-17T14:05:49.000Z",
+    "lastSuccessfulAt": "2026-09-17T14:05:49.000Z",
+    "revision": "playable-sync-20260917-2203",
     "stale": false,
     "status": "fresh"
   },

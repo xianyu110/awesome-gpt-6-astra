@@ -2,13 +2,13 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**206** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**207** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-17
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 14
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
 - [竞速 / 驾驶](#竞速--驾驶) — 26
 - [射击 / 动作](#射击--动作) — 22
 - [模拟经营 / 策略](#模拟经营--策略) — 12
@@ -73,6 +73,11 @@
    - 试玩链接：`https://stadium-elite.mindblown.ai`
    - 原帖：https://x.com/askmaddyy/status/2098018810192375832
    - 备注：浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩
+
+15. **Frostbound · Icy Tower** — [试玩](https://icy-tower-frostbound.netlify.app/) · [原帖](https://x.com/SafaElmali/status/2100562918937165996)
+   - 试玩链接：`https://icy-tower-frostbound.netlify.app/`
+   - 原帖：https://x.com/SafaElmali/status/2100562918937165996
+   - 备注：Icy Tower 风爬塔：墙跳连招、每日塔、可和朋友竞速；Astra 出品，Netlify + CrazyGames 都能开玩
 
 
 ## 竞速 / 驾驶
