@@ -36,11 +36,11 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-09-17T07:38:20+00:00`
+最后同步：`2026-09-18T07:23:37+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `4bdd08082be1` | 是 |
+| `MartinDelophy/awesome-gpt-6-astra` | `3ab458b2d247` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `未知` | 否 |
@@ -647,7 +647,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## 自动同步上游内容
 
-> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-17T07:38:20+00:00`。人工精选区保持不变。
+> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-18T07:23:37+00:00`。人工精选区保持不变。
 
 <!-- BEGIN AUTO-SYNC CONTENT -->
 
@@ -659,7 +659,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 129](https://img.shields.io/badge/Cases-129-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 140](https://img.shields.io/badge/Cases-140-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -675,11 +675,11 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **129 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
+Explore **140 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
-Catalog updated: **2026-09-17**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
+Catalog updated: **2026-09-18**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
-Latest additions: [10 more browser games discovered across the web](docs/browser-games-2026-09-17.md), with gameplay screenshots, creator sources and access checks. [September 16's 10 additions](docs/browser-games-2026-09-16.md). [September 15's 10 additions](docs/browser-games-2026-09-15.md). [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
+Latest additions: [10 more browser games discovered across the web](docs/browser-games-2026-09-18.md), with gameplay screenshots, creator sources and access checks. [September 17's 10 additions](docs/browser-games-2026-09-17.md). [September 16's 10 additions](docs/browser-games-2026-09-16.md). [September 15's 10 additions](docs/browser-games-2026-09-15.md). [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
 
 - **Looking for something to play?** Browse the genres below.
 - **Built a game?** [Submit your project](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml) with a direct browser game link, a gameplay screenshot, and a description of how you used GPT-6 Astra.
@@ -706,6 +706,13 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
   - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
   - Preview: ![Mosswing start screen showing the flying character and gaps between stone pillars.](assets/screenshots/mosswing/gameplay.jpg)
+
+- **[Astra Floor](https://astrafloor.berochlu.workers.dev/)** — Survive escalating zombie waves in a 3D first-person shooter with recoil control, stamina management, katana attacks and a final boss.
+  - Creator: [BEROCHLU](https://github.com/BEROCHLU)
+  - Platform: Desktop browser with WebGL; keyboard and mouse. Free, no login or installation, according to the creator.
+  - GPT-6 Astra: [Issue #96](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) — The creator credits GPT-6 Astra with architecture, procedural 3D generation and Web Audio synthesis; Antigravity 2.0 handled additional implementation and refinement.
+  - Resources: [Source](https://github.com/BEROCHLU/astrafloor) · React, Three.js, TypeScript, Web Audio · [2026-09-18](assets/screenshots/astra-floor/SOURCE.md)
+  - Preview: ![Screenshot supplied by the creator: rifle combat against a zombie wave.](assets/screenshots/astra-floor/gameplay.png)
 
 - **[Stadium Elite — El Clásico](https://stadium-elite.mindblown.ai/)** — Play an 11-a-side Barcelona–Real Madrid football match, passing, shooting and switching players in a 3D stadium.
   - Creator: [Mindblown / @mind](https://mindblown.ai/@mind)
@@ -913,6 +920,36 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - Platform: Browser; Japanese interface, with mouse, touch and arrow-key controls. Free, no login.
   - GPT-6 Astra: [X](https://x.com/Kazumib0/status/2100129970236334179) — The creator supplied character artwork and used GPT-6 Astra in Codex to turn it into the browser collection game. [Verification notes](assets/screenshots/komorebi-kinomi/SOURCE.md).
   - Preview: ![A forest spirit catching falling nuts, with 10 points and 16 seconds remaining.](assets/screenshots/komorebi-kinomi/gameplay.jpg)
+
+- **[PATCH](https://agentgames.dev/play/patch)** — Guide a mochi explorer out of safe territory and close loops to claim land while fourteen computer rivals threaten exposed trails.
+  - Creator: [Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - Platform: Browser; keyboard or touch, free anonymous play. Run scores are sent to a public leaderboard.
+  - GPT-6 Astra: [Creator listing](https://agentgames.dev/play/patch) — The creator's listing identifies GPT-6 Astra as the coding model and publishes the territory-capture game brief. [Verification notes](assets/screenshots/patch/SOURCE.md).
+  - Preview: ![PATCH's lime mochi, starting territory and neighborhood ranking.](assets/screenshots/patch/gameplay.jpg)
+
+- **[DEADBLOCK: Outbreak](https://agentgames.dev/play/deadblock-outbreak)** — Survive escalating zombie waves across six maps, scavenge supplies and unlock weapons, barricades and field upgrades.
+  - Creator: [Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - Platform: Browser; keyboard/mouse or touch, free without login. Run scores are automatically sent to Agent Games.
+  - GPT-6 Astra: [Creator listing](https://agentgames.dev/play/deadblock-outbreak) — The creator's listing attributes the browser shooter code to GPT-6 Astra and supplies its build-and-refine prompt. [Verification notes](assets/screenshots/deadblock-outbreak/SOURCE.md).
+  - Preview: ![Rook in Green Acres with pistol inventory, minimap and wave HUD.](assets/screenshots/deadblock-outbreak/gameplay.jpg)
+
+- **[Dropzone Royale](https://agentgames.dev/play/dropzone-royale)** — Drop onto an island against 39 bots, search buildings for equipment and stay ahead of a shrinking storm in a top-down battle royale.
+  - Creator: [Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - Platform: Desktop browser; keyboard and mouse, free without login. Career kills feed a public leaderboard.
+  - GPT-6 Astra: [Creator listing](https://agentgames.dev/play/dropzone-royale) — The creator's listing names GPT-6 Astra as the coding model and publishes the battle-royale development prompt. [Verification notes](assets/screenshots/dropzone-royale/SOURCE.md).
+  - Preview: ![Rookie inside a supply building with loose equipment, inventory and storm countdown.](assets/screenshots/dropzone-royale/gameplay.jpg)
+
+- **[Mog Mode](https://yesterdayarcade.com/games/mog-mode/)** — Choose a caricatured tech CEO and time five handshakes against an oversized rival; four successful shakes win the photo-op in this unofficial parody.
+  - Creator: [Dylan Elder / Yesterday Arcade](https://x.com/YesterdayArcade)
+  - Platform: Browser; tap or Space, free without login.
+  - GPT-6 Astra: [X](https://x.com/YesterdayArcade/status/2100510743422734658) — The creator identifies this original parody timing game as built with GPT-6 Astra in Codex. [Verification notes](assets/screenshots/mog-mode/SOURCE.md).
+  - Preview: ![Mog Mode parody handshake, round 4 of 5 and timing bar.](assets/screenshots/mog-mode/gameplay.jpg)
+
+- **[The Crownless](https://www.spawn.co/@izkimar/the-crownless/play)** — Fight up a sandstone citadel with brawler combos, reap souls for new powers and build a run toward the king, losing combat progress on death.
+  - Creator: [Izkimar](https://x.com/Izkimar)
+  - Platform: Browser with WebGPU; keyboard and mouse. The checked public run started without an account; online service required.
+  - GPT-6 Astra: [X](https://x.com/Izkimar/status/2100753871903855095) — The creator credits Astra inside Spawn for building this action roguelike and iterating on it while playing. [Verification notes](assets/screenshots/the-crownless/SOURCE.md).
+  - Preview: ![The Crownless at the sandstone citadel entrance with health, camp objective and fighting arts.](assets/screenshots/the-crownless/gameplay.jpg)
 
 ### Puzzles & brain games
 
@@ -1183,6 +1220,24 @@ Tower defense, strategic card games, management games, building, and simulation 
   - GPT-6 Astra: [X](https://x.com/WescheNex1q/status/2100043868565561533) — The creator compared four models on the same Three.js boat-game prompt and explicitly identifies this URL as the Astra version. [Verification notes](assets/screenshots/sundrift/SOURCE.md).
   - Preview: ![A small motorboat between sunlit islands, with a nearby-water chart and distance sailed.](assets/screenshots/sundrift/gameplay.jpg)
 
+- **[VeilFall: The Hollow War](https://agentgames.dev/play/veilfall)** — Play Ilyra in a three-lane 5v5 bot battle, cast light spells, buy relics and push towers toward the enemy core.
+  - Creator: [aronewshop](https://agentgames.dev/u/aronewshop)
+  - Platform: Desktop browser; keyboard and mouse, free without login. Early prototype with bots; no online multiplayer.
+  - GPT-6 Astra: [Creator listing](https://agentgames.dev/play/veilfall) — The creator's listing identifies GPT-6 Astra as the model that wrote this single-player MOBA prototype. [Verification notes](assets/screenshots/veilfall-hollow-war/SOURCE.md).
+  - Preview: ![Ilyra beside the home core with Thorn Prism equipped and attack 58.](assets/screenshots/veilfall-hollow-war/gameplay.jpg)
+
+- **[Minimum Rage](https://minimum-rage.fastandlucid.chatgpt.site/)** — Help Kevin keep his restaurant job by taking orders, fetching food and serving eight customers before too many leave.
+  - Creator: [fastandlucid](https://x.com/FastandLucid)
+  - Platform: Browser; keyboard or click-to-move controls, free without login.
+  - GPT-6 Astra: [X](https://x.com/FastandLucid/status/2100594128547704950) — The creator reports building this 3D world with mini-games and side quests in two days using GPT-6 Astra. [Verification notes](assets/screenshots/minimum-rage/SOURCE.md).
+  - Preview: ![Kevin's voxel restaurant with three customers and a fries order ticket.](assets/screenshots/minimum-rage/gameplay.jpg)
+
+- **[Cabsolutely](https://cabsolutely.vercel.app/)** — Drive a taxi around San Francisco's Financial District, collect passengers and work toward a daily fare target while watching the cab's condition.
+  - Creator: [ilker](https://x.com/ailker)
+  - Platform: Desktop browser; free without login. Initial district assets are about 175 MB; the first load failed here and Retry succeeded.
+  - GPT-6 Astra: [X](https://x.com/ailker/status/2100705949468000655) — The creator credits GPT-6 Astra together with fal for making this taxi game and shares its playable build and code. [Verification notes](assets/screenshots/cabsolutely/SOURCE.md).
+  - Preview: ![Cabsolutely taxi on Mission Street, traffic, minimap and daily fare target.](assets/screenshots/cabsolutely/gameplay.jpg)
+
 ### RPGs & adventures
 
 Role-playing, exploration, narrative adventures, and interactive stories.
@@ -1294,6 +1349,12 @@ Role-playing, exploration, narrative adventures, and interactive stories.
   - GPT-6 Astra: [Reddit](https://www.reddit.com/r/OpenAI/comments/1wble8s/agi_is_solved_just_asked_astra_to_make_me_gta_vi/) — The creator reports using GPT-6 Astra on high effort to build the Luau gameplay and in-engine trailer for the Zero engine. [Verification notes](assets/screenshots/gta-vi-ps1-demake/SOURCE.md).
   - Resources: [Creator's world page](https://origozero.ai/world/Deata/gta-vi-psx)
   - Preview: ![Lucia in the playable Vice City street with SMG, police and a one-star wanted indicator.](assets/screenshots/gta-vi-ps1-demake/gameplay.jpg)
+
+- **[Don't Look Away — Saint Orison](https://weeping-angels.vercel.app/)** — Restore power and find an escape key in a dark chapel while stone angels approach whenever you cannot see them, making every blink a risk.
+  - Creator: [Blendi](https://x.com/BlendiByl)
+  - Platform: Desktop browser; keyboard and mouse, headphones recommended. Free without login or API keys; contains horror imagery.
+  - GPT-6 Astra: [X](https://x.com/BlendiByl/status/2100442177159729336) — The creator used GPT-6 Astra in Codex to iterate on gameplay, lighting and audio; fal tools supplied assets, with Blender cleanup and Three.js integration. [Verification notes](assets/screenshots/dont-look-away/SOURCE.md).
+  - Preview: ![Saint Orison's chapel aisle, stone angels, flashlight and electrical-panel objective.](assets/screenshots/dont-look-away/gameplay.jpg)
 
 ### Platformers & racing
 
@@ -1473,6 +1534,12 @@ Parkour, platform challenges, racing, and games built around movement and routes
   - GPT-6 Astra: [X](https://x.com/DefyEntropyV/status/2100226359649820721) — The creator identifies Astra as the model used to create this rally game and links the playable build. [Verification notes](assets/screenshots/wildwake-rally/SOURCE.md).
   - Preview: ![An orange rally car on a mountain road during lap one, with timer and speed visible.](assets/screenshots/wildwake-rally/gameplay.jpg)
 
+- **[Icy Tower — Frostbound](https://icy-tower-frostbound.netlify.app/)** — Climb an icy tower by chaining jumps and wall jumps, building momentum and escaping the rising frost, with classic and daily challenges.
+  - Creator: [Tahsin Safa Elmalı](https://x.com/SafaElmali)
+  - Platform: Browser; keyboard or on-screen controls, free without login.
+  - GPT-6 Astra: [X](https://x.com/SafaElmali/status/2100562918937165996) — The creator explicitly credits GPT-6 Astra for developing this Icy Tower-inspired game, including wall jumps, combo boosts and daily towers. [Verification notes](assets/screenshots/frostbound/SOURCE.md).
+  - Preview: ![Frostbound's starting ice platforms, climber, floor counter and climb goal.](assets/screenshots/frostbound/gameplay.jpg)
+
 ### Experimental & multiplayer
 
 Unusual mechanics, online competition, and cooperative experiences.
@@ -1574,7 +1641,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 129](https://img.shields.io/badge/Cases-129-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 140](https://img.shields.io/badge/Cases-140-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -1590,11 +1657,11 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **129 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **140 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
-目录更新：**2026-09-17**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+目录更新：**2026-09-18**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
-最新新增：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-17.md)，附实机截图、作者依据与入口核验。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
+最新新增：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-18.md)，附实机截图、作者依据与入口核验。[9 月 17 日新增的 10 款](docs/browser-games-2026-09-17.md)。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
 - **想玩游戏：** 从下面的分类寻找你喜欢的玩法。
 - **做了游戏：** [提交你的作品](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/new?template=submit-game.yml)，附上在线游戏直达入口、实机截图，以及使用 GPT-6 Astra 的说明。
@@ -1621,6 +1688,13 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
   - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
   - 预览：![Mosswing 起始画面：飞行角色与石柱之间的障碍间隙。](assets/screenshots/mosswing/gameplay.jpg)
+
+- **[Astra Floor](https://astrafloor.berochlu.workers.dev/)** — 3D 第一人称僵尸生存射击：控制后坐力、管理冲刺体力，使用武士刀抵御逐渐增强的敌潮并挑战最终首领。
+  - 作者: [BEROCHLU](https://github.com/BEROCHLU)
+  - 平台: 支持 WebGL 的桌面浏览器；键盘与鼠标。作者说明免费、无需登录或安装。
+  - GPT-6 Astra: [Issue #96](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) — 作者说明 GPT-6 Astra 参与项目架构、程序化 3D 生成和 Web Audio 音效合成，Antigravity 2.0 参与其余实现与迭代完善。
+  - 开发资料: [源码](https://github.com/BEROCHLU/astrafloor) · React, Three.js, TypeScript, Web Audio · [2026-09-18](assets/screenshots/astra-floor/SOURCE.md)
+  - 预览: ![作者提供的实机截图：使用步枪迎战僵尸群。](assets/screenshots/astra-floor/gameplay.png)
 
 - **[Stadium Elite — El Clásico](https://stadium-elite.mindblown.ai/)** — 在 3D 球场进行巴塞罗那对皇家马德里的 11 人制比赛，传球、射门并切换球员。
   - 作者: [Mindblown / @mind](https://mindblown.ai/@mind)
@@ -1828,6 +1902,36 @@ Original curated text and artwork in this repository are dedicated to the public
   - 平台：浏览器；日文界面，支持鼠标、触摸与方向键。免费，无需登录。
   - GPT-6 Astra：[X](https://x.com/Kazumib0/status/2100129970236334179) — 作者提供角色图片，再使用 Codex 中的 GPT-6 Astra 将其制作成浏览器采集游戏。 [核验记录](assets/screenshots/komorebi-kinomi/SOURCE.md)。
   - 预览：![森林精灵接住落下的木果，显示 10 分与剩余 16 秒。](assets/screenshots/komorebi-kinomi/gameplay.jpg)
+
+- **[PATCH](https://agentgames.dev/play/patch)** — 操纵麻薯小人离开安全领地，画出闭环圈地，同时躲避十四名电脑对手对暴露路径的截击。
+  - 作者：[Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - 平台：浏览器；键盘或触屏，免费匿名开玩。回合分数会发送到公开排行榜。
+  - GPT-6 Astra：[作者发布页](https://agentgames.dev/play/patch) — 作者发布页标明代码由 GPT-6 Astra 编写，并公开圈地玩法的提示词。 [核验记录](assets/screenshots/patch/SOURCE.md)。
+  - 预览：![PATCH's lime mochi, starting territory and neighborhood ranking.](assets/screenshots/patch/gameplay.jpg)
+
+- **[DEADBLOCK: Outbreak](https://agentgames.dev/play/deadblock-outbreak)** — 在六张地图中抵御逐步增强的丧尸波次，搜寻补给并解锁武器、路障与战地强化。
+  - 作者：[Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - 平台：浏览器；键鼠或触屏，免费免登录。回合分数会自动发送到 Agent Games。
+  - GPT-6 Astra：[作者发布页](https://agentgames.dev/play/deadblock-outbreak) — 作者发布页将浏览器射击游戏代码归于 GPT-6 Astra，并提供制作与迭代提示词。 [核验记录](assets/screenshots/deadblock-outbreak/SOURCE.md)。
+  - 预览：![Rook in Green Acres with pistol inventory, minimap and wave HUD.](assets/screenshots/deadblock-outbreak/gameplay.jpg)
+
+- **[Dropzone Royale](https://agentgames.dev/play/dropzone-royale)** — 空降岛屿与 39 名电脑对手竞争，搜查建筑寻找装备，在俯视角生存竞技中躲避逐步收缩的风暴。
+  - 作者：[Drakoniux](https://agentgames.dev/u/Drakoniux)
+  - 平台：桌面浏览器；键鼠操作，免费免登录。累计击杀用于公开排行榜。
+  - GPT-6 Astra：[作者发布页](https://agentgames.dev/play/dropzone-royale) — 作者发布页标明使用 GPT-6 Astra 编写代码，并公开生存竞技游戏开发提示词。 [核验记录](assets/screenshots/dropzone-royale/SOURCE.md)。
+  - 预览：![Rookie inside a supply building with loose equipment, inventory and storm countdown.](assets/screenshots/dropzone-royale/gameplay.jpg)
+
+- **[Mog Mode](https://yesterdayarcade.com/games/mog-mode/)** — 选择科技公司 CEO 的夸张角色，在五次握手中抓准时机，成功四次赢得合照主角位置；属于非官方恶搞作品。
+  - 作者：[Dylan Elder / Yesterday Arcade](https://x.com/YesterdayArcade)
+  - 平台：浏览器；点击或空格操作，免费免登录。
+  - GPT-6 Astra：[X](https://x.com/YesterdayArcade/status/2100510743422734658) — 作者明确说明这款原创恶搞节奏游戏使用 Codex 中的 GPT-6 Astra 制作。 [核验记录](assets/screenshots/mog-mode/SOURCE.md)。
+  - 预览：![Mog Mode parody handshake, round 4 of 5 and timing bar.](assets/screenshots/mog-mode/gameplay.jpg)
+
+- **[The Crownless](https://www.spawn.co/@izkimar/the-crownless/play)** — 以格斗连招攻上砂岩城塞，收集灵魂获得新能力，逐步挑战国王；死亡会失去本轮战斗进度。
+  - 作者：[Izkimar](https://x.com/Izkimar)
+  - 平台：支持 WebGPU 的浏览器；键鼠操作。本次公开入口无需账号即可开局，依赖在线服务。
+  - GPT-6 Astra：[X](https://x.com/Izkimar/status/2100753871903855095) — 作者将这款动作 roguelike 的制作归于 Spawn 中的 Astra，并描述边试玩边迭代的过程。 [核验记录](assets/screenshots/the-crownless/SOURCE.md)。
+  - 预览：![The Crownless at the sandstone citadel entrance with health, camp objective and fighting arts.](assets/screenshots/the-crownless/gameplay.jpg)
 
 ### 解谜与益智
 
@@ -2098,6 +2202,24 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[X](https://x.com/WescheNex1q/status/2100043868565561533) — 作者用同一 Three.js 船艇游戏提示对比四个模型，明确将此入口标注为 Astra 版本。 [核验记录](assets/screenshots/sundrift/SOURCE.md)。
   - 预览：![小艇航行在夕照群岛之间，显示局部海图与累计航程。](assets/screenshots/sundrift/gameplay.jpg)
 
+- **[VeilFall: The Hollow War](https://agentgames.dev/play/veilfall)** — 扮演 Ilyra 参加三路 5v5 电脑对战，施放光系技能、购买遗物，推进防御塔并摧毁敌方核心。
+  - 作者：[aronewshop](https://agentgames.dev/u/aronewshop)
+  - 平台：桌面浏览器；键鼠操作，免费免登录。早期电脑对战原型，不含在线多人。
+  - GPT-6 Astra：[作者发布页](https://agentgames.dev/play/veilfall) — 作者发布页明确标注这款单人 MOBA 原型由 GPT-6 Astra 编写。 [核验记录](assets/screenshots/veilfall-hollow-war/SOURCE.md)。
+  - 预览：![Ilyra beside the home core with Thorn Prism equipped and attack 58.](assets/screenshots/veilfall-hollow-war/gameplay.jpg)
+
+- **[Minimum Rage](https://minimum-rage.fastandlucid.chatgpt.site/)** — 帮助 Kevin 保住餐厅工作：接单、取餐并服务八位顾客，避免过多客人失去耐心离开。
+  - 作者：[fastandlucid](https://x.com/FastandLucid)
+  - 平台：浏览器；键盘或点击移动操作，免费免登录。
+  - GPT-6 Astra：[X](https://x.com/FastandLucid/status/2100594128547704950) — 作者说明使用 GPT-6 Astra，花两天制作了包含小游戏与支线任务的 3D 世界。 [核验记录](assets/screenshots/minimum-rage/SOURCE.md)。
+  - 预览：![Kevin's voxel restaurant with three customers and a fries order ticket.](assets/screenshots/minimum-rage/gameplay.jpg)
+
+- **[Cabsolutely](https://cabsolutely.vercel.app/)** — 驾驶出租车穿行旧金山金融区，接送乘客赚取每日目标车费，并留意车辆状况。
+  - 作者：[ilker](https://x.com/ailker)
+  - 平台：桌面浏览器；免费免登录。首次街区资源约 175 MB，本次首次加载失败，点击重试后成功。
+  - GPT-6 Astra：[X](https://x.com/ailker/status/2100705949468000655) — 作者说明这款出租车游戏由 GPT-6 Astra 与 fal 配合制作，并分享在线入口与代码。 [核验记录](assets/screenshots/cabsolutely/SOURCE.md)。
+  - 预览：![Cabsolutely taxi on Mission Street, traffic, minimap and daily fare target.](assets/screenshots/cabsolutely/gameplay.jpg)
+
 ### RPG 与冒险
 
 角色扮演、探索、叙事冒险与互动故事。
@@ -2209,6 +2331,12 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[Reddit](https://www.reddit.com/r/OpenAI/comments/1wble8s/agi_is_solved_just_asked_astra_to_make_me_gta_vi/) — 作者称使用 GPT-6 Astra 高推理档为 Zero 引擎制作 Luau 玩法与引擎内预告片。[核验记录](assets/screenshots/gta-vi-ps1-demake/SOURCE.md)。
   - 开发资料：[作者作品页](https://origozero.ai/world/Deata/gta-vi-psx)
   - 预览：![Lucia 位于可玩的 Vice City 街区，显示冲锋枪、警察及一星通缉。](assets/screenshots/gta-vi-ps1-demake/gameplay.jpg)
+
+- **[Don't Look Away — Saint Orison](https://weeping-angels.vercel.app/)** — 在黑暗教堂中恢复供电并寻找逃生钥匙；石像天使会在看不见它们时逼近，每次眨眼都伴随风险。
+  - 作者：[Blendi](https://x.com/BlendiByl)
+  - 平台：桌面浏览器；键鼠操作，建议佩戴耳机。免费免登录或 API 密钥，含恐怖画面。
+  - GPT-6 Astra：[X](https://x.com/BlendiByl/status/2100442177159729336) — 作者使用 Codex 中的 GPT-6 Astra 迭代玩法、光照与音频；素材由 fal 工具生成，经 Blender 整理后导入 Three.js。 [核验记录](assets/screenshots/dont-look-away/SOURCE.md)。
+  - 预览：![Saint Orison's chapel aisle, stone angels, flashlight and electrical-panel objective.](assets/screenshots/dont-look-away/gameplay.jpg)
 
 ### 平台跳跃与竞速
 
@@ -2387,6 +2515,12 @@ Original curated text and artwork in this repository are dedicated to the public
   - 平台：浏览器；桌面键盘操作。免费，无需账号；不填写车手名也能进入 Practice solo。
   - GPT-6 Astra：[X](https://x.com/DefyEntropyV/status/2100226359649820721) — 作者将这款拉力赛车标注为使用 Astra 创建，并在原帖提供在线版本。 [核验记录](assets/screenshots/wildwake-rally/SOURCE.md)。
   - 预览：![橙色赛车位于山地公路第一圈，界面显示计时与速度。](assets/screenshots/wildwake-rally/gameplay.jpg)
+
+- **[Icy Tower — Frostbound](https://icy-tower-frostbound.netlify.app/)** — 在冰塔中连跳、墙跳并积累动量，逃离不断升高的冰霜，提供经典模式与每日挑战。
+  - 作者：[Tahsin Safa Elmalı](https://x.com/SafaElmali)
+  - 平台：浏览器；键盘或屏幕按钮，免费免登录。
+  - GPT-6 Astra：[X](https://x.com/SafaElmali/status/2100562918937165996) — 作者明确说明用 GPT-6 Astra 开发这款受 Icy Tower 启发的游戏，包含墙跳、连跳加速与每日挑战塔。 [核验记录](assets/screenshots/frostbound/SOURCE.md)。
+  - 预览：![Frostbound's starting ice platforms, climber, floor counter and climb goal.](assets/screenshots/frostbound/gameplay.jpg)
 
 ### 实验玩法与多人游戏
 
