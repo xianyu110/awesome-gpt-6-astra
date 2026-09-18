@@ -1,5 +1,19 @@
 [
   {
+    "title": "Cabsolutely",
+    "demo_url": "https://cabsolutely.vercel.app/",
+    "post_url": "https://x.com/ailker/status/2100705949468000655",
+    "likes": 6,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "The Crownless",
+    "demo_url": "https://www.spawn.co/@izkimar/the-crownless/play",
+    "post_url": "https://x.com/Izkimar/status/2100753871903855095",
+    "likes": 20,
+    "category": "射击 / 动作"
+  },
+  {
     "title": "Frostbound · Icy Tower",
     "demo_url": "https://icy-tower-frostbound.netlify.app/",
     "post_url": "https://x.com/SafaElmali/status/2100562918937165996",
