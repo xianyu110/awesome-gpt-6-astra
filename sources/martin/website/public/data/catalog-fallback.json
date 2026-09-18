@@ -1,27 +1,9 @@
 {
   "works": [
     {
-      "id": "work-70ba9e0259488207",
-      "name": "Cabsolutely",
-      "description": "可玩 Demo · 模拟经营 / 策略 · 旧金山出租车调度 3D 玩法：Astra + fal + Three.js 短时间搓出来，开源可 fork；Vercel 直玩 · ❤ 6",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
-      "author": {
-        "name": "ailker",
-        "url": "https://x.com/ailker"
-      },
-      "demoUrl": "https://cabsolutely.vercel.app/",
-      "sourceUrl": "https://x.com/ailker/status/2100705949468000655",
-      "repoUrl": "https://github.com/ilkerzg/cabsolutely",
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1132
-    },
-    {
       "id": "work-6e56f7a2e3127efb",
       "name": "The Crownless",
-      "description": "可玩 Demo · 射击 / 动作 · 动作 Roguelike：在 Spawn 里用 Astra 边玩边改，无需停下来重新部署；一天搓出来的实机可玩版 · ❤ 20",
+      "description": "可玩 Demo · 射击 / 动作 · 动作肉鸽：一天多一点用 Astra 在 Spawn 里做出；边玩边改、几乎不被打断",
       "category": "game",
       "sourceCategory": "PLAYABLE · 射击 / 动作",
       "author": {
@@ -34,7 +16,61 @@
       "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100753501940809729%2Fimg%2Ff53bBSn0KO5xt3yA.jpg",
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100753501940809729%2Fimg%2Ff53bBSn0KO5xt3yA.jpg",
       "videoUrl": null,
+      "sourceOrder": -1132
+    },
+    {
+      "id": "work-70ba9e0259488207",
+      "name": "Cabsolutely",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 旧金山出租车调度：Astra + fal + Three.js 一晚搓出的可开可派单小游戏；OSS 开源，Vercel 直玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "ailker",
+        "url": "https://x.com/ailker"
+      },
+      "demoUrl": "https://cabsolutely.vercel.app/",
+      "sourceUrl": "https://x.com/ailker/status/2100705949468000655",
+      "repoUrl": "https://github.com/ilkerzg/cabsolutely",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
+      "videoUrl": null,
       "sourceOrder": -1133
+    },
+    {
+      "id": "work-12a49b084dc58a26",
+      "name": "Until the Crown Falls",
+      "description": "可玩 Demo · 射击 / 动作 · 三天 Astra + Fable 在 Spawn 上的王冠陨落冒险；打开就能玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Bran_The_Broke",
+        "url": "https://x.com/Bran_The_Broke"
+      },
+      "demoUrl": "https://www.spawn.co/@branthebroke/until-the-crown-falls/play",
+      "sourceUrl": "https://x.com/Bran_The_Broke/status/2100592457767325759",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100591880601825281%2Fimg%2F-MgmlVbAP8km3WHE.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100591880601825281%2Fimg%2F-MgmlVbAP8km3WHE.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1134
+    },
+    {
+      "id": "work-cc5ec2008c00529d",
+      "name": "Minimum Rage",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 体素小岛：小游戏、支线任务……还有 KEVIN；Astra 搓的 3D 世界，打开就能逛",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "FastandLucid",
+        "url": "https://x.com/FastandLucid"
+      },
+      "demoUrl": "https://minimum-rage.fastandlucid.chatgpt.site/",
+      "sourceUrl": "https://x.com/FastandLucid/status/2100594128547704950",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100593915674169344%2Fimg%2FAfpN8SGFGDTg-udi.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100593915674169344%2Fimg%2FAfpN8SGFGDTg-udi.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1135
     },
     {
       "id": "work-8d759ffa1e13d524",
@@ -15772,9 +15808,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-18T02:49:30.000Z",
-    "lastSuccessfulAt": "2026-09-18T02:49:30.000Z",
-    "revision": "playable-sync-20260918-1047",
+    "checkedAt": "2026-09-18T02:51:54.000Z",
+    "lastSuccessfulAt": "2026-09-18T02:51:54.000Z",
+    "revision": "playable-sync-20260918-1048",
     "stale": false,
     "status": "fresh"
   },
