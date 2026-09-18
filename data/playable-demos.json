@@ -1515,5 +1515,19 @@
     "post_url": "https://x.com/YesterdayArcade/status/2100462073721548965",
     "likes": null,
     "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Nina's Little Universe",
+    "demo_url": "https://ninaslittleuniverse.com/",
+    "post_url": "https://x.com/JashariAri/status/2100942693719216148",
+    "likes": 1,
+    "category": "教育 / 科普"
+  },
+  {
+    "title": "Europe, the Game",
+    "demo_url": "https://play.justmovetoeurope.com/",
+    "post_url": "https://x.com/laraavci_/status/2100908545919123708",
+    "likes": 16,
+    "category": "模拟经营 / 策略"
   }
 ]
