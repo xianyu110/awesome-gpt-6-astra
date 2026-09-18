@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-db8e45d16321c5a0",
+      "name": "SoonLab Minecraft",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · SoonLab + GPT-6 Astra 浏览器 Minecraft 风沙盒：挖方块、逛森林、造装备，还能树间跑酷 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "SoonLab_AI",
+        "url": "https://x.com/SoonLab_AI"
+      },
+      "demoUrl": "https://www.soonlab.ai/game/9271/",
+      "sourceUrl": "https://x.com/SoonLab_AI/status/2100849406899814753",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100848819386875904%2Fimg%2FEkQeEKSt-0LGpdSP.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100848819386875904%2Fimg%2FEkQeEKSt-0LGpdSP.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1137
+    },
+    {
+      "id": "work-9d83f5857b3a77e1",
+      "name": "Mathscene",
+      "description": "可玩 Demo · 教育 / 科普 · 浏览器里的 Manim：TypeScript 写场景、实时预览、时间轴 scrub、导出 MP4；Astra Challenge / Product Hunt · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "deadbeef101010",
+        "url": "https://x.com/deadbeef101010"
+      },
+      "demoUrl": "https://mathscene.app",
+      "sourceUrl": "https://x.com/deadbeef101010/status/2100883703945703731",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fnews_img%2F2100883747553841152%2FrvmwAf6V%3Fformat%3Djpg%26name%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fnews_img%2F2100883747553841152%2FrvmwAf6V%3Fformat%3Djpg%26name%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1138
+    },
+    {
       "id": "work-41868c86737c04d4",
       "name": "Pelican Pedal",
       "description": "可玩 Demo · 竞速 / 驾驶 · SoonLab 2.0 + GPT-6 Astra 海岸骑行休闲跑酷：轻松画面、周五解压向，浏览器直玩",
