@@ -2,20 +2,20 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**214** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**216** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-18
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 16
 - [竞速 / 驾驶](#竞速--驾驶) — 28
 - [射击 / 动作](#射击--动作) — 24
 - [模拟经营 / 策略](#模拟经营--策略) — 12
 - [联机 / 多人](#联机--多人) — 11
 - [街机 / 小游戏包](#街机--小游戏包) — 24
 - [音乐 / 表演](#音乐--表演) — 12
-- [教育 / 科普](#教育--科普) — 11
+- [教育 / 科普](#教育--科普) — 12
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 48
 - [工程 / 仿真](#工程--仿真) — 17
 - [其他可玩 Demo](#其他可玩-Demo) — 12
@@ -78,6 +78,11 @@
    - 试玩链接：`https://icy-tower-frostbound.netlify.app/`
    - 原帖：https://x.com/SafaElmali/status/2100562918937165996
    - 备注：Icy Tower 风 3D 爬塔：墙跳连招、上升霜冻、每日塔与好友竞速；Astra 构建，Netlify 直玩
+
+16. **SoonLab Minecraft** — [试玩](https://www.soonlab.ai/game/9271/) · [原帖](https://x.com/SoonLab_AI/status/2100849406899814753) · ❤ 2
+   - 试玩链接：`https://www.soonlab.ai/game/9271/`
+   - 原帖：https://x.com/SoonLab_AI/status/2100849406899814753
+   - 备注：SoonLab + GPT-6 Astra 浏览器 Minecraft 风沙盒：挖方块、逛森林、造装备，还能树间跑酷
 
 
 ## 竞速 / 驾驶
@@ -646,6 +651,11 @@
    - 试玩链接：`https://misconception-lab.likhariinder.chatgpt.site/`
    - 原帖：https://x.com/inder_the_grt/status/2100558371653124537
    - 备注：日常信念小实验室：预测→实验→改观，给孩子/青少年试错用的动态可视化；Astra agentic 工程
+
+12. **Mathscene** — [试玩](https://mathscene.app) · [原帖](https://x.com/deadbeef101010/status/2100883703945703731) · ❤ 1
+   - 试玩链接：`https://mathscene.app`
+   - 原帖：https://x.com/deadbeef101010/status/2100883703945703731
+   - 备注：浏览器里的 Manim：TypeScript 写场景、实时预览、时间轴 scrub、导出 MP4；Astra Challenge / Product Hunt
 
 
 ## 3D 场景 / 氛围探索
