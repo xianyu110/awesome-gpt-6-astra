@@ -15857,13 +15857,49 @@
       "posterUrl": "/previews/playable-liquid-pet.png",
       "videoUrl": null,
       "sourceOrder": -1101
+    },
+    {
+      "id": "work-c335a11075617432",
+      "name": "Nina's Little Universe",
+      "description": "可玩 Demo · 教育 / 科普 · 给四岁女儿搓的纸板宇宙科普冒险：日夜更替、月相探索；GPT-6 Astra vibe-coded，PH Astra showcase 可玩 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "JashariAri",
+        "url": "https://x.com/JashariAri"
+      },
+      "demoUrl": "https://ninaslittleuniverse.com/",
+      "sourceUrl": "https://x.com/JashariAri/status/2100942693719216148",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fninaslittleuniverse.com%2Fsocial%2Fadventures%2Fday-night-en-v1.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fninaslittleuniverse.com%2Fsocial%2Fadventures%2Fday-night-en-v1.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1139
+    },
+    {
+      "id": "work-0d0efc8810400db0",
+      "name": "Europe, the Game",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 12 座欧洲城市建造者生活模拟：买贵 matcha、见合伙人、掂量 VC；Just Move to Europe + Astra，浏览器直玩 · ❤ 16",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "laraavci_",
+        "url": "https://x.com/laraavci_"
+      },
+      "demoUrl": "https://play.justmovetoeurope.com/",
+      "sourceUrl": "https://x.com/laraavci_/status/2100908545919123708",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100883147973877760%2Fimg%2FSGFzP-ydYzPIbbQ3.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100883147973877760%2Fimg%2FSGFzP-ydYzPIbbQ3.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1140
     }
   ],
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-18T02:51:54.000Z",
-    "lastSuccessfulAt": "2026-09-18T02:51:54.000Z",
+    "checkedAt": "2026-09-18T14:10:27Z",
+    "lastSuccessfulAt": "2026-09-18T14:10:27Z",
     "revision": "playable-sync-20260918-1048",
     "stale": false,
     "status": "fresh"
