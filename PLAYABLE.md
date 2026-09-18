@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**213** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**214** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-18
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
-- [竞速 / 驾驶](#竞速--驾驶) — 27
+- [竞速 / 驾驶](#竞速--驾驶) — 28
 - [射击 / 动作](#射击--动作) — 24
 - [模拟经营 / 策略](#模拟经营--策略) — 12
 - [联机 / 多人](#联机--多人) — 11
@@ -203,6 +203,11 @@
    - 试玩链接：`https://cabsolutely.vercel.app/`
    - 原帖：https://x.com/ailker/status/2100705949468000655
    - 备注：旧金山出租车调度：Astra + fal + Three.js 一晚搓出的可开可派单小游戏；OSS 开源，Vercel 直玩
+
+28. **Pelican Pedal** — [试玩](https://www.soonlab.ai/game/10023/) · [原帖](https://x.com/SoonLab_AI/status/2100794640953901261)
+   - 试玩链接：`https://www.soonlab.ai/game/10023/`
+   - 原帖：https://x.com/SoonLab_AI/status/2100794640953901261
+   - 备注：SoonLab 2.0 + GPT-6 Astra 海岸骑行休闲跑酷：轻松画面、周五解压向，浏览器直玩
 
 ## 射击 / 动作
 
