@@ -1,17 +1,31 @@
 [
   {
-    "title": "Cabsolutely",
-    "demo_url": "https://cabsolutely.vercel.app/",
-    "post_url": "https://x.com/ailker/status/2100705949468000655",
-    "likes": 6,
-    "category": "模拟经营 / 策略"
-  },
-  {
     "title": "The Crownless",
     "demo_url": "https://www.spawn.co/@izkimar/the-crownless/play",
     "post_url": "https://x.com/Izkimar/status/2100753871903855095",
     "likes": 20,
     "category": "射击 / 动作"
+  },
+  {
+    "title": "Cabsolutely",
+    "demo_url": "https://cabsolutely.vercel.app/",
+    "post_url": "https://x.com/ailker/status/2100705949468000655",
+    "likes": 6,
+    "category": "竞速 / 驾驶"
+  },
+  {
+    "title": "Until the Crown Falls",
+    "demo_url": "https://www.spawn.co/@branthebroke/until-the-crown-falls/play",
+    "post_url": "https://x.com/Bran_The_Broke/status/2100592457767325759",
+    "likes": 7,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "Minimum Rage",
+    "demo_url": "https://minimum-rage.fastandlucid.chatgpt.site/",
+    "post_url": "https://x.com/FastandLucid/status/2100594128547704950",
+    "likes": 2,
+    "category": "3D 场景 / 氛围探索"
   },
   {
     "title": "Frostbound · Icy Tower",
