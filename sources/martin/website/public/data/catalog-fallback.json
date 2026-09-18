@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-41868c86737c04d4",
+      "name": "Pelican Pedal",
+      "description": "可玩 Demo · 竞速 / 驾驶 · SoonLab 2.0 + GPT-6 Astra 海岸骑行休闲跑酷：轻松画面、周五解压向，浏览器直玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "SoonLab_AI",
+        "url": "https://x.com/SoonLab_AI"
+      },
+      "demoUrl": "https://www.soonlab.ai/game/10023/",
+      "sourceUrl": "https://x.com/SoonLab_AI/status/2100794640953901261",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-pelican-pedal.jpg",
+      "posterUrl": "/previews/playable-pelican-pedal.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1136
+    },
+    {
       "id": "work-6e56f7a2e3127efb",
       "name": "The Crownless",
       "description": "可玩 Demo · 射击 / 动作 · 动作肉鸽：一天多一点用 Astra 在 Spawn 里做出；边玩边改、几乎不被打断",
