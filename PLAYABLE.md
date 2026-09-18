@@ -2,16 +2,16 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**209** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-17
+- 收录：**211** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-18
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 15
 - [竞速 / 驾驶](#竞速--驾驶) — 26
-- [射击 / 动作](#射击--动作) — 22
-- [模拟经营 / 策略](#模拟经营--策略) — 12
+- [射击 / 动作](#射击--动作) — 23
+- [模拟经营 / 策略](#模拟经营--策略) — 13
 - [联机 / 多人](#联机--多人) — 11
 - [街机 / 小游戏包](#街机--小游戏包) — 24
 - [音乐 / 表演](#音乐--表演) — 12
@@ -299,6 +299,11 @@
    - 原帖：https://x.com/ForestManSol555/status/2100498101614026893
    - 备注：浏览器 Three.js FPS：Black Ops II Hijacked 图导出 + 胶囊碰撞 + Recast 导航网格，非官方同人 · 打开就能冲
 
+23. **The Crownless** — [试玩](https://www.spawn.co/@izkimar/the-crownless/play) · [原帖](https://x.com/Izkimar/status/2100753871903855095) · ❤ 20
+   - 试玩链接：`https://www.spawn.co/@izkimar/the-crownless/play`
+   - 原帖：https://x.com/Izkimar/status/2100753871903855095
+   - 备注：动作 Roguelike：在 Spawn 里用 Astra 边玩边改，无需停下来重新部署；一天搓出来的实机可玩版
+
 
 ## 模拟经营 / 策略
 
@@ -353,6 +358,11 @@
    - 试玩链接：`https://staging.staroutpost.com`
    - 原帖：https://x.com/JudiciousBlaze/status/2100378652081053918
    - 备注：持久化文字向多人太空策略：补给、扩张、出征一条命令流 · 多模型混搭含 GPT-6 Astra，找测试员中
+
+13. **Cabsolutely** — [试玩](https://cabsolutely.vercel.app/) · [原帖](https://x.com/ailker/status/2100705949468000655) · ❤ 6
+   - 试玩链接：`https://cabsolutely.vercel.app/`
+   - 原帖：https://x.com/ailker/status/2100705949468000655
+   - 备注：旧金山出租车调度 3D 玩法：Astra + fal + Three.js 短时间搓出来，开源可 fork；Vercel 直玩
 
 
 ## 联机 / 多人
