@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-70ba9e0259488207",
+      "name": "Cabsolutely",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 旧金山出租车调度 3D 玩法：Astra + fal + Three.js 短时间搓出来，开源可 fork；Vercel 直玩 · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "ailker",
+        "url": "https://x.com/ailker"
+      },
+      "demoUrl": "https://cabsolutely.vercel.app/",
+      "sourceUrl": "https://x.com/ailker/status/2100705949468000655",
+      "repoUrl": "https://github.com/ilkerzg/cabsolutely",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100703084661903360%2Fimg%2F5gq9HvHaSTqlyCTx.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1132
+    },
+    {
+      "id": "work-6e56f7a2e3127efb",
+      "name": "The Crownless",
+      "description": "可玩 Demo · 射击 / 动作 · 动作 Roguelike：在 Spawn 里用 Astra 边玩边改，无需停下来重新部署；一天搓出来的实机可玩版 · ❤ 20",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Izkimar",
+        "url": "https://x.com/Izkimar"
+      },
+      "demoUrl": "https://www.spawn.co/@izkimar/the-crownless/play",
+      "sourceUrl": "https://x.com/Izkimar/status/2100753871903855095",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100753501940809729%2Fimg%2Ff53bBSn0KO5xt3yA.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100753501940809729%2Fimg%2Ff53bBSn0KO5xt3yA.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1133
+    },
+    {
       "id": "work-8d759ffa1e13d524",
       "name": "Frostbound · Icy Tower",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · Icy Tower 风 3D 爬塔：墙跳连招、上升霜冻、每日塔与好友竞速；Astra 构建，Netlify 直玩",
@@ -15736,9 +15772,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-17T14:07:23.000Z",
-    "lastSuccessfulAt": "2026-09-17T14:07:23.000Z",
-    "revision": "playable-sync-20260917-2140",
+    "checkedAt": "2026-09-18T02:49:30.000Z",
+    "lastSuccessfulAt": "2026-09-18T02:49:30.000Z",
+    "revision": "playable-sync-20260918-1047",
     "stale": false,
     "status": "fresh"
   },
