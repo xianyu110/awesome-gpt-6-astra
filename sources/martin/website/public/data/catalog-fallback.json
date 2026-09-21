@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-c23143dfee2a3dee",
+      "name": "ArcturusChess",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Astra 自研战术引擎 + 可对话 LLM 对手公开 beta，约 ELO 2000；浏览器打开就能下",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "MikePFrank",
+        "url": "https://x.com/MikePFrank"
+      },
+      "demoUrl": "https://arcturuschess.com/",
+      "sourceUrl": "https://x.com/MikePFrank/status/2101965624788316356",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-arcturus-chess.png",
+      "posterUrl": "/previews/playable-arcturus-chess.png",
+      "videoUrl": null,
+      "sourceOrder": -1150
+    },
+    {
+      "id": "work-fb5e7de8311c1a7e",
+      "name": "SHUBO DIVE · 酒母潜航隊",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 日本酒酒母 3D 潜航小游戏：菌丝森林里救人回家，Astra 搓的台风消遣；GitHub Pages 直玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "chilllabotokyo",
+        "url": "https://x.com/chilllabotokyo"
+      },
+      "demoUrl": "https://toraikura.github.io/shubo-dive/",
+      "sourceUrl": "https://x.com/chilllabotokyo/status/2101953892313637042",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSuj7Lxa8AAX-Al.jpg%3Fname%3Dlarge",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSuj7Lxa8AAX-Al.jpg%3Fname%3Dlarge",
+      "videoUrl": null,
+      "sourceOrder": -1149
+    },
+    {
       "id": "work-6e663774178ff786",
       "name": "HistoryOfAtlas",
       "description": "可玩 Demo · 教育 / 科普 · 交互历史地图 / 约 5500 年文明时间线：Astra 几乎一发搓出，周用量才花约两成；Vercel 打开就能逛史",
