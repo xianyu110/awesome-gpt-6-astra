@@ -1,5 +1,33 @@
 [
   {
+    "title": "DRONE.IO · Drone/Jet Survival",
+    "demo_url": "https://drone-io.vercel.app/",
+    "post_url": "https://x.com/OMASMohamad/status/2101830659358478516",
+    "likes": null,
+    "category": "联机 / 多人"
+  },
+  {
+    "title": "Aegis Flora",
+    "demo_url": "https://murderszn.github.io/aegis-flora/",
+    "post_url": "https://x.com/jahflyx/status/2101774133121958000",
+    "likes": 1,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Cozy Aquarium",
+    "demo_url": "https://fish.kennyatx.com/",
+    "post_url": "https://x.com/KennyJohnsonATX/status/2101744240095076416",
+    "likes": 4,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "SoonLab Magic Carpet",
+    "demo_url": "https://www.soonlab.ai/game/10024/",
+    "post_url": "https://x.com/SoonLab_AI/status/2101618344629862412",
+    "likes": 9,
+    "category": "射击 / 动作"
+  },
+  {
     "title": "SoonLab Minecraft",
     "demo_url": "https://www.soonlab.ai/game/9271/",
     "post_url": "https://x.com/SoonLab_AI/status/2100849406899814753",
