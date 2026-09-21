@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**222** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-18
+- 收录：**225** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-21
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 16
-- [竞速 / 驾驶](#竞速--驾驶) — 28
-- [射击 / 动作](#射击--动作) — 25
-- [模拟经营 / 策略](#模拟经营--策略) — 15
-- [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 24
-- [音乐 / 表演](#音乐--表演) — 12
-- [教育 / 科普](#教育--科普) — 13
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 48
-- [工程 / 仿真](#工程--仿真) — 17
-- [其他可玩 Demo](#其他可玩-Demo) — 12
+- [竞速 / 驾驶](#竞速--驾驶) — 29
+- [射击 / 动作](#射击--动作) — 26
+- [模拟经营 / 策略](#模拟经营--策略) — 16
+- [联机 / 多人](#联机--多人) — 16
+- [街机 / 小游戏包](#街机--小游戏包) — 16
+- [音乐 / 表演](#音乐--表演) — 16
+- [教育 / 科普](#教育--科普) — 16
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 16
+- [工程 / 仿真](#工程--仿真) — 16
+- [其他可玩 Demo](#其他可玩-Demo) — 16
 
 ## 经典复刻 / 知名玩法
 
@@ -214,6 +214,12 @@
    - 原帖：https://x.com/SoonLab_AI/status/2100794640953901261
    - 备注：SoonLab 2.0 + GPT-6 Astra 海岸骑行休闲跑酷：轻松画面、周五解压向，浏览器直玩
 
+29. **Spline Rush** — [试玩](https://spline-rush.vercel.app) · [原帖](https://x.com/ToolBraidComp/status/2101914442367721644)
+   - 试玩链接：`https://spline-rush.vercel.app`
+   - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
+   - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
+
+
 ## 射击 / 动作
 
 1. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
@@ -330,6 +336,11 @@
    - 原帖：https://x.com/SoonLab_AI/status/2101618344629862412
    - 备注：SoonLab 2.0 × GPT-6 Astra 零代码飞毯：跑酷 + 射击混搭，打开就能骑
 
+26. **Ink Rush Showdown** — [试玩](https://ink-rush-showdown.vercel.app/) · [原帖](https://x.com/truenyl/status/2101908735371497686)
+   - 试玩链接：`https://ink-rush-showdown.vercel.app/`
+   - 原帖：https://x.com/truenyl/status/2101908735371497686
+   - 备注：2.5D Splatoon 风涂色对战：GPT-6 Astra + Blender，浏览器墨汁开战
+
 
 ## 模拟经营 / 策略
 
@@ -399,6 +410,11 @@
    - 试玩链接：`https://fish.kennyatx.com/`
    - 原帖：https://x.com/KennyJohnsonATX/status/2101744240095076416
    - 备注：温馨水族箱模拟：Astra 搓给妻子玩的禅意养鱼，Cloudflare 打开就能养
+
+16. **WonderForge** — [试玩](https://wonderforge.pages.dev/) · [原帖](https://x.com/auracanvas/status/2101919244527260018)
+   - 试玩链接：`https://wonderforge.pages.dev/`
+   - 原帖：https://x.com/auracanvas/status/2101919244527260018
+   - 备注：Civ VI 风奇迹建造动画：GPT-6 + Three.js / Blender，四个奇观施工镜头浏览器可看可玩
 
 
 ## 联机 / 多人
