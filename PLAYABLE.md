@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**229** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**232** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-21
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,13 +10,13 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 17
 - [竞速 / 驾驶](#竞速--驾驶) — 29
-- [射击 / 动作](#射击--动作) — 27
+- [射击 / 动作](#射击--动作) — 28
 - [模拟经营 / 策略](#模拟经营--策略) — 16
 - [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 25
+- [街机 / 小游戏包](#街机--小游戏包) — 26
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 48
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
 - [工程 / 仿真](#工程--仿真) — 17
 - [其他可玩 Demo](#其他可玩-Demo) — 12
 
@@ -351,6 +351,11 @@
    - 原帖：https://x.com/fdx5555/status/2102014139317297382
    - 备注：浏览器 3D 轨道弹幕射击：GPT-6 Astra + Three.js / Vite PWA；三武器可升级、五关 Boss、在线排行榜，打开就能刚
 
+28. **Little Orbit** — [试玩](https://little-orbit.balaena01.workers.dev/) · [原帖](https://x.com/balaena01/status/2101864315876004034) · ❤ 34
+   - 试玩链接：`https://little-orbit.balaena01.workers.dev/`
+   - 原帖：https://x.com/balaena01/status/2101864315876004034
+   - 备注：Jev × Tripo × Astra 语音战斗浏览器试玩：语音自由攻击、商人谈判与战斗判定，打开就能打
+
 
 ## 模拟经营 / 策略
 
@@ -601,6 +606,12 @@
    - 试玩链接：`https://toraikura.github.io/shubo-dive/`
    - 原帖：https://x.com/chilllabotokyo/status/2101953892313637042
    - 备注：日本酒酒母 3D 潜航小游戏：菌丝森林里救人回家，Astra 搓的台风消遣；GitHub Pages 直玩
+
+26. **ODD DECK** — [试玩](https://odddeckvercel.vercel.app/) · [原帖](https://x.com/Neural333/status/2101983120383676890)
+   - 试玩链接：`https://odddeckvercel.vercel.app/`
+   - 原帖：https://x.com/Neural333/status/2101983120383676890
+   - 备注：一张卡面参考 → 可玩卡牌 Web App：GPT Astra Pro 搓的完整交互牌桌，打开就能抽
+
 
 ## 音乐 / 表演
 
@@ -941,6 +952,12 @@
    - 试玩链接：`https://minimum-rage.fastandlucid.chatgpt.site/`
    - 原帖：https://x.com/FastandLucid/status/2100594128547704950
    - 备注：体素小岛：小游戏、支线任务……还有 KEVIN；Astra 搓的 3D 世界，打开就能逛
+
+49. **Save Point** — [试玩](https://save-point-roan.vercel.app/) · [原帖](https://x.com/ibuildfunstuff/status/2102035368145252546)
+   - 试玩链接：`https://save-point-roan.vercel.app/`
+   - 原帖：https://x.com/ibuildfunstuff/status/2102035368145252546
+   - 备注：游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈
+
 
 ## 工程 / 仿真
 
