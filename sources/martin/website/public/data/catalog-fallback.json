@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-f10ed4245ffeaf29",
+      "name": "VOLTARIS",
+      "description": "可玩 Demo · 射击 / 动作 · 浏览器 3D 轨道弹幕射击：GPT-6 Astra + Three.js / Vite PWA；三武器可升级、五关 Boss、在线排行榜，打开就能刚",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "fdx5555",
+        "url": "https://x.com/fdx5555"
+      },
+      "demoUrl": "https://voltaris-nyyo.onrender.com/?webgl=1",
+      "sourceUrl": "https://x.com/fdx5555/status/2102014139317297382",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102013872932823041%2Fimg%2Fh4EQ3xOfYVl7Z2tQ.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102013872932823041%2Fimg%2Fh4EQ3xOfYVl7Z2tQ.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1151
+    },
+    {
       "id": "work-c23143dfee2a3dee",
       "name": "ArcturusChess",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · Astra 自研战术引擎 + 可对话 LLM 对手公开 beta，约 ELO 2000；浏览器打开就能下",
