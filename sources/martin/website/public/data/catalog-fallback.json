@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-583807e5e6303361",
+      "name": "DRONE.IO · Drone/Jet Survival",
+      "description": "可玩 Demo · 联机 / 多人 · Astra + Three.js + HTML5 的无人机/喷气机生存 .io：Vercel 打开就能飞，Three.js 热潮里的一发",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "OMASMohamad",
+        "url": "https://x.com/OMASMohamad"
+      },
+      "demoUrl": "https://drone-io.vercel.app/",
+      "sourceUrl": "https://x.com/OMASMohamad/status/2101830659358478516",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSszxY4WMAEn773.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSszxY4WMAEn773.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1141
+    },
+    {
+      "id": "work-0eed20d16ee34ad2",
+      "name": "Aegis Flora",
+      "description": "可玩 Demo · 模拟经营 / 策略 · Astra 搓的 solarpunk 塔防：摆塔时敌人路径会自己改写，GitHub Pages 可玩 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "jahflyx",
+        "url": "https://x.com/jahflyx"
+      },
+      "demoUrl": "https://murderszn.github.io/aegis-flora/",
+      "sourceUrl": "https://x.com/jahflyx/status/2101774133121958000",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSr--fTXsAAzraK.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSr--fTXsAAzraK.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1142
+    },
+    {
+      "id": "work-61e046366e3fc7c0",
+      "name": "Cozy Aquarium",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 温馨水族箱模拟：Astra 搓给妻子玩的禅意养鱼，Cloudflare 打开就能养 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "KennyJohnsonATX",
+        "url": "https://x.com/KennyJohnsonATX"
+      },
+      "demoUrl": "https://fish.kennyatx.com/",
+      "sourceUrl": "https://x.com/KennyJohnsonATX/status/2101744240095076416",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSrlP1rXMAAgMWW.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSrlP1rXMAAgMWW.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1143
+    },
+    {
+      "id": "work-d3afb235dd8a0643",
+      "name": "SoonLab Magic Carpet",
+      "description": "可玩 Demo · 射击 / 动作 · SoonLab 2.0 × GPT-6 Astra 零代码飞毯：跑酷 + 射击混搭，打开就能骑 · ❤ 9",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "SoonLab_AI",
+        "url": "https://x.com/SoonLab_AI"
+      },
+      "demoUrl": "https://www.soonlab.ai/game/10024/",
+      "sourceUrl": "https://x.com/SoonLab_AI/status/2101618344629862412",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101614075352584192%2Fimg%2FiRUuyKXKb3lRU_u-.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101614075352584192%2Fimg%2FiRUuyKXKb3lRU_u-.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1144
+    },
+    {
       "id": "work-db8e45d16321c5a0",
       "name": "SoonLab Minecraft",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · SoonLab + GPT-6 Astra 浏览器 Minecraft 风沙盒：挖方块、逛森林、造装备，还能树间跑酷 · ❤ 2",
