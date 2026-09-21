@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-5e4f3d8db1d825e1",
+      "name": "Ink Rush Showdown",
+      "description": "可玩 Demo · 射击 / 动作 · 2.5D Splatoon 风涂色对战：GPT-6 Astra + Blender，Vercel 打开就能泼墨",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "truenyl",
+        "url": "https://x.com/truenyl"
+      },
+      "demoUrl": "https://ink-rush-showdown.vercel.app/",
+      "sourceUrl": "https://x.com/truenyl/status/2101908735371497686",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101908298731859968%2Fimg%2FFCAY4-KLsS6mwMRe.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101908298731859968%2Fimg%2FFCAY4-KLsS6mwMRe.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1147
+    },
+    {
+      "id": "work-9e111d9773d4dcdd",
+      "name": "WonderForge",
+      "description": "可玩 Demo · 模拟经营 / 策略 · Civilization VI 风奇迹建造 3D 动画：GPT-6 + Three.js，Pages 打开就能看施工",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "auracanvas",
+        "url": "https://x.com/auracanvas"
+      },
+      "demoUrl": "https://wonderforge.pages.dev/",
+      "sourceUrl": "https://x.com/auracanvas/status/2101919244527260018",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101917681737940992%2Fimg%2FzD3ZbFyNdTN5Jxi7.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101917681737940992%2Fimg%2FzD3ZbFyNdTN5Jxi7.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1146
+    },
+    {
+      "id": "work-2e64c208a12c4084",
+      "name": "Spline Rush",
+      "description": "可玩 Demo · 竞速 / 驾驶 · ChatGPT 6 Astra Ultra 浏览器赛车：McLaren、Lambo、雨夜与隧道，Vercel 直玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "ToolBraidComp",
+        "url": "https://x.com/ToolBraidComp"
+      },
+      "demoUrl": "https://spline-rush.vercel.app",
+      "sourceUrl": "https://x.com/ToolBraidComp/status/2101914442367721644",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101913235070820352%2Fimg%2FoXoNAdDOk0ETLaIX.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101913235070820352%2Fimg%2FoXoNAdDOk0ETLaIX.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1145
+    },
+    {
       "id": "work-583807e5e6303361",
       "name": "DRONE.IO · Drone/Jet Survival",
       "description": "可玩 Demo · 联机 / 多人 · Astra + Three.js + HTML5 的无人机/喷气机生存 .io：Vercel 打开就能飞，Three.js 热潮里的一发",
@@ -15970,9 +16024,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-18T14:10:27Z",
-    "lastSuccessfulAt": "2026-09-18T14:10:27Z",
-    "revision": "playable-sync-20260918-1048",
+    "checkedAt": "2026-09-21T06:50:44Z",
+    "lastSuccessfulAt": "2026-09-21T06:50:44Z",
+    "revision": "playable-sync-20260921-1448",
     "stale": false,
     "status": "fresh"
   },
