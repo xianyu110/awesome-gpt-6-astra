@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**228** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**229** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-21
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,7 +10,7 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 17
 - [竞速 / 驾驶](#竞速--驾驶) — 29
-- [射击 / 动作](#射击--动作) — 26
+- [射击 / 动作](#射击--动作) — 27
 - [模拟经营 / 策略](#模拟经营--策略) — 16
 - [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 25
@@ -345,6 +345,11 @@
    - 试玩链接：`https://ink-rush-showdown.vercel.app/`
    - 原帖：https://x.com/truenyl/status/2101908735371497686
    - 备注：2.5D Splatoon 风涂色对战：GPT-6 Astra + Blender，浏览器墨汁开战
+
+27. **VOLTARIS** — [试玩](https://voltaris-nyyo.onrender.com/?webgl=1) · [原帖](https://x.com/fdx5555/status/2102014139317297382)
+   - 试玩链接：`https://voltaris-nyyo.onrender.com/?webgl=1`
+   - 原帖：https://x.com/fdx5555/status/2102014139317297382
+   - 备注：浏览器 3D 轨道弹幕射击：GPT-6 Astra + Three.js / Vite PWA；三武器可升级、五关 Boss、在线排行榜，打开就能刚
 
 
 ## 模拟经营 / 策略
