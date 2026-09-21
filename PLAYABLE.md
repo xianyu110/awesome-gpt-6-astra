@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**218** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**222** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-18
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,9 +10,9 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 16
 - [竞速 / 驾驶](#竞速--驾驶) — 28
-- [射击 / 动作](#射击--动作) — 24
-- [模拟经营 / 策略](#模拟经营--策略) — 13
-- [联机 / 多人](#联机--多人) — 11
+- [射击 / 动作](#射击--动作) — 25
+- [模拟经营 / 策略](#模拟经营--策略) — 15
+- [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 24
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 13
@@ -325,6 +325,12 @@
    - 原帖：https://x.com/Bran_The_Broke/status/2100592457767325759
    - 备注：三天 Astra + Fable 在 Spawn 上的王冠陨落冒险；打开就能玩
 
+25. **SoonLab Magic Carpet** — [试玩](https://www.soonlab.ai/game/10024/) · [原帖](https://x.com/SoonLab_AI/status/2101618344629862412) · ❤ 9
+   - 试玩链接：`https://www.soonlab.ai/game/10024/`
+   - 原帖：https://x.com/SoonLab_AI/status/2101618344629862412
+   - 备注：SoonLab 2.0 × GPT-6 Astra 零代码飞毯：跑酷 + 射击混搭，打开就能骑
+
+
 ## 模拟经营 / 策略
 
 1. **FOREX WARS** — [试玩](https://afterprime-forex-wars.argamon-2254.chatgpt.site/) · [原帖](https://x.com/afterprime_com/status/2097159628119535866) · ❤ 3
@@ -384,6 +390,17 @@
    - 原帖：https://x.com/laraavci_/status/2100908545919123708
    - 备注：12 座欧洲城市建造者生活模拟：买贵 matcha、见合伙人、掂量 VC；Just Move to Europe + Astra，浏览器直玩
 
+14. **Aegis Flora** — [试玩](https://murderszn.github.io/aegis-flora/) · [原帖](https://x.com/jahflyx/status/2101774133121958000) · ❤ 1
+   - 试玩链接：`https://murderszn.github.io/aegis-flora/`
+   - 原帖：https://x.com/jahflyx/status/2101774133121958000
+   - 备注：Astra 搓的 solarpunk 塔防：摆塔时敌人路径会自己改写，GitHub Pages 可玩
+
+15. **Cozy Aquarium** — [试玩](https://fish.kennyatx.com/) · [原帖](https://x.com/KennyJohnsonATX/status/2101744240095076416) · ❤ 4
+   - 试玩链接：`https://fish.kennyatx.com/`
+   - 原帖：https://x.com/KennyJohnsonATX/status/2101744240095076416
+   - 备注：温馨水族箱模拟：Astra 搓给妻子玩的禅意养鱼，Cloudflare 打开就能养
+
+
 ## 联机 / 多人
 
 1. **Stick Fighter — multiplayer stick-death** — [试玩](https://stick-fighter-production.up.railway.app) · [原帖](https://x.com/CtrlAltDwayne/status/2097499157967818780)
@@ -436,6 +453,11 @@
    - 试玩链接：`https://duckoff.fun`
    - 原帖：https://x.com/swarnimodi/status/2100196454367437275
    - 备注：浏览器多人橡皮鸭竞速：点按划水、躲障碍、用道具抢先 · Astra + Fable，12 小时搓出来
+
+12. **DRONE.IO · Drone/Jet Survival** — [试玩](https://drone-io.vercel.app/) · [原帖](https://x.com/OMASMohamad/status/2101830659358478516)
+   - 试玩链接：`https://drone-io.vercel.app/`
+   - 原帖：https://x.com/OMASMohamad/status/2101830659358478516
+   - 备注：Astra + Three.js + HTML5 的无人机/喷气机生存 .io：Vercel 打开就能飞，Three.js 热潮里的一发
 
 
 ## 街机 / 小游戏包
