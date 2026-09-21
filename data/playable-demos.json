@@ -1,5 +1,26 @@
 [
   {
+    "title": "Ink Rush Showdown",
+    "demo_url": "https://ink-rush-showdown.vercel.app/",
+    "post_url": "https://x.com/truenyl/status/2101908735371497686",
+    "likes": null,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "WonderForge",
+    "demo_url": "https://wonderforge.pages.dev/",
+    "post_url": "https://x.com/auracanvas/status/2101919244527260018",
+    "likes": null,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Spline Rush",
+    "demo_url": "https://spline-rush.vercel.app",
+    "post_url": "https://x.com/ToolBraidComp/status/2101914442367721644",
+    "likes": null,
+    "category": "竞速 / 驾驶"
+  },
+  {
     "title": "DRONE.IO · Drone/Jet Survival",
     "demo_url": "https://drone-io.vercel.app/",
     "post_url": "https://x.com/OMASMohamad/status/2101830659358478516",
