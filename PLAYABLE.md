@@ -2,18 +2,18 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**226** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**228** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-21
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 16
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 17
 - [竞速 / 驾驶](#竞速--驾驶) — 29
 - [射击 / 动作](#射击--动作) — 26
 - [模拟经营 / 策略](#模拟经营--策略) — 16
 - [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 24
+- [街机 / 小游戏包](#街机--小游戏包) — 25
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 48
@@ -84,6 +84,11 @@
    - 原帖：https://x.com/SoonLab_AI/status/2100849406899814753
    - 备注：SoonLab + GPT-6 Astra 浏览器 Minecraft 风沙盒：挖方块、逛森林、造装备，还能树间跑酷
 
+
+17. **ArcturusChess** — [试玩](https://arcturuschess.com/) · [原帖](https://x.com/MikePFrank/status/2101965624788316356) · ❤ 1
+   - 试玩链接：`https://arcturuschess.com/`
+   - 原帖：https://x.com/MikePFrank/status/2101965624788316356
+   - 备注：Astra 自研战术引擎 + 可对话 LLM 对手公开 beta，约 ELO 2000；浏览器打开就能下
 
 ## 竞速 / 驾驶
 
@@ -586,6 +591,11 @@
    - 原帖：https://x.com/YesterdayArcade/status/2100510743422734658
    - 备注：科技 CEO 握手对决恶搞小品：Astra+Codex，Yesterday Arcade 第二作，打开就能 mog
 
+
+25. **SHUBO DIVE · 酒母潜航隊** — [试玩](https://toraikura.github.io/shubo-dive/) · [原帖](https://x.com/chilllabotokyo/status/2101953892313637042) · ❤ 1
+   - 试玩链接：`https://toraikura.github.io/shubo-dive/`
+   - 原帖：https://x.com/chilllabotokyo/status/2101953892313637042
+   - 备注：日本酒酒母 3D 潜航小游戏：菌丝森林里救人回家，Astra 搓的台风消遣；GitHub Pages 直玩
 
 ## 音乐 / 表演
 
