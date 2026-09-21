@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-6e663774178ff786",
+      "name": "HistoryOfAtlas",
+      "description": "可玩 Demo · 教育 / 科普 · 交互历史地图 / 约 5500 年文明时间线：Astra 几乎一发搓出，周用量才花约两成；Vercel 打开就能逛史",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "ZakiChair",
+        "url": "https://x.com/ZakiChair"
+      },
+      "demoUrl": "https://historyofatlas.vercel.app/",
+      "sourceUrl": "https://x.com/ZakiChair/status/2101980147079410101",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2101979689522712576%2F5yJ7Gwoo%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2101979689522712576%2F5yJ7Gwoo%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1148
+    },
+    {
       "id": "work-5e4f3d8db1d825e1",
       "name": "Ink Rush Showdown",
       "description": "可玩 Demo · 射击 / 动作 · 2.5D Splatoon 风涂色对战：GPT-6 Astra + Blender，Vercel 打开就能泼墨",
@@ -16024,9 +16042,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-21T06:50:44Z",
-    "lastSuccessfulAt": "2026-09-21T06:50:44Z",
-    "revision": "playable-sync-20260921-1448",
+    "checkedAt": "2026-09-21T10:53:09Z",
+    "lastSuccessfulAt": "2026-09-21T10:53:09Z",
+    "revision": "playable-sync-20260921-1850",
     "stale": false,
     "status": "fresh"
   },
