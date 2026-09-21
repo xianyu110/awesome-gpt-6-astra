@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-7ef815154ce6d352",
+      "name": "ODD DECK",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 一张卡面参考 → 可玩卡牌 Web App：GPT Astra Pro 搓的完整交互牌桌，打开就能抽",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "Neural333",
+        "url": "https://x.com/Neural333"
+      },
+      "demoUrl": "https://odddeckvercel.vercel.app/",
+      "sourceUrl": "https://x.com/Neural333/status/2101983120383676890",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSu-TAGXoAAb-O7.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSu-TAGXoAAb-O7.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1152
+    },
+    {
+      "id": "work-23ff6d560932e48c",
+      "name": "Little Orbit",
+      "description": "可玩 Demo · 射击 / 动作 · Jev × Tripo × Astra 语音战斗浏览器试玩：语音自由攻击、商人谈判与战斗判定，打开就能打 · ❤ 34",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "balaena01",
+        "url": "https://x.com/balaena01"
+      },
+      "demoUrl": "https://little-orbit.balaena01.workers.dev/",
+      "sourceUrl": "https://x.com/balaena01/status/2101864315876004034",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101864222154280961%2Fimg%2Fofw212VbUd1G7xzD.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2101864222154280961%2Fimg%2Fofw212VbUd1G7xzD.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1153
+    },
+    {
+      "id": "work-afda81653e1b4291",
+      "name": "Save Point",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "ibuildfunstuff",
+        "url": "https://x.com/ibuildfunstuff"
+      },
+      "demoUrl": "https://save-point-roan.vercel.app/",
+      "sourceUrl": "https://x.com/ibuildfunstuff/status/2102035368145252546",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-save-point.jpg",
+      "posterUrl": "/previews/playable-save-point.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1154
+    },
+    {
       "id": "work-f10ed4245ffeaf29",
       "name": "VOLTARIS",
       "description": "可玩 Demo · 射击 / 动作 · 浏览器 3D 轨道弹幕射击：GPT-6 Astra + Three.js / Vite PWA；三武器可升级、五关 Boss、在线排行榜，打开就能刚",
@@ -16096,9 +16150,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-21T10:53:09Z",
-    "lastSuccessfulAt": "2026-09-21T10:53:09Z",
-    "revision": "playable-sync-20260921-1850",
+    "checkedAt": "2026-09-21T14:26:42.000Z",
+    "lastSuccessfulAt": "2026-09-21T14:26:42.000Z",
+    "revision": "playable-sync-20260921-2227",
     "stale": false,
     "status": "fresh"
   },
