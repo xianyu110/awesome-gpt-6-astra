@@ -1,5 +1,26 @@
 [
   {
+    "title": "ODD DECK",
+    "demo_url": "https://odddeckvercel.vercel.app/",
+    "post_url": "https://x.com/Neural333/status/2101983120383676890",
+    "likes": null,
+    "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "Little Orbit",
+    "demo_url": "https://little-orbit.balaena01.workers.dev/",
+    "post_url": "https://x.com/balaena01/status/2101864315876004034",
+    "likes": 34,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "Save Point",
+    "demo_url": "https://save-point-roan.vercel.app/",
+    "post_url": "https://x.com/ibuildfunstuff/status/2102035368145252546",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索"
+  },
+  {
     "title": "VOLTARIS",
     "demo_url": "https://voltaris-nyyo.onrender.com/?webgl=1",
     "post_url": "https://x.com/fdx5555/status/2102014139317297382",
