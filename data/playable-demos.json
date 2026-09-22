@@ -1,5 +1,35 @@
 [
   {
+    "title": "Maeul in the Sky",
+    "demo_url": "https://t1seo.github.io/maeul-in-the-sky/tour/",
+    "post_url": "https://x.com/t1won_seo/status/2102397534983573932",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索",
+    "author": "t1won_seo",
+    "note": "把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102397175577956352%2Fimg%2FW0VuluZmJulzAF2b.jpg"
+  },
+  {
+    "title": "One Sheet · Origami Crane Studio",
+    "demo_url": "https://bubucn.com/en/ai-model-evals/one-sheet",
+    "post_url": "https://x.com/BubuStd/status/2102375618285629746",
+    "likes": 1,
+    "category": "工程 / 仿真",
+    "author": "BubuStd",
+    "note": "一张纸折纸鹤工作室：44 步折叠 + 振翅；Astra 空间折叠精度挺能打，Three.js 打开就能跟折",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102369354973421568%2Fimg%2FnxiyWkQFpPi8by5L.jpg"
+  },
+  {
+    "title": "System One (Nil)",
+    "demo_url": "https://system-one-nil.iangunsworth.chatgpt.site/",
+    "post_url": "https://x.com/Ianu82/status/2102364536649232706",
+    "likes": 1,
+    "category": "街机 / 小游戏包",
+    "author": "Ianu82",
+    "note": "三分钟街机足球人对 Jev：Astra + TypeSafe Jev + MindsHub；打开就能开球踢一脚",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS0LucdXQAAIXxv.jpg"
+  },
+  {
     "title": "McLaren Artura · 3D Car Configurator",
     "demo_url": "https://3d-car-configurator-lac.vercel.app/",
     "post_url": "https://x.com/xingor_dev/status/2102316320012607591",
