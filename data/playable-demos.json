@@ -1,5 +1,40 @@
 [
   {
+    "title": "HOLLOWMARK",
+    "demo_url": "https://hollowmark.mindblown.ai/",
+    "post_url": "https://x.com/mindblown_ai/status/2102040812569944136",
+    "likes": 16,
+    "category": "经典复刻 / 知名玩法"
+  },
+  {
+    "title": "YABAI! — WHERE’S THE LAST TRAIN?",
+    "demo_url": "https://yabai-ultimo-trem.preda2005.chatgpt.site/",
+    "post_url": "https://x.com/Preda2005/status/2102210771153514562",
+    "likes": 9,
+    "category": "射击 / 动作"
+  },
+  {
+    "title": "IdleGPU 3D",
+    "demo_url": "https://idlegpu-3d.kostrikov.chatgpt.site/",
+    "post_url": "https://x.com/ikostrikov/status/2102224666932953349",
+    "likes": 6,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Frame Notes",
+    "demo_url": "https://toankhontech.github.io/frame-notes/",
+    "post_url": "https://x.com/toankhontech/status/2102214617573609892",
+    "likes": 1,
+    "category": "工程 / 仿真"
+  },
+  {
+    "title": "Answer Lens",
+    "demo_url": "https://donizetiferr.github.io/answer-lens/",
+    "post_url": "https://x.com/DonizetiFerre16/status/2102139124631105808",
+    "likes": null,
+    "category": "其他可玩 Demo"
+  },
+  {
     "title": "ODD DECK",
     "demo_url": "https://odddeckvercel.vercel.app/",
     "post_url": "https://x.com/Neural333/status/2101983120383676890",
