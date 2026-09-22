@@ -2,21 +2,21 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**239** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**241** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
-- [竞速 / 驾驶](#竞速--驾驶) — 29
+- [竞速 / 驾驶](#竞速--驾驶) — 30
 - [射击 / 动作](#射击--动作) — 29
 - [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 27
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 50
 - [工程 / 仿真](#工程--仿真) — 19
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -229,6 +229,11 @@
    - 试玩链接：`https://spline-rush.vercel.app`
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
+
+30. **McLaren Artura 3D Configurator** — [试玩](https://3d-car-configurator-lac.vercel.app/) · [原帖](https://x.com/xingor_dev/status/2102316320012607591) · ❤ 7
+   - 试玩链接：`https://3d-car-configurator-lac.vercel.app/`
+   - 原帖：https://x.com/xingor_dev/status/2102316320012607591
+   - 备注：高模 McLaren Artura 浏览器配置器：Astra 帮 Blender 减面，Three.js+WebGPU 换色/灯光/360/风洞；打开就能拧
 
 
 ## 射击 / 动作
@@ -978,6 +983,11 @@
    - 试玩链接：`https://save-point-roan.vercel.app/`
    - 原帖：https://x.com/ibuildfunstuff/status/2102035368145252546
    - 备注：游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈
+
+50. **Investigativo Noir** — [试玩](https://noir-detective-psx.matthia-ai.chatgpt.site/) · [原帖](https://x.com/Matthia570939/status/2102322089206427716)
+   - 试玩链接：`https://noir-detective-psx.matthia-ai.chatgpt.site/`
+   - 原帖：https://x.com/Matthia570939/status/2102322089206427716
+   - 备注：迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜
 
 
 ## 工程 / 仿真
