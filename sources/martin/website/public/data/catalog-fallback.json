@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-7e148a4592a8d081",
+      "name": "Maeul in the Sky",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "t1won_seo",
+        "url": "https://x.com/t1won_seo"
+      },
+      "demoUrl": "https://t1seo.github.io/maeul-in-the-sky/tour/",
+      "sourceUrl": "https://x.com/t1won_seo/status/2102397534983573932",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102397175577956352%2Fimg%2FW0VuluZmJulzAF2b.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102397175577956352%2Fimg%2FW0VuluZmJulzAF2b.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1163
+    },
+    {
+      "id": "work-ee2f2fd3367e84a0",
+      "name": "One Sheet · Origami Crane Studio",
+      "description": "可玩 Demo · 工程 / 仿真 · 一张纸折纸鹤工作室：44 步折叠 + 振翅；Astra 空间折叠精度挺能打，Three.js 打开就能跟折 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "BubuStd",
+        "url": "https://x.com/BubuStd"
+      },
+      "demoUrl": "https://bubucn.com/en/ai-model-evals/one-sheet",
+      "sourceUrl": "https://x.com/BubuStd/status/2102375618285629746",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102369354973421568%2Fimg%2FnxiyWkQFpPi8by5L.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102369354973421568%2Fimg%2FnxiyWkQFpPi8by5L.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1164
+    },
+    {
+      "id": "work-34a878a57d194370",
+      "name": "System One (Nil)",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 三分钟街机足球人对 Jev：Astra + TypeSafe Jev + MindsHub；打开就能开球踢一脚 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "Ianu82",
+        "url": "https://x.com/Ianu82"
+      },
+      "demoUrl": "https://system-one-nil.iangunsworth.chatgpt.site/",
+      "sourceUrl": "https://x.com/Ianu82/status/2102364536649232706",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS0LucdXQAAIXxv.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS0LucdXQAAIXxv.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1165
+    },
+    {
       "id": "work-d1466f4be43fbd8c",
       "name": "McLaren Artura · 3D Car Configurator",
       "description": "可玩 Demo · 工程 / 仿真 · Astra 帮 Blender 减面高模 McLaren Artura → Three.js / WebGPU 浏览器车型配置器：实时喷涂、电影光、360° 环视、风洞气流；打开就能拧色看车 · ❤ 7",
@@ -16294,9 +16348,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-22T10:51:33Z",
-    "lastSuccessfulAt": "2026-09-22T10:51:33Z",
-    "revision": "playable-sync-20260922-1850",
+    "checkedAt": "2026-09-22T14:17:47Z",
+    "lastSuccessfulAt": "2026-09-22T14:17:47Z",
+    "revision": "playable-sync-20260922-2215",
     "stale": false,
     "status": "fresh"
   },
