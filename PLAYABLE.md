@@ -2,13 +2,13 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**237** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**239** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 19
 - [竞速 / 驾驶](#竞速--驾驶) — 29
 - [射击 / 动作](#射击--动作) — 29
 - [模拟经营 / 策略](#模拟经营--策略) — 17
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
-- [工程 / 仿真](#工程--仿真) — 18
+- [工程 / 仿真](#工程--仿真) — 19
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
@@ -95,6 +95,10 @@
    - 原帖：https://x.com/mindblown_ai/status/2102040812569944136
    - 备注：浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关
 
+19. **Permutosphere** — [试玩](https://permutosphere.yg4h4d5rw5.chatgpt.site) · [原帖](https://x.com/DavidBanik/status/2102264546920628232)
+   - 试玩链接：`https://permutosphere.yg4h4d5rw5.chatgpt.site`
+   - 原帖：https://x.com/DavidBanik/status/2102264546920628232
+   - 备注：连续扭转变换 playground：把魔方从离散块推广到连续空间（切开空间、平移一块、无限重复）；声称 Astra 建，chatgpt.site 打开就能拧
 
 ## 竞速 / 驾驶
 
@@ -1056,6 +1060,11 @@
    - 原帖：https://x.com/toankhontech/status/2102214617573609892
    - 备注：本地视频审片：暂停钉笔记、导出帧+时间戳给 coding agents；GPT-6 Astra xhigh + Codex，GitHub Pages 可试
 
+19. **Minelog** — [试玩](https://minelog.xyz) · [原帖](https://x.com/beamnxw/status/2102095524627177613) · ❤ 66
+   - 试玩链接：`https://minelog.xyz`
+   - 原帖：https://x.com/beamnxw/status/2102095524627177613
+   - 仓库：https://github.com/beamnxw/minelog
+   - 备注：GPT-6 Astra（planner）+ Jev（controller）共用一个 Minecraft 身体的公开 live harness：HUD+日志，浏览器看 agent 打方块；OSS github.com/beamnxw/minelog
 
 ## 其他可玩 Demo
 
