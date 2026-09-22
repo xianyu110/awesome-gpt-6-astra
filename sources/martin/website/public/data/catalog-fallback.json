@@ -1,29 +1,11 @@
 {
   "works": [
     {
-      "id": "work-29d202b631e5ce91",
-      "name": "Minelog",
-      "description": "可玩 Demo · 工程 / 仿真 · GPT-6 Astra（planner）+ Jev（controller）共用一个 Minecraft 身体的公开 live harness：HUD+日志，浏览器看 agent 打方块；OSS github.com/beamnxw/m… · ❤ 66",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 工程 / 仿真",
-      "author": {
-        "name": "beamnxw",
-        "url": "https://x.com/beamnxw"
-      },
-      "demoUrl": "https://minelog.xyz",
-      "sourceUrl": "https://x.com/beamnxw/status/2102095524627177613",
-      "repoUrl": "https://github.com/beamnxw/minelog",
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102068605349150720%2Fimg%2F8LPqDyn6f3ZQJNtN.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102068605349150720%2Fimg%2F8LPqDyn6f3ZQJNtN.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1161
-    },
-    {
-      "id": "work-53a0ec34c9bc66b8",
+      "id": "work-3961d8fea75fc4e3",
       "name": "Permutosphere",
-      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 连续扭转变换 playground：把魔方从离散块推广到连续空间（切开空间、平移一块、无限重复）；声称 Astra 建，chatgpt.site 打开就能拧",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 连续置换 playground：把魔方式切割/扭转推到连续空间；Astra 构建，打开就能拧",
       "category": "game",
-      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
       "author": {
         "name": "DavidBanik",
         "url": "https://x.com/DavidBanik"
@@ -16276,9 +16258,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-22T02:50:26Z",
-    "lastSuccessfulAt": "2026-09-22T02:50:26Z",
-    "revision": "playable-sync-20260922-1047",
+    "checkedAt": "2026-09-22T06:55:17Z",
+    "lastSuccessfulAt": "2026-09-22T06:55:17Z",
+    "revision": "playable-sync-20260922-1452",
     "stale": false,
     "status": "fresh"
   },
