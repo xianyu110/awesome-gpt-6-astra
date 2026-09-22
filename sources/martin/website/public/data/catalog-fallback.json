@@ -1,29 +1,11 @@
 {
   "works": [
     {
-      "id": "work-e0f49f4a5ed34dd3",
-      "name": "Investigativo Noir",
-      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
-      "author": {
-        "name": "Matthia570939",
-        "url": "https://x.com/Matthia570939"
-      },
-      "demoUrl": "https://noir-detective-psx.matthia-ai.chatgpt.site/",
-      "sourceUrl": "https://x.com/Matthia570939/status/2102322089206427716",
-      "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102320662299697153%2Fimg%2FI7nOUsynkPAfw5kf.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102320662299697153%2Fimg%2FI7nOUsynkPAfw5kf.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1162
-    },
-    {
       "id": "work-d1466f4be43fbd8c",
-      "name": "McLaren Artura 3D Configurator",
-      "description": "可玩 Demo · 竞速 / 驾驶 · 高模 McLaren Artura 浏览器配置器：Astra 帮 Blender 减面，Three.js+WebGPU 换色/灯光/360/风洞；打开就能拧 · ❤ 7",
+      "name": "McLaren Artura · 3D Car Configurator",
+      "description": "可玩 Demo · 工程 / 仿真 · Astra 帮 Blender 减面高模 McLaren Artura → Three.js / WebGPU 浏览器车型配置器：实时喷涂、电影光、360° 环视、风洞气流；打开就能拧色看车 · ❤ 7",
       "category": "game",
-      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
       "author": {
         "name": "xingor_dev",
         "url": "https://x.com/xingor_dev"
@@ -34,7 +16,7 @@
       "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102315992735256576%2Fimg%2FBarPXxqlaOv9OY68.jpg",
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102315992735256576%2Fimg%2FBarPXxqlaOv9OY68.jpg",
       "videoUrl": null,
-      "sourceOrder": -1163
+      "sourceOrder": -1162
     },
     {
       "id": "work-29d202b631e5ce91",
@@ -16312,9 +16294,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-22T10:50:54Z",
-    "lastSuccessfulAt": "2026-09-22T10:50:54Z",
-    "revision": "playable-sync-20260922-1849",
+    "checkedAt": "2026-09-22T10:51:33Z",
+    "lastSuccessfulAt": "2026-09-22T10:51:33Z",
+    "revision": "playable-sync-20260922-1850",
     "stale": false,
     "status": "fresh"
   },

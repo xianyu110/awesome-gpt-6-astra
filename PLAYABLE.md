@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**241** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**240** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
-- [竞速 / 驾驶](#竞速--驾驶) — 30
+- [竞速 / 驾驶](#竞速--驾驶) — 29
 - [射击 / 动作](#射击--动作) — 29
 - [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 27
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 50
-- [工程 / 仿真](#工程--仿真) — 19
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
+- [工程 / 仿真](#工程--仿真) — 20
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
@@ -229,11 +229,6 @@
    - 试玩链接：`https://spline-rush.vercel.app`
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
-
-30. **McLaren Artura 3D Configurator** — [试玩](https://3d-car-configurator-lac.vercel.app/) · [原帖](https://x.com/xingor_dev/status/2102316320012607591) · ❤ 7
-   - 试玩链接：`https://3d-car-configurator-lac.vercel.app/`
-   - 原帖：https://x.com/xingor_dev/status/2102316320012607591
-   - 备注：高模 McLaren Artura 浏览器配置器：Astra 帮 Blender 减面，Three.js+WebGPU 换色/灯光/360/风洞；打开就能拧
 
 
 ## 射击 / 动作
@@ -984,11 +979,6 @@
    - 原帖：https://x.com/ibuildfunstuff/status/2102035368145252546
    - 备注：游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈
 
-50. **Investigativo Noir** — [试玩](https://noir-detective-psx.matthia-ai.chatgpt.site/) · [原帖](https://x.com/Matthia570939/status/2102322089206427716)
-   - 试玩链接：`https://noir-detective-psx.matthia-ai.chatgpt.site/`
-   - 原帖：https://x.com/Matthia570939/status/2102322089206427716
-   - 备注：迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜
-
 
 ## 工程 / 仿真
 
@@ -1076,6 +1066,12 @@
    - 原帖：https://x.com/beamnxw/status/2102095524627177613
    - 仓库：https://github.com/beamnxw/minelog
    - 备注：GPT-6 Astra（planner）+ Jev（controller）共用一个 Minecraft 身体的公开 live harness：HUD+日志，浏览器看 agent 打方块；OSS github.com/beamnxw/minelog
+
+20. **McLaren Artura · 3D Car Configurator** — [试玩](https://3d-car-configurator-lac.vercel.app/) · [原帖](https://x.com/xingor_dev/status/2102316320012607591) · ❤ 7
+   - 试玩链接：`https://3d-car-configurator-lac.vercel.app/`
+   - 原帖：https://x.com/xingor_dev/status/2102316320012607591
+   - 备注：Astra 帮 Blender 减面高模 McLaren Artura → Three.js / WebGPU 浏览器车型配置器：实时喷涂、电影光、360° 环视、风洞气流；打开就能拧色看车
+
 
 ## 其他可玩 Demo
 
