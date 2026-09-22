@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**240** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**243** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -13,11 +13,11 @@
 - [射击 / 动作](#射击--动作) — 29
 - [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 27
+- [街机 / 小游戏包](#街机--小游戏包) — 28
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
-- [工程 / 仿真](#工程--仿真) — 20
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 50
+- [工程 / 仿真](#工程--仿真) — 21
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
@@ -633,6 +633,11 @@
    - 原帖：https://x.com/DavidBanik/status/2102264546920628232
    - 备注：连续置换 playground：把魔方式切割/扭转推到连续空间；Astra 构建，打开就能拧
 
+28. **System One (Nil)** — [试玩](https://system-one-nil.iangunsworth.chatgpt.site/) · [原帖](https://x.com/Ianu82/status/2102364536649232706) · ❤ 1
+   - 试玩链接：`https://system-one-nil.iangunsworth.chatgpt.site/`
+   - 原帖：https://x.com/Ianu82/status/2102364536649232706
+   - 备注：三分钟街机足球人对 Jev：Astra + TypeSafe Jev + MindsHub；打开就能开球踢一脚
+
 
 ## 音乐 / 表演
 
@@ -979,6 +984,11 @@
    - 原帖：https://x.com/ibuildfunstuff/status/2102035368145252546
    - 备注：游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈
 
+50. **Maeul in the Sky** — [试玩](https://t1seo.github.io/maeul-in-the-sky/tour/) · [原帖](https://x.com/t1won_seo/status/2102397534983573932)
+   - 试玩链接：`https://t1seo.github.io/maeul-in-the-sky/tour/`
+   - 原帖：https://x.com/t1won_seo/status/2102397534983573932
+   - 备注：把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达
+
 
 ## 工程 / 仿真
 
@@ -1071,6 +1081,11 @@
    - 试玩链接：`https://3d-car-configurator-lac.vercel.app/`
    - 原帖：https://x.com/xingor_dev/status/2102316320012607591
    - 备注：Astra 帮 Blender 减面高模 McLaren Artura → Three.js / WebGPU 浏览器车型配置器：实时喷涂、电影光、360° 环视、风洞气流；打开就能拧色看车
+
+21. **One Sheet · Origami Crane Studio** — [试玩](https://bubucn.com/en/ai-model-evals/one-sheet) · [原帖](https://x.com/BubuStd/status/2102375618285629746) · ❤ 1
+   - 试玩链接：`https://bubucn.com/en/ai-model-evals/one-sheet`
+   - 原帖：https://x.com/BubuStd/status/2102375618285629746
+   - 备注：一张纸折纸鹤工作室：44 步折叠 + 振翅；Astra 空间折叠精度挺能打，Three.js 打开就能跟折
 
 
 ## 其他可玩 Demo
