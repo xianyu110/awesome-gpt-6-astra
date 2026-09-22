@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**232** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-21
+- 收录：**237** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 17
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
 - [竞速 / 驾驶](#竞速--驾驶) — 29
-- [射击 / 动作](#射击--动作) — 28
-- [模拟经营 / 策略](#模拟经营--策略) — 16
+- [射击 / 动作](#射击--动作) — 29
+- [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 26
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 49
-- [工程 / 仿真](#工程--仿真) — 17
-- [其他可玩 Demo](#其他可玩-Demo) — 12
+- [工程 / 仿真](#工程--仿真) — 18
+- [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
 
@@ -89,6 +89,12 @@
    - 试玩链接：`https://arcturuschess.com/`
    - 原帖：https://x.com/MikePFrank/status/2101965624788316356
    - 备注：Astra 自研战术引擎 + 可对话 LLM 对手公开 beta，约 ELO 2000；浏览器打开就能下
+
+18. **HOLLOWMARK** — [试玩](https://hollowmark.mindblown.ai/) · [原帖](https://x.com/mindblown_ai/status/2102040812569944136) · ❤ 16
+   - 试玩链接：`https://hollowmark.mindblown.ai/`
+   - 原帖：https://x.com/mindblown_ai/status/2102040812569944136
+   - 备注：浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关
+
 
 ## 竞速 / 驾驶
 
@@ -356,6 +362,11 @@
    - 原帖：https://x.com/balaena01/status/2101864315876004034
    - 备注：Jev × Tripo × Astra 语音战斗浏览器试玩：语音自由攻击、商人谈判与战斗判定，打开就能打
 
+29. **YABAI! — WHERE’S THE LAST TRAIN?** — [试玩](https://yabai-ultimo-trem.preda2005.chatgpt.site/) · [原帖](https://x.com/Preda2005/status/2102210771153514562) · ❤ 9
+   - 试玩链接：`https://yabai-ultimo-trem.preda2005.chatgpt.site/`
+   - 原帖：https://x.com/Preda2005/status/2102210771153514562
+   - 备注：浏览器 SHMUP：商店 / Boss / 武器，GPT-6 Astra vibe-code 约 40h，第一关可玩
+
 
 ## 模拟经营 / 策略
 
@@ -430,6 +441,11 @@
    - 试玩链接：`https://wonderforge.pages.dev/`
    - 原帖：https://x.com/auracanvas/status/2101919244527260018
    - 备注：Civ VI 风奇迹建造动画：GPT-6 + Three.js / Blender，四个奇观施工镜头浏览器可看可玩
+
+17. **IdleGPU 3D** — [试玩](https://idlegpu-3d.kostrikov.chatgpt.site/) · [原帖](https://x.com/ikostrikov/status/2102224666932953349) · ❤ 6
+   - 试玩链接：`https://idlegpu-3d.kostrikov.chatgpt.site/`
+   - 原帖：https://x.com/ikostrikov/status/2102224666932953349
+   - 备注：活着的 3D AI 前沿实验室 idle 游戏：GPT-6 Astra 建，浏览器挂机养实验室
 
 
 ## 联机 / 多人
@@ -1035,6 +1051,11 @@
    - 原帖：https://x.com/McHodlHorizon/status/2100548386722357517
    - 备注：物理与数学互动实验合集：场与时空可视化 playground；Astra 非一锤子，Netlify 打开就能玩
 
+18. **Frame Notes** — [试玩](https://toankhontech.github.io/frame-notes/) · [原帖](https://x.com/toankhontech/status/2102214617573609892) · ❤ 1
+   - 试玩链接：`https://toankhontech.github.io/frame-notes/`
+   - 原帖：https://x.com/toankhontech/status/2102214617573609892
+   - 备注：本地视频审片：暂停钉笔记、导出帧+时间戳给 coding agents；GPT-6 Astra xhigh + Codex，GitHub Pages 可试
+
 
 ## 其他可玩 Demo
 
@@ -1092,6 +1113,11 @@
    - 试玩链接：`https://graceful-spoonbill-850.convex.site`
    - 原帖：https://x.com/jhahimanshu653/status/2100529730101612800
    - 备注：Hackathon / grant / 付费机会聚合 + AI shortlist：源链接、截止倒计时、奖金证据；Astra+Codex 构建，Convex 托管
+
+13. **Answer Lens** — [试玩](https://donizetiferr.github.io/answer-lens/) · [原帖](https://x.com/DonizetiFerre16/status/2102139124631105808)
+   - 试玩链接：`https://donizetiferr.github.io/answer-lens/`
+   - 原帖：https://x.com/DonizetiFerre16/status/2102139124631105808
+   - 备注：浏览器盲测 AI 回答：藏模型名做 A/B 判定；GPT-6 Astra 建，开源可玩
 
 
 ## 说明
