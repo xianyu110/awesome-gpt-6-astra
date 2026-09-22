@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-e0f49f4a5ed34dd3",
+      "name": "Investigativo Noir",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "Matthia570939",
+        "url": "https://x.com/Matthia570939"
+      },
+      "demoUrl": "https://noir-detective-psx.matthia-ai.chatgpt.site/",
+      "sourceUrl": "https://x.com/Matthia570939/status/2102322089206427716",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102320662299697153%2Fimg%2FI7nOUsynkPAfw5kf.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102320662299697153%2Fimg%2FI7nOUsynkPAfw5kf.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1166
+    },
+    {
       "id": "work-7e148a4592a8d081",
       "name": "Maeul in the Sky",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · 把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达",
@@ -16348,9 +16366,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-22T14:17:47Z",
-    "lastSuccessfulAt": "2026-09-22T14:17:47Z",
-    "revision": "playable-sync-20260922-2215",
+    "checkedAt": "2026-09-22T14:19:45Z",
+    "lastSuccessfulAt": "2026-09-22T14:19:45Z",
+    "revision": "playable-sync-noir-20260922-2218",
     "stale": false,
     "status": "fresh"
   },
