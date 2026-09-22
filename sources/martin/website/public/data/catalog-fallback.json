@@ -1,6 +1,96 @@
 {
   "works": [
     {
+      "id": "work-b6d8a3f8edd40674",
+      "name": "HOLLOWMARK",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关 · ❤ 16",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "mindblown_ai",
+        "url": "https://x.com/mindblown_ai"
+      },
+      "demoUrl": "https://hollowmark.mindblown.ai/",
+      "sourceUrl": "https://x.com/mindblown_ai/status/2102040812569944136",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102032350607761409%2Fimg%2Fp_uxWyKQ0sB6MQDk.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102032350607761409%2Fimg%2Fp_uxWyKQ0sB6MQDk.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1155
+    },
+    {
+      "id": "work-bd492072ae8a17b7",
+      "name": "YABAI! — WHERE’S THE LAST TRAIN?",
+      "description": "可玩 Demo · 射击 / 动作 · 浏览器 SHMUP：商店 / Boss / 武器，GPT-6 Astra vibe-code 约 40h，第一关可玩 · ❤ 9",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Preda2005",
+        "url": "https://x.com/Preda2005"
+      },
+      "demoUrl": "https://yabai-ultimo-trem.preda2005.chatgpt.site/",
+      "sourceUrl": "https://x.com/Preda2005/status/2102210771153514562",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fyabai-ultimo-trem.preda2005.chatgpt.site%2Fassets%2Fhana.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fyabai-ultimo-trem.preda2005.chatgpt.site%2Fassets%2Fhana.png",
+      "videoUrl": null,
+      "sourceOrder": -1156
+    },
+    {
+      "id": "work-8e3172a22e692f32",
+      "name": "IdleGPU 3D",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 活着的 3D AI 前沿实验室 idle 游戏：GPT-6 Astra 建，浏览器挂机养实验室 · ❤ 6",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "ikostrikov",
+        "url": "https://x.com/ikostrikov"
+      },
+      "demoUrl": "https://idlegpu-3d.kostrikov.chatgpt.site/",
+      "sourceUrl": "https://x.com/ikostrikov/status/2102224666932953349",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSyaMZJa8AAQiy3.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSyaMZJa8AAQiy3.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1157
+    },
+    {
+      "id": "work-04b9c6bef01969a2",
+      "name": "Frame Notes",
+      "description": "可玩 Demo · 工程 / 仿真 · 本地视频审片：暂停钉笔记、导出帧+时间戳给 coding agents；GPT-6 Astra xhigh + Codex，GitHub Pages 可试 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "toankhontech",
+        "url": "https://x.com/toankhontech"
+      },
+      "demoUrl": "https://toankhontech.github.io/frame-notes/",
+      "sourceUrl": "https://x.com/toankhontech/status/2102214617573609892",
+      "repoUrl": "https://github.com/toankhontech/frame-notes",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102209067892740096%2Fimg%2FqRhF71Wa_djfQBs2.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102209067892740096%2Fimg%2FqRhF71Wa_djfQBs2.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1158
+    },
+    {
+      "id": "work-5eb5a01e4ebe1653",
+      "name": "Answer Lens",
+      "description": "可玩 Demo · 其他可玩 Demo · 浏览器盲测 AI 回答：藏模型名做 A/B 判定；GPT-6 Astra 建，开源可玩",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "DonizetiFerre16",
+        "url": "https://x.com/DonizetiFerre16"
+      },
+      "demoUrl": "https://donizetiferr.github.io/answer-lens/",
+      "sourceUrl": "https://x.com/DonizetiFerre16/status/2102139124631105808",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102138910524559360%2Fimg%2FEDbWfCK3fRkp7F-p.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102138910524559360%2Fimg%2FEDbWfCK3fRkp7F-p.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1159
+    },
+    {
       "id": "work-7ef815154ce6d352",
       "name": "ODD DECK",
       "description": "可玩 Demo · 街机 / 小游戏包 · 一张卡面参考 → 可玩卡牌 Web App：GPT Astra Pro 搓的完整交互牌桌，打开就能抽",
@@ -16150,9 +16240,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-21T14:26:42.000Z",
-    "lastSuccessfulAt": "2026-09-21T14:26:42.000Z",
-    "revision": "playable-sync-20260921-2227",
+    "checkedAt": "2026-09-22T02:50:26Z",
+    "lastSuccessfulAt": "2026-09-22T02:50:26Z",
+    "revision": "playable-sync-20260922-1047",
     "stale": false,
     "status": "fresh"
   },
