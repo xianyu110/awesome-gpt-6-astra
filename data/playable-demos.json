@@ -1662,5 +1662,19 @@
     "post_url": "https://x.com/laraavci_/status/2100908545919123708",
     "likes": 16,
     "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "Permutosphere",
+    "demo_url": "https://permutosphere.yg4h4d5rw5.chatgpt.site",
+    "post_url": "https://x.com/DavidBanik/status/2102264546920628232",
+    "likes": 0,
+    "category": "经典复刻 / 知名玩法"
+  },
+  {
+    "title": "Minelog",
+    "demo_url": "https://minelog.xyz",
+    "post_url": "https://x.com/beamnxw/status/2102095524627177613",
+    "likes": 66,
+    "category": "工程 / 仿真"
   }
 ]
