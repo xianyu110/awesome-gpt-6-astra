@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**243** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**244** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-22
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 28
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 50
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 51
 - [工程 / 仿真](#工程--仿真) — 21
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -988,6 +988,11 @@
    - 试玩链接：`https://t1seo.github.io/maeul-in-the-sky/tour/`
    - 原帖：https://x.com/t1won_seo/status/2102397534983573932
    - 备注：把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达
+
+51. **Investigativo Noir** — [试玩](https://noir-detective-psx.matthia-ai.chatgpt.site/) · [原帖](https://x.com/Matthia570939/status/2102322089206427716)
+   - 试玩链接：`https://noir-detective-psx.matthia-ai.chatgpt.site/`
+   - 原帖：https://x.com/Matthia570939/status/2102322089206427716
+   - 备注：迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜
 
 
 ## 工程 / 仿真
