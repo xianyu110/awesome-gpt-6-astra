@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-29d202b631e5ce91",
+      "name": "Minelog",
+      "description": "可玩 Demo · 工程 / 仿真 · GPT-6 Astra（planner）+ Jev（controller）共用一个 Minecraft 身体的公开 live harness：HUD+日志，浏览器看 agent 打方块；OSS github.com/beamnxw/m… · ❤ 66",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "beamnxw",
+        "url": "https://x.com/beamnxw"
+      },
+      "demoUrl": "https://minelog.xyz",
+      "sourceUrl": "https://x.com/beamnxw/status/2102095524627177613",
+      "repoUrl": "https://github.com/beamnxw/minelog",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102068605349150720%2Fimg%2F8LPqDyn6f3ZQJNtN.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102068605349150720%2Fimg%2F8LPqDyn6f3ZQJNtN.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1161
+    },
+    {
+      "id": "work-53a0ec34c9bc66b8",
+      "name": "Permutosphere",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 连续扭转变换 playground：把魔方从离散块推广到连续空间（切开空间、平移一块、无限重复）；声称 Astra 建，chatgpt.site 打开就能拧",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "DavidBanik",
+        "url": "https://x.com/DavidBanik"
+      },
+      "demoUrl": "https://permutosphere.yg4h4d5rw5.chatgpt.site",
+      "sourceUrl": "https://x.com/DavidBanik/status/2102264546920628232",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSy-dtGbwAEbZbH.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHSy-dtGbwAEbZbH.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1160
+    },
+    {
       "id": "work-b6d8a3f8edd40674",
       "name": "HOLLOWMARK",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · 浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关 · ❤ 16",
