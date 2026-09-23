@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**244** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-22
+- 收录：**247** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-23
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -13,10 +13,10 @@
 - [射击 / 动作](#射击--动作) — 29
 - [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 28
+- [街机 / 小游戏包](#街机--小游戏包) — 29
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 51
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 53
 - [工程 / 仿真](#工程--仿真) — 21
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -638,6 +638,11 @@
    - 原帖：https://x.com/Ianu82/status/2102364536649232706
    - 备注：三分钟街机足球人对 Jev：Astra + TypeSafe Jev + MindsHub；打开就能开球踢一脚
 
+29. **星光摘星星月亮** — [试玩](https://moonlit-starlight.pages.dev) · [原帖](https://x.com/DouXiao27324/status/2102417952519963033)
+   - 试玩链接：`https://moonlit-starlight.pages.dev`
+   - 原帖：https://x.com/DouXiao27324/status/2102417952519963033
+   - 备注：中秋手势小游戏：摄像头抓星星月亮；Codex Astra 出品，打开摄像头就能摘
+
 
 ## 音乐 / 表演
 
@@ -993,6 +998,16 @@
    - 试玩链接：`https://noir-detective-psx.matthia-ai.chatgpt.site/`
    - 原帖：https://x.com/Matthia570939/status/2102322089206427716
    - 备注：迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜
+
+52. **Pelican Rider** — [试玩](https://toankhontech.github.io/pelican-rider/) · [原帖](https://x.com/toankhontech/status/2102446661004140648) · ❤ 1
+   - 试玩链接：`https://toankhontech.github.io/pelican-rider/`
+   - 原帖：https://x.com/toankhontech/status/2102446661004140648
+   - 备注：迷你 3D 鹈鹕骑行：踩踏板、围巾飘、滑行、日夜切换；GPT-6 Astra xhigh + Codex，打开就能遛鸟
+
+53. **樱花山谷 · Sakura Valley (Astra)** — [试玩](https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html) · [原帖](https://x.com/dotey/status/2102565403109085669) · ❤ 67
+   - 试玩链接：`https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html`
+   - 原帖：https://x.com/dotey/status/2102565403109085669
+   - 备注：宝玉同提示词日式樱花山谷可游览 3D：GPT-6 Astra 版，完整 prompt 可偷，打开就能逛
 
 
 ## 工程 / 仿真
