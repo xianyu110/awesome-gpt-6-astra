@@ -1,60 +1,6 @@
 {
   "works": [
     {
-      "id": "work-31d9b78a77dc907b",
-      "name": "十二位荷官在线发牌",
-      "description": "可玩 Demo · 联机 / 多人 · 十二位荷官联机发牌：通关留名、可单人闯关或好友联机；GPT-6 Sol + Combos CLI + Image 2.5 出图，打开就能玩 · ❤ 15",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 联机 / 多人",
-      "author": {
-        "name": "LufzzLiz",
-        "url": "https://x.com/LufzzLiz"
-      },
-      "demoUrl": "https://combos.game/play?post_id=7932ca7753756dc6ba907575874cb25f",
-      "sourceUrl": "https://x.com/LufzzLiz/status/2102690338829647885",
-      "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102688773285052416%2Fimg%2FiQjarzSahXIAeP0W.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102688773285052416%2Fimg%2FiQjarzSahXIAeP0W.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1175
-    },
-    {
-      "id": "work-d1483d6ea1833fb4",
-      "name": "Ship It",
-      "description": "可玩 Demo · 模拟经营 / 策略 · 独立创始人单人桌游：12 周 runway、两步一手、六道逻辑谜题练 scoping / vibe code / 获客；GPT-6 Astra，打开就能玩 · ❤ 4",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
-      "author": {
-        "name": "WilliamQubits",
-        "url": "https://x.com/WilliamQubits"
-      },
-      "demoUrl": "https://chatview.app/games/ship-it",
-      "sourceUrl": "https://x.com/WilliamQubits/status/2102691133629608070",
-      "repoUrl": null,
-      "imageUrl": "/previews/playable-ship-it.jpg",
-      "posterUrl": "/previews/playable-ship-it.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1176
-    },
-    {
-      "id": "work-57fc7da5428e0d1b",
-      "name": "JevPong",
-      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 实时 Pong 对战 TypeSafe Jev 决策模型：看它每拍决策、先到 7 分上榜；GPT-6 Astra + Codex + Postman Fabric，打开就能打 · ❤ 11",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
-      "author": {
-        "name": "Gbahdeyboh",
-        "url": "https://x.com/Gbahdeyboh"
-      },
-      "demoUrl": "https://jevpong-production.up.railway.app/",
-      "sourceUrl": "https://x.com/Gbahdeyboh/status/2102669303535567264",
-      "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102542399985602561%2Fimg%2Fyk8fRQpPc5n7haAm.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102542399985602561%2Fimg%2Fyk8fRQpPc5n7haAm.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1177
-    },
-    {
       "id": "work-c8544a589133712c",
       "name": "Tidebound · Sanctum",
       "description": "可玩 Demo · 射击 / 动作 · 法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚 · ❤ 37",
@@ -16541,14 +16487,50 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg%3Fname%3Dorig",
       "videoUrl": null,
       "sourceOrder": -1174
+    },
+    {
+      "id": "work-d1483d6ea1833fb4",
+      "name": "Ship It",
+      "description": "可玩 Demo · 模拟经营 / 策略 · 独立创始人单人桌游：12 周 runway、两步一手、谜题过关拉首批用户；GPT-6 Astra，打开就能开局 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 模拟经营 / 策略",
+      "author": {
+        "name": "WilliamQubits",
+        "url": "https://x.com/WilliamQubits"
+      },
+      "demoUrl": "https://chatview.app/games/ship-it",
+      "sourceUrl": "https://x.com/WilliamQubits/status/2102691133629608070",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-ship-it.jpg",
+      "posterUrl": "/previews/playable-ship-it.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1175
+    },
+    {
+      "id": "work-57fc7da5428e0d1b",
+      "name": "JevPong",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 实时 Pong 人对 TypeSafe Jev 决策模型：旁路监视 AI 上下/回球概率；GPT-6 Astra + Codex + Fabric Gateway，打开就能对拍 · ❤ 11",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "Gbahdeyboh",
+        "url": "https://x.com/Gbahdeyboh"
+      },
+      "demoUrl": "https://jevpong-production.up.railway.app/",
+      "sourceUrl": "https://x.com/Gbahdeyboh/status/2102669303535567264",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-jevpong.jpg",
+      "posterUrl": "/previews/playable-jevpong.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1176
     }
   ],
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-23T10:57:23Z",
-    "lastSuccessfulAt": "2026-09-23T10:57:23Z",
-    "revision": "playable-sync-20260923-1853",
+    "checkedAt": "2026-09-23T06:57:36Z",
+    "lastSuccessfulAt": "2026-09-23T06:57:36Z",
+    "revision": "playable-sync-20260923-1455",
     "stale": false,
     "status": "fresh"
   },
