@@ -16415,6 +16415,24 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2100883147973877760%2Fimg%2FSGFzP-ydYzPIbbQ3.jpg",
       "videoUrl": null,
       "sourceOrder": -1140
+    },
+    {
+      "id": "work-8b41316d0ac0f75d",
+      "name": "Agent Fighter",
+      "description": "可玩 Demo · 射击 / 动作 · Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打 · ❤ 8",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "p4nthera_",
+        "url": "https://x.com/p4nthera_"
+      },
+      "demoUrl": "https://agent-fighter-gamma.vercel.app/",
+      "sourceUrl": "https://x.com/p4nthera_/status/2102537766244323719",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102536117576777730%2Fimg%2FtmSMGA-lCefDtaBU.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102536117576777730%2Fimg%2FtmSMGA-lCefDtaBU.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1170
     }
   ],
   "source": {
