@@ -1,5 +1,15 @@
 [
   {
+    "title": "Agent Fighter",
+    "demo_url": "https://agent-fighter-gamma.vercel.app/",
+    "post_url": "https://x.com/p4nthera_/status/2102537766244323719",
+    "likes": 8,
+    "category": "射击 / 动作",
+    "author": "p4nthera_",
+    "note": "Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102536117576777730%2Fimg%2FtmSMGA-lCefDtaBU.jpg"
+  },
+  {
     "title": "Pelican Rider",
     "demo_url": "https://toankhontech.github.io/pelican-rider/",
     "post_url": "https://x.com/toankhontech/status/2102446661004140648",
