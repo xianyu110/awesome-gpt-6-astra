@@ -1,5 +1,35 @@
 [
   {
+    "title": "Pelican Rider",
+    "demo_url": "https://toankhontech.github.io/pelican-rider/",
+    "post_url": "https://x.com/toankhontech/status/2102446661004140648",
+    "likes": 1,
+    "category": "3D 场景 / 氛围探索",
+    "author": "toankhontech",
+    "note": "迷你 3D 鹈鹕骑行：踩踏板、围巾飘、滑行、日夜切换；GPT-6 Astra xhigh + Codex，打开就能遛鸟",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102444893721468928%2Fimg%2FmsRh9PtZcMt8IxgI.jpg"
+  },
+  {
+    "title": "樱花山谷 · Sakura Valley (Astra)",
+    "demo_url": "https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html",
+    "post_url": "https://x.com/dotey/status/2102565403109085669",
+    "likes": 67,
+    "category": "3D 场景 / 氛围探索",
+    "author": "dotey",
+    "note": "宝玉同提示词日式樱花山谷可游览 3D：GPT-6 Astra 版，完整 prompt 可偷，打开就能逛",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS3P_ILWsAEw0CG.jpg"
+  },
+  {
+    "title": "星光摘星星月亮",
+    "demo_url": "https://moonlit-starlight.pages.dev",
+    "post_url": "https://x.com/DouXiao27324/status/2102417952519963033",
+    "likes": null,
+    "category": "街机 / 小游戏包",
+    "author": "DouXiao27324",
+    "note": "中秋手势小游戏：摄像头抓星星月亮；Codex Astra 出品，打开摄像头就能摘",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102417856587788288%2Fimg%2FjIZR3bM8q5ihYrZ8.jpg"
+  },
+  {
     "title": "Investigativo Noir",
     "demo_url": "https://noir-detective-psx.matthia-ai.chatgpt.site/",
     "post_url": "https://x.com/Matthia570939/status/2102322089206427716",
