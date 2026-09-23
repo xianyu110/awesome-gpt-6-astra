@@ -1807,5 +1807,14 @@
     "post_url": "https://x.com/Gbahdeyboh/status/2102669303535567264",
     "likes": 11,
     "category": "街机 / 小游戏包"
+  },
+  {
+    "title": "弓箭手大作战 · 卡通乱斗",
+    "demo_url": "https://worker-prod-d0b3d565-9949-485f-9789-4fd0cb969c19.combos.game",
+    "post_url": "https://x.com/yaohui12138/status/2102756741444461038",
+    "likes": 17,
+    "category": "联机 / 多人",
+    "author": "yaohui12138",
+    "note": "GPT-6 Sol + Combos CLI 复刻《弓箭手大作战》联机乱斗：素材/音效 CLI 出图，房间与同步走 Combos；worker 试玩链，AI bot 可补位"
   }
 ]
