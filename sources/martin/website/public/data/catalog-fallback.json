@@ -1,24 +1,6 @@
 {
   "works": [
     {
-      "id": "work-5ff7775bc1b25b83",
-      "name": "Sierra Villa",
-      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 可交互海岛别墅建筑工作室：765㎡，环绕/日-金-夜、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛 · ❤ 1",
-      "category": "game",
-      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
-      "author": {
-        "name": "aidarosgo3",
-        "url": "https://x.com/aidarosgo3"
-      },
-      "demoUrl": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
-      "sourceUrl": "https://x.com/aidarosgo3/status/2102624713965019266",
-      "repoUrl": null,
-      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg",
-      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg",
-      "videoUrl": null,
-      "sourceOrder": -1171
-    },
-    {
       "id": "work-c8544a589133712c",
       "name": "Tidebound · Sanctum",
       "description": "可玩 Demo · 射击 / 动作 · 法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚 · ❤ 37",
@@ -16487,6 +16469,24 @@
       "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102536117576777730%2Fimg%2FtmSMGA-lCefDtaBU.jpg",
       "videoUrl": null,
       "sourceOrder": -1170
+    },
+    {
+      "id": "work-5ff7775bc1b25b83",
+      "name": "Sierra Villa",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 海边 765㎡ 互动岛屿别墅建筑工作室：轨道环绕、日/黄金时刻/夜切换、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "aidarosgo3",
+        "url": "https://x.com/aidarosgo3"
+      },
+      "demoUrl": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
+      "sourceUrl": "https://x.com/aidarosgo3/status/2102624713965019266",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1174
     }
   ],
   "source": {
