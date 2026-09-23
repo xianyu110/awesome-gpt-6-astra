@@ -2,15 +2,15 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**251** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**249** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-23
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
-- [竞速 / 驾驶](#竞速--驾驶) — 30
-- [射击 / 动作](#射击--动作) — 31
+- [竞速 / 驾驶](#竞速--驾驶) — 29
+- [射击 / 动作](#射击--动作) — 30
 - [模拟经营 / 策略](#模拟经营--策略) — 17
 - [联机 / 多人](#联机--多人) — 12
 - [街机 / 小游戏包](#街机--小游戏包) — 29
@@ -230,11 +230,6 @@
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
 
-30. **无限雪线** — [试玩](https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c) · [原帖](https://x.com/lxfater/status/2102574153341825275) · ❤ 33
-   - 试玩链接：`https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c`
-   - 原帖：https://x.com/lxfater/status/2102574153341825275
-   - 备注：3D 滑雪竞速：道具/坐骑/空翻加速、场景事件，可单人无限挑战或在线双人实时对飙；GPT-6 Sol + Combos CLI，打开就能滑
-
 
 ## 射击 / 动作
 
@@ -377,12 +372,6 @@
    - 试玩链接：`https://agent-fighter-gamma.vercel.app/`
    - 原帖：https://x.com/p4nthera_/status/2102537766244323719
    - 备注：Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打
-
-31. **Tidebound · Sanctum** — [试玩](https://combos.game/play/d804021bf5ce539a76e0e27d73c71157) · [原帖](https://x.com/Saccc_c/status/2102627123836137820) · ❤ 37
-   - 试玩链接：`https://combos.game/play/d804021bf5ce539a76e0e27d73c71157`
-   - 原帖：https://x.com/Saccc_c/status/2102627123836137820
-   - 备注：法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚
-
 
 ## 模拟经营 / 策略
 
@@ -1025,11 +1014,11 @@
    - 原帖：https://x.com/dotey/status/2102565403109085669
    - 备注：宝玉同提示词日式樱花山谷可游览 3D：GPT-6 Astra 版，完整 prompt 可偷，打开就能逛
 
+
 54. **Sierra Villa** — [试玩](https://sierra-villa-aidaros.aidarosstore.chatgpt.site/) · [原帖](https://x.com/aidarosgo3/status/2102624713965019266) · ❤ 1
    - 试玩链接：`https://sierra-villa-aidaros.aidarosstore.chatgpt.site/`
    - 原帖：https://x.com/aidarosgo3/status/2102624713965019266
-   - 备注：可交互海岛别墅建筑工作室：765㎡，环绕/日-金-夜、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛
-
+   - 备注：海边 765㎡ 互动岛屿别墅建筑工作室：轨道环绕、日/黄金时刻/夜切换、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛
 
 ## 工程 / 仿真
 
