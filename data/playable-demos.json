@@ -1,55 +1,5 @@
 [
   {
-    "title": "Tidebound · Sanctum",
-    "demo_url": "https://combos.game/play/d804021bf5ce539a76e0e27d73c71157",
-    "post_url": "https://x.com/Saccc_c/status/2102627123836137820",
-    "likes": 115,
-    "category": "射击 / 动作",
-    "author": "Saccc_c",
-    "note": "法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚",
-    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102625135081799680%2Fimg%2FFpEMnK5BE68QJLPx.jpg"
-  },
-  {
-    "title": "无限雪线",
-    "demo_url": "https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c",
-    "post_url": "https://x.com/lxfater/status/2102574153341825275",
-    "likes": 47,
-    "category": "竞速 / 驾驶",
-    "author": "lxfater",
-    "note": "3D 滑雪竞速：道具/坐骑/空翻加速、场景事件，可单人无限挑战或在线双人实时对飙；GPT-6 Sol + Combos CLI，打开就能滑",
-    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102573973531992064%2Fimg%2FRE6EFuZQaPHNsnip.jpg"
-  },
-  {
-    "title": "十二位荷官在线发牌",
-    "demo_url": "https://combos.game/play?post_id=7932ca7753756dc6ba907575874cb25f",
-    "post_url": "https://x.com/LufzzLiz/status/2102690338829647885",
-    "likes": 15,
-    "category": "联机 / 多人",
-    "author": "LufzzLiz",
-    "note": "十二位荷官联机发牌：通关留名、可单人闯关或好友联机；GPT-6 Sol + Combos CLI + Image 2.5 出图，打开就能玩",
-    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102688773285052416%2Fimg%2FiQjarzSahXIAeP0W.jpg"
-  },
-  {
-    "title": "Ship It",
-    "demo_url": "https://chatview.app/games/ship-it",
-    "post_url": "https://x.com/WilliamQubits/status/2102691133629608070",
-    "likes": 4,
-    "category": "模拟经营 / 策略",
-    "author": "WilliamQubits",
-    "note": "独立创始人单人桌游：12 周 runway、两步一手、六道逻辑谜题练 scoping / vibe code / 获客；GPT-6 Astra，打开就能玩",
-    "image": "/previews/playable-ship-it.jpg"
-  },
-  {
-    "title": "JevPong",
-    "demo_url": "https://jevpong-production.up.railway.app/",
-    "post_url": "https://x.com/Gbahdeyboh/status/2102669303535567264",
-    "likes": 11,
-    "category": "经典复刻 / 知名玩法",
-    "author": "Gbahdeyboh",
-    "note": "实时 Pong 对战 TypeSafe Jev 决策模型：看它每拍决策、先到 7 分上榜；GPT-6 Astra + Codex + Postman Fabric，打开就能打",
-    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102542399985602561%2Fimg%2Fyk8fRQpPc5n7haAm.jpg"
-  },
-  {
     "title": "Sierra Villa",
     "demo_url": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
     "post_url": "https://x.com/aidarosgo3/status/2102624713965019266",
@@ -1823,5 +1773,19 @@
     "post_url": "https://x.com/beamnxw/status/2102095524627177613",
     "likes": 66,
     "category": "工程 / 仿真"
+  },
+  {
+    "title": "Ship It",
+    "demo_url": "https://chatview.app/games/ship-it",
+    "post_url": "https://x.com/WilliamQubits/status/2102691133629608070",
+    "likes": 4,
+    "category": "模拟经营 / 策略"
+  },
+  {
+    "title": "JevPong",
+    "demo_url": "https://jevpong-production.up.railway.app/",
+    "post_url": "https://x.com/Gbahdeyboh/status/2102669303535567264",
+    "likes": 11,
+    "category": "街机 / 小游戏包"
   }
 ]
