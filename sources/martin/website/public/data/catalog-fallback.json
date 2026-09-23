@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-b9a1deb576f6152d",
+      "name": "Top Tennis",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍 · ❤ 65",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "teovito",
+        "url": "https://x.com/teovito"
+      },
+      "demoUrl": "https://toptennisgame.com/",
+      "sourceUrl": "https://x.com/teovito/status/2102686586723033440",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Ftoptennisgame.com%2Fassets%2Fseo%2Fgameplay-preview.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Ftoptennisgame.com%2Fassets%2Fseo%2Fgameplay-preview.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1177
+    },
+    {
+      "id": "work-337711c90674a017",
+      "name": "Sulli RUN",
+      "description": "可玩 Demo · 射击 / 动作 · 一张平面画 → 可玩赛博朋克 3D 跑酷：Tripo Smart Mesh 减面 + Auto Rig，GPT-6 Astra 管线搭好；打开就能跑 · ❤ 178",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Mortezabihzadeh",
+        "url": "https://x.com/Mortezabihzadeh"
+      },
+      "demoUrl": "https://sulli-game.vercel.app/",
+      "sourceUrl": "https://x.com/Mortezabihzadeh/status/2102719520699830417",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-sulli.jpg",
+      "posterUrl": "/previews/playable-sulli.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1178
+    },
+    {
       "id": "work-c8544a589133712c",
       "name": "Tidebound · Sanctum",
       "description": "可玩 Demo · 射击 / 动作 · 法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚 · ❤ 37",
@@ -16528,9 +16564,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-23T06:57:36Z",
-    "lastSuccessfulAt": "2026-09-23T06:57:36Z",
-    "revision": "playable-sync-20260923-1455",
+    "checkedAt": "2026-09-23T14:25:06Z",
+    "lastSuccessfulAt": "2026-09-23T14:25:06Z",
+    "revision": "playable-sync-20260923-2221",
     "stale": false,
     "status": "fresh"
   },
