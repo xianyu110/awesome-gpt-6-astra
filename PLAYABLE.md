@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**251** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**253** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-23
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,10 +10,10 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
 - [竞速 / 驾驶](#竞速--驾驶) — 29
-- [射击 / 动作](#射击--动作) — 30
+- [射击 / 动作](#射击--动作) — 31
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 12
-- [街机 / 小游戏包](#街机--小游戏包) — 30
+- [街机 / 小游戏包](#街机--小游戏包) — 31
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 54
@@ -373,6 +373,12 @@
    - 原帖：https://x.com/p4nthera_/status/2102537766244323719
    - 备注：Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打
 
+31. **Sulli RUN** — [试玩](https://sulli-game.vercel.app/) · [原帖](https://x.com/Mortezabihzadeh/status/2102719520699830417) · ❤ 178
+   - 试玩链接：`https://sulli-game.vercel.app/`
+   - 原帖：https://x.com/Mortezabihzadeh/status/2102719520699830417
+   - 备注：一张平面画 → 可玩赛博朋克 3D 跑酷：Tripo Smart Mesh 减面 + Auto Rig，GPT-6 Astra 管线搭好；打开就能跑
+
+
 ## 模拟经营 / 策略
 
 1. **FOREX WARS** — [试玩](https://afterprime-forex-wars.argamon-2254.chatgpt.site/) · [原帖](https://x.com/afterprime_com/status/2097159628119535866) · ❤ 3
@@ -657,6 +663,11 @@
    - 试玩链接：`https://jevpong-production.up.railway.app/`
    - 原帖：https://x.com/Gbahdeyboh/status/2102669303535567264
    - 备注：实时 Pong 人对 TypeSafe Jev 决策模型：旁路监视 AI 上下/回球概率；GPT-6 Astra + Codex + Fabric Gateway，打开就能对拍
+
+31. **Top Tennis** — [试玩](https://toptennisgame.com/) · [原帖](https://x.com/teovito/status/2102686586723033440) · ❤ 65
+   - 试玩链接：`https://toptennisgame.com/`
+   - 原帖：https://x.com/teovito/status/2102686586723033440
+   - 备注：浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍
 
 
 ## 音乐 / 表演

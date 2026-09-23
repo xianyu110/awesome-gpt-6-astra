@@ -1,5 +1,25 @@
 [
   {
+    "title": "Top Tennis",
+    "demo_url": "https://toptennisgame.com/",
+    "post_url": "https://x.com/teovito/status/2102686586723033440",
+    "likes": 65,
+    "category": "街机 / 小游戏包",
+    "author": "teovito",
+    "note": "浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Ftoptennisgame.com%2Fassets%2Fseo%2Fgameplay-preview.jpg"
+  },
+  {
+    "title": "Sulli RUN",
+    "demo_url": "https://sulli-game.vercel.app/",
+    "post_url": "https://x.com/Mortezabihzadeh/status/2102719520699830417",
+    "likes": 178,
+    "category": "射击 / 动作",
+    "author": "Mortezabihzadeh",
+    "note": "一张平面画 → 可玩赛博朋克 3D 跑酷：Tripo Smart Mesh 减面 + Auto Rig，GPT-6 Astra 管线搭好；打开就能跑",
+    "image": "/previews/playable-sulli.jpg"
+  },
+  {
     "title": "Sierra Villa",
     "demo_url": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
     "post_url": "https://x.com/aidarosgo3/status/2102624713965019266",
