@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-5ff7775bc1b25b83",
+      "name": "Sierra Villa",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 可交互海岛别墅建筑工作室：765㎡，环绕/日-金-夜、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "aidarosgo3",
+        "url": "https://x.com/aidarosgo3"
+      },
+      "demoUrl": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
+      "sourceUrl": "https://x.com/aidarosgo3/status/2102624713965019266",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1171
+    },
+    {
+      "id": "work-c8544a589133712c",
+      "name": "Tidebound · Sanctum",
+      "description": "可玩 Demo · 射击 / 动作 · 法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚 · ❤ 37",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "Saccc_c",
+        "url": "https://x.com/Saccc_c"
+      },
+      "demoUrl": "https://combos.game/play/d804021bf5ce539a76e0e27d73c71157",
+      "sourceUrl": "https://x.com/Saccc_c/status/2102627123836137820",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102625135081799680%2Fimg%2FFpEMnK5BE68QJLPx.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102625135081799680%2Fimg%2FFpEMnK5BE68QJLPx.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1172
+    },
+    {
+      "id": "work-53ce44f272831c4b",
+      "name": "无限雪线",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 3D 滑雪竞速：道具/坐骑/空翻加速、场景事件，可单人无限挑战或在线双人实时对飙；GPT-6 Sol + Combos CLI，打开就能滑 · ❤ 33",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "lxfater",
+        "url": "https://x.com/lxfater"
+      },
+      "demoUrl": "https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c",
+      "sourceUrl": "https://x.com/lxfater/status/2102574153341825275",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102573973531992064%2Fimg%2FRE6EFuZQaPHNsnip.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102573973531992064%2Fimg%2FRE6EFuZQaPHNsnip.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1173
+    },
+    {
       "id": "work-a8594ce9d5e8d194",
       "name": "Pelican Rider",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · 迷你 3D 鹈鹕骑行：踩踏板、围巾飘、滑行、日夜切换；GPT-6 Astra xhigh + Codex，打开就能遛鸟 · ❤ 1",
@@ -16438,9 +16492,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-23T02:52:13Z",
-    "lastSuccessfulAt": "2026-09-23T02:52:13Z",
-    "revision": "playable-sync-20260923-1051",
+    "checkedAt": "2026-09-23T06:57:36Z",
+    "lastSuccessfulAt": "2026-09-23T06:57:36Z",
+    "revision": "playable-sync-20260923-1455",
     "stale": false,
     "status": "fresh"
   },

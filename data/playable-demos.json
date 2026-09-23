@@ -1,5 +1,35 @@
 [
   {
+    "title": "Sierra Villa",
+    "demo_url": "https://sierra-villa-aidaros.aidarosstore.chatgpt.site/",
+    "post_url": "https://x.com/aidarosgo3/status/2102624713965019266",
+    "likes": 1,
+    "category": "3D 场景 / 氛围探索",
+    "author": "aidarosgo3",
+    "note": "可交互海岛别墅建筑工作室：765㎡，环绕/日-金-夜、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS4GAPQW4AA0B0F.jpg"
+  },
+  {
+    "title": "Tidebound · Sanctum",
+    "demo_url": "https://combos.game/play/d804021bf5ce539a76e0e27d73c71157",
+    "post_url": "https://x.com/Saccc_c/status/2102627123836137820",
+    "likes": 37,
+    "category": "射击 / 动作",
+    "author": "Saccc_c",
+    "note": "法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102625135081799680%2Fimg%2FFpEMnK5BE68QJLPx.jpg"
+  },
+  {
+    "title": "无限雪线",
+    "demo_url": "https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c",
+    "post_url": "https://x.com/lxfater/status/2102574153341825275",
+    "likes": 33,
+    "category": "竞速 / 驾驶",
+    "author": "lxfater",
+    "note": "3D 滑雪竞速：道具/坐骑/空翻加速、场景事件，可单人无限挑战或在线双人实时对飙；GPT-6 Sol + Combos CLI，打开就能滑",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102573973531992064%2Fimg%2FRE6EFuZQaPHNsnip.jpg"
+  },
+  {
     "title": "Agent Fighter",
     "demo_url": "https://agent-fighter-gamma.vercel.app/",
     "post_url": "https://x.com/p4nthera_/status/2102537766244323719",
