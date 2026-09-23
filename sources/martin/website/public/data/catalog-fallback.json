@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-f4e1925742556323",
+      "name": "弓箭手大作战 · 卡通乱斗",
+      "description": "可玩 Demo · 联机 / 多人 · GPT-6 Sol + Combos CLI 复刻《弓箭手大作战》联机乱斗：素材/音效 CLI 出图，房间与同步走 Combos；worker 试玩链，AI bot 可补位 · ❤ 17",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "yaohui12138",
+        "url": "https://x.com/yaohui12138"
+      },
+      "demoUrl": "https://worker-prod-d0b3d565-9949-485f-9789-4fd0cb969c19.combos.game",
+      "sourceUrl": "https://x.com/yaohui12138/status/2102756741444461038",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-archer-battle.jpg",
+      "posterUrl": "/previews/playable-archer-battle.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1179
+    },
+    {
       "id": "work-b9a1deb576f6152d",
       "name": "Top Tennis",
       "description": "可玩 Demo · 街机 / 小游戏包 · 浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍 · ❤ 65",
