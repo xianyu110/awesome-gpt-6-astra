@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-a8594ce9d5e8d194",
+      "name": "Pelican Rider",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 迷你 3D 鹈鹕骑行：踩踏板、围巾飘、滑行、日夜切换；GPT-6 Astra xhigh + Codex，打开就能遛鸟 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "toankhontech",
+        "url": "https://x.com/toankhontech"
+      },
+      "demoUrl": "https://toankhontech.github.io/pelican-rider/",
+      "sourceUrl": "https://x.com/toankhontech/status/2102446661004140648",
+      "repoUrl": "https://github.com/toankhontech/pelican-rider",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102444893721468928%2Fimg%2FmsRh9PtZcMt8IxgI.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102444893721468928%2Fimg%2FmsRh9PtZcMt8IxgI.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1167
+    },
+    {
+      "id": "work-9a13e4d3ac2af1dd",
+      "name": "樱花山谷 · Sakura Valley (Astra)",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 宝玉同提示词日式樱花山谷可游览 3D：GPT-6 Astra 版，完整 prompt 可偷，打开就能逛 · ❤ 67",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "dotey",
+        "url": "https://x.com/dotey"
+      },
+      "demoUrl": "https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html",
+      "sourceUrl": "https://x.com/dotey/status/2102565403109085669",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS3P_ILWsAEw0CG.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHS3P_ILWsAEw0CG.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1168
+    },
+    {
+      "id": "work-1d22f0ad928e2cd8",
+      "name": "星光摘星星月亮",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 中秋手势小游戏：摄像头抓星星月亮；Codex Astra 出品，打开摄像头就能摘",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "DouXiao27324",
+        "url": "https://x.com/DouXiao27324"
+      },
+      "demoUrl": "https://moonlit-starlight.pages.dev",
+      "sourceUrl": "https://x.com/DouXiao27324/status/2102417952519963033",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102417856587788288%2Fimg%2FjIZR3bM8q5ihYrZ8.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102417856587788288%2Fimg%2FjIZR3bM8q5ihYrZ8.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1169
+    },
+    {
       "id": "work-e0f49f4a5ed34dd3",
       "name": "Investigativo Noir",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · 迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜",
@@ -16366,9 +16420,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-22T14:19:45Z",
-    "lastSuccessfulAt": "2026-09-22T14:19:45Z",
-    "revision": "playable-sync-noir-20260922-2218",
+    "checkedAt": "2026-09-23T02:52:13Z",
+    "lastSuccessfulAt": "2026-09-23T02:52:13Z",
+    "revision": "playable-sync-20260923-1051",
     "stale": false,
     "status": "fresh"
   },
