@@ -18,11 +18,11 @@
 - 后续更新应在根 README 与对应快照/来源记录中同时注明日期，避免把社区转载误写成官方信息。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-09-21T07:57:01+00:00`
+最后同步：`2026-09-23T02:32:36+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `df257b80d823` | 是 |
+| `MartinDelophy/awesome-gpt-6-astra` | `f600104289a4` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `未知` | 否 |

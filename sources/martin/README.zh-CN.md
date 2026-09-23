@@ -4,7 +4,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 160](https://img.shields.io/badge/Cases-160-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 161](https://img.shields.io/badge/Cases-161-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -20,9 +20,9 @@
 
 ## 从这里开始
 
-目前收录 **160 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **161 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
-目录更新：**2026-09-21**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+目录更新：**2026-09-22**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
 最新新增：[9 月 21 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-21.md)。上一批：[9 月 20 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-20.md)。更早批次：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-18.md)，附实机截图、作者依据与入口核验。[9 月 17 日新增的 10 款](docs/browser-games-2026-09-17.md)。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
@@ -337,6 +337,14 @@
   - 平台：浏览器；键鼠或屏幕动作按钮，免费免登录。韩文界面，非官方同人演示。
   - GPT-6 Astra：[作者说明](https://x.com/MinHoHwang1/status/2096984386566815920) — 作者先用 ChatGPT 重构经典玩法，再使用 GPT-6 Astra 将其推进为可玩的演示。 [核验记录](assets/screenshots/knightmare-medusa/SOURCE.md)。
   - 预览：![Knightmare — Medusa’s Temple 实机画面](assets/screenshots/knightmare-medusa/gameplay.jpg)
+
+- **[准点下班，别被发现 / Clock Out Unseen](https://www.bilibili.com/toy/clockout-unseen/index.html)** — 在三关限时办公室潜行中，借助家具掩体、咖啡机和六秒文件夹伪装避开巡逻，赶到电梯下班。
+  - 作者：[Ryan-fm](https://github.com/Ryan-fm)
+  - 平台：电脑和手机浏览器；中文界面，键盘或触控操作。免费，无需安装或强制登录；B站 Toy 托管。单人，本机保存最快成绩。
+  - GPT-6 Astra：[作者开发记录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — 在 Codex 中迭代完成玩法设计、React/Canvas 实现、碰撞与视野检测、巡逻、三关流程和测试；美术使用独立图像生成工具，不是一次提示生成。
+  - 开发资料：[源码与运行说明](https://github.com/Ryan-fm/clockout-unseen) · [需求提示词摘录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · 技术：React、Vite、Canvas 2D、Web Audio。
+  - 源码更新：[V2 更新说明](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — 三张独立的 3000 × 2000 地图、随机导航巡逻、普通 / 变态 / 地狱模式、跟随镜头与小地图；地狱模式每关两层，每层六名巡查。V2 当前仅更新源码，尚待部署；名称链接和下方截图仍对应线上 V1。
+  - 预览：![2026-09-22 截取的三关正式版：玩家躲在办公桌后，主管黄色巡逻视野、文件夹拾取点与电梯出口清晰可见。](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### 解谜与益智
 

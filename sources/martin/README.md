@@ -4,7 +4,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 160](https://img.shields.io/badge/Cases-160-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 161](https://img.shields.io/badge/Cases-161-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -20,9 +20,9 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **160 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
+Explore **161 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
-Catalog updated: **2026-09-21**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
+Catalog updated: **2026-09-22**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
 Latest additions: [September 21: 10 more directly playable browser games](docs/browser-games-2026-09-21.md). Previous batch: [September 20: 10 more directly playable browser games](docs/browser-games-2026-09-20.md). Earlier batch: [10 more browser games discovered across the web](docs/browser-games-2026-09-18.md), with gameplay screenshots, creator sources and access checks. [September 17's 10 additions](docs/browser-games-2026-09-17.md). [September 16's 10 additions](docs/browser-games-2026-09-16.md). [September 15's 10 additions](docs/browser-games-2026-09-15.md). [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
 
@@ -337,6 +337,14 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - Platform: Browser; keyboard/mouse or on-screen action buttons, free without login. Korean interface; unofficial fan demo.
   - GPT-6 Astra: [Creator statement](https://x.com/MinHoHwang1/status/2096984386566815920) — The creator used ChatGPT for the initial reimagining and GPT-6 Astra to develop it further into a playable demo. [Verification notes](assets/screenshots/knightmare-medusa/SOURCE.md).
   - Preview: ![Player casting purification opposite Medusa, with score, health and cooldown HUD.](assets/screenshots/knightmare-medusa/gameplay.jpg)
+
+- **[Clock Out Unseen / 准点下班，别被发现](https://www.bilibili.com/toy/clockout-unseen/index.html)** — Sneak out of an office across three timed levels, using furniture, coffee distractions and a six-second folder disguise to evade patrols and reach the elevator.
+  - Creator: [Ryan-fm](https://github.com/Ryan-fm)
+  - Platform: Desktop and mobile browsers; Chinese UI, keyboard or touch controls. Free, no installation or mandatory sign-in; hosted on Bilibili Toy. Single-player with local best times.
+  - GPT-6 Astra: [Creator's development record](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — Iterative gameplay design, React/Canvas implementation, collision and sightline logic, patrols, three-level progression and tests in Codex. Artwork was produced with a separate image-generation tool; not a one-shot build.
+  - Resources: [Source and setup](https://github.com/Ryan-fm/clockout-unseen) · [Selected prompts](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · Built with: React, Vite, Canvas 2D and Web Audio.
+  - Source update: [V2 notes](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — Three distinct 3000 × 2000 maps, randomized patrol navigation, Normal / Extreme / Hell modes, a following camera and minimap; Hell uses two floors per stage with six patrol staff per floor. V2 is available in source only; the linked Toy demo and preview below remain V1 pending deployment.
+  - Preview: ![Published three-level version, captured 2026-09-22: the player behind office desks, yellow patrol sight cones, a folder pickup and the elevator exit.](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### Puzzles & brain games
 

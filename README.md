@@ -36,11 +36,11 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-09-21T07:57:01+00:00`
+最后同步：`2026-09-23T02:32:36+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `df257b80d823` | 是 |
+| `MartinDelophy/awesome-gpt-6-astra` | `f600104289a4` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `未知` | 否 |
@@ -647,7 +647,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## 自动同步上游内容
 
-> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-21T07:57:01+00:00`。人工精选区保持不变。
+> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-09-23T02:32:36+00:00`。人工精选区保持不变。
 
 <!-- BEGIN AUTO-SYNC CONTENT -->
 
@@ -659,7 +659,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 160](https://img.shields.io/badge/Cases-160-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 161](https://img.shields.io/badge/Cases-161-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -675,9 +675,9 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **160 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
+Explore **161 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, and Orbital Garden. Click a title to play directly in your browser.
 
-Catalog updated: **2026-09-21**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
+Catalog updated: **2026-09-22**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
 Latest additions: [September 21: 10 more directly playable browser games](docs/browser-games-2026-09-21.md). Previous batch: [September 20: 10 more directly playable browser games](docs/browser-games-2026-09-20.md). Earlier batch: [10 more browser games discovered across the web](docs/browser-games-2026-09-18.md), with gameplay screenshots, creator sources and access checks. [September 17's 10 additions](docs/browser-games-2026-09-17.md). [September 16's 10 additions](docs/browser-games-2026-09-16.md). [September 15's 10 additions](docs/browser-games-2026-09-15.md). [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
 
@@ -992,6 +992,14 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - Platform: Browser; keyboard/mouse or on-screen action buttons, free without login. Korean interface; unofficial fan demo.
   - GPT-6 Astra: [Creator statement](https://x.com/MinHoHwang1/status/2096984386566815920) — The creator used ChatGPT for the initial reimagining and GPT-6 Astra to develop it further into a playable demo. [Verification notes](assets/screenshots/knightmare-medusa/SOURCE.md).
   - Preview: ![Player casting purification opposite Medusa, with score, health and cooldown HUD.](assets/screenshots/knightmare-medusa/gameplay.jpg)
+
+- **[Clock Out Unseen / 准点下班，别被发现](https://www.bilibili.com/toy/clockout-unseen/index.html)** — Sneak out of an office across three timed levels, using furniture, coffee distractions and a six-second folder disguise to evade patrols and reach the elevator.
+  - Creator: [Ryan-fm](https://github.com/Ryan-fm)
+  - Platform: Desktop and mobile browsers; Chinese UI, keyboard or touch controls. Free, no installation or mandatory sign-in; hosted on Bilibili Toy. Single-player with local best times.
+  - GPT-6 Astra: [Creator's development record](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — Iterative gameplay design, React/Canvas implementation, collision and sightline logic, patrols, three-level progression and tests in Codex. Artwork was produced with a separate image-generation tool; not a one-shot build.
+  - Resources: [Source and setup](https://github.com/Ryan-fm/clockout-unseen) · [Selected prompts](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · Built with: React, Vite, Canvas 2D and Web Audio.
+  - Source update: [V2 notes](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — Three distinct 3000 × 2000 maps, randomized patrol navigation, Normal / Extreme / Hell modes, a following camera and minimap; Hell uses two floors per stage with six patrol staff per floor. V2 is available in source only; the linked Toy demo and preview below remain V1 pending deployment.
+  - Preview: ![Published three-level version, captured 2026-09-22: the player behind office desks, yellow patrol sight cones, a folder pickup and the elevator exit.](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### Puzzles & brain games
 
@@ -1761,7 +1769,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 160](https://img.shields.io/badge/Cases-160-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 161](https://img.shields.io/badge/Cases-161-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -1777,9 +1785,9 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **160 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **161 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
-目录更新：**2026-09-21**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+目录更新：**2026-09-22**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
 最新新增：[9 月 21 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-21.md)。上一批：[9 月 20 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-20.md)。更早批次：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-18.md)，附实机截图、作者依据与入口核验。[9 月 17 日新增的 10 款](docs/browser-games-2026-09-17.md)。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
@@ -2094,6 +2102,14 @@ Original curated text and artwork in this repository are dedicated to the public
   - 平台：浏览器；键鼠或屏幕动作按钮，免费免登录。韩文界面，非官方同人演示。
   - GPT-6 Astra：[作者说明](https://x.com/MinHoHwang1/status/2096984386566815920) — 作者先用 ChatGPT 重构经典玩法，再使用 GPT-6 Astra 将其推进为可玩的演示。 [核验记录](assets/screenshots/knightmare-medusa/SOURCE.md)。
   - 预览：![Knightmare — Medusa’s Temple 实机画面](assets/screenshots/knightmare-medusa/gameplay.jpg)
+
+- **[准点下班，别被发现 / Clock Out Unseen](https://www.bilibili.com/toy/clockout-unseen/index.html)** — 在三关限时办公室潜行中，借助家具掩体、咖啡机和六秒文件夹伪装避开巡逻，赶到电梯下班。
+  - 作者：[Ryan-fm](https://github.com/Ryan-fm)
+  - 平台：电脑和手机浏览器；中文界面，键盘或触控操作。免费，无需安装或强制登录；B站 Toy 托管。单人，本机保存最快成绩。
+  - GPT-6 Astra：[作者开发记录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — 在 Codex 中迭代完成玩法设计、React/Canvas 实现、碰撞与视野检测、巡逻、三关流程和测试；美术使用独立图像生成工具，不是一次提示生成。
+  - 开发资料：[源码与运行说明](https://github.com/Ryan-fm/clockout-unseen) · [需求提示词摘录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · 技术：React、Vite、Canvas 2D、Web Audio。
+  - 源码更新：[V2 更新说明](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — 三张独立的 3000 × 2000 地图、随机导航巡逻、普通 / 变态 / 地狱模式、跟随镜头与小地图；地狱模式每关两层，每层六名巡查。V2 当前仅更新源码，尚待部署；名称链接和下方截图仍对应线上 V1。
+  - 预览：![2026-09-22 截取的三关正式版：玩家躲在办公桌后，主管黄色巡逻视野、文件夹拾取点与电梯出口清晰可见。](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### 解谜与益智
 
