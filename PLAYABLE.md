@@ -2,17 +2,17 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**249** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**254** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-23
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
-- [竞速 / 驾驶](#竞速--驾驶) — 29
-- [射击 / 动作](#射击--动作) — 30
-- [模拟经营 / 策略](#模拟经营--策略) — 17
-- [联机 / 多人](#联机--多人) — 12
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 19
+- [竞速 / 驾驶](#竞速--驾驶) — 30
+- [射击 / 动作](#射击--动作) — 31
+- [模拟经营 / 策略](#模拟经营--策略) — 18
+- [联机 / 多人](#联机--多人) — 13
 - [街机 / 小游戏包](#街机--小游戏包) — 29
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 14
@@ -94,6 +94,11 @@
    - 试玩链接：`https://hollowmark.mindblown.ai/`
    - 原帖：https://x.com/mindblown_ai/status/2102040812569944136
    - 备注：浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关
+
+19. **JevPong** — [试玩](https://jevpong-production.up.railway.app/) · [原帖](https://x.com/Gbahdeyboh/status/2102669303535567264) · ❤ 11
+   - 试玩链接：`https://jevpong-production.up.railway.app/`
+   - 原帖：https://x.com/Gbahdeyboh/status/2102669303535567264
+   - 备注：实时 Pong 对战 TypeSafe Jev 决策模型：看它每拍决策、先到 7 分上榜；GPT-6 Astra + Codex + Postman Fabric，打开就能打
 
 
 ## 竞速 / 驾驶
@@ -229,6 +234,11 @@
    - 试玩链接：`https://spline-rush.vercel.app`
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
+
+30. **无限雪线** — [试玩](https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c) · [原帖](https://x.com/lxfater/status/2102574153341825275) · ❤ 47
+   - 试玩链接：`https://combos.game/play?post_id=6a2eafdeb2b15aa36d5b37db617cf45c`
+   - 原帖：https://x.com/lxfater/status/2102574153341825275
+   - 备注：3D 滑雪竞速：道具/坐骑/空翻加速、场景事件，可单人无限挑战或在线双人实时对飙；GPT-6 Sol + Combos CLI，打开就能滑
 
 
 ## 射击 / 动作
@@ -373,6 +383,12 @@
    - 原帖：https://x.com/p4nthera_/status/2102537766244323719
    - 备注：Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打
 
+31. **Tidebound · Sanctum** — [试玩](https://combos.game/play/d804021bf5ce539a76e0e27d73c71157) · [原帖](https://x.com/Saccc_c/status/2102627123836137820) · ❤ 115
+   - 试玩链接：`https://combos.game/play/d804021bf5ce539a76e0e27d73c71157`
+   - 原帖：https://x.com/Saccc_c/status/2102627123836137820
+   - 备注：法师对战 3D 小游戏：Astra 规划 + 多 Sol subagent 执行 + Image 2.5 设计图 + Combos CLI 资产/联机发布；打开就能刚
+
+
 ## 模拟经营 / 策略
 
 1. **FOREX WARS** — [试玩](https://afterprime-forex-wars.argamon-2254.chatgpt.site/) · [原帖](https://x.com/afterprime_com/status/2097159628119535866) · ❤ 3
@@ -452,6 +468,11 @@
    - 原帖：https://x.com/ikostrikov/status/2102224666932953349
    - 备注：活着的 3D AI 前沿实验室 idle 游戏：GPT-6 Astra 建，浏览器挂机养实验室
 
+18. **Ship It** — [试玩](https://chatview.app/games/ship-it) · [原帖](https://x.com/WilliamQubits/status/2102691133629608070) · ❤ 4
+   - 试玩链接：`https://chatview.app/games/ship-it`
+   - 原帖：https://x.com/WilliamQubits/status/2102691133629608070
+   - 备注：独立创始人单人桌游：12 周 runway、两步一手、六道逻辑谜题练 scoping / vibe code / 获客；GPT-6 Astra，打开就能玩
+
 
 ## 联机 / 多人
 
@@ -510,6 +531,11 @@
    - 试玩链接：`https://drone-io.vercel.app/`
    - 原帖：https://x.com/OMASMohamad/status/2101830659358478516
    - 备注：Astra + Three.js + HTML5 的无人机/喷气机生存 .io：Vercel 打开就能飞，Three.js 热潮里的一发
+
+13. **十二位荷官在线发牌** — [试玩](https://combos.game/play?post_id=7932ca7753756dc6ba907575874cb25f) · [原帖](https://x.com/LufzzLiz/status/2102690338829647885) · ❤ 15
+   - 试玩链接：`https://combos.game/play?post_id=7932ca7753756dc6ba907575874cb25f`
+   - 原帖：https://x.com/LufzzLiz/status/2102690338829647885
+   - 备注：十二位荷官联机发牌：通关留名、可单人闯关或好友联机；GPT-6 Sol + Combos CLI + Image 2.5 出图，打开就能玩
 
 
 ## 街机 / 小游戏包
