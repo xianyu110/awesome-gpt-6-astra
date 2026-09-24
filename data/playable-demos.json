@@ -1,5 +1,25 @@
 [
   {
+    "title": "Backrooms — Signal Lost",
+    "demo_url": "https://backrooms-tau.vercel.app/",
+    "post_url": "https://x.com/_ediri/status/2103101448397713473",
+    "likes": 2,
+    "category": "3D 场景 / 氛围探索",
+    "author": "_ediri",
+    "note": "Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2103101037452136448%2Fyc0uOf4a%3Fformat%3Djpg%26name%3Dorig"
+  },
+  {
+    "title": "Praxis Human Innovation",
+    "demo_url": "https://praxis-human-innovation.thebuggeddev.chatgpt.site",
+    "post_url": "https://x.com/thebuggeddev/status/2103107614372741401",
+    "likes": 28,
+    "category": "教育 / 科普",
+    "author": "thebuggeddev",
+    "note": "十大发明「第一天」形态交互 3D 展厅：轮子/电话/飞机等；Apodex 深研 → Codex GPT-6 Astra + Imagen + Tripo + Three.js，打开就能转模型看演进",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103107298520633346%2Fimg%2FR1QKETehlfrKbTmV.jpg"
+  },
+  {
     "title": "Sleepwalker",
     "demo_url": "https://sleepwalker-gray.vercel.app/",
     "post_url": "https://x.com/_ketansahu/status/2102986952391942370",
