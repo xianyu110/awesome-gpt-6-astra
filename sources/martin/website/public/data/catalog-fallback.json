@@ -1,6 +1,96 @@
 {
   "works": [
     {
+      "id": "work-73f66c3c9d712854",
+      "name": "小小富翁",
+      "description": "可玩 Demo · 联机 / 多人 · GPT-6 Sol + Combos CLI 联机森林大富翁：2–4 人、六分钟一局、换位卡；动物棋子掷骰开店收租，打开就能开房间 · ❤ 154",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 联机 / 多人",
+      "author": {
+        "name": "cnyzgkc",
+        "url": "https://x.com/cnyzgkc"
+      },
+      "demoUrl": "https://combos.game/play?post_id=07b945223df2c6f6dc28f248e76d435d",
+      "sourceUrl": "https://x.com/cnyzgkc/status/2102770654592565419",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102770530340450304%2Fimg%2FhYs-WyoPZH74G2t2.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102770530340450304%2Fimg%2FhYs-WyoPZH74G2t2.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1180
+    },
+    {
+      "id": "work-c42e4dcba9bee7ec",
+      "name": "The Sea Below the Clouds",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 水下吉卜力电车：接送小鱼旅客上下车；GPT-6 Sol + Crayon + Three.js，打开就能开电车 · ❤ 11",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "usecrayon",
+        "url": "https://x.com/usecrayon"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/8824247d-5a30-4981-b6fb-e215fb4717e6",
+      "sourceUrl": "https://x.com/usecrayon/status/2102901486133068212",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F8824247d-5a30-4981-b6fb-e215fb4717e6%2Freleases%2F20260924-optimized-v4%2Fcover-no-text.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F8824247d-5a30-4981-b6fb-e215fb4717e6%2Freleases%2F20260924-optimized-v4%2Fcover-no-text.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1181
+    },
+    {
+      "id": "work-0ba33538fe0c802e",
+      "name": "Before the Porch Light · home-study",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 化身猫逛午后书房：WASD / 跳 / 拍照；GPT-6 Astra，打开就能喵",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "maxtoms",
+        "url": "https://x.com/maxtoms"
+      },
+      "demoUrl": "https://home-study.before-the-porch-light.pages.dev/home-study",
+      "sourceUrl": "https://x.com/maxtoms/status/2102870739389170057",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102870617548894208%2Fimg%2FLd90qsVL86kiqc8G.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102870617548894208%2Fimg%2FLd90qsVL86kiqc8G.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1182
+    },
+    {
+      "id": "work-93df469c7714d070",
+      "name": "Nolla Venue · Skin Lab",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 第一人称活动场地可视化（nollahealth × dermalogica Skin Lab）；GPT-6 Astra 全量试炼，打开就能逛会场 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "donqdao",
+        "url": "https://x.com/donqdao"
+      },
+      "demoUrl": "https://nolla-venue.don-dao97.chatgpt.site/",
+      "sourceUrl": "https://x.com/donqdao/status/2102927183190602224",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102926979729121280%2Fimg%2FbtgZnMLS2Sl8OFga.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102926979729121280%2Fimg%2FbtgZnMLS2Sl8OFga.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1183
+    },
+    {
+      "id": "work-adfd4454d7511446",
+      "name": "Walter Build Lab",
+      "description": "可玩 Demo · 工程 / 仿真 · 工作台上的可拆解全尺寸机器人头：开壳检查零件；GPT-6 Astra 原型，打开就能拧螺丝看内部",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "maxtoms",
+        "url": "https://x.com/maxtoms"
+      },
+      "demoUrl": "https://walter-build-lab.maxtoms.workers.dev/",
+      "sourceUrl": "https://x.com/maxtoms/status/2102880821627740182",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwalter-build-lab.maxtoms.workers.dev%2Fassets%2Ffilm%2Fpremiere-poster.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwalter-build-lab.maxtoms.workers.dev%2Fassets%2Ffilm%2Fpremiere-poster.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1184
+    },
+    {
       "id": "work-f4e1925742556323",
       "name": "弓箭手大作战 · 卡通乱斗",
       "description": "可玩 Demo · 联机 / 多人 · GPT-6 Sol + Combos CLI 复刻《弓箭手大作战》联机乱斗：素材/音效 CLI 出图，房间与同步走 Combos；worker 试玩链，AI bot 可补位 · ❤ 17",
@@ -16582,9 +16672,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-23T14:25:06Z",
-    "lastSuccessfulAt": "2026-09-23T14:25:06Z",
-    "revision": "playable-sync-20260923-2221",
+    "checkedAt": "2026-09-24T02:52:01Z",
+    "lastSuccessfulAt": "2026-09-24T02:52:01Z",
+    "revision": "playable-sync-20260924-1046",
     "stale": false,
     "status": "fresh"
   },
