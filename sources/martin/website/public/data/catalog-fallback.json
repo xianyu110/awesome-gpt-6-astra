@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-7ac970ba307bf639",
+      "name": "Sleepwalker",
+      "description": "可玩 Demo · 射击 / 动作 · 闭眼蓄力、睁眼起跳的屋顶跑酷：摄像头读眼睛；GPT-6 Astra 剩余额度搓的怪玩法，打开摄像头就能睡走 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "_ketansahu",
+        "url": "https://x.com/_ketansahu"
+      },
+      "demoUrl": "https://sleepwalker-gray.vercel.app/",
+      "sourceUrl": "https://x.com/_ketansahu/status/2102986952391942370",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102985858819473408%2Fimg%2FzRukavwYeQ1ERG4z.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102985858819473408%2Fimg%2FzRukavwYeQ1ERG4z.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1185
+    },
+    {
       "id": "work-73f66c3c9d712854",
       "name": "小小富翁",
       "description": "可玩 Demo · 联机 / 多人 · GPT-6 Sol + Combos CLI 联机森林大富翁：2–4 人、六分钟一局、换位卡；动物棋子掷骰开店收租，打开就能开房间 · ❤ 154",
@@ -16672,9 +16690,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-24T02:52:01Z",
-    "lastSuccessfulAt": "2026-09-24T02:52:01Z",
-    "revision": "playable-sync-20260924-1046",
+    "checkedAt": "2026-09-24T06:51:29Z",
+    "lastSuccessfulAt": "2026-09-24T06:51:29Z",
+    "revision": "playable-sync-20260924-1448",
     "stale": false,
     "status": "fresh"
   },
