@@ -1,5 +1,55 @@
 [
   {
+    "title": "小小富翁",
+    "demo_url": "https://combos.game/play?post_id=07b945223df2c6f6dc28f248e76d435d",
+    "post_url": "https://x.com/cnyzgkc/status/2102770654592565419",
+    "likes": 154,
+    "category": "联机 / 多人",
+    "author": "cnyzgkc",
+    "note": "GPT-6 Sol + Combos CLI 联机森林大富翁：2–4 人、六分钟一局、换位卡；动物棋子掷骰开店收租，打开就能开房间",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102770530340450304%2Fimg%2FhYs-WyoPZH74G2t2.jpg"
+  },
+  {
+    "title": "The Sea Below the Clouds",
+    "demo_url": "https://app.usecrayon.ai/play/8824247d-5a30-4981-b6fb-e215fb4717e6",
+    "post_url": "https://x.com/usecrayon/status/2102901486133068212",
+    "likes": 11,
+    "category": "3D 场景 / 氛围探索",
+    "author": "usecrayon",
+    "note": "水下吉卜力电车：接送小鱼旅客上下车；GPT-6 Sol + Crayon + Three.js，打开就能开电车",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F8824247d-5a30-4981-b6fb-e215fb4717e6%2Freleases%2F20260924-optimized-v4%2Fcover-no-text.jpg"
+  },
+  {
+    "title": "Before the Porch Light · home-study",
+    "demo_url": "https://home-study.before-the-porch-light.pages.dev/home-study",
+    "post_url": "https://x.com/maxtoms/status/2102870739389170057",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索",
+    "author": "maxtoms",
+    "note": "化身猫逛午后书房：WASD / 跳 / 拍照；GPT-6 Astra，打开就能喵",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102870617548894208%2Fimg%2FLd90qsVL86kiqc8G.jpg"
+  },
+  {
+    "title": "Nolla Venue · Skin Lab",
+    "demo_url": "https://nolla-venue.don-dao97.chatgpt.site/",
+    "post_url": "https://x.com/donqdao/status/2102927183190602224",
+    "likes": 1,
+    "category": "3D 场景 / 氛围探索",
+    "author": "donqdao",
+    "note": "第一人称活动场地可视化（nollahealth × dermalogica Skin Lab）；GPT-6 Astra 全量试炼，打开就能逛会场",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102926979729121280%2Fimg%2FbtgZnMLS2Sl8OFga.jpg"
+  },
+  {
+    "title": "Walter Build Lab",
+    "demo_url": "https://walter-build-lab.maxtoms.workers.dev/",
+    "post_url": "https://x.com/maxtoms/status/2102880821627740182",
+    "likes": null,
+    "category": "工程 / 仿真",
+    "author": "maxtoms",
+    "note": "工作台上的可拆解全尺寸机器人头：开壳检查零件；GPT-6 Astra 原型，打开就能拧螺丝看内部",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fwalter-build-lab.maxtoms.workers.dev%2Fassets%2Ffilm%2Fpremiere-poster.jpg"
+  },
+  {
     "title": "Top Tennis",
     "demo_url": "https://toptennisgame.com/",
     "post_url": "https://x.com/teovito/status/2102686586723033440",
