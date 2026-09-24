@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**260** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**262** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-24
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -15,8 +15,8 @@
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 31
 - [音乐 / 表演](#音乐--表演) — 12
-- [教育 / 科普](#教育--科普) — 14
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 57
+- [教育 / 科普](#教育--科普) — 15
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 58
 - [工程 / 仿真](#工程--仿真) — 22
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -807,6 +807,11 @@
    - 原帖：https://x.com/ZakiChair/status/2101980147079410101
    - 备注：交互历史地图 / 约 5500 年文明时间线：Astra 几乎一发搓出，周用量才花约两成；Vercel 打开就能逛史
 
+15. **Praxis Human Innovation** — [试玩](https://praxis-human-innovation.thebuggeddev.chatgpt.site) · [原帖](https://x.com/thebuggeddev/status/2103107614372741401) · ❤ 28
+   - 试玩链接：`https://praxis-human-innovation.thebuggeddev.chatgpt.site`
+   - 原帖：https://x.com/thebuggeddev/status/2103107614372741401
+   - 备注：十大发明「第一天」形态交互 3D 展厅：轮子/电话/飞机等；Apodex 深研 → Codex GPT-6 Astra + Imagen + Tripo + Three.js，打开就能转模型看演进
+
 
 ## 3D 场景 / 氛围探索
 
@@ -1070,6 +1075,11 @@
    - 试玩链接：`https://nolla-venue.don-dao97.chatgpt.site/`
    - 原帖：https://x.com/donqdao/status/2102927183190602224
    - 备注：第一人称活动场地可视化（nollahealth × dermalogica Skin Lab）；GPT-6 Astra 全量试炼，打开就能逛会场
+
+58. **Backrooms — Signal Lost** — [试玩](https://backrooms-tau.vercel.app/) · [原帖](https://x.com/_ediri/status/2103101448397713473) · ❤ 2
+   - 试玩链接：`https://backrooms-tau.vercel.app/`
+   - 原帖：https://x.com/_ediri/status/2103101448397713473
+   - 备注：Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙
 
 
 ## 工程 / 仿真
