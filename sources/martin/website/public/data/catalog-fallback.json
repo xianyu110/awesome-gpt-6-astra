@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-9e064e36c1222ad3",
+      "name": "Backrooms — Signal Lost",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙 · ❤ 2",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "_ediri",
+        "url": "https://x.com/_ediri"
+      },
+      "demoUrl": "https://backrooms-tau.vercel.app/",
+      "sourceUrl": "https://x.com/_ediri/status/2103101448397713473",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2103101037452136448%2Fyc0uOf4a%3Fformat%3Djpg%26name%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2103101037452136448%2Fyc0uOf4a%3Fformat%3Djpg%26name%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1186
+    },
+    {
+      "id": "work-e76e42c2b6abdf85",
+      "name": "Praxis Human Innovation",
+      "description": "可玩 Demo · 教育 / 科普 · 十大发明「第一天」形态交互 3D 展厅：轮子/电话/飞机等；Apodex 深研 → Codex GPT-6 Astra + Imagen + Tripo + Three.js，打开就能转模型看演进 · ❤ 28",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 教育 / 科普",
+      "author": {
+        "name": "thebuggeddev",
+        "url": "https://x.com/thebuggeddev"
+      },
+      "demoUrl": "https://praxis-human-innovation.thebuggeddev.chatgpt.site",
+      "sourceUrl": "https://x.com/thebuggeddev/status/2103107614372741401",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103107298520633346%2Fimg%2FR1QKETehlfrKbTmV.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103107298520633346%2Fimg%2FR1QKETehlfrKbTmV.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1187
+    },
+    {
       "id": "work-7ac970ba307bf639",
       "name": "Sleepwalker",
       "description": "可玩 Demo · 射击 / 动作 · 闭眼蓄力、睁眼起跳的屋顶跑酷：摄像头读眼睛；GPT-6 Astra 剩余额度搓的怪玩法，打开摄像头就能睡走 · ❤ 3",
@@ -16690,9 +16726,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-24T06:51:29Z",
-    "lastSuccessfulAt": "2026-09-24T06:51:29Z",
-    "revision": "playable-sync-20260924-1448",
+    "checkedAt": "2026-09-24T14:15:27Z",
+    "lastSuccessfulAt": "2026-09-24T14:15:27Z",
+    "revision": "playable-sync-20260924-2211",
     "stale": false,
     "status": "fresh"
   },
