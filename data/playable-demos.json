@@ -1936,5 +1936,31 @@
     "category": "联机 / 多人",
     "author": "yaohui12138",
     "note": "GPT-6 Sol + Combos CLI 复刻《弓箭手大作战》联机乱斗：素材/音效 CLI 出图，房间与同步走 Combos；worker 试玩链，AI bot 可补位"
+  },
+  {
+    "title": "午夜论坛：未明旧案",
+    "demo_url": "https://www.bilibili.com/toy/weiming-jiuan/index.html",
+    "post_url": "https://x.com/yanmo1618677/status/2103350457796358376",
+    "category": "经典复刻 / 知名玩法",
+    "author": "yanmo1618677",
+    "note": "中式微恐悬疑推理：GPT-6 Astra + Opus 5.5 vibe coding；B 站玩具可玩 + GitHub 九案零依赖开源"
+  },
+  {
+    "title": "Model Y · 交互式 3D 展厅",
+    "demo_url": "https://modely.metapure.ai",
+    "post_url": "https://x.com/AIDREAMMAN/status/2103357148118085840",
+    "category": "工程 / 仿真",
+    "author": "AIDREAMMAN",
+    "note": "GPT-6 Astra + Three.js + Blender：360° / 座舱微距 / 485 部件选择 / 结构展开；独立学习作品，结构为示意",
+    "likes": 1
+  },
+  {
+    "title": "Nova Defender",
+    "demo_url": "https://nova-defender.expo.app/game/index.html",
+    "post_url": "https://x.com/PeradzeVan58311/status/2103360685132628471",
+    "category": "街机 / 小游戏包",
+    "author": "PeradzeVan58311",
+    "note": "Astra 6 复古太空街机射击；2000s 风护卫舰打外星人，浏览器打开就能射",
+    "likes": 1
   }
 ]
