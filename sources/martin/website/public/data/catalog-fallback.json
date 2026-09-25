@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-b06939e5d4bc8638",
+      "name": "STARFALL — The Last Beacon",
+      "description": "可玩 Demo · 射击 / 动作 · GPT-6 Astra Ultra 一人从浏览器原型推到 App Store 的触控/键盘 3D 太空射击：点亮三信标护航舰队，打开就能射",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "ShanGulamani",
+        "url": "https://x.com/ShanGulamani"
+      },
+      "demoUrl": "https://starfall-pocket-arcade.shang637.chatgpt.site/",
+      "sourceUrl": "https://x.com/ShanGulamani/status/2103472111574741150",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTEIhzXawAAYp1W.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTEIhzXawAAYp1W.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1196
+    },
+    {
       "id": "work-3c0b8e9d99760e9e",
       "name": "ORR.run · Bangalore Outer Ring Road",
       "description": "可玩 Demo · 竞速 / 驾驶 · Google Maps 复刻班加罗尔 Outer Ring Road：Silk Board→Marathahalli 11.4km、5k+ 建筑，司机视角堵车模拟；GPT-6 Astra，打开就能堵 · ❤ 27",
@@ -16870,9 +16888,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-25T10:45:25Z",
-    "lastSuccessfulAt": "2026-09-25T10:45:25Z",
-    "revision": "playable-sync-20260925-1843",
+    "checkedAt": "2026-09-25T13:43:55Z",
+    "lastSuccessfulAt": "2026-09-25T13:43:55Z",
+    "revision": "playable-sync-20260925-2142",
     "stale": false,
     "status": "fresh"
   },

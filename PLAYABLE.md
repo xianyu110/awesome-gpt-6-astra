@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**270** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**271** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-25
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,7 +10,7 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 20
 - [竞速 / 驾驶](#竞速--驾驶) — 31
-- [射击 / 动作](#射击--动作) — 32
+- [射击 / 动作](#射击--动作) — 33
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 33
@@ -402,6 +402,11 @@
    - 试玩链接：`https://sleepwalker-gray.vercel.app/`
    - 原帖：https://x.com/_ketansahu/status/2102986952391942370
    - 备注：闭眼蓄力、睁眼起跳的屋顶跑酷：摄像头读眼睛；GPT-6 Astra 剩余额度搓的怪玩法，打开摄像头就能睡走
+
+33. **STARFALL — The Last Beacon** — [试玩](https://starfall-pocket-arcade.shang637.chatgpt.site/) · [原帖](https://x.com/ShanGulamani/status/2103472111574741150)
+   - 试玩链接：`https://starfall-pocket-arcade.shang637.chatgpt.site/`
+   - 原帖：https://x.com/ShanGulamani/status/2103472111574741150
+   - 备注：GPT-6 Astra Ultra 一人从浏览器原型推到 App Store 的触控/键盘 3D 太空射击：点亮三信标护航舰队，打开就能射
 
 
 ## 模拟经营 / 策略
