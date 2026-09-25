@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-3c0b8e9d99760e9e",
+      "name": "ORR.run · Bangalore Outer Ring Road",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Google Maps 复刻班加罗尔 Outer Ring Road：Silk Board→Marathahalli 11.4km、5k+ 建筑，司机视角堵车模拟；GPT-6 Astra，打开就能堵 · ❤ 27",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "sirsho29",
+        "url": "https://x.com/sirsho29"
+      },
+      "demoUrl": "https://www.orr.run/",
+      "sourceUrl": "https://x.com/sirsho29/status/2103380271525691898",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103380090705059840%2Fimg%2FIpzikcrYEzarHgjG.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103380090705059840%2Fimg%2FIpzikcrYEzarHgjG.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1195
+    },
+    {
       "id": "work-2cf8f075e2b5321e",
       "name": "Crayon Motors",
       "description": "可玩 Demo · 竞速 / 驾驶 · Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车 · ❤ 11",
@@ -16852,9 +16870,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-25T02:45:36Z",
-    "lastSuccessfulAt": "2026-09-25T02:45:36Z",
-    "revision": "playable-sync-20260925-1041",
+    "checkedAt": "2026-09-25T10:45:25Z",
+    "lastSuccessfulAt": "2026-09-25T10:45:25Z",
+    "revision": "playable-sync-20260925-1843",
     "stale": false,
     "status": "fresh"
   },
