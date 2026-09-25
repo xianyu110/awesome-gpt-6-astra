@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-2cf8f075e2b5321e",
+      "name": "Crayon Motors",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车 · ❤ 11",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "TusharXo",
+        "url": "https://x.com/TusharXo"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59",
+      "sourceUrl": "https://x.com/TusharXo/status/2103306211961737262",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F63d2fb01-822b-4f34-88dc-f21444efda59%2F1790301682478-hero.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F63d2fb01-822b-4f34-88dc-f21444efda59%2F1790301682478-hero.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1188
+    },
+    {
+      "id": "work-77167da0232f6747",
+      "name": "La notte dipinta",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · 梵高画作 + brief → ChatGPT Work Sites 开世界：NPC 对话、可捡可砸；GPT-6 Astra，打开就能逛夜色",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "DarioPumi",
+        "url": "https://x.com/DarioPumi"
+      },
+      "demoUrl": "https://la-notte-dipinta.dario-pumi.chatgpt.site",
+      "sourceUrl": "https://x.com/DarioPumi/status/2103128524349468944",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103128333273686016%2Fimg%2FijSfwpr4_oqzLbqP.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103128333273686016%2Fimg%2FijSfwpr4_oqzLbqP.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1189
+    },
+    {
+      "id": "work-f366138cbaa434c2",
+      "name": "Crumb Run",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 一句话 Astra→可玩 3D：婴儿爬行捡吃的、躲开家长抱走；打开就能爬",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "naledicodes",
+        "url": "https://x.com/naledicodes"
+      },
+      "demoUrl": "https://crumb-run.vercel.app/",
+      "sourceUrl": "https://x.com/naledicodes/status/2103291885619917097",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-crumb-run.jpg",
+      "posterUrl": "/previews/playable-crumb-run.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1190
+    },
+    {
+      "id": "work-9db3773123187a84",
+      "name": "SORA-MAN",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · Astra + Opus 5.5 搓的 Sora 纪念版讽刺吃豆人；打开就能吃点",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "henrik_thevibe",
+        "url": "https://x.com/henrik_thevibe"
+      },
+      "demoUrl": "https://henrik-thevibe.github.io/SORA-MAN/",
+      "sourceUrl": "https://x.com/henrik_thevibe/status/2103290261409243450",
+      "repoUrl": "https://github.com/henrik-thevibe/SORA-MAN",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103262322676375552%2Fimg%2FvLruP6CLRFmjeuup.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103262322676375552%2Fimg%2FvLruP6CLRFmjeuup.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1191
+    },
+    {
       "id": "work-9e064e36c1222ad3",
       "name": "Backrooms — Signal Lost",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙 · ❤ 2",
@@ -16726,9 +16798,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-24T14:15:27Z",
-    "lastSuccessfulAt": "2026-09-24T14:15:27Z",
-    "revision": "playable-sync-20260924-2211",
+    "checkedAt": "2026-09-25T02:45:36Z",
+    "lastSuccessfulAt": "2026-09-25T02:45:36Z",
+    "revision": "playable-sync-20260925-1041",
     "stale": false,
     "status": "fresh"
   },

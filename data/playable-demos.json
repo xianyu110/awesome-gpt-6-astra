@@ -1,5 +1,45 @@
 [
   {
+    "title": "Crayon Motors",
+    "demo_url": "https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59",
+    "post_url": "https://x.com/TusharXo/status/2103306211961737262",
+    "likes": 11,
+    "category": "竞速 / 驾驶",
+    "author": "TusharXo",
+    "note": "Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fgamebuilderapi-thumbnailbucket3bc05c46-njaxbgcn5duh.s3.ap-south-1.amazonaws.com%2F63d2fb01-822b-4f34-88dc-f21444efda59%2F1790301682478-hero.jpg"
+  },
+  {
+    "title": "La notte dipinta",
+    "demo_url": "https://la-notte-dipinta.dario-pumi.chatgpt.site",
+    "post_url": "https://x.com/DarioPumi/status/2103128524349468944",
+    "likes": null,
+    "category": "3D 场景 / 氛围探索",
+    "author": "DarioPumi",
+    "note": "梵高画作 + brief → ChatGPT Work Sites 开世界：NPC 对话、可捡可砸；GPT-6 Astra，打开就能逛夜色",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103128333273686016%2Fimg%2FijSfwpr4_oqzLbqP.jpg"
+  },
+  {
+    "title": "Crumb Run",
+    "demo_url": "https://crumb-run.vercel.app/",
+    "post_url": "https://x.com/naledicodes/status/2103291885619917097",
+    "likes": null,
+    "category": "街机 / 小游戏包",
+    "author": "naledicodes",
+    "note": "一句话 Astra→可玩 3D：婴儿爬行捡吃的、躲开家长抱走；打开就能爬",
+    "image": "/previews/playable-crumb-run.jpg"
+  },
+  {
+    "title": "SORA-MAN",
+    "demo_url": "https://henrik-thevibe.github.io/SORA-MAN/",
+    "post_url": "https://x.com/henrik_thevibe/status/2103290261409243450",
+    "likes": null,
+    "category": "经典复刻 / 知名玩法",
+    "author": "henrik_thevibe",
+    "note": "Astra + Opus 5.5 搓的 Sora 纪念版讽刺吃豆人；打开就能吃点",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103262322676375552%2Fimg%2FvLruP6CLRFmjeuup.jpg"
+  },
+  {
     "title": "Backrooms — Signal Lost",
     "demo_url": "https://backrooms-tau.vercel.app/",
     "post_url": "https://x.com/_ediri/status/2103101448397713473",
