@@ -2,21 +2,21 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**262** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-24
+- 收录：**266** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-25
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 18
-- [竞速 / 驾驶](#竞速--驾驶) — 29
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 19
+- [竞速 / 驾驶](#竞速--驾驶) — 30
 - [射击 / 动作](#射击--动作) — 32
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
-- [街机 / 小游戏包](#街机--小游戏包) — 31
+- [街机 / 小游戏包](#街机--小游戏包) — 32
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 58
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 59
 - [工程 / 仿真](#工程--仿真) — 22
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -94,6 +94,11 @@
    - 试玩链接：`https://hollowmark.mindblown.ai/`
    - 原帖：https://x.com/mindblown_ai/status/2102040812569944136
    - 备注：浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关
+
+19. **SORA-MAN** — [试玩](https://henrik-thevibe.github.io/SORA-MAN/) · [原帖](https://x.com/henrik_thevibe/status/2103290261409243450)
+   - 试玩链接：`https://henrik-thevibe.github.io/SORA-MAN/`
+   - 原帖：https://x.com/henrik_thevibe/status/2103290261409243450
+   - 备注：Astra + Opus 5.5 搓的 Sora 纪念版讽刺吃豆人；打开就能吃点
 
 
 ## 竞速 / 驾驶
@@ -229,6 +234,11 @@
    - 试玩链接：`https://spline-rush.vercel.app`
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
+
+30. **Crayon Motors** — [试玩](https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59) · [原帖](https://x.com/TusharXo/status/2103306211961737262) · ❤ 11
+   - 试玩链接：`https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59`
+   - 原帖：https://x.com/TusharXo/status/2103306211961737262
+   - 备注：Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车
 
 
 ## 射击 / 动作
@@ -684,6 +694,11 @@
    - 原帖：https://x.com/teovito/status/2102686586723033440
    - 备注：浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍
 
+32. **Crumb Run** — [试玩](https://crumb-run.vercel.app/) · [原帖](https://x.com/naledicodes/status/2103291885619917097)
+   - 试玩链接：`https://crumb-run.vercel.app/`
+   - 原帖：https://x.com/naledicodes/status/2103291885619917097
+   - 备注：一句话 Astra→可玩 3D：婴儿爬行捡吃的、躲开家长抱走；打开就能爬
+
 
 ## 音乐 / 表演
 
@@ -1080,6 +1095,11 @@
    - 试玩链接：`https://backrooms-tau.vercel.app/`
    - 原帖：https://x.com/_ediri/status/2103101448397713473
    - 备注：Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙
+
+59. **La notte dipinta** — [试玩](https://la-notte-dipinta.dario-pumi.chatgpt.site) · [原帖](https://x.com/DarioPumi/status/2103128524349468944)
+   - 试玩链接：`https://la-notte-dipinta.dario-pumi.chatgpt.site`
+   - 原帖：https://x.com/DarioPumi/status/2103128524349468944
+   - 备注：梵高画作 + brief → ChatGPT Work Sites 开世界：NPC 对话、可捡可砸；GPT-6 Astra，打开就能逛夜色
 
 
 ## 工程 / 仿真
