@@ -16793,6 +16793,60 @@
       "posterUrl": "/previews/playable-jevpong.jpg",
       "videoUrl": null,
       "sourceOrder": -1176
+    },
+    {
+      "id": "work-dbfb907449a29a20",
+      "name": "午夜论坛：未明旧案",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 中式微恐悬疑推理：GPT-6 Astra + Opus 5.5 vibe coding；B 站玩具可玩 + GitHub 九案零依赖开源",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "yanmo1618677",
+        "url": "https://x.com/yanmo1618677"
+      },
+      "demoUrl": "https://www.bilibili.com/toy/weiming-jiuan/index.html",
+      "sourceUrl": "https://x.com/yanmo1618677/status/2103350457796358376",
+      "repoUrl": "https://github.com/momozi1996/awesome-chinese-folk-game",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTCZSXSawAAkQ9Q.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTCZSXSawAAkQ9Q.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1192
+    },
+    {
+      "id": "work-c6987603ae4fbdee",
+      "name": "Model Y · 交互式 3D 展厅",
+      "description": "可玩 Demo · 工程 / 仿真 · GPT-6 Astra + Three.js + Blender：360° / 座舱微距 / 485 部件选择 / 结构展开；独立学习作品，结构为示意 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "AIDREAMMAN",
+        "url": "https://x.com/AIDREAMMAN"
+      },
+      "demoUrl": "https://modely.metapure.ai",
+      "sourceUrl": "https://x.com/AIDREAMMAN/status/2103357148118085840",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103356768919425024%2Fimg%2Fdi4sXtcMFr-PI0AC.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103356768919425024%2Fimg%2Fdi4sXtcMFr-PI0AC.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1193
+    },
+    {
+      "id": "work-0f03decbf8da9e44",
+      "name": "Nova Defender",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Astra 6 复古太空街机射击；2000s 风护卫舰打外星人，浏览器打开就能射 · ❤ 1",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "PeradzeVan58311",
+        "url": "https://x.com/PeradzeVan58311"
+      },
+      "demoUrl": "https://nova-defender.expo.app/game/index.html",
+      "sourceUrl": "https://x.com/PeradzeVan58311/status/2103360685132628471",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103360470266642433%2Fimg%2F74jJ_kZ_D4Xx-bMb.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103360470266642433%2Fimg%2F74jJ_kZ_D4Xx-bMb.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1194
     }
   ],
   "source": {

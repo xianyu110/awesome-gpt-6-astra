@@ -2,22 +2,22 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**266** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**269** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-25
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 19
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 20
 - [竞速 / 驾驶](#竞速--驾驶) — 30
 - [射击 / 动作](#射击--动作) — 32
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
-- [街机 / 小游戏包](#街机--小游戏包) — 32
+- [街机 / 小游戏包](#街机--小游戏包) — 33
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 15
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 59
-- [工程 / 仿真](#工程--仿真) — 22
+- [工程 / 仿真](#工程--仿真) — 23
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
@@ -100,6 +100,11 @@
    - 原帖：https://x.com/henrik_thevibe/status/2103290261409243450
    - 备注：Astra + Opus 5.5 搓的 Sora 纪念版讽刺吃豆人；打开就能吃点
 
+
+20. **午夜论坛：未明旧案** — [试玩](https://www.bilibili.com/toy/weiming-jiuan/index.html) · [原帖](https://x.com/yanmo1618677/status/2103350457796358376) · [GitHub](https://github.com/momozi1996/awesome-chinese-folk-game)
+   - 试玩链接：`https://www.bilibili.com/toy/weiming-jiuan/index.html`
+   - 原帖：https://x.com/yanmo1618677/status/2103350457796358376
+   - 备注：中式微恐悬疑推理：GPT-6 Astra + Opus 5.5 vibe coding；B 站玩具九案可玩，GitHub 零依赖开源
 
 ## 竞速 / 驾驶
 
@@ -700,6 +705,11 @@
    - 备注：一句话 Astra→可玩 3D：婴儿爬行捡吃的、躲开家长抱走；打开就能爬
 
 
+33. **Nova Defender** — [试玩](https://nova-defender.expo.app/game/index.html) · [原帖](https://x.com/PeradzeVan58311/status/2103360685132628471) · ❤ 1
+   - 试玩链接：`https://nova-defender.expo.app/game/index.html`
+   - 原帖：https://x.com/PeradzeVan58311/status/2103360685132628471
+   - 备注：Astra 6 搓的复古太空街机：2000s 风护卫舰打外星人，打开就能射
+
 ## 音乐 / 表演
 
 1. **Brandenburg Piano — J. S. Bach** — [试玩](https://brandenburg-piano.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2096090915790069857) · ❤ 1531
@@ -1204,6 +1214,11 @@
    - 原帖：https://x.com/maxtoms/status/2102880821627740182
    - 备注：工作台上的可拆解全尺寸机器人头：开壳检查零件；GPT-6 Astra 原型，打开就能拧螺丝看内部
 
+
+23. **Model Y · 交互式 3D 展厅** — [试玩](https://modely.metapure.ai) · [原帖](https://x.com/AIDREAMMAN/status/2103357148118085840) · ❤ 1
+   - 试玩链接：`https://modely.metapure.ai`
+   - 原帖：https://x.com/AIDREAMMAN/status/2103357148118085840
+   - 备注：GPT-6 Astra + Three.js + Blender：360°、座舱微距、485 部件选择、结构展开复原；独立学习作品，内部结构为示意
 
 ## 其他可玩 Demo
 
