@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**269** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**270** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-25
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 20
-- [竞速 / 驾驶](#竞速--驾驶) — 30
+- [竞速 / 驾驶](#竞速--驾驶) — 31
 - [射击 / 动作](#射击--动作) — 32
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
@@ -244,6 +244,11 @@
    - 试玩链接：`https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59`
    - 原帖：https://x.com/TusharXo/status/2103306211961737262
    - 备注：Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车
+
+31. **ORR.run · Bangalore Outer Ring Road** — [试玩](https://www.orr.run/) · [原帖](https://x.com/sirsho29/status/2103380271525691898) · ❤ 27
+   - 试玩链接：`https://www.orr.run/`
+   - 原帖：https://x.com/sirsho29/status/2103380271525691898
+   - 备注：Google Maps 复刻班加罗尔 Outer Ring Road：Silk Board→Marathahalli 11.4km、5k+ 建筑，司机视角堵车模拟；GPT-6 Astra，打开就能堵
 
 
 ## 射击 / 动作
