@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-edc3e33d3ab6cd49",
+      "name": "Rex: Pursuit",
+      "description": "可玩 Demo · 射击 / 动作 · Opus 5.5 + GPT Astra 浏览器 T-Rex 丛林追逐：打开就能跑逃；vibecodingmatt 出品",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "burnsmatt",
+        "url": "https://x.com/burnsmatt"
+      },
+      "demoUrl": "https://vibecodingmatt.github.io/rex-pursuit/",
+      "sourceUrl": "https://x.com/burnsmatt/status/2103447951389430150",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fvibecodingmatt.github.io%2Frex-pursuit%2Fsocial%2Frex-pursuit-v4.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fvibecodingmatt.github.io%2Frex-pursuit%2Fsocial%2Frex-pursuit-v4.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1197
+    },
+    {
+      "id": "work-39f09cdc92775857",
+      "name": "WordTwiq",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Codex + GPT-6 Astra + Unity 双词 Wordle 变体：两词同猜，打开就能拼；vibedcoder 出品",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "vibedcoder",
+        "url": "https://x.com/vibedcoder"
+      },
+      "demoUrl": "https://wordtwiq.dfrankiej.com/",
+      "sourceUrl": "https://x.com/vibedcoder/status/2103443299491021160",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2103443299725938688%2FnnegK3S7%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2103443299725938688%2FnnegK3S7%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1198
+    },
+    {
       "id": "work-b06939e5d4bc8638",
       "name": "STARFALL — The Last Beacon",
       "description": "可玩 Demo · 射击 / 动作 · GPT-6 Astra Ultra 一人从浏览器原型推到 App Store 的触控/键盘 3D 太空射击：点亮三信标护航舰队，打开就能射",
@@ -16888,9 +16924,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-25T13:43:55Z",
-    "lastSuccessfulAt": "2026-09-25T13:43:55Z",
-    "revision": "playable-sync-20260925-2142",
+    "checkedAt": "2026-09-25T13:46:26Z",
+    "lastSuccessfulAt": "2026-09-25T13:46:26Z",
+    "revision": "playable-sync-20260925-2143",
     "stale": false,
     "status": "fresh"
   },
