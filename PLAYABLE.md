@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**271** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**273** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-25
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,10 +10,10 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 20
 - [竞速 / 驾驶](#竞速--驾驶) — 31
-- [射击 / 动作](#射击--动作) — 33
+- [射击 / 动作](#射击--动作) — 34
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
-- [街机 / 小游戏包](#街机--小游戏包) — 33
+- [街机 / 小游戏包](#街机--小游戏包) — 34
 - [音乐 / 表演](#音乐--表演) — 12
 - [教育 / 科普](#教育--科普) — 15
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 59
@@ -408,6 +408,11 @@
    - 原帖：https://x.com/ShanGulamani/status/2103472111574741150
    - 备注：GPT-6 Astra Ultra 一人从浏览器原型推到 App Store 的触控/键盘 3D 太空射击：点亮三信标护航舰队，打开就能射
 
+34. **Rex: Pursuit** — [试玩](https://vibecodingmatt.github.io/rex-pursuit/) · [原帖](https://x.com/burnsmatt/status/2103447951389430150)
+   - 试玩链接：`https://vibecodingmatt.github.io/rex-pursuit/`
+   - 原帖：https://x.com/burnsmatt/status/2103447951389430150
+   - 备注：Opus 5.5 + GPT Astra 浏览器 T-Rex 丛林追逐：打开就能跑逃；vibecodingmatt 出品
+
 
 ## 模拟经营 / 策略
 
@@ -719,6 +724,12 @@
    - 试玩链接：`https://nova-defender.expo.app/game/index.html`
    - 原帖：https://x.com/PeradzeVan58311/status/2103360685132628471
    - 备注：Astra 6 搓的复古太空街机：2000s 风护卫舰打外星人，打开就能射
+
+34. **WordTwiq** — [试玩](https://wordtwiq.dfrankiej.com/) · [原帖](https://x.com/vibedcoder/status/2103443299491021160)
+   - 试玩链接：`https://wordtwiq.dfrankiej.com/`
+   - 原帖：https://x.com/vibedcoder/status/2103443299491021160
+   - 备注：Codex + GPT-6 Astra + Unity 双词 Wordle 变体：两词同猜，打开就能拼；vibedcoder 出品
+
 
 ## 音乐 / 表演
 
