@@ -2,21 +2,21 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**273** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-25
+- 收录：**277** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-28
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 20
-- [竞速 / 驾驶](#竞速--驾驶) — 31
+- [竞速 / 驾驶](#竞速--驾驶) — 32
 - [射击 / 动作](#射击--动作) — 34
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 34
-- [音乐 / 表演](#音乐--表演) — 12
+- [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 59
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 61
 - [工程 / 仿真](#工程--仿真) — 23
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -250,7 +250,10 @@
    - 原帖：https://x.com/sirsho29/status/2103380271525691898
    - 备注：Google Maps 复刻班加罗尔 Outer Ring Road：Silk Board→Marathahalli 11.4km、5k+ 建筑，司机视角堵车模拟；GPT-6 Astra，打开就能堵
 
-
+32. **TOWLINE** — [试玩](https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56) · [原帖](https://x.com/TusharXo/status/2104336588666982516) · ❤ 11
+   - 试玩链接：`https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56`
+   - 原帖：https://x.com/TusharXo/status/2104336588666982516
+   - 备注：Crayon + Astra/Opus 5.5 悬浮板追拖车 three.js：六城区躲撞/磨轨/骑车顶；打开就能冲
 ## 射击 / 动作
 
 1. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
@@ -786,7 +789,10 @@
    - 原帖：https://x.com/mittooney/status/2099724447339212816
    - 备注：HIPHOP 系咏唱节奏游戏：挡攻击、接长咏唱冲「全星解放」，GPT-6 Astra 主制，手机电脑都能玩
 
-
+13. **VAPOR TAP** — [试玩](https://vapor-tap.littlemcca1111.chatgpt.site/) · [原帖](https://x.com/oIwaaakIo/status/2104182324443365560) · ❤ 3
+   - 试玩链接：`https://vapor-tap.littlemcca1111.chatgpt.site/`
+   - 原帖：https://x.com/oIwaaakIo/status/2104182324443365560
+   - 备注：Astra×Suno 三车道蒸汽波音游：Neon Tide / Skyline Rush / Midnight Session；浏览器打开就能打
 ## 教育 / 科普
 
 1. **Fly Escape — Brain Chamber** — [试玩](https://fly-escape.vercel.app) · [原帖](https://x.com/AiTool35148/status/2097853121913356540) · ❤ 1
@@ -1132,7 +1138,14 @@
    - 原帖：https://x.com/DarioPumi/status/2103128524349468944
    - 备注：梵高画作 + brief → ChatGPT Work Sites 开世界：NPC 对话、可捡可砸；GPT-6 Astra，打开就能逛夜色
 
-
+60. **Primitive Park Walkthrough** — [试玩](https://primitive-park-walkthrough.miya333.chatgpt.site) · [原帖](https://x.com/miya00907380/status/2104330247139450899) · ❤ 29
+   - 试玩链接：`https://primitive-park-walkthrough.miya333.chatgpt.site`
+   - 原帖：https://x.com/miya00907380/status/2104330247139450899
+   - 备注：Godot 纯原始网格游乐园探索：Codex GPT-6 Astra 规划 + Luna 实现 60s PV；打开就能逛园
+61. **Desert Crossing** — [试玩](https://desert-crossing.tylerryu.chatgpt.site/) · [原帖](https://x.com/PixiJS/status/2103552783773524151) · ❤ 116
+   - 试玩链接：`https://desert-crossing.tylerryu.chatgpt.site/`
+   - 原帖：https://x.com/PixiJS/status/2103552783773524151
+   - 备注：GPT-6 Astra + PixiJS 3D 程序化沙漠地形：扬帆/转向/刹车，300° 顺风免油；PixiJS 官号转发
 ## 工程 / 仿真
 
 1. **Jelly iPhone** — [试玩](https://jelly-iphone.signalizeai.org) · [原帖](https://x.com/royalpinto007/status/2097790394067189803) · ❤ 2
