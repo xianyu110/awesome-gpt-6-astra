@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-741a4b22482d7bd0",
+      "name": "Primitive Park Walkthrough",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Godot 纯原始网格游乐园探索：Codex GPT-6 Astra 规划 + Luna 实现 60s PV；打开就能逛园",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "miya00907380",
+        "url": "https://x.com/miya00907380"
+      },
+      "demoUrl": "https://primitive-park-walkthrough.miya333.chatgpt.site",
+      "sourceUrl": "https://x.com/miya00907380/status/2104330247139450899",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102613082203901952%2Fimg%2FqRPTJTlXJAjOr5r2.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2102613082203901952%2Fimg%2FqRPTJTlXJAjOr5r2.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1202
+    },
+    {
+      "id": "work-cf3e8206b4ea0314",
+      "name": "VAPOR TAP",
+      "description": "可玩 Demo · 音乐 / 表演 · Astra×Suno 三车道蒸汽波音游：Neon Tide / Skyline Rush / Midnight Session；浏览器打开就能打",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 音乐 / 表演",
+      "author": {
+        "name": "oIwaaakIo",
+        "url": "https://x.com/oIwaaakIo"
+      },
+      "demoUrl": "https://vapor-tap.littlemcca1111.chatgpt.site/",
+      "sourceUrl": "https://x.com/oIwaaakIo/status/2104182324443365560",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTOOq3_bsAAfyAB.jpg%3Fname%3Dorig",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTOOq3_bsAAfyAB.jpg%3Fname%3Dorig",
+      "videoUrl": null,
+      "sourceOrder": -1201
+    },
+    {
+      "id": "work-7c59a716fdf64613",
+      "name": "Desert Crossing",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · GPT-6 Astra + PixiJS 3D 程序化沙漠地形：扬帆/转向/刹车，300° 顺风免油；PixiJS 官号转发",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "tytytyryu",
+        "url": "https://x.com/tytytyryu"
+      },
+      "demoUrl": "https://desert-crossing.tylerryu.chatgpt.site/",
+      "sourceUrl": "https://x.com/PixiJS/status/2103552783773524151",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103552748348375040%2Fimg%2FvPGj5LPy_GKnxZIx.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103552748348375040%2Fimg%2FvPGj5LPy_GKnxZIx.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1200
+    },
+    {
+      "id": "work-b6d47e710d43830d",
+      "name": "TOWLINE",
+      "description": "可玩 Demo · 竞速 / 驾驶 · Crayon + Astra/Opus 5.5 悬浮板追拖车 three.js：六城区躲撞/磨轨/骑车顶；打开就能冲",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "TusharXo",
+        "url": "https://x.com/TusharXo"
+      },
+      "demoUrl": "https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56",
+      "sourceUrl": "https://x.com/TusharXo/status/2104336588666982516",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104335335459299329%2Fimg%2FiNFQgzG6bUR8_GEl.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104335335459299329%2Fimg%2FiNFQgzG6bUR8_GEl.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1199
+    },
+    {
       "id": "work-edc3e33d3ab6cd49",
       "name": "Rex: Pursuit",
       "description": "可玩 Demo · 射击 / 动作 · Opus 5.5 + GPT Astra 浏览器 T-Rex 丛林追逐：打开就能跑逃；vibecodingmatt 出品",
@@ -16924,9 +16996,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-25T13:46:26Z",
-    "lastSuccessfulAt": "2026-09-25T13:46:26Z",
-    "revision": "playable-sync-20260925-2143",
+    "checkedAt": "2026-09-28T02:43:58Z",
+    "lastSuccessfulAt": "2026-09-28T02:43:58Z",
+    "revision": "playable-sync-20260928-1045",
     "stale": false,
     "status": "fresh"
   },
