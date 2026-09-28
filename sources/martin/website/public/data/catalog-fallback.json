@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-dae1f7afba0920b7",
+      "name": "Mumbai Worli Sea Link",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · GPT-6 Astra + Sol 编程光照/渲染的可逛 WebGL 海桥：开敞甲板巴士、Photo Studio 把个人照片打到拉索灯阵；一周打磨，打开就能逛",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "ialimustufa",
+        "url": "https://x.com/ialimustufa"
+      },
+      "demoUrl": "https://alimustufa.com/projects/sealink/experience/",
+      "sourceUrl": "https://x.com/ialimustufa/status/2104565956198678978",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104565109041537024%2Fimg%2Ff2zjQnea1mTP0Kx3.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104565109041537024%2Fimg%2Ff2zjQnea1mTP0Kx3.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1205
+    },
+    {
       "id": "work-69b8302fe12fa691",
       "name": "The Fourth Knock",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · 庄园谋杀悬疑浏览器可玩：GPT-6 Astra + Opus 5.5 + ComfyUI/Blender/Three.js 全案研究；打开就能查案",
