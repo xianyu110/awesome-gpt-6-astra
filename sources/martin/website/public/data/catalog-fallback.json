@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-69b8302fe12fa691",
+      "name": "The Fourth Knock",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 庄园谋杀悬疑浏览器可玩：GPT-6 Astra + Opus 5.5 + ComfyUI/Blender/Three.js 全案研究；打开就能查案",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "NikhilDesai_007",
+        "url": "https://x.com/NikhilDesai_007"
+      },
+      "demoUrl": "https://nikhilsatishdesai.github.io/the-fourth-knock/play/",
+      "sourceUrl": "https://x.com/NikhilDesai_007/status/2104495667284677078",
+      "repoUrl": "https://nikhilsatishdesai.github.io/the-fourth-knock/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2104495518248529920%2FoVsnZFRX%3Fformat%3Djpg%26name%3D800x419",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fcard_img%2F2104495518248529920%2FoVsnZFRX%3Fformat%3Djpg%26name%3D800x419",
+      "videoUrl": null,
+      "sourceOrder": -1203
+    },
+    {
+      "id": "work-a766765bf3e36155",
+      "name": "rabble-rouser",
+      "description": "可玩 Demo · 街机 / 小游戏包 · 弹珠×格斗连锁反应解谜：GPT-6 Astra + Opus 5.5，shapeshift studio 软弹 SVG；打开就能砸连锁",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "JungleSilicon",
+        "url": "https://x.com/JungleSilicon"
+      },
+      "demoUrl": "https://inkwell.ing/games/rabble-rouser",
+      "sourceUrl": "https://x.com/JungleSilicon/status/2104476664919134290",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104475497912811520%2Fimg%2F-YcyitMNyLRjvIcb.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104475497912811520%2Fimg%2F-YcyitMNyLRjvIcb.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1204
+    },
+    {
       "id": "work-741a4b22482d7bd0",
       "name": "Primitive Park Walkthrough",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · Godot 纯原始网格游乐园探索：Codex GPT-6 Astra 规划 + Luna 实现 60s PV；打开就能逛园",
