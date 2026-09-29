@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**285** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**286** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-29
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -10,7 +10,7 @@
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 23
 - [竞速 / 驾驶](#竞速--驾驶) — 33
-- [射击 / 动作](#射击--动作) — 34
+- [射击 / 动作](#射击--动作) — 35
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 36
@@ -273,162 +273,167 @@
    - 备注：Crayon + Astra/Opus 5.5 悬浮板追拖车 three.js：六城区躲撞/磨轨/骑车顶；打开就能冲
 ## 射击 / 动作
 
-1. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
+1. **The Way of the Samurai** — [试玩](https://the-way-of-the-samurai-bay.vercel.app/) · [原帖](https://x.com/knightama/status/2104880496253817021) · ❤ 3
+   - 试玩链接：`https://the-way-of-the-samurai-bay.vercel.app/`
+   - 原帖：https://x.com/knightama/status/2104880496253817021
+   - 备注：7 月 AI 视频概念 → Opus 5.5 一小时从视频做成可玩；再花 12 小时用 GPT-6 Astra 打磨玩法与画面（three.js/Blender）；打开就能砍
+
+2. **The Legend of Deller** — [试玩](https://rain-court-js.umodeler-inc-4323.chatgpt.site) · [原帖](https://x.com/UModeler/status/2097792348407099553) · ❤ 6
    - 试玩链接：`https://rain-court-js.umodeler-inc-4323.chatgpt.site`
    - 原帖：https://x.com/UModeler/status/2097792348407099553
 
-2. **Dungeon of Astra** — [试玩](https://wavedash.com/games/dungeon-of-astra) · [原帖](https://x.com/tonysurix/status/2097873333551616355) · ❤ 1
+3. **Dungeon of Astra** — [试玩](https://wavedash.com/games/dungeon-of-astra) · [原帖](https://x.com/tonysurix/status/2097873333551616355) · ❤ 1
    - 试玩链接：`https://wavedash.com/games/dungeon-of-astra`
    - 原帖：https://x.com/tonysurix/status/2097873333551616355
-3. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
+4. **Bonkshot** — [试玩](https://bonkshot.com) · [原帖](https://x.com/edmund5/status/2097603093819261002)
    - 试玩链接：`https://bonkshot.com`
    - 原帖：https://x.com/edmund5/status/2097603093819261002
 
-4. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
+5. **Harbor Skirmish — Three.js naval battle** — [试玩](https://gpt6astra-game.vercel.app/) · [原帖](https://x.com/OpenDesignHQ/status/2097635757917983223)
    - 试玩链接：`https://gpt6astra-game.vercel.app/`
    - 原帖：https://x.com/OpenDesignHQ/status/2097635757917983223
 
-5. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
+6. **LAST LIGHT — A Northline Story** — [试玩](https://last-light-northline.pages.dev) · [原帖](https://x.com/md_taqui_imam/status/2096255279650517081) · ❤ 5
    - 试玩链接：`https://last-light-northline.pages.dev`
    - 原帖：https://x.com/md_taqui_imam/status/2096255279650517081
 
-6. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
+7. **FANG · STARLIGHT RUN** — [试玩](https://fang-starlight-run.yosshy666.chatgpt.site/) · [原帖](https://x.com/FANGsaikyou/status/2096192445667283326) · ❤ 2
    - 试玩链接：`https://fang-starlight-run.yosshy666.chatgpt.site/`
    - 原帖：https://x.com/FANGsaikyou/status/2096192445667283326
 
-7. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
+8. **INFINITUM** — [试玩](https://infinitum-game.vercel.app/) · [原帖](https://x.com/HpMani56403/status/2097188417709002822) · ❤ 2
    - 试玩链接：`https://infinitum-game.vercel.app/`
    - 原帖：https://x.com/HpMani56403/status/2097188417709002822
 
-8. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
+9. **Building Prism World ✳️ One idea, every feed.** — [试玩](https://prism-world-demo.krrish18.chatgpt.site) · [原帖](https://x.com/krishnap1810/status/2095633183567945941)
    - 试玩链接：`https://prism-world-demo.krrish18.chatgpt.site`
    - 原帖：https://x.com/krishnap1810/status/2095633183567945941
 
-9. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
+10. **마성전설 — 메두사의 신전** — [试玩](https://knightmare-medusa-3d.robin-hwang.chatgpt.site/) · [原帖](https://x.com/i/status/2096984386566815920)
    - 试玩链接：`https://knightmare-medusa-3d.robin-hwang.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096984386566815920
 
-10. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
+11. **Neural Sight — Play the demo** — [试玩](https://monstercameron.github.io/Neural-Sight/) · [原帖](https://x.com/monstercameron/status/2097117275127959629)
    - 试玩链接：`https://monstercameron.github.io/Neural-Sight/`
    - 原帖：https://x.com/monstercameron/status/2097117275127959629
 
-11. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
+12. **ASCII DISTRICT** — [试玩](https://ascii-district.vercel.app/) · [原帖](https://x.com/acker_code/status/2097542957070975286)
    - 试玩链接：`https://ascii-district.vercel.app/`
    - 原帖：https://x.com/acker_code/status/2097542957070975286
 
-12. **Billionaire Pit** — [试玩](https://billionaire-pit.vercel.app/) · [原帖](https://x.com/siyam_uddin_t/status/2098025717057614109)
+13. **Billionaire Pit** — [试玩](https://billionaire-pit.vercel.app/) · [原帖](https://x.com/siyam_uddin_t/status/2098025717057614109)
    - 试玩链接：`https://billionaire-pit.vercel.app/`
    - 原帖：https://x.com/siyam_uddin_t/status/2098025717057614109
    - 备注：赛博朋克 MMA 擂台：四名选手、三回合、一个冠军，小实验格斗可玩
 
-13. **Last Light — City 1 Update** — [试玩](https://spectacular-jargon-xtw.julius.site/) · [原帖](https://x.com/PheonixTech17/status/2097989218006130724) · ❤ 7
+14. **Last Light — City 1 Update** — [试玩](https://spectacular-jargon-xtw.julius.site/) · [原帖](https://x.com/PheonixTech17/status/2097989218006130724) · ❤ 7
    - 试玩链接：`https://spectacular-jargon-xtw.julius.site/`
    - 原帖：https://x.com/PheonixTech17/status/2097989218006130724
    - 备注：Julius + Three.js 丧尸生存：3D 城区、战斗物理、传送门目标，浏览器开打就能玩
 
-14. **Wings of Freedom — Levi Skyrun** — [试玩](https://attack-on-titan-jet.vercel.app/) · [原帖](https://x.com/dhrubhagatsingh/status/2098236388462223820) · ❤ 1
+15. **Wings of Freedom — Levi Skyrun** — [试玩](https://attack-on-titan-jet.vercel.app/) · [原帖](https://x.com/dhrubhagatsingh/status/2098236388462223820) · ❤ 1
    - 试玩链接：`https://attack-on-titan-jet.vercel.app/`
    - 原帖：https://x.com/dhrubhagatsingh/status/2098236388462223820
    - 备注：Attack on Titan × Three.js：利威尔立体机动、巨人战，Astra 几小时搓完丢 Vercel
 
-15. **CHRONO RAID | SUZUNE & AOI** — [试玩](https://suzune-aoi-fighters.szou2003.chatgpt.site/) · [原帖](https://x.com/szounft/status/2098310992770007365) · ❤ 10
+16. **CHRONO RAID | SUZUNE & AOI** — [试玩](https://suzune-aoi-fighters.szou2003.chatgpt.site/) · [原帖](https://x.com/szounft/status/2098310992770007365) · ❤ 10
    - 试玩链接：`https://suzune-aoi-fighters.szou2003.chatgpt.site/`
    - 原帖：https://x.com/szounft/status/2098310992770007365
    - 备注：活动等候时用 Seedance/H3 动画 + Astra 搓的双人格斗：必杀切入、超必杀与胜利演出齐全
 
-16. **Outermate: First Count** — [试玩](https://outermate.com) · [原帖](https://x.com/LanceBlah/status/2098407876603895859)
+17. **Outermate: First Count** — [试玩](https://outermate.com) · [原帖](https://x.com/LanceBlah/status/2098407876603895859)
    - 试玩链接：`https://outermate.com`
    - 原帖：https://x.com/LanceBlah/status/2098407876603895859
    - 备注：浏览器越狱逃脱小游戏（GPT-6 Astra / SoftN）
 
-17. **Pub Brawl** — [试玩](https://ember-tech.itch.io/pub-brawl) · [原帖](https://x.com/Paul78550262/status/2098393050812690564) · ❤ 1
+18. **Pub Brawl** — [试玩](https://ember-tech.itch.io/pub-brawl) · [原帖](https://x.com/Paul78550262/status/2098393050812690564) · ❤ 1
    - 试玩链接：`https://ember-tech.itch.io/pub-brawl`
    - 原帖：https://x.com/Paul78550262/status/2098393050812690564
    - 备注：Astra + Godot 英式酒吧清街：Streets of Rage 风 beat ’em up（itch.io）
 
-18. **Gogh Strike** — [试玩](https://www.soonlab.ai/game/8996/) · [原帖](https://x.com/SoonLab_AI/status/2098367876734558579) · ❤ 3
+19. **Gogh Strike** — [试玩](https://www.soonlab.ai/game/8996/) · [原帖](https://x.com/SoonLab_AI/status/2098367876734558579) · ❤ 3
    - 试玩链接：`https://www.soonlab.ai/game/8996/`
    - 原帖：https://x.com/SoonLab_AI/status/2098367876734558579
    - 备注：梵高风浏览器 FPS；SoonLab 现已支持 GPT-6 Astra
 
-19. **Dead End** — [试玩](https://dead-end.replit.app) · [原帖](https://x.com/msdkim0424/status/2099852357660262425) · ❤ 9
+20. **Dead End** — [试玩](https://dead-end.replit.app) · [原帖](https://x.com/msdkim0424/status/2099852357660262425) · ❤ 9
    - 试玩链接：`https://dead-end.replit.app`
    - 原帖：https://x.com/msdkim0424/status/2099852357660262425
    - 备注：末日街区僵尸生存：Astra+Replit+three.js 把 2D 关卡搓成 3D，打开就能躲尸潮
 
-20. **DUSTLINE — Tactical FPS** — [试玩](https://cs2-eight-self.vercel.app/) · [原帖](https://x.com/FMamatkhalilov/status/2099467206350229597) · ❤ 4
+21. **DUSTLINE — Tactical FPS** — [试玩](https://cs2-eight-self.vercel.app/) · [原帖](https://x.com/FMamatkhalilov/status/2099467206350229597) · ❤ 4
    - 试玩链接：`https://cs2-eight-self.vercel.app/`
    - 原帖：https://x.com/FMamatkhalilov/status/2099467206350229597
    - 备注：CS2 风战术 FPS 试玩：Astra + Fable 5.1 + Opus 搓的 Dustline，浏览器里就能冲锋
 
-21. **Don't Look Away · Saint Orison** — [试玩](https://weeping-angels.vercel.app) · [原帖](https://x.com/BlendiByl/status/2100442177159729336) · ❤ 60
+22. **Don't Look Away · Saint Orison** — [试玩](https://weeping-angels.vercel.app) · [原帖](https://x.com/BlendiByl/status/2100442177159729336) · ❤ 60
    - 试玩链接：`https://weeping-angels.vercel.app`
    - 原帖：https://x.com/BlendiByl/status/2100442177159729336
    - 备注：Doctor Who 哭泣天使风恐怖：看不见才动，桌面+耳机推荐 · Astra + fal + Three.js
 
-22. **Claude of Duty · Vibe Slops II** — [试玩](https://vibeslops.luckeysystems.com/) · [原帖](https://x.com/ForestManSol555/status/2100498101614026893) · ❤ 1
+23. **Claude of Duty · Vibe Slops II** — [试玩](https://vibeslops.luckeysystems.com/) · [原帖](https://x.com/ForestManSol555/status/2100498101614026893) · ❤ 1
    - 试玩链接：`https://vibeslops.luckeysystems.com/`
    - 原帖：https://x.com/ForestManSol555/status/2100498101614026893
    - 备注：浏览器 Three.js FPS：Black Ops II Hijacked 图导出 + 胶囊碰撞 + Recast 导航网格，非官方同人 · 打开就能冲
 
 
-23. **The Crownless** — [试玩](https://www.spawn.co/@izkimar/the-crownless/play) · [原帖](https://x.com/Izkimar/status/2100753871903855095) · ❤ 20
+24. **The Crownless** — [试玩](https://www.spawn.co/@izkimar/the-crownless/play) · [原帖](https://x.com/Izkimar/status/2100753871903855095) · ❤ 20
    - 试玩链接：`https://www.spawn.co/@izkimar/the-crownless/play`
    - 原帖：https://x.com/Izkimar/status/2100753871903855095
    - 备注：动作肉鸽：一天多一点用 Astra 在 Spawn 里做出；边玩边改、几乎不被打断
 
-24. **Until the Crown Falls** — [试玩](https://www.spawn.co/@branthebroke/until-the-crown-falls/play) · [原帖](https://x.com/Bran_The_Broke/status/2100592457767325759) · ❤ 7
+25. **Until the Crown Falls** — [试玩](https://www.spawn.co/@branthebroke/until-the-crown-falls/play) · [原帖](https://x.com/Bran_The_Broke/status/2100592457767325759) · ❤ 7
    - 试玩链接：`https://www.spawn.co/@branthebroke/until-the-crown-falls/play`
    - 原帖：https://x.com/Bran_The_Broke/status/2100592457767325759
    - 备注：三天 Astra + Fable 在 Spawn 上的王冠陨落冒险；打开就能玩
 
-25. **SoonLab Magic Carpet** — [试玩](https://www.soonlab.ai/game/10024/) · [原帖](https://x.com/SoonLab_AI/status/2101618344629862412) · ❤ 9
+26. **SoonLab Magic Carpet** — [试玩](https://www.soonlab.ai/game/10024/) · [原帖](https://x.com/SoonLab_AI/status/2101618344629862412) · ❤ 9
    - 试玩链接：`https://www.soonlab.ai/game/10024/`
    - 原帖：https://x.com/SoonLab_AI/status/2101618344629862412
    - 备注：SoonLab 2.0 × GPT-6 Astra 零代码飞毯：跑酷 + 射击混搭，打开就能骑
 
-26. **Ink Rush Showdown** — [试玩](https://ink-rush-showdown.vercel.app/) · [原帖](https://x.com/truenyl/status/2101908735371497686)
+27. **Ink Rush Showdown** — [试玩](https://ink-rush-showdown.vercel.app/) · [原帖](https://x.com/truenyl/status/2101908735371497686)
    - 试玩链接：`https://ink-rush-showdown.vercel.app/`
    - 原帖：https://x.com/truenyl/status/2101908735371497686
    - 备注：2.5D Splatoon 风涂色对战：GPT-6 Astra + Blender，浏览器墨汁开战
 
-27. **VOLTARIS** — [试玩](https://voltaris-nyyo.onrender.com/?webgl=1) · [原帖](https://x.com/fdx5555/status/2102014139317297382)
+28. **VOLTARIS** — [试玩](https://voltaris-nyyo.onrender.com/?webgl=1) · [原帖](https://x.com/fdx5555/status/2102014139317297382)
    - 试玩链接：`https://voltaris-nyyo.onrender.com/?webgl=1`
    - 原帖：https://x.com/fdx5555/status/2102014139317297382
    - 备注：浏览器 3D 轨道弹幕射击：GPT-6 Astra + Three.js / Vite PWA；三武器可升级、五关 Boss、在线排行榜，打开就能刚
 
-28. **Little Orbit** — [试玩](https://little-orbit.balaena01.workers.dev/) · [原帖](https://x.com/balaena01/status/2101864315876004034) · ❤ 34
+29. **Little Orbit** — [试玩](https://little-orbit.balaena01.workers.dev/) · [原帖](https://x.com/balaena01/status/2101864315876004034) · ❤ 34
    - 试玩链接：`https://little-orbit.balaena01.workers.dev/`
    - 原帖：https://x.com/balaena01/status/2101864315876004034
    - 备注：Jev × Tripo × Astra 语音战斗浏览器试玩：语音自由攻击、商人谈判与战斗判定，打开就能打
 
-29. **YABAI! — WHERE’S THE LAST TRAIN?** — [试玩](https://yabai-ultimo-trem.preda2005.chatgpt.site/) · [原帖](https://x.com/Preda2005/status/2102210771153514562) · ❤ 9
+30. **YABAI! — WHERE’S THE LAST TRAIN?** — [试玩](https://yabai-ultimo-trem.preda2005.chatgpt.site/) · [原帖](https://x.com/Preda2005/status/2102210771153514562) · ❤ 9
    - 试玩链接：`https://yabai-ultimo-trem.preda2005.chatgpt.site/`
    - 原帖：https://x.com/Preda2005/status/2102210771153514562
    - 备注：浏览器 SHMUP：商店 / Boss / 武器，GPT-6 Astra vibe-code 约 40h，第一关可玩
 
 
-30. **Agent Fighter** — [试玩](https://agent-fighter-gamma.vercel.app/) · [原帖](https://x.com/p4nthera_/status/2102537766244323719) · ❤ 8
+31. **Agent Fighter** — [试玩](https://agent-fighter-gamma.vercel.app/) · [原帖](https://x.com/p4nthera_/status/2102537766244323719) · ❤ 8
    - 试玩链接：`https://agent-fighter-gamma.vercel.app/`
    - 原帖：https://x.com/p4nthera_/status/2102537766244323719
    - 备注：Street Fighter 风 Agent 街机对战：角色 sprites / 动画由 Astra 生成；打开就能打
 
-31. **Sulli RUN** — [试玩](https://sulli-game.vercel.app/) · [原帖](https://x.com/Mortezabihzadeh/status/2102719520699830417) · ❤ 178
+32. **Sulli RUN** — [试玩](https://sulli-game.vercel.app/) · [原帖](https://x.com/Mortezabihzadeh/status/2102719520699830417) · ❤ 178
    - 试玩链接：`https://sulli-game.vercel.app/`
    - 原帖：https://x.com/Mortezabihzadeh/status/2102719520699830417
    - 备注：一张平面画 → 可玩赛博朋克 3D 跑酷：Tripo Smart Mesh 减面 + Auto Rig，GPT-6 Astra 管线搭好；打开就能跑
 
-32. **Sleepwalker** — [试玩](https://sleepwalker-gray.vercel.app/) · [原帖](https://x.com/_ketansahu/status/2102986952391942370) · ❤ 3
+33. **Sleepwalker** — [试玩](https://sleepwalker-gray.vercel.app/) · [原帖](https://x.com/_ketansahu/status/2102986952391942370) · ❤ 3
    - 试玩链接：`https://sleepwalker-gray.vercel.app/`
    - 原帖：https://x.com/_ketansahu/status/2102986952391942370
    - 备注：闭眼蓄力、睁眼起跳的屋顶跑酷：摄像头读眼睛；GPT-6 Astra 剩余额度搓的怪玩法，打开摄像头就能睡走
 
-33. **STARFALL — The Last Beacon** — [试玩](https://starfall-pocket-arcade.shang637.chatgpt.site/) · [原帖](https://x.com/ShanGulamani/status/2103472111574741150)
+34. **STARFALL — The Last Beacon** — [试玩](https://starfall-pocket-arcade.shang637.chatgpt.site/) · [原帖](https://x.com/ShanGulamani/status/2103472111574741150)
    - 试玩链接：`https://starfall-pocket-arcade.shang637.chatgpt.site/`
    - 原帖：https://x.com/ShanGulamani/status/2103472111574741150
    - 备注：GPT-6 Astra Ultra 一人从浏览器原型推到 App Store 的触控/键盘 3D 太空射击：点亮三信标护航舰队，打开就能射
 
-34. **Rex: Pursuit** — [试玩](https://vibecodingmatt.github.io/rex-pursuit/) · [原帖](https://x.com/burnsmatt/status/2103447951389430150)
+35. **Rex: Pursuit** — [试玩](https://vibecodingmatt.github.io/rex-pursuit/) · [原帖](https://x.com/burnsmatt/status/2103447951389430150)
    - 试玩链接：`https://vibecodingmatt.github.io/rex-pursuit/`
    - 原帖：https://x.com/burnsmatt/status/2103447951389430150
    - 备注：Opus 5.5 + GPT Astra 浏览器 T-Rex 丛林追逐：打开就能跑逃；vibecodingmatt 出品
