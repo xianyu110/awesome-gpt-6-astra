@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-3690deb37039b257",
+      "name": "Pocket Universe",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Opus 5.5 + GPT-6 Astra + three.js 程序化口袋宇宙：宇宙网→星系→行星表面可走；换 seed 整宇宙重生成；打开就能逛 · ❤ 17",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "lordOfAFew",
+        "url": "https://x.com/lordOfAFew"
+      },
+      "demoUrl": "https://deathsend.xyz/",
+      "sourceUrl": "https://x.com/lordOfAFew/status/2104885212346003835",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104883581625712640%2Fimg%2FuDjCXrpqT35dlE48.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104883581625712640%2Fimg%2FuDjCXrpqT35dlE48.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1212
+    },
+    {
       "id": "work-feaae3c900a42d64",
       "name": "The Way of the Samurai",
       "description": "可玩 Demo · 射击 / 动作 · 7 月 AI 视频概念 → Opus 5.5 一小时从视频做成可玩；再花 12 小时用 GPT-6 Astra 打磨玩法与画面（three.js/Blender）；打开就能砍 · ❤ 3",
@@ -17158,9 +17176,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-28T02:43:58Z",
-    "lastSuccessfulAt": "2026-09-28T02:43:58Z",
-    "revision": "playable-sync-20260928-1045",
+    "checkedAt": "2026-09-29T13:55:17Z",
+    "lastSuccessfulAt": "2026-09-29T13:55:17Z",
+    "revision": "playable-sync-20260929-2153",
     "stale": false,
     "status": "fresh"
   },

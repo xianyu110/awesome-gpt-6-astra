@@ -1,5 +1,15 @@
 [
   {
+    "title": "Pocket Universe",
+    "demo_url": "https://deathsend.xyz/",
+    "post_url": "https://x.com/lordOfAFew/status/2104885212346003835",
+    "likes": 17,
+    "category": "3D 场景 / 氛围探索",
+    "author": "lordOfAFew",
+    "note": "Opus 5.5 + GPT-6 Astra + three.js 程序化口袋宇宙：宇宙网→星系→行星表面可走；换 seed 整宇宙重生成；打开就能逛",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104883581625712640%2Fimg%2FuDjCXrpqT35dlE48.jpg"
+  },
+  {
     "title": "The Way of the Samurai",
     "demo_url": "https://the-way-of-the-samurai-bay.vercel.app/",
     "post_url": "https://x.com/knightama/status/2104880496253817021",
