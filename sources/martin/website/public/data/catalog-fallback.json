@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-feaae3c900a42d64",
+      "name": "The Way of the Samurai",
+      "description": "可玩 Demo · 射击 / 动作 · 7 月 AI 视频概念 → Opus 5.5 一小时从视频做成可玩；再花 12 小时用 GPT-6 Astra 打磨玩法与画面（three.js/Blender）；打开就能砍 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "knightama",
+        "url": "https://x.com/knightama"
+      },
+      "demoUrl": "https://the-way-of-the-samurai-bay.vercel.app/",
+      "sourceUrl": "https://x.com/knightama/status/2104880496253817021",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104880454088462336%2Fimg%2FG4ZHbDU1Wjtl8YeB.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104880454088462336%2Fimg%2FG4ZHbDU1Wjtl8YeB.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1211
+    },
+    {
       "id": "work-9fd040822daa3ee4",
       "name": "Breakout · Astra first-output",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · 同题 Breakout 一枪无稿对比：Sol 点 Start 递归炸栈；Astra 能计分/掉命/暂停/Restart；双端英文 UI，打开就能打砖块",
