@@ -2,261 +2,269 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**280** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-28
+- 收录：**284** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-29
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 21
-- [竞速 / 驾驶](#竞速--驾驶) — 32
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 22
+- [竞速 / 驾驶](#竞速--驾驶) — 33
 - [射击 / 动作](#射击--动作) — 34
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
-- [街机 / 小游戏包](#街机--小游戏包) — 35
+- [街机 / 小游戏包](#街机--小游戏包) — 36
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 62
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 63
 - [工程 / 仿真](#工程--仿真) — 23
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
 
-1. **The Fourth Knock** — [试玩](https://nikhilsatishdesai.github.io/the-fourth-knock/play/) · [原帖](https://x.com/NikhilDesai_007/status/2104495667284677078) · ❤ 2
+1. **Iraqi Millionaire** — [试玩](https://iraqi-millionaire.ammarjawad121.chatgpt.site/) · [原帖](https://x.com/aj_05k/status/2104553258429927637)
+   - 试玩链接：`https://iraqi-millionaire.ammarjawad121.chatgpt.site/`
+   - 原帖：https://x.com/aj_05k/status/2104553258429927637
+   - 备注：GPT-6 Astra 伊拉克版《谁想成为百万富翁》：15 题伊拉克知识 + 5050/观众/电话；打开就能答
+2. **The Fourth Knock** — [试玩](https://nikhilsatishdesai.github.io/the-fourth-knock/play/) · [原帖](https://x.com/NikhilDesai_007/status/2104495667284677078) · ❤ 2
    - 试玩链接：`https://nikhilsatishdesai.github.io/the-fourth-knock/play/`
    - 原帖：https://x.com/NikhilDesai_007/status/2104495667284677078
    - 案例页：https://nikhilsatishdesai.github.io/the-fourth-knock/
    - 备注：庄园谋杀悬疑浏览器可玩：GPT-6 Astra + Opus 5.5 + ComfyUI/Blender/Three.js 全案研究；打开就能查案
 
-2. **诡秘之主 · Tarot Club** — [试玩](https://combos.game/play/c7eea0b6846f90a102537819c9147bd4) · [原帖](https://x.com/TsinsiSun/status/2097214405373300859) · ❤ 5
+3. **诡秘之主 · Tarot Club** — [试玩](https://combos.game/play/c7eea0b6846f90a102537819c9147bd4) · [原帖](https://x.com/TsinsiSun/status/2097214405373300859) · ❤ 5
    - 试玩链接：`https://combos.game/play/c7eea0b6846f90a102537819c9147bd4`
    - 原帖：https://x.com/TsinsiSun/status/2097214405373300859
 
-3. **Monopoly City — A board worth exploring** — [试玩](https://monopoly-city.eekosystems.chatgpt.site) · [原帖](https://x.com/thomasunise/status/2097121832159609145) · ❤ 2
+4. **Monopoly City — A board worth exploring** — [试玩](https://monopoly-city.eekosystems.chatgpt.site) · [原帖](https://x.com/thomasunise/status/2097121832159609145) · ❤ 2
    - 试玩链接：`https://monopoly-city.eekosystems.chatgpt.site`
    - 原帖：https://x.com/thomasunise/status/2097121832159609145
 
-4. **瓜体实验室 / 合成大西瓜** — [试玩](https://melon-game.jack-514.chatgpt.site/)
+5. **瓜体实验室 / 合成大西瓜** — [试玩](https://melon-game.jack-514.chatgpt.site/)
    - 试玩链接：`https://melon-game.jack-514.chatgpt.site/`
 
-5. **超级马里奥·蘑菇王国** — [试玩](https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/)
+6. **超级马里奥·蘑菇王国** — [试玩](https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/)
    - 试玩链接：`https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/`
 
-6. **DUSTⅡ·沙漠行动** — [试玩](https://dust-ii-map.yelin8130.chatgpt.site/)
+7. **DUSTⅡ·沙漠行动** — [试玩](https://dust-ii-map.yelin8130.chatgpt.site/)
    - 试玩链接：`https://dust-ii-map.yelin8130.chatgpt.site/`
 
-7. **水果忍者** — [试玩](https://fruit-ninja-dojo-20260905.yongqixue666.chatgpt.site/)
+8. **水果忍者** — [试玩](https://fruit-ninja-dojo-20260905.yongqixue666.chatgpt.site/)
    - 试玩链接：`https://fruit-ninja-dojo-20260905.yongqixue666.chatgpt.site/`
 
-8. **植物大战僵尸** — [试玩](https://seth-xh.github.io/pvz/)
+9. **植物大战僵尸** — [试玩](https://seth-xh.github.io/pvz/)
    - 试玩链接：`https://seth-xh.github.io/pvz/`
 
-9. **小丑牌 Balatro** — [试玩](https://balatro-v1-1.longyh2333521818.chatgpt.site/)
+10. **小丑牌 Balatro** — [试玩](https://balatro-v1-1.longyh2333521818.chatgpt.site/)
    - 试玩链接：`https://balatro-v1-1.longyh2333521818.chatgpt.site/`
 
-10. **PAC-MAN: Ghost Sharks — Bite back.** — [试玩](https://pacman.demyx.workers.dev/) · [原帖](https://x.com/awildnpc/status/2096034211782099313)
+11. **PAC-MAN: Ghost Sharks — Bite back.** — [试玩](https://pacman.demyx.workers.dev/) · [原帖](https://x.com/awildnpc/status/2096034211782099313)
    - 试玩链接：`https://pacman.demyx.workers.dev/`
    - 原帖：https://x.com/awildnpc/status/2096034211782099313
 
-11. **Flappy Bird · Click to Fly** — [试玩](https://flappy-click-arcade-sept26.wesley-blomquist96.chatgpt.site/) · [原帖](https://x.com/i/status/2096347522226684105)
+12. **Flappy Bird · Click to Fly** — [试玩](https://flappy-click-arcade-sept26.wesley-blomquist96.chatgpt.site/) · [原帖](https://x.com/i/status/2096347522226684105)
    - 试玩链接：`https://flappy-click-arcade-sept26.wesley-blomquist96.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096347522226684105
 
-12. **八荒幻世 · 热血归来（176 / Dragon Warrior）** — [试玩](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)
+13. **八荒幻世 · 热血归来（176 / Dragon Warrior）** — [试玩](https://mir176-dragon-warrior.geekcatxx.chatgpt.site/)
    - 试玩链接：`https://mir176-dragon-warrior.geekcatxx.chatgpt.site/`
 
-13. **Mario + Duck Hunt Mobile** — [试玩](https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/) · [原帖](https://x.com/TrustMeOrElse/status/2097974925365485946)
+14. **Mario + Duck Hunt Mobile** — [试玩](https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/) · [原帖](https://x.com/TrustMeOrElse/status/2097974925365485946)
    - 试玩链接：`https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/`
    - 原帖：https://x.com/TrustMeOrElse/status/2097974925365485946
    - 备注：Astra 把超级马里奥和 Duck Hunt 揉进手机端可玩移植，补丁还在狂更
 
-14. **Westward — The Oregon Trail** — [试玩](https://biswaz.me/westward/) · [原帖](https://x.com/bis_waz/status/2098023593468907747)
+15. **Westward — The Oregon Trail** — [试玩](https://biswaz.me/westward/) · [原帖](https://x.com/bis_waz/status/2098023593468907747)
    - 试玩链接：`https://biswaz.me/westward/`
    - 原帖：https://x.com/bis_waz/status/2098023593468907747
    - 备注：俄勒冈小道现代 3D 复刻：西进路上的资源、风险与抉择，Three.js 浏览器可玩
 
-15. **Stadium Elite** — [试玩](https://stadium-elite.mindblown.ai) · [原帖](https://x.com/askmaddyy/status/2098018810192375832) · ❤ 3
+16. **Stadium Elite** — [试玩](https://stadium-elite.mindblown.ai) · [原帖](https://x.com/askmaddyy/status/2098018810192375832) · ❤ 3
    - 试玩链接：`https://stadium-elite.mindblown.ai`
    - 原帖：https://x.com/askmaddyy/status/2098018810192375832
    - 备注：浏览器 FIFA 风球场对决：Three.js + Astra，El Clásico 开踢就能玩
 
-16. **Frostbound · Icy Tower** — [试玩](https://icy-tower-frostbound.netlify.app/) · [原帖](https://x.com/SafaElmali/status/2100562918937165996)
+17. **Frostbound · Icy Tower** — [试玩](https://icy-tower-frostbound.netlify.app/) · [原帖](https://x.com/SafaElmali/status/2100562918937165996)
    - 试玩链接：`https://icy-tower-frostbound.netlify.app/`
    - 原帖：https://x.com/SafaElmali/status/2100562918937165996
    - 备注：Icy Tower 风 3D 爬塔：墙跳连招、上升霜冻、每日塔与好友竞速；Astra 构建，Netlify 直玩
 
-17. **SoonLab Minecraft** — [试玩](https://www.soonlab.ai/game/9271/) · [原帖](https://x.com/SoonLab_AI/status/2100849406899814753) · ❤ 2
+18. **SoonLab Minecraft** — [试玩](https://www.soonlab.ai/game/9271/) · [原帖](https://x.com/SoonLab_AI/status/2100849406899814753) · ❤ 2
    - 试玩链接：`https://www.soonlab.ai/game/9271/`
    - 原帖：https://x.com/SoonLab_AI/status/2100849406899814753
    - 备注：SoonLab + GPT-6 Astra 浏览器 Minecraft 风沙盒：挖方块、逛森林、造装备，还能树间跑酷
 
 
-18. **ArcturusChess** — [试玩](https://arcturuschess.com/) · [原帖](https://x.com/MikePFrank/status/2101965624788316356) · ❤ 1
+19. **ArcturusChess** — [试玩](https://arcturuschess.com/) · [原帖](https://x.com/MikePFrank/status/2101965624788316356) · ❤ 1
    - 试玩链接：`https://arcturuschess.com/`
    - 原帖：https://x.com/MikePFrank/status/2101965624788316356
    - 备注：Astra 自研战术引擎 + 可对话 LLM 对手公开 beta，约 ELO 2000；浏览器打开就能下
 
-19. **HOLLOWMARK** — [试玩](https://hollowmark.mindblown.ai/) · [原帖](https://x.com/mindblown_ai/status/2102040812569944136) · ❤ 16
+20. **HOLLOWMARK** — [试玩](https://hollowmark.mindblown.ai/) · [原帖](https://x.com/mindblown_ai/status/2102040812569944136) · ❤ 16
    - 试玩链接：`https://hollowmark.mindblown.ai/`
    - 原帖：https://x.com/mindblown_ai/status/2102040812569944136
    - 备注：浏览器 DOOM 重制：Fable 5.1 + GPT-6 Astra + Three.js；打开就能冲关
 
-20. **SORA-MAN** — [试玩](https://henrik-thevibe.github.io/SORA-MAN/) · [原帖](https://x.com/henrik_thevibe/status/2103290261409243450)
+21. **SORA-MAN** — [试玩](https://henrik-thevibe.github.io/SORA-MAN/) · [原帖](https://x.com/henrik_thevibe/status/2103290261409243450)
    - 试玩链接：`https://henrik-thevibe.github.io/SORA-MAN/`
    - 原帖：https://x.com/henrik_thevibe/status/2103290261409243450
    - 备注：Astra + Opus 5.5 搓的 Sora 纪念版讽刺吃豆人；打开就能吃点
 
 
-21. **午夜论坛：未明旧案** — [试玩](https://www.bilibili.com/toy/weiming-jiuan/index.html) · [原帖](https://x.com/yanmo1618677/status/2103350457796358376) · [GitHub](https://github.com/momozi1996/awesome-chinese-folk-game)
+22. **午夜论坛：未明旧案** — [试玩](https://www.bilibili.com/toy/weiming-jiuan/index.html) · [原帖](https://x.com/yanmo1618677/status/2103350457796358376) · [GitHub](https://github.com/momozi1996/awesome-chinese-folk-game)
    - 试玩链接：`https://www.bilibili.com/toy/weiming-jiuan/index.html`
    - 原帖：https://x.com/yanmo1618677/status/2103350457796358376
    - 备注：中式微恐悬疑推理：GPT-6 Astra + Opus 5.5 vibe coding；B 站玩具九案可玩，GitHub 零依赖开源
 
 ## 竞速 / 驾驶
 
-1. **Bengaluru ORR Rush** — [试玩](https://orr-rush-bengaluru.ravitheja.chatgpt.site/) · [原帖](https://x.com/ravithejads/status/2097181044625887392) · ❤ 22
+1. **CENTRAL DRIVE** — [试玩](https://central-drive.suhcami36.chatgpt.site) · [原帖](https://x.com/imachu_ai/status/2104709222776947113)
+   - 试玩链接：`https://central-drive.suhcami36.chatgpt.site`
+   - 原帖：https://x.com/imachu_ai/status/2104709222776947113
+   - 备注：非工程师 GPT-6 Sol 三周 60 迭代日系计时赛：三车可选、GR85 六速 AT+倒车、演示跑；打开就能飙
+2. **Bengaluru ORR Rush** — [试玩](https://orr-rush-bengaluru.ravitheja.chatgpt.site/) · [原帖](https://x.com/ravithejads/status/2097181044625887392) · ❤ 22
    - 试玩链接：`https://orr-rush-bengaluru.ravitheja.chatgpt.site/`
    - 原帖：https://x.com/ravithejads/status/2097181044625887392
 
-2. **JUNK RUN** — [试玩](https://junk-run.pages.dev/) · [原帖](https://x.com/hermesailab/status/2097508053901840850)
+3. **JUNK RUN** — [试玩](https://junk-run.pages.dev/) · [原帖](https://x.com/hermesailab/status/2097508053901840850)
    - 试玩链接：`https://junk-run.pages.dev/`
    - 原帖：https://x.com/hermesailab/status/2097508053901840850
 
-3. **STORM RACE · Tsuchiya Workshop** — [试玩](https://storm-race.vercel.app) · [原帖](https://x.com/BubuStd/status/2096587056755638553) · ❤ 4191
+4. **STORM RACE · Tsuchiya Workshop** — [试玩](https://storm-race.vercel.app) · [原帖](https://x.com/BubuStd/status/2096587056755638553) · ❤ 4191
    - 试玩链接：`https://storm-race.vercel.app`
    - 原帖：https://x.com/BubuStd/status/2096587056755638553
 
-4. **Ashen Road — A journey to Ravenwatch** — [试玩](https://ashen-road.emad349385.chatgpt.site) · [原帖](https://x.com/i/status/2096359789525639290) · ❤ 286
+5. **Ashen Road — A journey to Ravenwatch** — [试玩](https://ashen-road.emad349385.chatgpt.site) · [原帖](https://x.com/i/status/2096359789525639290) · ❤ 286
    - 试玩链接：`https://ashen-road.emad349385.chatgpt.site`
    - 原帖：https://x.com/i/status/2096359789525639290
 
-5. **Tidal Rush — Paradise Grand Prix** — [试玩](https://tidal-rush-paradise-gp.skirano.chatgpt.site) · [原帖](https://x.com/alexgetmancom/status/2095598460921614825) · ❤ 24
+6. **Tidal Rush — Paradise Grand Prix** — [试玩](https://tidal-rush-paradise-gp.skirano.chatgpt.site) · [原帖](https://x.com/alexgetmancom/status/2095598460921614825) · ❤ 24
    - 试玩链接：`https://tidal-rush-paradise-gp.skirano.chatgpt.site`
    - 原帖：https://x.com/alexgetmancom/status/2095598460921614825
 
-6. **Blue Bajaj Rally 1.0.1 | Highland Loop** — [试玩](https://bajaj.guzo.tech/) · [原帖](https://x.com/guzotech/status/2096209787864088638) · ❤ 12
+7. **Blue Bajaj Rally 1.0.1 | Highland Loop** — [试玩](https://bajaj.guzo.tech/) · [原帖](https://x.com/guzotech/status/2096209787864088638) · ❤ 12
    - 试玩链接：`https://bajaj.guzo.tech/`
    - 原帖：https://x.com/guzotech/status/2096209787864088638
 
-7. **THE ROAD DREAMS · 梦境之径** — [试玩](https://the-road-dreams.x2026283037.chatgpt.site) · [原帖](https://x.com/i/status/2096313256264765440) · ❤ 1
+8. **THE ROAD DREAMS · 梦境之径** — [试玩](https://the-road-dreams.x2026283037.chatgpt.site) · [原帖](https://x.com/i/status/2096313256264765440) · ❤ 1
    - 试玩链接：`https://the-road-dreams.x2026283037.chatgpt.site`
    - 原帖：https://x.com/i/status/2096313256264765440
 
-8. **Zombie Escape Driver** — [试玩](https://zombiedriver.z.madsoftware.co) · [原帖](https://x.com/MarcDagatan/status/2096667577326190631) · ❤ 1
+9. **Zombie Escape Driver** — [试玩](https://zombiedriver.z.madsoftware.co) · [原帖](https://x.com/MarcDagatan/status/2096667577326190631) · ❤ 1
    - 试玩链接：`https://zombiedriver.z.madsoftware.co`
    - 原帖：https://x.com/MarcDagatan/status/2096667577326190631
 
-9. **COURTSIDE NBA2K** — [试玩](https://huhuhu.page.gd/COURTSIDE26.html)
+10. **COURTSIDE NBA2K** — [试玩](https://huhuhu.page.gd/COURTSIDE26.html)
    - 试玩链接：`https://huhuhu.page.gd/COURTSIDE26.html`
 
-10. **AI Mini Racer - Astra Edition** — [试玩](https://ai-mini-racer.code-crunche-2353.chatgpt.site) · [原帖](https://x.com/i/status/2096320362736714233)
+11. **AI Mini Racer - Astra Edition** — [试玩](https://ai-mini-racer.code-crunche-2353.chatgpt.site) · [原帖](https://x.com/i/status/2096320362736714233)
    - 试玩链接：`https://ai-mini-racer.code-crunche-2353.chatgpt.site`
    - 原帖：https://x.com/i/status/2096320362736714233
 
-11. **CYBER SUV · 互动设计展厅** — [试玩](https://cyber-suv-studio.banny911.chatgpt.site) · [原帖](https://x.com/i/status/2096384563459334256)
+12. **CYBER SUV · 互动设计展厅** — [试玩](https://cyber-suv-studio.banny911.chatgpt.site) · [原帖](https://x.com/i/status/2096384563459334256)
    - 试玩链接：`https://cyber-suv-studio.banny911.chatgpt.site`
    - 原帖：https://x.com/i/status/2096384563459334256
 
-12. **DUSKLINE — Canyon Circuit** — [试玩](https://duskline-canyon-run.abdulhadi-ai.chatgpt.site) · [原帖](https://x.com/1banke/status/2096394721115390301)
+13. **DUSKLINE — Canyon Circuit** — [试玩](https://duskline-canyon-run.abdulhadi-ai.chatgpt.site) · [原帖](https://x.com/1banke/status/2096394721115390301)
    - 试玩链接：`https://duskline-canyon-run.abdulhadi-ai.chatgpt.site`
    - 原帖：https://x.com/1banke/status/2096394721115390301
 
-13. **Lantern Cove · The Borrowed Light** — [试玩](https://lantern-cove.akartit.chatgpt.site/) · [原帖](https://x.com/akartit/status/2096520784449613981)
+14. **Lantern Cove · The Borrowed Light** — [试玩](https://lantern-cove.akartit.chatgpt.site/) · [原帖](https://x.com/akartit/status/2096520784449613981)
    - 试玩链接：`https://lantern-cove.akartit.chatgpt.site/`
    - 原帖：https://x.com/akartit/status/2096520784449613981
 
-14. **Desi Mayhem** — [试玩](https://desimayhem.com) · [原帖](https://x.com/GetKishore/status/2097906401159102811) · ❤ 32
+15. **Desi Mayhem** — [试玩](https://desimayhem.com) · [原帖](https://x.com/GetKishore/status/2097906401159102811) · ❤ 32
    - 试玩链接：`https://desimayhem.com`
    - 原帖：https://x.com/GetKishore/status/2097906401159102811
    - 备注：印度版 Road Rash：Chennai 堵车 / 牛 / 交警摩托对战，浏览器可玩
 
-15. **蘑菇卡丁车 · 马里奥的赛道冒险** — [试玩](https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/) · [原帖](https://x.com/zccjjs8/status/2097943884445925808) · ❤ 1
+16. **蘑菇卡丁车 · 马里奥的赛道冒险** — [试玩](https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/) · [原帖](https://x.com/zccjjs8/status/2097943884445925808) · ❤ 1
    - 试玩链接：`https://mushroom-kart-rush.ludengstartupnotes.chatgpt.site/`
    - 原帖：https://x.com/zccjjs8/status/2097943884445925808
    - 备注：Astra × Three.js 怀旧卡丁车，打开就能上手
 
-16. **Cosmic Tides** — [试玩](https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942) · [原帖](https://x.com/aniketjart/status/2098207146647433534) · ❤ 18
+17. **Cosmic Tides** — [试玩](https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942) · [原帖](https://x.com/aniketjart/status/2098207146647433534) · ❤ 18
    - 试玩链接：`https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942`
    - 原帖：https://x.com/aniketjart/status/2098207146647433534
    - 备注：超现实星系竞速 · Astra + Blender MCP + Crayon harness
 
-17. **Strange Orbit** — [试玩](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8) · [原帖](https://x.com/usecrayon/status/2098208685428449623) · ❤ 6
+18. **Strange Orbit** — [试玩](https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8) · [原帖](https://x.com/usecrayon/status/2098208685428449623) · ❤ 6
    - 试玩链接：`https://app.usecrayon.ai/play/47df78e2-1410-45d1-833c-196e1161c0b8`
    - 原帖：https://x.com/usecrayon/status/2098208685428449623
    - 备注：在行星环上滑冰竞速 · Astra + Crayon Pro + Three.js
 
-18. **RED FLAG GAME** — [试玩](https://seimusic.info/file/red_flag_game.html) · [原帖](https://x.com/seimusic/status/2098045891781480757) · ❤ 4
+19. **RED FLAG GAME** — [试玩](https://seimusic.info/file/red_flag_game.html) · [原帖](https://x.com/seimusic/status/2098045891781480757) · ❤ 4
    - 试玩链接：`https://seimusic.info/file/red_flag_game.html`
    - 原帖：https://x.com/seimusic/status/2098045891781480757
    - 备注：日本一般道 3D 安全限速计时赛：变限速、喇叭、红旗，冷静开到终点
 
-19. **APEX. Heat City** — [试玩](https://apex-city.mindblown.ai/) · [原帖](https://x.com/rammcodes/status/2098354066179109333) · ❤ 1
+20. **APEX. Heat City** — [试玩](https://apex-city.mindblown.ai/) · [原帖](https://x.com/rammcodes/status/2098354066179109333) · ❤ 1
    - 试玩链接：`https://apex-city.mindblown.ai/`
    - 原帖：https://x.com/rammcodes/status/2098354066179109333
    - 备注：mindblown 平台 NFS 风浏览器飙车（GPT-6 Astra）；来自 @rammcodes 试玩反应帖
 
-20. **Neon Wake — Dubai Coast** — [试玩](https://neonwake.ethraship.com/) · [原帖](https://x.com/captain_m1k/status/2098310479714369926) · ❤ 7
+21. **Neon Wake — Dubai Coast** — [试玩](https://neonwake.ethraship.com/) · [原帖](https://x.com/captain_m1k/status/2098310479714369926) · ❤ 7
    - 试玩链接：`https://neonwake.ethraship.com/`
    - 原帖：https://x.com/captain_m1k/status/2098310479714369926
    - 备注：Ethra 鲨鱼船长拖拽竞速迪拜海岸：冲坡飞跃，最高 1300 km/h，手机也能录一波
 
-21. **Hot Wheeler** — [试玩](https://hot-wheeler.vercel.app) · [原帖](https://x.com/varavibes/status/2099269587401580886) · ❤ 1
+22. **Hot Wheeler** — [试玩](https://hot-wheeler.vercel.app) · [原帖](https://x.com/varavibes/status/2099269587401580886) · ❤ 1
    - 试玩链接：`https://hot-wheeler.vercel.app`
    - 原帖：https://x.com/varavibes/status/2099269587401580886
    - 备注：童年遥控车狂想：环圈、氮气、喷火龙，Astra 周末搓的浏览器特技车世界，车还能随地投放
 
-22. **SPZ Drive · Brno** — [试玩](https://spz-drive.martinmachava.com/) · [原帖](https://x.com/MartinMachava1/status/2099382051778560402)
+23. **SPZ Drive · Brno** — [试玩](https://spz-drive.martinmachava.com/) · [原帖](https://x.com/MartinMachava1/status/2099382051778560402)
    - 试玩链接：`https://spz-drive.martinmachava.com/`
    - 原帖：https://x.com/MartinMachava1/status/2099382051778560402
    - 备注：Brno 实景开车：多人 / 电台 / 漂移，Astra 四次重置后搓出的城市代步沙盒
 
-23. **Tiny Redline** — [试玩](https://www.soonlab.ai/game/9415/) · [原帖](https://x.com/SoonLab_AI/status/2099430750429057313) · ❤ 1
+24. **Tiny Redline** — [试玩](https://www.soonlab.ai/game/9415/) · [原帖](https://x.com/SoonLab_AI/status/2099430750429057313) · ❤ 1
    - 试玩链接：`https://www.soonlab.ai/game/9415/`
    - 原帖：https://x.com/SoonLab_AI/status/2099430750429057313
    - 备注：SoonLab 上 Astra+Blender 搓的桌面四驱小赛车：向《爆走兄弟》致敬，打开就能飙
 
-24. **Race Jimothy** — [试玩](https://tayttm.github.io/race-jimothy/) · [原帖](https://x.com/YutingM84881/status/2099737945414750718)
+25. **Race Jimothy** — [试玩](https://tayttm.github.io/race-jimothy/) · [原帖](https://x.com/YutingM84881/status/2099737945414750718)
    - 试玩链接：`https://tayttm.github.io/race-jimothy/`
    - 原帖：https://x.com/YutingM84881/status/2099737945414750718
    - 备注：画轨开跑的浣熊竞速：GPT-6 Astra 搓的 draw-to-race，打开就能飙
 
-25. **Wildwake Rally** — [试玩](https://wildwake-rally.vercel.app/) · [原帖](https://x.com/DefyEntropyV/status/2100226359649820721) · ❤ 2
+26. **Wildwake Rally** — [试玩](https://wildwake-rally.vercel.app/) · [原帖](https://x.com/DefyEntropyV/status/2100226359649820721) · ❤ 2
    - 试玩链接：`https://wildwake-rally.vercel.app/`
    - 原帖：https://x.com/DefyEntropyV/status/2100226359649820721
    - 备注：森林 / 山路 / 海岸拉力：Astra 搓的浏览器竞速，打开就能开
 
-26. **Trailer Sprint · Yesterday Arcade** — [试玩](https://yesterdayarcade.com) · [原帖](https://x.com/YesterdayArcade/status/2100462073721548965)
+27. **Trailer Sprint · Yesterday Arcade** — [试玩](https://yesterdayarcade.com) · [原帖](https://x.com/YesterdayArcade/status/2100462073721548965)
    - 试玩链接：`https://yesterdayarcade.com`
    - 原帖：https://x.com/YesterdayArcade/status/2100462073721548965
    - 备注：病毒视频→可玩 3D：追移动拖车、爬坡、刹车泊车 · Astra + Codex 首作，打开就能飙
 
 
-27. **Cabsolutely** — [试玩](https://cabsolutely.vercel.app/) · [原帖](https://x.com/ailker/status/2100705949468000655) · ❤ 6
+28. **Cabsolutely** — [试玩](https://cabsolutely.vercel.app/) · [原帖](https://x.com/ailker/status/2100705949468000655) · ❤ 6
    - 试玩链接：`https://cabsolutely.vercel.app/`
    - 原帖：https://x.com/ailker/status/2100705949468000655
    - 备注：旧金山出租车调度：Astra + fal + Three.js 一晚搓出的可开可派单小游戏；OSS 开源，Vercel 直玩
 
-28. **Pelican Pedal** — [试玩](https://www.soonlab.ai/game/10023/) · [原帖](https://x.com/SoonLab_AI/status/2100794640953901261)
+29. **Pelican Pedal** — [试玩](https://www.soonlab.ai/game/10023/) · [原帖](https://x.com/SoonLab_AI/status/2100794640953901261)
    - 试玩链接：`https://www.soonlab.ai/game/10023/`
    - 原帖：https://x.com/SoonLab_AI/status/2100794640953901261
    - 备注：SoonLab 2.0 + GPT-6 Astra 海岸骑行休闲跑酷：轻松画面、周五解压向，浏览器直玩
 
-29. **Spline Rush** — [试玩](https://spline-rush.vercel.app) · [原帖](https://x.com/ToolBraidComp/status/2101914442367721644)
+30. **Spline Rush** — [试玩](https://spline-rush.vercel.app) · [原帖](https://x.com/ToolBraidComp/status/2101914442367721644)
    - 试玩链接：`https://spline-rush.vercel.app`
    - 原帖：https://x.com/ToolBraidComp/status/2101914442367721644
    - 备注：ChatGPT 6 Astra Ultra 浏览器竞速：McLaren / Lambo、雨夜隧道与日出，打开就能飙
 
-30. **Crayon Motors** — [试玩](https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59) · [原帖](https://x.com/TusharXo/status/2103306211961737262) · ❤ 11
+31. **Crayon Motors** — [试玩](https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59) · [原帖](https://x.com/TusharXo/status/2103306211961737262) · ❤ 11
    - 试玩链接：`https://app.usecrayon.ai/play/63d2fb01-822b-4f34-88dc-f21444efda59`
    - 原帖：https://x.com/TusharXo/status/2103306211961737262
    - 备注：Three.js 竞速小品：GPT-6 Astra + Crayon Pro 约四小时打磨；打开就能飙车
 
-31. **ORR.run · Bangalore Outer Ring Road** — [试玩](https://www.orr.run/) · [原帖](https://x.com/sirsho29/status/2103380271525691898) · ❤ 27
+32. **ORR.run · Bangalore Outer Ring Road** — [试玩](https://www.orr.run/) · [原帖](https://x.com/sirsho29/status/2103380271525691898) · ❤ 27
    - 试玩链接：`https://www.orr.run/`
    - 原帖：https://x.com/sirsho29/status/2103380271525691898
    - 备注：Google Maps 复刻班加罗尔 Outer Ring Road：Silk Board→Marathahalli 11.4km、5k+ 建筑，司机视角堵车模拟；GPT-6 Astra，打开就能堵
 
-32. **TOWLINE** — [试玩](https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56) · [原帖](https://x.com/TusharXo/status/2104336588666982516) · ❤ 11
+33. **TOWLINE** — [试玩](https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56) · [原帖](https://x.com/TusharXo/status/2104336588666982516) · ❤ 11
    - 试玩链接：`https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56`
    - 原帖：https://x.com/TusharXo/status/2104336588666982516
    - 备注：Crayon + Astra/Opus 5.5 悬浮板追拖车 three.js：六城区躲撞/磨轨/骑车顶；打开就能冲
@@ -579,167 +587,171 @@
 
 ## 街机 / 小游戏包
 
-1. **rabble-rouser** — [试玩](https://inkwell.ing/games/rabble-rouser) · [原帖](https://x.com/JungleSilicon/status/2104476664919134290) · ❤ 16
+1. **Waterslide (Astra)** — [试玩](https://kjlkurt.github.io/waterslide-game-astra/) · [原帖](https://x.com/KJLKurt/status/2104703514878374288) · ❤ 3
+   - 试玩链接：`https://kjlkurt.github.io/waterslide-game-astra/`
+   - 原帖：https://x.com/KJLKurt/status/2104703514878374288
+   - 备注：Astra vs Sonnet 5.5 同主题可玩水滑梯（收录 Astra 版）；作者觉得两者手感差不多；打开就能滑
+2. **rabble-rouser** — [试玩](https://inkwell.ing/games/rabble-rouser) · [原帖](https://x.com/JungleSilicon/status/2104476664919134290) · ❤ 16
    - 试玩链接：`https://inkwell.ing/games/rabble-rouser`
    - 原帖：https://x.com/JungleSilicon/status/2104476664919134290
    - 备注：弹珠×格斗连锁反应解谜：GPT-6 Astra + Opus 5.5，shapeshift studio 软弹 SVG；打开就能砸连锁
 
-2. **One More** — [试玩](https://onemoreapp.vercel.app) · [原帖](https://x.com/gregavola/status/2097318437030690831) · ❤ 2
+3. **One More** — [试玩](https://onemoreapp.vercel.app) · [原帖](https://x.com/gregavola/status/2097318437030690831) · ❤ 2
    - 试玩链接：`https://onemoreapp.vercel.app`
    - 原帖：https://x.com/gregavola/status/2097318437030690831
 
-3. **零点街区 · 弹壳特攻队 3D** — [试玩](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
+4. **零点街区 · 弹壳特攻队 3D** — [试玩](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
    - 试玩链接：`https://iamsonic.net/2026/mini-games/shells-3d/play.html`
    - 原帖：https://x.com/sonic0828/status/2097601232877781344
 
-4. **SKICROSS · 极地速降** — [试玩](https://iamsonic.net/2026/mini-games/skicross.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
+5. **SKICROSS · 极地速降** — [试玩](https://iamsonic.net/2026/mini-games/skicross.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
    - 试玩链接：`https://iamsonic.net/2026/mini-games/skicross.html`
    - 原帖：https://x.com/sonic0828/status/2097601232877781344
 
-5. **UNDERGROUND — 地下拳场** — [试玩](https://iamsonic.net/2026/mini-games/underground-boxing.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
+6. **UNDERGROUND — 地下拳场** — [试玩](https://iamsonic.net/2026/mini-games/underground-boxing.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
    - 试玩链接：`https://iamsonic.net/2026/mini-games/underground-boxing.html`
    - 原帖：https://x.com/sonic0828/status/2097601232877781344
 
-6. **街头小子 · Urban Champion 3D** — [试玩](https://iamsonic.net/2026/mini-games/urban-champion.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
+7. **街头小子 · Urban Champion 3D** — [试玩](https://iamsonic.net/2026/mini-games/urban-champion.html) · [原帖](https://x.com/sonic0828/status/2097601232877781344) · ❤ 13
    - 试玩链接：`https://iamsonic.net/2026/mini-games/urban-champion.html`
    - 原帖：https://x.com/sonic0828/status/2097601232877781344
 
-7. **Butterball Run — dinner-table three.js** — [试玩](https://butterball-run.jeraldine-t.chatgpt.site) · [原帖](https://x.com/SecretSeoul/status/2097315757931811081) · ❤ 1
+8. **Butterball Run — dinner-table three.js** — [试玩](https://butterball-run.jeraldine-t.chatgpt.site) · [原帖](https://x.com/SecretSeoul/status/2097315757931811081) · ❤ 1
    - 试玩链接：`https://butterball-run.jeraldine-t.chatgpt.site`
    - 原帖：https://x.com/SecretSeoul/status/2097315757931811081
 
-8. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
+9. **ASTRA Arcade — Six original games** — [试玩](https://astra-arcade.antonioleivag.chatgpt.site) · [原帖](https://x.com/antonioleivag/status/2096509898481651770) · ❤ 21
    - 试玩链接：`https://astra-arcade.antonioleivag.chatgpt.site`
    - 原帖：https://x.com/antonioleivag/status/2096509898481651770
 
-9. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
+10. **ASTEROIDS · Deepfield** — [试玩](https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/) · [原帖](https://x.com/DantesClown/status/2096085439052452064) · ❤ 3
    - 试玩链接：`https://asteroids-deepfield-cockpit.dan200200.chatgpt.site/`
    - 原帖：https://x.com/DantesClown/status/2096085439052452064
 
-10. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
+11. **Play Games Built with GPT-6 Astra | Astragames** — [试玩](https://astragames.lol) · [原帖](https://x.com/i/status/2096377756062027894) · ❤ 2
    - 试玩链接：`https://astragames.lol`
    - 原帖：https://x.com/i/status/2096377756062027894
 
-11. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
+12. **Astra Games — Built with GPT-6 Astra** — [试玩](https://astragames.aigccreative.com/en) · [原帖](https://x.com/marindeloph/status/2096901528166793595) · ❤ 1
    - 试玩链接：`https://astragames.aigccreative.com/en`
    - 原帖：https://x.com/marindeloph/status/2096901528166793595
 
-12. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
+13. **Kutular – Büyük Ödül Oyunu** — [试玩](https://kutular-oyunu.tuned-lion-2154.chatgpt.site) · [原帖](https://x.com/nzmdgnc/status/2095803218135544027)
    - 试玩链接：`https://kutular-oyunu.tuned-lion-2154.chatgpt.site`
    - 原帖：https://x.com/nzmdgnc/status/2095803218135544027
 
-13. **Chrome Slot Studio — fun-fact slot** — [试玩](https://chrome-slot-studio.sushmithanair1402.chatgpt.site/) · [原帖](https://x.com/sushmithanairws/status/2097539537652289872)
+14. **Chrome Slot Studio — fun-fact slot** — [试玩](https://chrome-slot-studio.sushmithanair1402.chatgpt.site/) · [原帖](https://x.com/sushmithanairws/status/2097539537652289872)
    - 试玩链接：`https://chrome-slot-studio.sushmithanair1402.chatgpt.site/`
    - 原帖：https://x.com/sushmithanairws/status/2097539537652289872
 
-14. **VELVET ACE · Private Casino Lounge** — [试玩](https://velvet-ace.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2098227850188833047) · ❤ 16
+15. **VELVET ACE · Private Casino Lounge** — [试玩](https://velvet-ace.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2098227850188833047) · ❤ 16
    - 试玩链接：`https://velvet-ace.vercel.app/`
    - 原帖：https://x.com/DeryaTR_/status/2098227850188833047
    - 备注：星际迷航船员进赌场：Poker / Blackjack，Astra 搓的私密赌场厅
 
-15. **猫咪开饭啦 · Kitty Fish Catch** — [试玩](https://kitty-fish-catch.zutk41980668692.chatgpt.site/) · [原帖](https://x.com/MoQing_8/status/2098289453114826828)
+16. **猫咪开饭啦 · Kitty Fish Catch** — [试玩](https://kitty-fish-catch.zutk41980668692.chatgpt.site/) · [原帖](https://x.com/MoQing_8/status/2098289453114826828)
    - 试玩链接：`https://kitty-fish-catch.zutk41980668692.chatgpt.site/`
    - 原帖：https://x.com/MoQing_8/status/2098289453114826828
    - 备注：摸鱼养猫：Astra 搓的小猫捞鱼小游戏，打开就能开饭
 
-16. **Mr. Nips — Twin Laser Arcade** — [试玩](https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/) · [原帖](https://x.com/creepztopia/status/2098264198971331011)
+17. **Mr. Nips — Twin Laser Arcade** — [试玩](https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/) · [原帖](https://x.com/creepztopia/status/2098264198971331011)
    - 试玩链接：`https://mr-nips-twin-laser-arcade.troybkk.chatgpt.site/`
    - 原帖：https://x.com/creepztopia/status/2098264198971331011
    - 备注：街机双激光射击：给技术权限后的离谱产物，刷高分请自备羞耻心
 
-17. **Barrelbound — The Lost Cargo** — [试玩](https://barrelbound.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098419911747907983)
+18. **Barrelbound — The Lost Cargo** — [试玩](https://barrelbound.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098419911747907983)
    - 试玩链接：`https://barrelbound.vercel.app/`
    - 原帖：https://x.com/mieliepit/status/2098419911747907983
    - 备注：丛林双英雄平台跳跃三章节，Astra + 生成美术，浏览器白嫖开跑
 
-18. **血裔决斗 · Nightborn Clash** — [试玩](https://nightborn-clash.dixonefg5.chatgpt.site) · [原帖](https://x.com/CloakofEcstasy/status/2098415220645564857) · ❤ 5
+19. **血裔决斗 · Nightborn Clash** — [试玩](https://nightborn-clash.dixonefg5.chatgpt.site) · [原帖](https://x.com/CloakofEcstasy/status/2098415220645564857) · ❤ 5
    - 试玩链接：`https://nightborn-clash.dixonefg5.chatgpt.site`
    - 原帖：https://x.com/CloakofEcstasy/status/2098415220645564857
    - 备注：吸血鬼街机对打初稿，Astra 一键开撕，细节还在加料
 
-19. **VESPER** — [试玩](https://vesper.mansgullberg.chatgpt.site/) · [原帖](https://x.com/MansGullberg/status/2099594470454899093) · ❤ 2
+20. **VESPER** — [试玩](https://vesper.mansgullberg.chatgpt.site/) · [原帖](https://x.com/MansGullberg/status/2099594470454899093) · ❤ 2
    - 试玩链接：`https://vesper.mansgullberg.chatgpt.site/`
    - 原帖：https://x.com/MansGullberg/status/2099594470454899093
    - 备注：three.js 解谜+Boss 三关浏览器小品：Astra 一键开打，看你能不能通关
 
-20. **Marble Run · Rube Goldberg** — [试玩](https://www.emergentmind.com/marble-run) · [原帖](https://x.com/mhmazur/status/2099490723003253127)
+21. **Marble Run · Rube Goldberg** — [试玩](https://www.emergentmind.com/marble-run) · [原帖](https://x.com/mhmazur/status/2099490723003253127)
    - 试玩链接：`https://www.emergentmind.com/marble-run`
    - 原帖：https://x.com/mhmazur/status/2099490723003253127
    - 备注：一小时鲁布·戈德堡弹珠跑酷：蹦床、弹簧、缆车、降落伞全开 · Astra 物理小品
 
-21. **こもれびの木の実あつめ** — [试玩](https://komorebi-kinomi-0916.inu03550.chatgpt.site/) · [原帖](https://x.com/Kazumib0/status/2100129970236334179)
+22. **こもれびの木の実あつめ** — [试玩](https://komorebi-kinomi-0916.inu03550.chatgpt.site/) · [原帖](https://x.com/Kazumib0/status/2100129970236334179)
    - 试玩链接：`https://komorebi-kinomi-0916.inu03550.chatgpt.site/`
    - 原帖：https://x.com/Kazumib0/status/2100129970236334179
    - 备注：Codex + GPT-6 Astra 三步搓出的手游小品：采木之实，浏览器即开即玩
 
-22. **Tokyo Batting · Neon** — [试玩](https://rezona.ai/game/share/gabSFeBe/v9) · [原帖](https://x.com/TokenGremlin/status/2100152995203760614) · ❤ 15
+23. **Tokyo Batting · Neon** — [试玩](https://rezona.ai/game/share/gabSFeBe/v9) · [原帖](https://x.com/TokenGremlin/status/2100152995203760614) · ❤ 15
    - 试玩链接：`https://rezona.ai/game/share/gabSFeBe/v9`
    - 原帖：https://x.com/TokenGremlin/status/2100152995203760614
    - 备注：东京打击练习：Astra 一键在 Rezona 搓出的霓虹棒球馆，挥棒时机跟得上
 
-23. **Starship Foundry · Isometric Flight Lab** — [试玩](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [原帖](https://x.com/Aaron_Wacker/status/2100382539697254828) · ❤ 2
+24. **Starship Foundry · Isometric Flight Lab** — [试玩](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [原帖](https://x.com/Aaron_Wacker/status/2100382539697254828) · ❤ 2
    - 试玩链接：`https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html`
    - 原帖：https://x.com/Aaron_Wacker/status/2100382539697254828
    - 备注：等距造船再飞：拼零件、绑舱体，进关卡做特技 / Zaxxon 风跳跃 · Three.js + Astra
 
-24. **POCKET_01 · Personal Game System** — [试玩](https://devoshub.com/) · [原帖](https://x.com/LeHari_eth/status/2100392850823471600) · ❤ 1
+25. **POCKET_01 · Personal Game System** — [试玩](https://devoshub.com/) · [原帖](https://x.com/LeHari_eth/status/2100392850823471600) · ❤ 1
    - 试玩链接：`https://devoshub.com/`
    - 原帖：https://x.com/LeHari_eth/status/2100392850823471600
    - 备注：浏览器复古掌机：单色手持机 + Snake 等小游戏，本地记忆 · Astra vibe coding
 
-25. **Mog Mode · Yesterday Arcade** — [试玩](https://yesterdayarcade.com/games/mog-mode/) · [原帖](https://x.com/YesterdayArcade/status/2100510743422734658)
+26. **Mog Mode · Yesterday Arcade** — [试玩](https://yesterdayarcade.com/games/mog-mode/) · [原帖](https://x.com/YesterdayArcade/status/2100510743422734658)
    - 试玩链接：`https://yesterdayarcade.com/games/mog-mode/`
    - 原帖：https://x.com/YesterdayArcade/status/2100510743422734658
    - 备注：科技 CEO 握手对决恶搞小品：Astra+Codex，Yesterday Arcade 第二作，打开就能 mog
 
 
-26. **SHUBO DIVE · 酒母潜航隊** — [试玩](https://toraikura.github.io/shubo-dive/) · [原帖](https://x.com/chilllabotokyo/status/2101953892313637042) · ❤ 1
+27. **SHUBO DIVE · 酒母潜航隊** — [试玩](https://toraikura.github.io/shubo-dive/) · [原帖](https://x.com/chilllabotokyo/status/2101953892313637042) · ❤ 1
    - 试玩链接：`https://toraikura.github.io/shubo-dive/`
    - 原帖：https://x.com/chilllabotokyo/status/2101953892313637042
    - 备注：日本酒酒母 3D 潜航小游戏：菌丝森林里救人回家，Astra 搓的台风消遣；GitHub Pages 直玩
 
-27. **ODD DECK** — [试玩](https://odddeckvercel.vercel.app/) · [原帖](https://x.com/Neural333/status/2101983120383676890)
+28. **ODD DECK** — [试玩](https://odddeckvercel.vercel.app/) · [原帖](https://x.com/Neural333/status/2101983120383676890)
    - 试玩链接：`https://odddeckvercel.vercel.app/`
    - 原帖：https://x.com/Neural333/status/2101983120383676890
    - 备注：一张卡面参考 → 可玩卡牌 Web App：GPT Astra Pro 搓的完整交互牌桌，打开就能抽
 
-28. **Permutosphere** — [试玩](https://permutosphere.yg4h4d5rw5.chatgpt.site) · [原帖](https://x.com/DavidBanik/status/2102264546920628232)
+29. **Permutosphere** — [试玩](https://permutosphere.yg4h4d5rw5.chatgpt.site) · [原帖](https://x.com/DavidBanik/status/2102264546920628232)
    - 试玩链接：`https://permutosphere.yg4h4d5rw5.chatgpt.site`
    - 原帖：https://x.com/DavidBanik/status/2102264546920628232
    - 备注：连续置换 playground：把魔方式切割/扭转推到连续空间；Astra 构建，打开就能拧
 
-29. **System One (Nil)** — [试玩](https://system-one-nil.iangunsworth.chatgpt.site/) · [原帖](https://x.com/Ianu82/status/2102364536649232706) · ❤ 1
+30. **System One (Nil)** — [试玩](https://system-one-nil.iangunsworth.chatgpt.site/) · [原帖](https://x.com/Ianu82/status/2102364536649232706) · ❤ 1
    - 试玩链接：`https://system-one-nil.iangunsworth.chatgpt.site/`
    - 原帖：https://x.com/Ianu82/status/2102364536649232706
    - 备注：三分钟街机足球人对 Jev：Astra + TypeSafe Jev + MindsHub；打开就能开球踢一脚
 
-30. **星光摘星星月亮** — [试玩](https://moonlit-starlight.pages.dev) · [原帖](https://x.com/DouXiao27324/status/2102417952519963033)
+31. **星光摘星星月亮** — [试玩](https://moonlit-starlight.pages.dev) · [原帖](https://x.com/DouXiao27324/status/2102417952519963033)
    - 试玩链接：`https://moonlit-starlight.pages.dev`
    - 原帖：https://x.com/DouXiao27324/status/2102417952519963033
    - 备注：中秋手势小游戏：摄像头抓星星月亮；Codex Astra 出品，打开摄像头就能摘
 
-31. **JevPong** — [试玩](https://jevpong-production.up.railway.app/) · [原帖](https://x.com/Gbahdeyboh/status/2102669303535567264) · ❤ 11
+32. **JevPong** — [试玩](https://jevpong-production.up.railway.app/) · [原帖](https://x.com/Gbahdeyboh/status/2102669303535567264) · ❤ 11
    - 试玩链接：`https://jevpong-production.up.railway.app/`
    - 原帖：https://x.com/Gbahdeyboh/status/2102669303535567264
    - 备注：实时 Pong 人对 TypeSafe Jev 决策模型：旁路监视 AI 上下/回球概率；GPT-6 Astra + Codex + Fabric Gateway，打开就能对拍
 
-32. **Top Tennis** — [试玩](https://toptennisgame.com/) · [原帖](https://x.com/teovito/status/2102686586723033440) · ❤ 65
+33. **Top Tennis** — [试玩](https://toptennisgame.com/) · [原帖](https://x.com/teovito/status/2102686586723033440) · ❤ 65
    - 试玩链接：`https://toptennisgame.com/`
    - 原帖：https://x.com/teovito/status/2102686586723033440
    - 备注：浏览器 3D 网球：约两天用 Codex + GPT-6 Astra Ultra 搓出的对打小场；打开就能挥拍
 
-33. **Crumb Run** — [试玩](https://crumb-run.vercel.app/) · [原帖](https://x.com/naledicodes/status/2103291885619917097)
+34. **Crumb Run** — [试玩](https://crumb-run.vercel.app/) · [原帖](https://x.com/naledicodes/status/2103291885619917097)
    - 试玩链接：`https://crumb-run.vercel.app/`
    - 原帖：https://x.com/naledicodes/status/2103291885619917097
    - 备注：一句话 Astra→可玩 3D：婴儿爬行捡吃的、躲开家长抱走；打开就能爬
 
 
-34. **Nova Defender** — [试玩](https://nova-defender.expo.app/game/index.html) · [原帖](https://x.com/PeradzeVan58311/status/2103360685132628471) · ❤ 1
+35. **Nova Defender** — [试玩](https://nova-defender.expo.app/game/index.html) · [原帖](https://x.com/PeradzeVan58311/status/2103360685132628471) · ❤ 1
    - 试玩链接：`https://nova-defender.expo.app/game/index.html`
    - 原帖：https://x.com/PeradzeVan58311/status/2103360685132628471
    - 备注：Astra 6 搓的复古太空街机：2000s 风护卫舰打外星人，打开就能射
 
-35. **WordTwiq** — [试玩](https://wordtwiq.dfrankiej.com/) · [原帖](https://x.com/vibedcoder/status/2103443299491021160)
+36. **WordTwiq** — [试玩](https://wordtwiq.dfrankiej.com/) · [原帖](https://x.com/vibedcoder/status/2103443299491021160)
    - 试玩链接：`https://wordtwiq.dfrankiej.com/`
    - 原帖：https://x.com/vibedcoder/status/2103443299491021160
    - 备注：Codex + GPT-6 Astra + Unity 双词 Wordle 变体：两词同猜，打开就能拼；vibedcoder 出品
@@ -878,287 +890,291 @@
 
 ## 3D 场景 / 氛围探索
 
-1. **Mumbai Worli Sea Link** — [试玩](https://alimustufa.com/projects/sealink/experience/) · [原帖](https://x.com/ialimustufa/status/2104565956198678978) · ❤ 9
+1. **CROPPER SEVEN** — [试玩](https://givros.github.io/openworld-plane/) · [原帖](https://x.com/givros/status/2104692807965564947) · ❤ 9
+   - 试玩链接：`https://givros.github.io/openworld-plane/`
+   - 原帖：https://x.com/givros/status/2104692807965564947
+   - 备注：Astral：GPT-6 Astra + Three.js + Blender + custom skill 开敞世界喷药机；四生物群系；打开就能飞
+2. **Mumbai Worli Sea Link** — [试玩](https://alimustufa.com/projects/sealink/experience/) · [原帖](https://x.com/ialimustufa/status/2104565956198678978) · ❤ 9
    - 试玩链接：`https://alimustufa.com/projects/sealink/experience/`
    - 原帖：https://x.com/ialimustufa/status/2104565956198678978
    - 备注：GPT-6 Astra + Sol 编程光照/渲染的可逛 WebGL 海桥：开敞甲板巴士、Photo Studio 把个人照片打到拉索灯阵；一周打磨，打开就能逛
 
-2. **Bangalore GTA-style Three.js** — [试玩](https://genaiexperiments.vercel.app) · [原帖](https://x.com/BuildFastWithAI/status/2097289129105223823) · ❤ 47
+3. **Bangalore GTA-style Three.js** — [试玩](https://genaiexperiments.vercel.app) · [原帖](https://x.com/BuildFastWithAI/status/2097289129105223823) · ❤ 47
    - 试玩链接：`https://genaiexperiments.vercel.app`
    - 原帖：https://x.com/BuildFastWithAI/status/2097289129105223823
 
-3. **AFTERLIGHT** — [试玩](https://afterlight.a-9724.chatgpt.site) · [原帖](https://x.com/jhahimanshu653/status/2097172185513357794) · ❤ 6
+4. **AFTERLIGHT** — [试玩](https://afterlight.a-9724.chatgpt.site) · [原帖](https://x.com/jhahimanshu653/status/2097172185513357794) · ❤ 6
    - 试玩链接：`https://afterlight.a-9724.chatgpt.site`
    - 原帖：https://x.com/jhahimanshu653/status/2097172185513357794
 
-4. **M—Dial / Motion study** — [试玩](https://video-to-3d.vercel.app/) · [原帖](https://x.com/henry19840301/status/2097588270171660321) · ❤ 45
+5. **M—Dial / Motion study** — [试玩](https://video-to-3d.vercel.app/) · [原帖](https://x.com/henry19840301/status/2097588270171660321) · ❤ 45
    - 试玩链接：`https://video-to-3d.vercel.app/`
    - 原帖：https://x.com/henry19840301/status/2097588270171660321
 
-5. **Gamlebyen 3D · Fredrikstad** — [试玩](https://gamlebyen-3d-atlas.stefano-nichele.chatgpt.site/) · [原帖](https://x.com/stenichele/status/2097269732332249577)
+6. **Gamlebyen 3D · Fredrikstad** — [试玩](https://gamlebyen-3d-atlas.stefano-nichele.chatgpt.site/) · [原帖](https://x.com/stenichele/status/2097269732332249577)
    - 试玩链接：`https://gamlebyen-3d-atlas.stefano-nichele.chatgpt.site/`
    - 原帖：https://x.com/stenichele/status/2097269732332249577
 
-6. **20A Tarrant Drive · Spatial tour** — [试玩](https://tarrant-walkthrough.rongchenxuan12345.chatgpt.site/)
+7. **20A Tarrant Drive · Spatial tour** — [试玩](https://tarrant-walkthrough.rongchenxuan12345.chatgpt.site/)
    - 试玩链接：`https://tarrant-walkthrough.rongchenxuan12345.chatgpt.site/`
 
-7. **Pelagic — Ocean & Atmosphere** — [试玩](https://pelagic-ocean.lexn8.chatgpt.site) · [原帖](https://x.com/i/status/2096341945979383932) · ❤ 894
+8. **Pelagic — Ocean & Atmosphere** — [试玩](https://pelagic-ocean.lexn8.chatgpt.site) · [原帖](https://x.com/i/status/2096341945979383932) · ❤ 894
    - 试玩链接：`https://pelagic-ocean.lexn8.chatgpt.site`
    - 原帖：https://x.com/i/status/2096341945979383932
 
-8. **Moonlit Forge** — [试玩](https://moonlit-forge-studio.op7418.chatgpt.site) · [原帖](https://x.com/op7418/status/2096205141187956887) · ❤ 580
+9. **Moonlit Forge** — [试玩](https://moonlit-forge-studio.op7418.chatgpt.site) · [原帖](https://x.com/op7418/status/2096205141187956887) · ❤ 580
    - 试玩链接：`https://moonlit-forge-studio.op7418.chatgpt.site`
    - 原帖：https://x.com/op7418/status/2096205141187956887
 
-9. **Flora Brush** — [试玩](https://flora-brush.soumya-raj.chatgpt.site) · [原帖](https://x.com/soumyadesign/status/2096974030104666568) · ❤ 567
+10. **Flora Brush** — [试玩](https://flora-brush.soumya-raj.chatgpt.site) · [原帖](https://x.com/soumyadesign/status/2096974030104666568) · ❤ 567
    - 试玩链接：`https://flora-brush.soumya-raj.chatgpt.site`
    - 原帖：https://x.com/soumyadesign/status/2096974030104666568
 
-10. **Verdant Forest** — [试玩](https://verdant-forest.lexn8.chatgpt.site/) · [原帖](https://x.com/i/status/2096367614805373200) · ❤ 326
+11. **Verdant Forest** — [试玩](https://verdant-forest.lexn8.chatgpt.site/) · [原帖](https://x.com/i/status/2096367614805373200) · ❤ 326
    - 试玩链接：`https://verdant-forest.lexn8.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096367614805373200
 
-11. **Diamond Light** — [试玩](https://diamond-light.lexn8.chatgpt.site/) · [原帖](https://x.com/LexnLin/status/2096103821470761033) · ❤ 113
+12. **Diamond Light** — [试玩](https://diamond-light.lexn8.chatgpt.site/) · [原帖](https://x.com/LexnLin/status/2096103821470761033) · ❤ 113
    - 试玩链接：`https://diamond-light.lexn8.chatgpt.site/`
    - 原帖：https://x.com/LexnLin/status/2096103821470761033
 
-12. **Skyward: The Gathering** — [试玩](https://edge-city-skyward-quests.vercel.app/) · [原帖](https://x.com/timourxyz/status/2096379521926840339) · ❤ 80
+13. **Skyward: The Gathering** — [试玩](https://edge-city-skyward-quests.vercel.app/) · [原帖](https://x.com/timourxyz/status/2096379521926840339) · ❤ 80
    - 试玩链接：`https://edge-city-skyward-quests.vercel.app/`
    - 原帖：https://x.com/timourxyz/status/2096379521926840339
 
-13. **Fluid — a little space to get lost** — [试玩](https://fluid-playground.lunar-labs-7954.chatgpt.site/) · [原帖](https://x.com/LukeYoungblood/status/2095974873772568778) · ❤ 57
+14. **Fluid — a little space to get lost** — [试玩](https://fluid-playground.lunar-labs-7954.chatgpt.site/) · [原帖](https://x.com/LukeYoungblood/status/2095974873772568778) · ❤ 57
    - 试玩链接：`https://fluid-playground.lunar-labs-7954.chatgpt.site/`
    - 原帖：https://x.com/LukeYoungblood/status/2095974873772568778
 
-14. **Eiffel — Light & Perspective** — [试玩](https://eiffel-tower-omega.vercel.app/) · [原帖](https://x.com/ayaboch/status/2096178212883587094) · ❤ 36
+15. **Eiffel — Light & Perspective** — [试玩](https://eiffel-tower-omega.vercel.app/) · [原帖](https://x.com/ayaboch/status/2096178212883587094) · ❤ 36
    - 试玩链接：`https://eiffel-tower-omega.vercel.app/`
    - 原帖：https://x.com/ayaboch/status/2096178212883587094
 
-15. **NAVI City — A living liquidity network** — [试玩](https://navi-emerald-city.elliscopef802081.chatgpt.site/) · [原帖](https://x.com/i/status/2096293372071747591) · ❤ 16
+16. **NAVI City — A living liquidity network** — [试玩](https://navi-emerald-city.elliscopef802081.chatgpt.site/) · [原帖](https://x.com/i/status/2096293372071747591) · ❤ 16
    - 试玩链接：`https://navi-emerald-city.elliscopef802081.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096293372071747591
 
-16. **Manu.Vision — SP Edition** — [试玩](https://manu.vision/gb/) · [原帖](https://x.com/i/status/2095999334034690340) · ❤ 5
+17. **Manu.Vision — SP Edition** — [试玩](https://manu.vision/gb/) · [原帖](https://x.com/i/status/2095999334034690340) · ❤ 5
    - 试玩链接：`https://manu.vision/gb/`
    - 原帖：https://x.com/i/status/2095999334034690340
 
-17. **Wildwood — A little world of your own** — [试玩](https://krit22.github.io/browser-minecraft/) · [原帖](https://x.com/Krit12007/status/2096141849841029610) · ❤ 3
+18. **Wildwood — A little world of your own** — [试玩](https://krit22.github.io/browser-minecraft/) · [原帖](https://x.com/Krit12007/status/2096141849841029610) · ❤ 3
    - 试玩链接：`https://krit22.github.io/browser-minecraft/`
    - 原帖：https://x.com/Krit12007/status/2096141849841029610
 
-18. **Persepolis — An Ancient World, Rediscovered** — [试玩](https://persepolis-explorer.vercel.app) · [原帖](https://x.com/made_by_hossein/status/2096454262817534111) · ❤ 3
+19. **Persepolis — An Ancient World, Rediscovered** — [试玩](https://persepolis-explorer.vercel.app) · [原帖](https://x.com/made_by_hossein/status/2096454262817534111) · ❤ 3
    - 试玩链接：`https://persepolis-explorer.vercel.app`
    - 原帖：https://x.com/made_by_hossein/status/2096454262817534111
 
-19. **Komorebi — Cat World** — [试玩](https://komorebi-neon.vercel.app/) · [原帖](https://x.com/thisjiro/status/2096008437343949039) · ❤ 2
+20. **Komorebi — Cat World** — [试玩](https://komorebi-neon.vercel.app/) · [原帖](https://x.com/thisjiro/status/2096008437343949039) · ❤ 2
    - 试玩链接：`https://komorebi-neon.vercel.app/`
    - 原帖：https://x.com/thisjiro/status/2096008437343949039
 
-20. **Ember Causeway** — [试玩](https://ember-causeway.s0673468.chatgpt.site) · [原帖](https://x.com/i/status/2096331530951925840) · ❤ 2
+21. **Ember Causeway** — [试玩](https://ember-causeway.s0673468.chatgpt.site) · [原帖](https://x.com/i/status/2096331530951925840) · ❤ 2
    - 试玩链接：`https://ember-causeway.s0673468.chatgpt.site`
    - 原帖：https://x.com/i/status/2096331530951925840
 
-21. **Bernabéu · Visita 3D** — [试玩](https://bernabeu-tres-d.antihero11.chatgpt.site/) · [原帖](https://x.com/davidcanci/status/2096201214178308538)
+22. **Bernabéu · Visita 3D** — [试玩](https://bernabeu-tres-d.antihero11.chatgpt.site/) · [原帖](https://x.com/davidcanci/status/2096201214178308538)
    - 试玩链接：`https://bernabeu-tres-d.antihero11.chatgpt.site/`
    - 原帖：https://x.com/davidcanci/status/2096201214178308538
 
-22. **Model X Studio** — [试玩](https://model-x-studio.vercel.app/) · [源码](https://github.com/ashemag/model-x-studio) · [原帖](https://x.com/grok/status/2096216661011439951)
+23. **Model X Studio** — [试玩](https://model-x-studio.vercel.app/) · [源码](https://github.com/ashemag/model-x-studio) · [原帖](https://x.com/grok/status/2096216661011439951)
    - 试玩链接：`https://model-x-studio.vercel.app/`
    - 源码：https://github.com/ashemag/model-x-studio
    - 原帖：https://x.com/grok/status/2096216661011439951
    - 简介：交互式 Tesla Model X 3D 工作室，圆形展台、零件说明、单件隔离，以及覆盖全部 **334** 个 mesh 的渐进爆炸视图
 
-23. **mosswing-quiet-flight** — [试玩](https://mosswing-quiet-flight.jack-514.chatgpt.site) · [原帖](https://x.com/i/status/2096263516181123300)
+24. **mosswing-quiet-flight** — [试玩](https://mosswing-quiet-flight.jack-514.chatgpt.site) · [原帖](https://x.com/i/status/2096263516181123300)
    - 试玩链接：`https://mosswing-quiet-flight.jack-514.chatgpt.site`
    - 原帖：https://x.com/i/status/2096263516181123300
 
-24. **Craft3D — More than a mesh.** — [试玩](https://craft3d.app/gallery) · [原帖](https://x.com/Craft3dApp/status/2096281079510659558)
+25. **Craft3D — More than a mesh.** — [试玩](https://craft3d.app/gallery) · [原帖](https://x.com/Craft3dApp/status/2096281079510659558)
    - 试玩链接：`https://craft3d.app/gallery`
    - 原帖：https://x.com/Craft3dApp/status/2096281079510659558
 
-25. **无限庭院** — [试玩](https://infinite-garden.yelin8130.chatgpt.site/) · [原帖](https://x.com/i/status/2096317379034935342)
+26. **无限庭院** — [试玩](https://infinite-garden.yelin8130.chatgpt.site/) · [原帖](https://x.com/i/status/2096317379034935342)
    - 试玩链接：`https://infinite-garden.yelin8130.chatgpt.site/`
    - 原帖：https://x.com/i/status/2096317379034935342
 
-26. **One fingerprint button. Six Astra reconstructions.** — [试玩](https://magbicaleman.github.io/minis/fingerprint-study/) · [原帖](https://x.com/magbicaleman/status/2096393243508314176)
+27. **One fingerprint button. Six Astra reconstructions.** — [试玩](https://magbicaleman.github.io/minis/fingerprint-study/) · [原帖](https://x.com/magbicaleman/status/2096393243508314176)
    - 试玩链接：`https://magbicaleman.github.io/minis/fingerprint-study/`
    - 原帖：https://x.com/magbicaleman/status/2096393243508314176
 
-27. **Astra — a dream in orbit** — [试玩](https://astra-dream.nxank4.chatgpt.site) · [原帖](https://x.com/ReadEpoch/status/2096505770204655989)
+28. **Astra — a dream in orbit** — [试玩](https://astra-dream.nxank4.chatgpt.site) · [原帖](https://x.com/ReadEpoch/status/2096505770204655989)
    - 试玩链接：`https://astra-dream.nxank4.chatgpt.site`
    - 原帖：https://x.com/ReadEpoch/status/2096505770204655989
 
-28. **Peel — your new main squeezes** — [试玩](https://peel-squishies.vercel.app) · [原帖](https://x.com/Cryptosphere14/status/2096650466511737000)
+29. **Peel — your new main squeezes** — [试玩](https://peel-squishies.vercel.app) · [原帖](https://x.com/Cryptosphere14/status/2096650466511737000)
    - 试玩链接：`https://peel-squishies.vercel.app`
    - 原帖：https://x.com/Cryptosphere14/status/2096650466511737000
 
-29. **KLIPZI CITY** — [试玩](https://klipzi-city.deadcoolapps.chatgpt.site) · [原帖](https://x.com/i/status/2096951400106209628)
+30. **KLIPZI CITY** — [试玩](https://klipzi-city.deadcoolapps.chatgpt.site) · [原帖](https://x.com/i/status/2096951400106209628)
    - 试玩链接：`https://klipzi-city.deadcoolapps.chatgpt.site`
    - 原帖：https://x.com/i/status/2096951400106209628
 
-30. **OMNISCIENT_** — [试玩](https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb) · [原帖](https://x.com/lifemademe/status/2097889652573085871) · ❤ 6
+31. **OMNISCIENT_** — [试玩](https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb) · [原帖](https://x.com/lifemademe/status/2097889652573085871) · ❤ 6
    - 试玩链接：`https://studio.sandbox.game/play/7ad4801c-4294-46ee-a7e9-215852bb28fb`
    - 原帖：https://x.com/lifemademe/status/2097889652573085871
    - 备注：Sandbox Studio three.js 沙盒游戏（含隐藏关）
 
-31. **名古屋亚运会场馆体素地图** — [试玩](https://nagoya-voxel-map.web.app/?lang=ja) · [原帖](https://x.com/TonyweiP/status/2097886969472974895)
+32. **名古屋亚运会场馆体素地图** — [试玩](https://nagoya-voxel-map.web.app/?lang=ja) · [原帖](https://x.com/TonyweiP/status/2097886969472974895)
    - 试玩链接：`https://nagoya-voxel-map.web.app/?lang=ja`
    - 原帖：https://x.com/TonyweiP/status/2097886969472974895
    - 备注：爱知·名古屋亚洲大会 47 区 54 场馆可旋转缩放的浏览器 3D 地图
 
-32. **The Last Ember — The Sunken Sanctuary** — [试玩](https://environment-design-1.julius.site) · [原帖](https://x.com/Motion_Viz/status/2097943908684587330) · ❤ 20
+33. **The Last Ember — The Sunken Sanctuary** — [试玩](https://environment-design-1.julius.site) · [原帖](https://x.com/Motion_Viz/status/2097943908684587330) · ❤ 20
    - 试玩链接：`https://environment-design-1.julius.site`
    - 原帖：https://x.com/Motion_Viz/status/2097943908684587330
    - 备注：Julius 里用 Astra 把 2D 概念图做成 three.js / WebGL 可逛关卡（~1h / ~$2 / 157fps）
 
-33. **Helion City** — [试玩](https://helion-city.vercel.app) · [原帖](https://x.com/nelsonpatrao/status/2097992927842635783) · ❤ 6
+34. **Helion City** — [试玩](https://helion-city.vercel.app) · [原帖](https://x.com/nelsonpatrao/status/2097992927842635783) · ❤ 6
    - 试玩链接：`https://helion-city.vercel.app`
    - 原帖：https://x.com/nelsonpatrao/status/2097992927842635783
    - 备注：Dream Loop 全栈：Astra 主流程 + Sol 抠 token + Meshy / ComfyUI / Gemini，Three.js 收口
 
-34. **Below the Hollow** — [试玩](https://below-the-hollow.thebuggeddev.chatgpt.site/) · [原帖](https://x.com/thebuggeddev/status/2097983281094594597) · ❤ 9
+35. **Below the Hollow** — [试玩](https://below-the-hollow.thebuggeddev.chatgpt.site/) · [原帖](https://x.com/thebuggeddev/status/2097983281094594597) · ❤ 9
    - 试玩链接：`https://below-the-hollow.thebuggeddev.chatgpt.site/`
    - 原帖：https://x.com/thebuggeddev/status/2097983281094594597
    - 备注：生成式水下洞穴：TSL + 游泳物理，移动端也能稳 60 FPS 瞎逛
 
-35. **Česká dobrodružství — Tvůj malý velký svět** — [试玩](https://czech-game.vercel.app/) · [原帖](https://x.com/petrroyce/status/2098165938822504662)
+36. **Česká dobrodružství — Tvůj malý velký svět** — [试玩](https://czech-game.vercel.app/) · [原帖](https://x.com/petrroyce/status/2098165938822504662)
    - 试玩链接：`https://czech-game.vercel.app/`
    - 原帖：https://x.com/petrroyce/status/2098165938822504662
    - 备注：捷克沙盒：开车/开飞机/酒吧/宜家/滑雪/太空/火车/重机… Astra 乐趣测
 
-36. **Signals Keynote — The New Failure Modes** — [试玩](https://ethical.institute/keynote/#2B.3) · [原帖](https://x.com/AxSaucedo/status/2098290714492727800) · ❤ 1
+37. **Signals Keynote — The New Failure Modes** — [试玩](https://ethical.institute/keynote/#2B.3) · [原帖](https://x.com/AxSaucedo/status/2098290714492727800) · ❤ 1
    - 试玩链接：`https://ethical.institute/keynote/#2B.3`
    - 原帖：https://x.com/AxSaucedo/status/2098290714492727800
    - 备注：不用幻灯片：Astra 搓的 3D 渲染引擎当 Signals Berlin 2026 开场演讲
 
-37. **Tidehook** — [试玩](https://tidehook-mallow.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098421911793405975)
+38. **Tidehook** — [试玩](https://tidehook-mallow.vercel.app/) · [原帖](https://x.com/mieliepit/status/2098421911793405975)
    - 试玩链接：`https://tidehook-mallow.vercel.app/`
    - 原帖：https://x.com/mieliepit/status/2098421911793405975
    - 备注：小拖船大海捞：打捞会改操控，海岸三航程 + 起重机，Astra 海边小品
 
-38. **Mini Moto — Pine Ridge Park** — [试玩](https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/) · [原帖](https://x.com/chrisjdimarco/status/2098919328368197682)
+39. **Mini Moto — Pine Ridge Park** — [试玩](https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/) · [原帖](https://x.com/chrisjdimarco/status/2098919328368197682)
    - 试玩链接：`https://mini-moto-park.chipchaunceytheonlyone.chatgpt.site/`
    - 原帖：https://x.com/chrisjdimarco/status/2098919328368197682
    - 备注：松岭公园迷你摩托微缩场景：Astra 搓的可逛 diorama，打开就能转一圈
 
-39. **2861 California · Unit 4 Tour** — [试玩](https://2861-california-unit-4.vercel.app) · [原帖](https://x.com/dylan_szeto/status/2099332206103794152) · ❤ 4
+40. **2861 California · Unit 4 Tour** — [试玩](https://2861-california-unit-4.vercel.app) · [原帖](https://x.com/dylan_szeto/status/2099332206103794152) · ❤ 4
    - 试玩链接：`https://2861-california-unit-4.vercel.app`
    - 原帖：https://x.com/dylan_szeto/status/2099332206103794152
    - 备注：12 张公寓照片 + 户型图喂给 Astra/Blender，搓出可逛虚拟看房
 
-40. **3D Seoul Bus Tour** — [试玩](https://seoul-bus-tour.vercel.app/) · [原帖](https://x.com/bluesarang/status/2099352353262669948)
+41. **3D Seoul Bus Tour** — [试玩](https://seoul-bus-tour.vercel.app/) · [原帖](https://x.com/bluesarang/status/2099352353262669948)
    - 试玩链接：`https://seoul-bus-tour.vercel.app/`
    - 原帖：https://x.com/bluesarang/status/2099352353262669948
    - 备注：React+TS+Three.js+MapLibre 首尔 3D 巴士巡游，Astra xhigh 约 4–5 小时搓完
 
-41. **Le Petit Illustré · 1934** — [试玩](https://lepetitillustre.com) · [原帖](https://x.com/OdinLovis/status/2099662203531973001) · ❤ 7
+42. **Le Petit Illustré · 1934** — [试玩](https://lepetitillustre.com) · [原帖](https://x.com/OdinLovis/status/2099662203531973001) · ❤ 7
    - 试玩链接：`https://lepetitillustre.com`
    - 原帖：https://x.com/OdinLovis/status/2099662203531973001
    - 备注：向被遗忘的法文画报致敬：fal H3 + three.js + Astra 把 1934 年刊页重新点活
 
-42. **吉卜力火车 · Ghibli Train Sim** — [试玩](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原帖](https://x.com/aniketjart/status/2099652076829909064) · ❤ 28
+43. **吉卜力火车 · Ghibli Train Sim** — [试玩](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原帖](https://x.com/aniketjart/status/2099652076829909064) · ❤ 28
    - 试玩链接：`https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107`
    - 原帖：https://x.com/aniketjart/status/2099652076829909064
    - 备注：吉卜力风火车模拟：Astra + Crayon UI + three.js，打开就能慢悠悠兜风，后续还在加料
 
 
-43. **液态金属小宠 · Inflatable Room** — [试玩](https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1) · [原帖](https://x.com/fMinZhou/status/2099807979969315323) · ❤ 3
+44. **液态金属小宠 · Inflatable Room** — [试玩](https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1) · [原帖](https://x.com/fMinZhou/status/2099807979969315323) · ❤ 3
    - 试玩链接：`https://happycapy.ai/share/files/d67d046e-9957-4503-b69c-d7de60569ec1`
    - 原帖：https://x.com/fMinZhou/status/2099807979969315323
    - 备注：Astra + Three.js @ Happycapy：液态金属小宠在充气家具房里乱跑，打开就能摸
 
-44. **Void Explorer** — [试玩](https://void-explorer.openai.chatgpt.site/) · [原帖](https://x.com/KeisukeIshikawa/status/2099785223827259515) · ❤ 2
+45. **Void Explorer** — [试玩](https://void-explorer.openai.chatgpt.site/) · [原帖](https://x.com/KeisukeIshikawa/status/2099785223827259515) · ❤ 2
    - 试玩链接：`https://void-explorer.openai.chatgpt.site/`
    - 原帖：https://x.com/KeisukeIshikawa/status/2099785223827259515
    - 备注：官方同款边玩边改：Astra+Codex 迭代造出的星系探索，2048 星系上万行星，浏览器能飞
 
-45. **Sundrift · Boat Explorer** — [试玩](https://wesche.com/lab/astra/boat-explorer/) · [原帖](https://x.com/WescheNex1q/status/2100043868565561533) · ❤ 45
+46. **Sundrift · Boat Explorer** — [试玩](https://wesche.com/lab/astra/boat-explorer/) · [原帖](https://x.com/WescheNex1q/status/2100043868565561533) · ❤ 45
    - 试玩链接：`https://wesche.com/lab/astra/boat-explorer/`
    - 原帖：https://x.com/WescheNex1q/status/2100043868565561533
    - 备注：同款 Three.js 出海 prompt 四模型对打，Astra 赢了海洋：金色黄昏慢帆，耳机一戴就开漂
 
-46. **Space Storage** — [试玩](https://space-storage.mandeeplabs.com/) · [原帖](https://x.com/copmanually/status/2100393684898386260)
+47. **Space Storage** — [试玩](https://space-storage.mandeeplabs.com/) · [原帖](https://x.com/copmanually/status/2100393684898386260)
    - 试玩链接：`https://space-storage.mandeeplabs.com/`
    - 原帖：https://x.com/copmanually/status/2100393684898386260
    - 备注：3D 仓储营销展：可走仓库、开仓、比尺寸，帮客户想象单位能装啥 · GPT-6 Astra
 
-47. **四点金 · 入厝** — [试玩](https://sidianjin-chaoshan.vercel.app) · [原帖](https://x.com/megurosumi/status/2100417100263334222) · ❤ 1
+48. **四点金 · 入厝** — [试玩](https://sidianjin-chaoshan.vercel.app) · [原帖](https://x.com/megurosumi/status/2100417100263334222) · ❤ 1
    - 试玩链接：`https://sidianjin-chaoshan.vercel.app`
    - 原帖：https://x.com/megurosumi/status/2100417100263334222
    - 备注：潮汕四点金院子：Astra+Tripo+Blender，四关 3D 解谜还原爷爷未完成的礼物 · EN/ZH
 
-48. **The Tide Machine** — [试玩](https://the-tide-machine-0hmslice.ohmslice.chatgpt.site) · [原帖](https://x.com/0hmslice/status/2100415525415236010)
+49. **The Tide Machine** — [试玩](https://the-tide-machine-0hmslice.ohmslice.chatgpt.site) · [原帖](https://x.com/0hmslice/status/2100415525415236010)
    - 试玩链接：`https://the-tide-machine-0hmslice.ohmslice.chatgpt.site`
    - 原帖：https://x.com/0hmslice/status/2100415525415236010
    - 备注：潮汐奇观浏览器小品：Astra 搓的 spectacle，打开就能转一圈
 
 
-49. **Minimum Rage** — [试玩](https://minimum-rage.fastandlucid.chatgpt.site/) · [原帖](https://x.com/FastandLucid/status/2100594128547704950) · ❤ 2
+50. **Minimum Rage** — [试玩](https://minimum-rage.fastandlucid.chatgpt.site/) · [原帖](https://x.com/FastandLucid/status/2100594128547704950) · ❤ 2
    - 试玩链接：`https://minimum-rage.fastandlucid.chatgpt.site/`
    - 原帖：https://x.com/FastandLucid/status/2100594128547704950
    - 备注：体素小岛：小游戏、支线任务……还有 KEVIN；Astra 搓的 3D 世界，打开就能逛
 
-50. **Save Point** — [试玩](https://save-point-roan.vercel.app/) · [原帖](https://x.com/ibuildfunstuff/status/2102035368145252546)
+51. **Save Point** — [试玩](https://save-point-roan.vercel.app/) · [原帖](https://x.com/ibuildfunstuff/status/2102035368145252546)
    - 试玩链接：`https://save-point-roan.vercel.app/`
    - 原帖：https://x.com/ibuildfunstuff/status/2102035368145252546
    - 备注：游戏与游戏之间的可逛小世界：周末 Astra 搓的氛围探索，打开就能遛一圈
 
-51. **Maeul in the Sky** — [试玩](https://t1seo.github.io/maeul-in-the-sky/tour/) · [原帖](https://x.com/t1won_seo/status/2102397534983573932)
+52. **Maeul in the Sky** — [试玩](https://t1seo.github.io/maeul-in-the-sky/tour/) · [原帖](https://x.com/t1won_seo/status/2102397534983573932)
    - 试玩链接：`https://t1seo.github.io/maeul-in-the-sky/tour/`
    - 原帖：https://x.com/t1won_seo/status/2102397534983573932
    - 备注：把 GitHub 贡献图搓成可第一人称逛的四季小村庄：野生动物、昼夜循环；Astra + Three.js，开浏览器就能溜达
 
-52. **Investigativo Noir** — [试玩](https://noir-detective-psx.matthia-ai.chatgpt.site/) · [原帖](https://x.com/Matthia570939/status/2102322089206427716)
+53. **Investigativo Noir** — [试玩](https://noir-detective-psx.matthia-ai.chatgpt.site/) · [原帖](https://x.com/Matthia570939/status/2102322089206427716)
    - 试玩链接：`https://noir-detective-psx.matthia-ai.chatgpt.site/`
    - 原帖：https://x.com/Matthia570939/status/2102322089206427716
    - 备注：迷你 PSX 风黑色生存恐怖：固定机位、坦克操控、两间房解谜；GPT-6 Astra 实验，打开就能溜
 
-53. **Pelican Rider** — [试玩](https://toankhontech.github.io/pelican-rider/) · [原帖](https://x.com/toankhontech/status/2102446661004140648) · ❤ 1
+54. **Pelican Rider** — [试玩](https://toankhontech.github.io/pelican-rider/) · [原帖](https://x.com/toankhontech/status/2102446661004140648) · ❤ 1
    - 试玩链接：`https://toankhontech.github.io/pelican-rider/`
    - 原帖：https://x.com/toankhontech/status/2102446661004140648
    - 备注：迷你 3D 鹈鹕骑行：踩踏板、围巾飘、滑行、日夜切换；GPT-6 Astra xhigh + Codex，打开就能遛鸟
 
-54. **樱花山谷 · Sakura Valley (Astra)** — [试玩](https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html) · [原帖](https://x.com/dotey/status/2102565403109085669) · ❤ 67
+55. **樱花山谷 · Sakura Valley (Astra)** — [试玩](https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html) · [原帖](https://x.com/dotey/status/2102565403109085669) · ❤ 67
    - 试玩链接：`https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html`
    - 原帖：https://x.com/dotey/status/2102565403109085669
    - 备注：宝玉同提示词日式樱花山谷可游览 3D：GPT-6 Astra 版，完整 prompt 可偷，打开就能逛
 
 
-55. **Sierra Villa** — [试玩](https://sierra-villa-aidaros.aidarosstore.chatgpt.site/) · [原帖](https://x.com/aidarosgo3/status/2102624713965019266) · ❤ 1
+56. **Sierra Villa** — [试玩](https://sierra-villa-aidaros.aidarosstore.chatgpt.site/) · [原帖](https://x.com/aidarosgo3/status/2102624713965019266) · ❤ 1
    - 试玩链接：`https://sierra-villa-aidaros.aidarosstore.chatgpt.site/`
    - 原帖：https://x.com/aidarosgo3/status/2102624713965019266
    - 备注：海边 765㎡ 互动岛屿别墅建筑工作室：轨道环绕、日/黄金时刻/夜切换、楼层剖面、34 房导航与灯光；GPT-6 Astra medium，打开就能逛
 
-56. **The Sea Below the Clouds** — [试玩](https://app.usecrayon.ai/play/8824247d-5a30-4981-b6fb-e215fb4717e6) · [原帖](https://x.com/usecrayon/status/2102901486133068212) · ❤ 11
+57. **The Sea Below the Clouds** — [试玩](https://app.usecrayon.ai/play/8824247d-5a30-4981-b6fb-e215fb4717e6) · [原帖](https://x.com/usecrayon/status/2102901486133068212) · ❤ 11
    - 试玩链接：`https://app.usecrayon.ai/play/8824247d-5a30-4981-b6fb-e215fb4717e6`
    - 原帖：https://x.com/usecrayon/status/2102901486133068212
    - 备注：水下吉卜力电车：接送小鱼旅客上下车；GPT-6 Sol + Crayon + Three.js，打开就能开电车
 
-57. **Before the Porch Light · home-study** — [试玩](https://home-study.before-the-porch-light.pages.dev/home-study) · [原帖](https://x.com/maxtoms/status/2102870739389170057)
+58. **Before the Porch Light · home-study** — [试玩](https://home-study.before-the-porch-light.pages.dev/home-study) · [原帖](https://x.com/maxtoms/status/2102870739389170057)
    - 试玩链接：`https://home-study.before-the-porch-light.pages.dev/home-study`
    - 原帖：https://x.com/maxtoms/status/2102870739389170057
    - 备注：化身猫逛午后书房：WASD / 跳 / 拍照；GPT-6 Astra，打开就能喵
 
-58. **Nolla Venue · Skin Lab** — [试玩](https://nolla-venue.don-dao97.chatgpt.site/) · [原帖](https://x.com/donqdao/status/2102927183190602224) · ❤ 1
+59. **Nolla Venue · Skin Lab** — [试玩](https://nolla-venue.don-dao97.chatgpt.site/) · [原帖](https://x.com/donqdao/status/2102927183190602224) · ❤ 1
    - 试玩链接：`https://nolla-venue.don-dao97.chatgpt.site/`
    - 原帖：https://x.com/donqdao/status/2102927183190602224
    - 备注：第一人称活动场地可视化（nollahealth × dermalogica Skin Lab）；GPT-6 Astra 全量试炼，打开就能逛会场
 
-59. **Backrooms — Signal Lost** — [试玩](https://backrooms-tau.vercel.app/) · [原帖](https://x.com/_ediri/status/2103101448397713473) · ❤ 2
+60. **Backrooms — Signal Lost** — [试玩](https://backrooms-tau.vercel.app/) · [原帖](https://x.com/_ediri/status/2103101448397713473) · ❤ 2
    - 试玩链接：`https://backrooms-tau.vercel.app/`
    - 原帖：https://x.com/_ediri/status/2103101448397713473
    - 备注：Level 0 后室恐怖：跟随铃声接通三部电话再逃出；GPT-6 Astra 基建工程师 _ediri 搓的浏览器小游戏，打开就能钻黄墙
 
-60. **La notte dipinta** — [试玩](https://la-notte-dipinta.dario-pumi.chatgpt.site) · [原帖](https://x.com/DarioPumi/status/2103128524349468944)
+61. **La notte dipinta** — [试玩](https://la-notte-dipinta.dario-pumi.chatgpt.site) · [原帖](https://x.com/DarioPumi/status/2103128524349468944)
    - 试玩链接：`https://la-notte-dipinta.dario-pumi.chatgpt.site`
    - 原帖：https://x.com/DarioPumi/status/2103128524349468944
    - 备注：梵高画作 + brief → ChatGPT Work Sites 开世界：NPC 对话、可捡可砸；GPT-6 Astra，打开就能逛夜色
 
-61. **Primitive Park Walkthrough** — [试玩](https://primitive-park-walkthrough.miya333.chatgpt.site) · [原帖](https://x.com/miya00907380/status/2104330247139450899) · ❤ 29
+62. **Primitive Park Walkthrough** — [试玩](https://primitive-park-walkthrough.miya333.chatgpt.site) · [原帖](https://x.com/miya00907380/status/2104330247139450899) · ❤ 29
    - 试玩链接：`https://primitive-park-walkthrough.miya333.chatgpt.site`
    - 原帖：https://x.com/miya00907380/status/2104330247139450899
    - 备注：Godot 纯原始网格游乐园探索：Codex GPT-6 Astra 规划 + Luna 实现 60s PV；打开就能逛园
-62. **Desert Crossing** — [试玩](https://desert-crossing.tylerryu.chatgpt.site/) · [原帖](https://x.com/PixiJS/status/2103552783773524151) · ❤ 116
+63. **Desert Crossing** — [试玩](https://desert-crossing.tylerryu.chatgpt.site/) · [原帖](https://x.com/PixiJS/status/2103552783773524151) · ❤ 116
    - 试玩链接：`https://desert-crossing.tylerryu.chatgpt.site/`
    - 原帖：https://x.com/PixiJS/status/2103552783773524151
    - 备注：GPT-6 Astra + PixiJS 3D 程序化沙漠地形：扬帆/转向/刹车，300° 顺风免油；PixiJS 官号转发
