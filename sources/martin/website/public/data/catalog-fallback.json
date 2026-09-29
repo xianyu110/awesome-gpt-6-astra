@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-9fd040822daa3ee4",
+      "name": "Breakout · Astra first-output",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · 同题 Breakout 一枪无稿对比：Sol 点 Start 递归炸栈；Astra 能计分/掉命/暂停/Restart；双端英文 UI，打开就能打砖块",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "only9651125",
+        "url": "https://x.com/only9651125"
+      },
+      "demoUrl": "https://ai-breakout-first-output.aiwisetop.chatgpt.site",
+      "sourceUrl": "https://x.com/only9651125/status/2104817090637250827",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTXJYd3bwAAvpQj.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTXJYd3bwAAvpQj.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1210
+    },
+    {
       "id": "work-2c5154a3ab1a860b",
       "name": "Iraqi Millionaire",
       "description": "可玩 Demo · 经典复刻 / 知名玩法 · GPT-6 Astra 伊拉克版《谁想成为百万富翁》：15 题伊拉克知识 + 5050/观众/电话；打开就能答",

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Breakout · Astra first-output",
+    "demo_url": "https://ai-breakout-first-output.aiwisetop.chatgpt.site",
+    "post_url": "https://x.com/only9651125/status/2104817090637250827",
+    "category": "经典复刻 / 知名玩法",
+    "author": "only9651125",
+    "note": "同题 Breakout 一枪无稿对比：Sol 点 Start 递归炸栈；Astra 能计分/掉命/暂停/Restart；双端英文 UI，打开就能打砖块",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTXJYd3bwAAvpQj.jpg",
+    "likes": 1
+  },
+  {
     "title": "Iraqi Millionaire",
     "demo_url": "https://iraqi-millionaire.ammarjawad121.chatgpt.site/",
     "post_url": "https://x.com/aj_05k/status/2104553258429927637",
