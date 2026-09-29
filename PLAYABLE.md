@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**286** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**287** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-29
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 36
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 63
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 64
 - [工程 / 仿真](#工程--仿真) — 23
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -1186,6 +1186,12 @@
    - 试玩链接：`https://desert-crossing.tylerryu.chatgpt.site/`
    - 原帖：https://x.com/PixiJS/status/2103552783773524151
    - 备注：GPT-6 Astra + PixiJS 3D 程序化沙漠地形：扬帆/转向/刹车，300° 顺风免油；PixiJS 官号转发
+
+64. **Pocket Universe** — [试玩](https://deathsend.xyz/) · [原帖](https://x.com/lordOfAFew/status/2104885212346003835) · ❤ 17
+   - 试玩链接：`https://deathsend.xyz/`
+   - 原帖：https://x.com/lordOfAFew/status/2104885212346003835
+   - 备注：Opus 5.5 + GPT-6 Astra + three.js 程序化口袋宇宙：宇宙网→星系→行星表面可走；换 seed 整宇宙重生成；打开就能逛
+
 
 ## 工程 / 仿真
 
