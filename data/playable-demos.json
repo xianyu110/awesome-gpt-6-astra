@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Way of the Samurai",
+    "demo_url": "https://the-way-of-the-samurai-bay.vercel.app/",
+    "post_url": "https://x.com/knightama/status/2104880496253817021",
+    "category": "射击 / 动作",
+    "author": "knightama",
+    "note": "7 月 AI 视频概念 → Opus 5.5 一小时从视频做成可玩；再花 12 小时用 GPT-6 Astra 打磨玩法与画面（three.js/Blender）；打开就能砍",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104880454088462336%2Fimg%2FG4ZHbDU1Wjtl8YeB.jpg",
+    "likes": 3
+  },
+  {
     "title": "Breakout · Astra first-output",
     "demo_url": "https://ai-breakout-first-output.aiwisetop.chatgpt.site",
     "post_url": "https://x.com/only9651125/status/2104817090637250827",
