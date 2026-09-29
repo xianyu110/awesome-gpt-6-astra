@@ -1,6 +1,78 @@
 {
   "works": [
     {
+      "id": "work-2c5154a3ab1a860b",
+      "name": "Iraqi Millionaire",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · GPT-6 Astra 伊拉克版《谁想成为百万富翁》：15 题伊拉克知识 + 5050/观众/电话；打开就能答",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "aj_05k",
+        "url": "https://x.com/aj_05k"
+      },
+      "demoUrl": "https://iraqi-millionaire.ammarjawad121.chatgpt.site/",
+      "sourceUrl": "https://x.com/aj_05k/status/2104553258429927637",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTTgCBPWEAAZZlR.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTTgCBPWEAAZZlR.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1206
+    },
+    {
+      "id": "work-e77e3277e2564b3f",
+      "name": "CENTRAL DRIVE",
+      "description": "可玩 Demo · 竞速 / 驾驶 · 非工程师 GPT-6 Sol 三周 60 迭代日系计时赛：三车可选、GR85 六速 AT+倒车、演示跑；打开就能飙",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "imachu_ai",
+        "url": "https://x.com/imachu_ai"
+      },
+      "demoUrl": "https://central-drive.suhcami36.chatgpt.site",
+      "sourceUrl": "https://x.com/imachu_ai/status/2104709222776947113",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTVttX8aIAA8Zy6.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTVttX8aIAA8Zy6.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1207
+    },
+    {
+      "id": "work-37e54c2df90cf66c",
+      "name": "Waterslide (Astra)",
+      "description": "可玩 Demo · 街机 / 小游戏包 · Astra vs Sonnet 5.5 同主题可玩水滑梯（收录 Astra 版）；作者觉得两者手感差不多；打开就能滑 · ❤ 3",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "KJLKurt",
+        "url": "https://x.com/KJLKurt"
+      },
+      "demoUrl": "https://kjlkurt.github.io/waterslide-game-astra/",
+      "sourceUrl": "https://x.com/KJLKurt/status/2104703514878374288",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104703293381308416%2Fimg%2FiU7umNcJc1t09riz.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104703293381308416%2Fimg%2FiU7umNcJc1t09riz.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1208
+    },
+    {
+      "id": "work-ed0d6557365cc64f",
+      "name": "CROPPER SEVEN",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · Astral：GPT-6 Astra + Three.js + Blender + custom skill 开敞世界喷药机；四生物群系；打开就能飞 · ❤ 9",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "givros",
+        "url": "https://x.com/givros"
+      },
+      "demoUrl": "https://givros.github.io/openworld-plane/",
+      "sourceUrl": "https://x.com/givros/status/2104692807965564947",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104692635461963776%2Fimg%2FnMtvwbstrwZ34Jop.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104692635461963776%2Fimg%2FnMtvwbstrwZ34Jop.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1209
+    },
+    {
       "id": "work-dae1f7afba0920b7",
       "name": "Mumbai Worli Sea Link",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · GPT-6 Astra + Sol 编程光照/渲染的可逛 WebGL 海桥：开敞甲板巴士、Photo Studio 把个人照片打到拉索灯阵；一周打磨，打开就能逛",

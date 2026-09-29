@@ -1,5 +1,45 @@
 [
   {
+    "title": "Iraqi Millionaire",
+    "demo_url": "https://iraqi-millionaire.ammarjawad121.chatgpt.site/",
+    "post_url": "https://x.com/aj_05k/status/2104553258429927637",
+    "category": "经典复刻 / 知名玩法",
+    "author": "aj_05k",
+    "note": "GPT-6 Astra 伊拉克版《谁想成为百万富翁》：15 题伊拉克知识 + 5050/观众/电话；打开就能答",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTTgCBPWEAAZZlR.jpg",
+    "likes": null
+  },
+  {
+    "title": "CENTRAL DRIVE",
+    "demo_url": "https://central-drive.suhcami36.chatgpt.site",
+    "post_url": "https://x.com/imachu_ai/status/2104709222776947113",
+    "category": "竞速 / 驾驶",
+    "author": "imachu_ai",
+    "note": "非工程师 GPT-6 Sol 三周 60 迭代日系计时赛：三车可选、GR85 六速 AT+倒车、演示跑；打开就能飙",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTVttX8aIAA8Zy6.jpg",
+    "likes": null
+  },
+  {
+    "title": "Waterslide (Astra)",
+    "demo_url": "https://kjlkurt.github.io/waterslide-game-astra/",
+    "post_url": "https://x.com/KJLKurt/status/2104703514878374288",
+    "category": "街机 / 小游戏包",
+    "author": "KJLKurt",
+    "note": "Astra vs Sonnet 5.5 同主题可玩水滑梯（收录 Astra 版）；作者觉得两者手感差不多；打开就能滑",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104703293381308416%2Fimg%2FiU7umNcJc1t09riz.jpg",
+    "likes": 3
+  },
+  {
+    "title": "CROPPER SEVEN",
+    "demo_url": "https://givros.github.io/openworld-plane/",
+    "post_url": "https://x.com/givros/status/2104692807965564947",
+    "category": "3D 场景 / 氛围探索",
+    "author": "givros",
+    "note": "Astral：GPT-6 Astra + Three.js + Blender + custom skill 开敞世界喷药机；四生物群系；打开就能飞",
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104692635461963776%2Fimg%2FnMtvwbstrwZ34Jop.jpg",
+    "likes": 9
+  },
+  {
     "title": "Mumbai Worli Sea Link",
     "demo_url": "https://alimustufa.com/projects/sealink/experience/",
     "post_url": "https://x.com/ialimustufa/status/2104565956198678978",
