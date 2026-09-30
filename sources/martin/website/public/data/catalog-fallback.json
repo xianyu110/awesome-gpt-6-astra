@@ -1,6 +1,42 @@
 {
   "works": [
     {
+      "id": "work-e625545148ab77c3",
+      "name": "Bird Siege",
+      "description": "可玩 Demo · 街机 / 小游戏包 · GPT-6 Astra 约 5 分钟搓的弹弓物理闯关：三关推塔/粉猪目标；Pull back, let fly；打开就能打 · ❤ 19",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 街机 / 小游戏包",
+      "author": {
+        "name": "TonyClimate",
+        "url": "https://x.com/TonyClimate"
+      },
+      "demoUrl": "https://bird-siege.tonyheller.chatgpt.site",
+      "sourceUrl": "https://x.com/TonyClimate/status/2105154016300892232",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-bird-siege.jpg",
+      "posterUrl": "/previews/playable-bird-siege.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1216
+    },
+    {
+      "id": "work-c071bb4a5bc8c7c6",
+      "name": "Astra 2048 · 一枪直出",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · ieddysun 同题一枪直出：GPT-6 Astra vs Opus 5.5 各做一版 2048（未改）；本条收 Astra 版；打开就能滑 · ❤ 7",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "ieddysun",
+        "url": "https://x.com/ieddysun"
+      },
+      "demoUrl": "https://jianfan.app/2048/gpt/",
+      "sourceUrl": "https://x.com/ieddysun/status/2105147777777041494",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTb75UDbYAAoHXy.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTb75UDbYAAoHXy.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1217
+    },
+    {
       "id": "work-c603c9af0ec35871",
       "name": "FOE TO FLEET",
       "description": "可玩 Demo · 射击 / 动作 · GPT-6 Astra 弹幕射击：倒敌入队；满员可库存补员；Wave7 Boss；React/TS/Canvas；打开就能打 · ❤ 11",
@@ -17230,9 +17266,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-30T02:43:21Z",
-    "lastSuccessfulAt": "2026-09-30T02:43:21Z",
-    "revision": "playable-sync-20260930-1040",
+    "checkedAt": "2026-09-30T13:52:52Z",
+    "lastSuccessfulAt": "2026-09-30T13:52:52Z",
+    "revision": "playable-sync-20260930-2150",
     "stale": false,
     "status": "fresh"
   },
