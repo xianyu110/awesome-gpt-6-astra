@@ -2,15 +2,15 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**287** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-29
+- 收录：**290** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-09-30
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 23
-- [竞速 / 驾驶](#竞速--驾驶) — 33
-- [射击 / 动作](#射击--动作) — 35
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 24
+- [竞速 / 驾驶](#竞速--驾驶) — 34
+- [射击 / 动作](#射击--动作) — 36
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 36
@@ -119,6 +119,13 @@
    - 试玩链接：`https://www.bilibili.com/toy/weiming-jiuan/index.html`
    - 原帖：https://x.com/yanmo1618677/status/2103350457796358376
    - 备注：中式微恐悬疑推理：GPT-6 Astra + Opus 5.5 vibe coding；B 站玩具九案可玩，GitHub 零依赖开源
+
+24. **Perpetual Dungeon** — [试玩](https://niji.pics/hiropon64bit/09/2600/) · [原帖](https://x.com/h_i_r_o_p_o_n_/status/2104885188912103675) · ❤ 27
+   - 试玩链接：`https://niji.pics/hiropon64bit/09/2600/`
+   - 原帖：https://x.com/h_i_r_o_p_o_n_/status/2104885188912103675
+   - 备注：ChatGPT Astra 两天搓的哈克斯拉/Wizardry 味地牢爬行（1F 测试版）；全点击触控；BGM Suno；打开就能爬
+
+
 ## 竞速 / 驾驶
 
 1. **CENTRAL DRIVE** — [试玩](https://central-drive.suhcami36.chatgpt.site) · [原帖](https://x.com/imachu_ai/status/2104709222776947113)
@@ -271,6 +278,13 @@
    - 试玩链接：`https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56`
    - 原帖：https://x.com/TusharXo/status/2104336588666982516
    - 备注：Crayon + Astra/Opus 5.5 悬浮板追拖车 three.js：六城区躲撞/磨轨/骑车顶；打开就能冲
+
+34. **Flight Sim · Astra** — [试玩](https://flight-sim-astra.vercel.app/) · [原帖](https://x.com/kumarukutkarsh/status/2104964736383438911) · ❤ 4
+   - 试玩链接：`https://flight-sim-astra.vercel.app/`
+   - 原帖：https://x.com/kumarukutkarsh/status/2104964736383438911
+   - 备注：GPT-6 Astra + Three.js 浏览器飞行模拟：日夜循环/真实引擎声/无限跑道；桌面端打开就能飞
+
+
 ## 射击 / 动作
 
 1. **The Way of the Samurai** — [试玩](https://the-way-of-the-samurai-bay.vercel.app/) · [原帖](https://x.com/knightama/status/2104880496253817021) · ❤ 3
@@ -437,6 +451,11 @@
    - 试玩链接：`https://vibecodingmatt.github.io/rex-pursuit/`
    - 原帖：https://x.com/burnsmatt/status/2103447951389430150
    - 备注：Opus 5.5 + GPT Astra 浏览器 T-Rex 丛林追逐：打开就能跑逃；vibecodingmatt 出品
+
+36. **FOE TO FLEET** — [试玩](https://foe-to-fleet.miya333.chatgpt.site) · [原帖](https://x.com/miya00907380/status/2105055020106252543) · ❤ 11
+   - 试玩链接：`https://foe-to-fleet.miya333.chatgpt.site`
+   - 原帖：https://x.com/miya00907380/status/2105055020106252543
+   - 备注：GPT-6 Astra 弹幕射击：倒敌入队；满员可库存补员；Wave7 Boss；React/TS/Canvas；打开就能打
 
 
 ## 模拟经营 / 策略
