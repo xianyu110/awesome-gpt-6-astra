@@ -2,18 +2,18 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**290** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**292** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-09-30
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
-- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 24
+- [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 25
 - [竞速 / 驾驶](#竞速--驾驶) — 34
 - [射击 / 动作](#射击--动作) — 36
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
-- [街机 / 小游戏包](#街机--小游戏包) — 36
+- [街机 / 小游戏包](#街机--小游戏包) — 37
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 64
@@ -124,6 +124,11 @@
    - 试玩链接：`https://niji.pics/hiropon64bit/09/2600/`
    - 原帖：https://x.com/h_i_r_o_p_o_n_/status/2104885188912103675
    - 备注：ChatGPT Astra 两天搓的哈克斯拉/Wizardry 味地牢爬行（1F 测试版）；全点击触控；BGM Suno；打开就能爬
+
+25. **Astra 2048 · 一枪直出** — [试玩](https://jianfan.app/2048/gpt/) · [原帖](https://x.com/ieddysun/status/2105147777777041494) · ❤ 7
+   - 试玩链接：`https://jianfan.app/2048/gpt/`
+   - 原帖：https://x.com/ieddysun/status/2105147777777041494
+   - 备注：ieddysun 同题一枪直出：GPT-6 Astra vs Opus 5.5 各做一版 2048（未改）；本条收 Astra 版；打开就能滑
 
 
 ## 竞速 / 驾驶
@@ -782,6 +787,11 @@
    - 试玩链接：`https://wordtwiq.dfrankiej.com/`
    - 原帖：https://x.com/vibedcoder/status/2103443299491021160
    - 备注：Codex + GPT-6 Astra + Unity 双词 Wordle 变体：两词同猜，打开就能拼；vibedcoder 出品
+
+37. **Bird Siege** — [试玩](https://bird-siege.tonyheller.chatgpt.site) · [原帖](https://x.com/TonyClimate/status/2105154016300892232) · ❤ 19
+   - 试玩链接：`https://bird-siege.tonyheller.chatgpt.site`
+   - 原帖：https://x.com/TonyClimate/status/2105154016300892232
+   - 备注：GPT-6 Astra 约 5 分钟搓的弹弓物理闯关：三关推塔/粉猪目标；Pull back, let fly；打开就能打
 
 
 ## 音乐 / 表演
