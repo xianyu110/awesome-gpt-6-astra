@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-c603c9af0ec35871",
+      "name": "FOE TO FLEET",
+      "description": "可玩 Demo · 射击 / 动作 · GPT-6 Astra 弹幕射击：倒敌入队；满员可库存补员；Wave7 Boss；React/TS/Canvas；打开就能打 · ❤ 11",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 射击 / 动作",
+      "author": {
+        "name": "miya00907380",
+        "url": "https://x.com/miya00907380"
+      },
+      "demoUrl": "https://foe-to-fleet.miya333.chatgpt.site",
+      "sourceUrl": "https://x.com/miya00907380/status/2105055020106252543",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103645622696050688%2Fimg%2FwpEBt6Bfbh5aijbC.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2103645622696050688%2Fimg%2FwpEBt6Bfbh5aijbC.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1213
+    },
+    {
+      "id": "work-032eef2c76940288",
+      "name": "Flight Sim · Astra",
+      "description": "可玩 Demo · 竞速 / 驾驶 · GPT-6 Astra + Three.js 浏览器飞行模拟：日夜循环/真实引擎声/无限跑道；桌面端打开就能飞 · ❤ 4",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "kumarukutkarsh",
+        "url": "https://x.com/kumarukutkarsh"
+      },
+      "demoUrl": "https://flight-sim-astra.vercel.app/",
+      "sourceUrl": "https://x.com/kumarukutkarsh/status/2104964736383438911",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104964244395761664%2Fimg%2FfmSKslbA4azATrcS.jpg",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F2104964244395761664%2Fimg%2FfmSKslbA4azATrcS.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1214
+    },
+    {
+      "id": "work-ab0bdfba29395d69",
+      "name": "Perpetual Dungeon",
+      "description": "可玩 Demo · 经典复刻 / 知名玩法 · ChatGPT Astra 两天搓的哈克斯拉/Wizardry 味地牢爬行（1F 测试版）；全点击触控；BGM Suno；打开就能爬 · ❤ 27",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 经典复刻 / 知名玩法",
+      "author": {
+        "name": "h_i_r_o_p_o_n_",
+        "url": "https://x.com/h_i_r_o_p_o_n_"
+      },
+      "demoUrl": "https://niji.pics/hiropon64bit/09/2600/",
+      "sourceUrl": "https://x.com/h_i_r_o_p_o_n_/status/2104885188912103675",
+      "repoUrl": null,
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTYM4IZa4AAntnZ.png",
+      "posterUrl": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHTYM4IZa4AAntnZ.png",
+      "videoUrl": null,
+      "sourceOrder": -1215
+    },
+    {
       "id": "work-3690deb37039b257",
       "name": "Pocket Universe",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · Opus 5.5 + GPT-6 Astra + three.js 程序化口袋宇宙：宇宙网→星系→行星表面可走；换 seed 整宇宙重生成；打开就能逛 · ❤ 17",
@@ -17176,9 +17230,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-29T13:55:17Z",
-    "lastSuccessfulAt": "2026-09-29T13:55:17Z",
-    "revision": "playable-sync-20260929-2153",
+    "checkedAt": "2026-09-30T02:43:21Z",
+    "lastSuccessfulAt": "2026-09-30T02:43:21Z",
+    "revision": "playable-sync-20260930-1040",
     "stale": false,
     "status": "fresh"
   },
