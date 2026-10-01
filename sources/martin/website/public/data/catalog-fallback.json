@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-837b9ed6c4df3c9a",
+      "name": "F1 Malaysia · KL Drive",
+      "description": "可玩 Demo · 竞速 / 驾驶 · masterofnone GPT-6 Astra 搓的 KL 街景 F1 驾驶；Opus 从录屏出 trailer（起跑灯/擦车转场/配乐）；打开就能飙 · ❤ 18",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "masterofnone",
+        "url": "https://x.com/masterofnone"
+      },
+      "demoUrl": "https://F1malaysia.app",
+      "sourceUrl": "https://x.com/masterofnone/status/2105572939026559309",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-f1-malaysia.jpg",
+      "posterUrl": "/previews/playable-f1-malaysia.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1219
+    },
+    {
       "id": "work-475be4baddf6e16c",
       "name": "Canyon Overdrive",
       "description": "可玩 Demo · 竞速 / 驾驶 · AIandDesign Astra+Sol 6.1 一日搓出的 vaporwave Three.js 赛车（ElevenLabs/Suno）；打开就能飙 · ❤ 28",
@@ -17284,9 +17302,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-01T06:45:42Z",
-    "lastSuccessfulAt": "2026-10-01T06:45:42Z",
-    "revision": "playable-sync-20261001-1443",
+    "checkedAt": "2026-10-01T10:43:05Z",
+    "lastSuccessfulAt": "2026-10-01T10:43:05Z",
+    "revision": "playable-sync-20261001-1841",
     "stale": false,
     "status": "fresh"
   },
