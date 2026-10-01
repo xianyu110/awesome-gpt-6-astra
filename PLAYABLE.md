@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**293** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**294** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-10-01
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 25
-- [竞速 / 驾驶](#竞速--驾驶) — 35
+- [竞速 / 驾驶](#竞速--驾驶) — 36
 - [射击 / 动作](#射击--动作) — 36
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
@@ -293,6 +293,11 @@
    - 试玩链接：`https://canyonoverdrive.ai-created.com/`
    - 原帖：https://x.com/AIandDesign/status/2105465838946140499
    - 备注：AIandDesign Astra+Sol 6.1 一日搓出的 vaporwave Three.js 赛车（ElevenLabs/Suno）；打开就能飙
+
+36. **F1 Malaysia · KL Drive** — [试玩](https://F1malaysia.app) · [原帖](https://x.com/masterofnone/status/2105572939026559309) · ❤ 18
+   - 试玩链接：`https://F1malaysia.app`
+   - 原帖：https://x.com/masterofnone/status/2105572939026559309
+   - 备注：masterofnone GPT-6 Astra 搓的 KL 街景 F1 驾驶；Opus 从录屏出 trailer（起跑灯/擦车转场/配乐）；打开就能飙
 
 
 ## 射击 / 动作
