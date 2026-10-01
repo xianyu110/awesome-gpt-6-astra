@@ -1,5 +1,15 @@
 [
   {
+    "title": "Canyon Overdrive",
+    "demo_url": "https://canyonoverdrive.ai-created.com/",
+    "post_url": "https://x.com/AIandDesign/status/2105465838946140499",
+    "likes": 28,
+    "category": "竞速 / 驾驶",
+    "author": "AIandDesign",
+    "note": "AIandDesign Astra+Sol 6.1 一日搓出的 vaporwave Three.js 赛车（ElevenLabs/Suno）；打开就能飙",
+    "image": "/previews/playable-canyon-overdrive.jpg"
+  },
+  {
     "title": "Bird Siege",
     "demo_url": "https://bird-siege.tonyheller.chatgpt.site",
     "post_url": "https://x.com/TonyClimate/status/2105154016300892232",

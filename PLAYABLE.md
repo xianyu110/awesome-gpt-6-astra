@@ -2,14 +2,14 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**292** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-09-30
+- 收录：**293** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-10-01
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 25
-- [竞速 / 驾驶](#竞速--驾驶) — 34
+- [竞速 / 驾驶](#竞速--驾驶) — 35
 - [射击 / 动作](#射击--动作) — 36
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
@@ -288,6 +288,11 @@
    - 试玩链接：`https://flight-sim-astra.vercel.app/`
    - 原帖：https://x.com/kumarukutkarsh/status/2104964736383438911
    - 备注：GPT-6 Astra + Three.js 浏览器飞行模拟：日夜循环/真实引擎声/无限跑道；桌面端打开就能飞
+
+35. **Canyon Overdrive** — [试玩](https://canyonoverdrive.ai-created.com/) · [原帖](https://x.com/AIandDesign/status/2105465838946140499) · ❤ 28
+   - 试玩链接：`https://canyonoverdrive.ai-created.com/`
+   - 原帖：https://x.com/AIandDesign/status/2105465838946140499
+   - 备注：AIandDesign Astra+Sol 6.1 一日搓出的 vaporwave Three.js 赛车（ElevenLabs/Suno）；打开就能飙
 
 
 ## 射击 / 动作

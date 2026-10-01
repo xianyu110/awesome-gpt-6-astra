@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-475be4baddf6e16c",
+      "name": "Canyon Overdrive",
+      "description": "可玩 Demo · 竞速 / 驾驶 · AIandDesign Astra+Sol 6.1 一日搓出的 vaporwave Three.js 赛车（ElevenLabs/Suno）；打开就能飙 · ❤ 28",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "AIandDesign",
+        "url": "https://x.com/AIandDesign"
+      },
+      "demoUrl": "https://canyonoverdrive.ai-created.com/",
+      "sourceUrl": "https://x.com/AIandDesign/status/2105465838946140499",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-canyon-overdrive.jpg",
+      "posterUrl": "/previews/playable-canyon-overdrive.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1218
+    },
+    {
       "id": "work-e625545148ab77c3",
       "name": "Bird Siege",
       "description": "可玩 Demo · 街机 / 小游戏包 · GPT-6 Astra 约 5 分钟搓的弹弓物理闯关：三关推塔/粉猪目标；Pull back, let fly；打开就能打 · ❤ 19",
@@ -17266,9 +17284,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-09-30T13:52:52Z",
-    "lastSuccessfulAt": "2026-09-30T13:52:52Z",
-    "revision": "playable-sync-20260930-2150",
+    "checkedAt": "2026-10-01T06:45:42Z",
+    "lastSuccessfulAt": "2026-10-01T06:45:42Z",
+    "revision": "playable-sync-20261001-1443",
     "stale": false,
     "status": "fresh"
   },
