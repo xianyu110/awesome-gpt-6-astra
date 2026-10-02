@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**294** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-10-01
+- 收录：**297** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-10-02
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -16,8 +16,8 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 37
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 64
-- [工程 / 仿真](#工程--仿真) — 23
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 66
+- [工程 / 仿真](#工程--仿真) — 24
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
 ## 经典复刻 / 知名玩法
@@ -1231,6 +1231,17 @@
    - 原帖：https://x.com/lordOfAFew/status/2104885212346003835
    - 备注：Opus 5.5 + GPT-6 Astra + three.js 程序化口袋宇宙：宇宙网→星系→行星表面可走；换 seed 整宇宙重生成；打开就能逛
 
+65. **Astra Gaussian Splats · SuperSplat dots** — [试玩](https://superspl.at/scene/ca6a4c9b) · [原帖](https://x.com/abstrakt314/status/2105756028935504032) · ❤ 1215
+   - 试玩链接：`https://superspl.at/scene/ca6a4c9b`
+   - 原帖：https://x.com/abstrakt314/status/2105756028935504032
+   - 备注：abstrakt314 GPT-6.1 Astra + Blender MCP → LichtFeld Studio splat → SuperSplat/PlayCanvas 网页实时；复刻 ChatGPT dots 角色；打开就能转
+
+66. **Summer Haven** — [试玩](https://summer-haven-demo.tokengremlin.chatgpt.site/) · [原帖](https://x.com/TokenGremlin/status/2105844918438490568) · ❤ 50
+   - 试玩链接：`https://summer-haven-demo.tokengremlin.chatgpt.site/`
+   - 原帖：https://x.com/TokenGremlin/status/2105844918438490568
+   - 开源：https://github.com/Token-Gremlin/summer-haven
+   - 备注：TokenGremlin Astra+Sol 浏览器 cozy 3D 探索：四季/雨雪/渡轮/骑行；MIT 开源 + Blender 资产；打开就能逛
+
 
 ## 工程 / 仿真
 
@@ -1339,6 +1350,12 @@
    - 试玩链接：`https://modely.metapure.ai`
    - 原帖：https://x.com/AIDREAMMAN/status/2103357148118085840
    - 备注：GPT-6 Astra + Three.js + Blender：360°、座舱微距、485 部件选择、结构展开复原；独立学习作品，内部结构为示意
+
+24. **ちいさな街工房 · Little City Studio** — [试玩](https://little-city-studio.miya333.chatgpt.site/) · [原帖](https://x.com/miya00907380/status/2105779798261846370) · ❤ 30
+   - 试玩链接：`https://little-city-studio.miya333.chatgpt.site/`
+   - 原帖：https://x.com/miya00907380/status/2105779798261846370
+   - 备注：miya GPT-6 Astra(+Luna) Codex 程序化 3D 迷你街生成器：种子/参数→道路建筑车人公园；PNG+GLB 导出 Blender；打开就能搓
+
 
 ## 其他可玩 Demo
 

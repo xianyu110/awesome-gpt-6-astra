@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-2daa5b5e016fea30",
+      "name": "Astra Gaussian Splats · SuperSplat dots",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · abstrakt314 GPT-6.1 Astra + Blender MCP → LichtFeld Studio splat → SuperSplat/PlayCanvas 网页实时；复刻 ChatGPT dots 角色；打开就能转 · ❤ 1215",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "abstrakt314",
+        "url": "https://x.com/abstrakt314"
+      },
+      "demoUrl": "https://superspl.at/scene/ca6a4c9b",
+      "sourceUrl": "https://x.com/abstrakt314/status/2105756028935504032",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-gaussian-splats-dots.jpg",
+      "posterUrl": "/previews/playable-gaussian-splats-dots.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1220
+    },
+    {
+      "id": "work-3a9f87d7a82f219d",
+      "name": "ちいさな街工房 · Little City Studio",
+      "description": "可玩 Demo · 工程 / 仿真 · miya GPT-6 Astra(+Luna) Codex 程序化 3D 迷你街生成器：种子/参数→道路建筑车人公园；PNG+GLB 导出 Blender；打开就能搓 · ❤ 30",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "miya00907380",
+        "url": "https://x.com/miya00907380"
+      },
+      "demoUrl": "https://little-city-studio.miya333.chatgpt.site/",
+      "sourceUrl": "https://x.com/miya00907380/status/2105779798261846370",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-little-city-studio.jpg",
+      "posterUrl": "/previews/playable-little-city-studio.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1221
+    },
+    {
+      "id": "work-771a686388e88252",
+      "name": "Summer Haven",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · TokenGremlin Astra+Sol 浏览器 cozy 3D 探索：四季/雨雪/渡轮/骑行；MIT 开源 + Blender 资产；打开就能逛 · ❤ 50",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "TokenGremlin",
+        "url": "https://x.com/TokenGremlin"
+      },
+      "demoUrl": "https://summer-haven-demo.tokengremlin.chatgpt.site/",
+      "sourceUrl": "https://x.com/TokenGremlin/status/2105844918438490568",
+      "repoUrl": "https://github.com/Token-Gremlin/summer-haven",
+      "imageUrl": "/previews/playable-summer-haven.jpg",
+      "posterUrl": "/previews/playable-summer-haven.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1222
+    },
+    {
       "id": "work-837b9ed6c4df3c9a",
       "name": "F1 Malaysia · KL Drive",
       "description": "可玩 Demo · 竞速 / 驾驶 · masterofnone GPT-6 Astra 搓的 KL 街景 F1 驾驶；Opus 从录屏出 trailer（起跑灯/擦车转场/配乐）；打开就能飙 · ❤ 18",
@@ -17302,9 +17356,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-01T10:43:05Z",
-    "lastSuccessfulAt": "2026-10-01T10:43:05Z",
-    "revision": "playable-sync-20261001-1841",
+    "checkedAt": "2026-10-02T06:45:17Z",
+    "lastSuccessfulAt": "2026-10-02T06:45:17Z",
+    "revision": "playable-sync-20261002-1442",
     "stale": false,
     "status": "fresh"
   },

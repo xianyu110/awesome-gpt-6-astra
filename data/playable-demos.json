@@ -1,5 +1,36 @@
 [
   {
+    "title": "Astra Gaussian Splats · SuperSplat dots",
+    "demo_url": "https://superspl.at/scene/ca6a4c9b",
+    "post_url": "https://x.com/abstrakt314/status/2105756028935504032",
+    "likes": 1215,
+    "category": "3D 场景 / 氛围探索",
+    "author": "abstrakt314",
+    "note": "abstrakt314 GPT-6.1 Astra + Blender MCP → LichtFeld Studio splat → SuperSplat/PlayCanvas 网页实时；复刻 ChatGPT dots 角色；打开就能转",
+    "image": "/previews/playable-gaussian-splats-dots.jpg"
+  },
+  {
+    "title": "ちいさな街工房 · Little City Studio",
+    "demo_url": "https://little-city-studio.miya333.chatgpt.site/",
+    "post_url": "https://x.com/miya00907380/status/2105779798261846370",
+    "likes": 30,
+    "category": "工程 / 仿真",
+    "author": "miya00907380",
+    "note": "miya GPT-6 Astra(+Luna) Codex 程序化 3D 迷你街生成器：种子/参数→道路建筑车人公园；PNG+GLB 导出 Blender；打开就能搓",
+    "image": "/previews/playable-little-city-studio.jpg"
+  },
+  {
+    "title": "Summer Haven",
+    "demo_url": "https://summer-haven-demo.tokengremlin.chatgpt.site/",
+    "post_url": "https://x.com/TokenGremlin/status/2105844918438490568",
+    "likes": 50,
+    "category": "3D 场景 / 氛围探索",
+    "author": "TokenGremlin",
+    "note": "TokenGremlin Astra+Sol 浏览器 cozy 3D 探索：四季/雨雪/渡轮/骑行；MIT 开源 + Blender 资产；打开就能逛",
+    "image": "/previews/playable-summer-haven.jpg",
+    "repo": "https://github.com/Token-Gremlin/summer-haven"
+  },
+  {
     "title": "F1 Malaysia · KL Drive",
     "demo_url": "https://F1malaysia.app",
     "post_url": "https://x.com/masterofnone/status/2105572939026559309",
