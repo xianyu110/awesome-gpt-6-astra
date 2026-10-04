@@ -1,5 +1,15 @@
 [
   {
+    "title": "Lake-City",
+    "demo_url": "https://givros.github.io/lake-city/",
+    "post_url": "https://x.com/givros/status/2106407239716372631",
+    "likes": 27,
+    "category": "3D 场景 / 氛围探索",
+    "author": "givros",
+    "note": "givros GPT-6 Astra + three.js + Blender + environment skill 一提示词开敞城市探索；打开就能逛",
+    "image": "/previews/playable-lake-city.jpg"
+  },
+  {
     "title": "Astra Gaussian Splats · SuperSplat dots",
     "demo_url": "https://superspl.at/scene/ca6a4c9b",
     "post_url": "https://x.com/abstrakt314/status/2105756028935504032",
