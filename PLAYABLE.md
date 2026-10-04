@@ -2,23 +2,23 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**298** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**301** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-10-04
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
 
 - [经典复刻 / 知名玩法](#经典复刻--知名玩法) — 25
-- [竞速 / 驾驶](#竞速--驾驶) — 36
+- [竞速 / 驾驶](#竞速--驾驶) — 37
 - [射击 / 动作](#射击--动作) — 36
 - [模拟经营 / 策略](#模拟经营--策略) — 18
 - [联机 / 多人](#联机--多人) — 14
 - [街机 / 小游戏包](#街机--小游戏包) — 37
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 67
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 68
 - [工程 / 仿真](#工程--仿真) — 24
-- [其他可玩 Demo](#其他可玩-Demo) — 13
+- [其他可玩 Demo](#其他可玩-Demo) — 14
 
 ## 经典复刻 / 知名玩法
 
@@ -298,6 +298,11 @@
    - 试玩链接：`https://F1malaysia.app`
    - 原帖：https://x.com/masterofnone/status/2105572939026559309
    - 备注：masterofnone GPT-6 Astra 搓的 KL 街景 F1 驾驶；Opus 从录屏出 trailer（起跑灯/擦车转场/配乐）；打开就能飙
+
+37. **Flight 1073** — [试玩](https://flight1073.pages.dev/play/) · [原帖](https://x.com/GuyEshel_/status/2106292470438822143) · ❤ 32
+   - 试玩链接：`https://flight1073.pages.dev/play/`
+   - 原帖：https://x.com/GuyEshel_/status/2106292470438822143
+   - 备注：GuyEshel_ 希伯来语 Astra-6 航班降落讽刺模拟：打开就能开飞机落地
 
 
 ## 射击 / 动作
@@ -1247,6 +1252,11 @@
    - 原帖：https://x.com/givros/status/2106407239716372631
    - 备注：givros GPT-6 Astra + three.js + Blender + environment skill 一提示词开敞城市探索；打开就能逛
 
+68. **Brackenmere Valley** — [试玩](https://brackenmere-valley.leonl2.chatgpt.site/) · [原帖](https://x.com/LexnLin/status/2106463734336307362) · ❤ 428
+   - 试玩链接：`https://brackenmere-valley.leonl2.chatgpt.site/`
+   - 原帖：https://x.com/LexnLin/status/2106463734336307362
+   - 备注：LexnLin GPT-6 Astra 3D 森林山谷场景（多风格渲染）；chatgpt.site 打开就能逛
+
 
 ## 工程 / 仿真
 
@@ -1423,6 +1433,11 @@
    - 试玩链接：`https://donizetiferr.github.io/answer-lens/`
    - 原帖：https://x.com/DonizetiFerre16/status/2102139124631105808
    - 备注：浏览器盲测 AI 回答：藏模型名做 A/B 判定；GPT-6 Astra 建，开源可玩
+
+14. **Rhyme** — [试玩](https://rhyme.sachi.dev/) · [原帖](https://x.com/sachigoyal27/status/2106435070559142298) · ❤ 25
+   - 试玩链接：`https://rhyme.sachi.dev/`
+   - 原帖：https://x.com/sachigoyal27/status/2106435070559142298
+   - 备注：sachigoyal27 tldraw 白板接入 ChatGPT Astra Ultrafast：浏览器打开就能在白板上聊 Astra
 
 
 ## 说明
