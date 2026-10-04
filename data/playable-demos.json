@@ -1,5 +1,35 @@
 [
   {
+    "title": "Brackenmere Valley",
+    "demo_url": "https://brackenmere-valley.leonl2.chatgpt.site/",
+    "post_url": "https://x.com/LexnLin/status/2106463734336307362",
+    "likes": 428,
+    "category": "3D 场景 / 氛围探索",
+    "author": "LexnLin",
+    "note": "LexnLin GPT-6 Astra 3D 森林山谷场景（多风格渲染）；chatgpt.site 打开就能逛",
+    "image": "/previews/playable-brackenmere-valley.jpg"
+  },
+  {
+    "title": "Flight 1073",
+    "demo_url": "https://flight1073.pages.dev/play/",
+    "post_url": "https://x.com/GuyEshel_/status/2106292470438822143",
+    "likes": 32,
+    "category": "竞速 / 驾驶",
+    "author": "GuyEshel_",
+    "note": "GuyEshel_ 希伯来语 Astra-6 航班降落讽刺模拟：打开就能开飞机落地",
+    "image": "/previews/playable-flight-1073.jpg"
+  },
+  {
+    "title": "Rhyme",
+    "demo_url": "https://rhyme.sachi.dev/",
+    "post_url": "https://x.com/sachigoyal27/status/2106435070559142298",
+    "likes": 25,
+    "category": "其他可玩 Demo",
+    "author": "sachigoyal27",
+    "note": "sachigoyal27 tldraw 白板接入 ChatGPT Astra Ultrafast：浏览器打开就能在白板上聊 Astra",
+    "image": "/previews/playable-rhyme.jpg"
+  },
+  {
     "title": "Lake-City",
     "demo_url": "https://givros.github.io/lake-city/",
     "post_url": "https://x.com/givros/status/2106407239716372631",
