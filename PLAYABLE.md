@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**297** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-10-02
+- 收录：**298** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-10-04
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 37
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 66
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 67
 - [工程 / 仿真](#工程--仿真) — 24
 - [其他可玩 Demo](#其他可玩-Demo) — 13
 
@@ -1241,6 +1241,11 @@
    - 原帖：https://x.com/TokenGremlin/status/2105844918438490568
    - 开源：https://github.com/Token-Gremlin/summer-haven
    - 备注：TokenGremlin Astra+Sol 浏览器 cozy 3D 探索：四季/雨雪/渡轮/骑行；MIT 开源 + Blender 资产；打开就能逛
+
+67. **Lake-City** — [试玩](https://givros.github.io/lake-city/) · [原帖](https://x.com/givros/status/2106407239716372631) · ❤ 27
+   - 试玩链接：`https://givros.github.io/lake-city/`
+   - 原帖：https://x.com/givros/status/2106407239716372631
+   - 备注：givros GPT-6 Astra + three.js + Blender + environment skill 一提示词开敞城市探索；打开就能逛
 
 
 ## 工程 / 仿真
