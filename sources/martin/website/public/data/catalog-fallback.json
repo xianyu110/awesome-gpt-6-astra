@@ -1,6 +1,60 @@
 {
   "works": [
     {
+      "id": "work-4a29c6cbebe54e9c",
+      "name": "Brackenmere Valley",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · LexnLin GPT-6 Astra 3D 森林山谷场景（多风格渲染）；chatgpt.site 打开就能逛 · ❤ 428",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "demoUrl": "https://brackenmere-valley.leonl2.chatgpt.site/",
+      "sourceUrl": "https://x.com/LexnLin/status/2106463734336307362",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-brackenmere-valley.jpg",
+      "posterUrl": "/previews/playable-brackenmere-valley.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1224
+    },
+    {
+      "id": "work-ca918a5781369d8c",
+      "name": "Flight 1073",
+      "description": "可玩 Demo · 竞速 / 驾驶 · GuyEshel_ 希伯来语 Astra-6 航班降落讽刺模拟：打开就能开飞机落地 · ❤ 32",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 竞速 / 驾驶",
+      "author": {
+        "name": "GuyEshel_",
+        "url": "https://x.com/GuyEshel_"
+      },
+      "demoUrl": "https://flight1073.pages.dev/play/",
+      "sourceUrl": "https://x.com/GuyEshel_/status/2106292470438822143",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-flight-1073.jpg",
+      "posterUrl": "/previews/playable-flight-1073.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1225
+    },
+    {
+      "id": "work-969e1b6680f0a54c",
+      "name": "Rhyme",
+      "description": "可玩 Demo · 其他可玩 Demo · sachigoyal27 tldraw 白板接入 ChatGPT Astra Ultrafast：浏览器打开就能在白板上聊 Astra · ❤ 25",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 其他可玩 Demo",
+      "author": {
+        "name": "sachigoyal27",
+        "url": "https://x.com/sachigoyal27"
+      },
+      "demoUrl": "https://rhyme.sachi.dev/",
+      "sourceUrl": "https://x.com/sachigoyal27/status/2106435070559142298",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-rhyme.jpg",
+      "posterUrl": "/previews/playable-rhyme.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1226
+    },
+    {
       "id": "work-42bd32ad2b3895ea",
       "name": "Lake-City",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · givros GPT-6 Astra + three.js + Blender + environment skill 一提示词开敞城市探索；打开就能逛 · ❤ 27",
@@ -17374,9 +17428,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-04T02:46:05Z",
-    "lastSuccessfulAt": "2026-10-04T02:46:05Z",
-    "revision": "playable-sync-20261004-1045",
+    "checkedAt": "2026-10-04T10:52:07Z",
+    "lastSuccessfulAt": "2026-10-04T10:52:07Z",
+    "revision": "playable-sync-20261004-1851",
     "stale": false,
     "status": "fresh"
   },
