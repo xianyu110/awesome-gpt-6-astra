@@ -1,5 +1,15 @@
 [
   {
+    "title": "Island Jelly",
+    "demo_url": "https://island-jelly.vercel.app",
+    "post_url": "https://x.com/vib3coded/status/2106702667288305769",
+    "likes": 104,
+    "category": "工程 / 仿真",
+    "author": "vib3coded",
+    "note": "vib3coded Opus 5.5 vs GPT-6 Astra WebGPU 软体果冻岛：Astra 果冻边缘更晃、Opus 水面更透；Vercel 打开就能戳岛（另附 Opus artifact）",
+    "image": "/previews/playable-island-jelly.jpg"
+  },
+  {
     "title": "Brackenmere Valley",
     "demo_url": "https://brackenmere-valley.leonl2.chatgpt.site/",
     "post_url": "https://x.com/LexnLin/status/2106463734336307362",
