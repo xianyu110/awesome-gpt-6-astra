@@ -2,7 +2,7 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**301** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 收录：**302** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
 - 整理日期：2026-10-04
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 68
-- [工程 / 仿真](#工程--仿真) — 24
+- [工程 / 仿真](#工程--仿真) — 25
 - [其他可玩 Demo](#其他可玩-Demo) — 14
 
 ## 经典复刻 / 知名玩法
@@ -1370,6 +1370,11 @@
    - 试玩链接：`https://little-city-studio.miya333.chatgpt.site/`
    - 原帖：https://x.com/miya00907380/status/2105779798261846370
    - 备注：miya GPT-6 Astra(+Luna) Codex 程序化 3D 迷你街生成器：种子/参数→道路建筑车人公园；PNG+GLB 导出 Blender；打开就能搓
+
+25. **Island Jelly** — [试玩](https://island-jelly.vercel.app) · [原帖](https://x.com/vib3coded/status/2106702667288305769) · ❤ 104
+   - 试玩链接：`https://island-jelly.vercel.app`
+   - 原帖：https://x.com/vib3coded/status/2106702667288305769
+   - 备注：vib3coded Opus 5.5 vs GPT-6 Astra WebGPU 软体果冻岛：Astra 果冻边缘更晃、Opus 水面更透；Vercel 打开就能戳岛（另附 Opus artifact）
 
 
 ## 其他可玩 Demo
