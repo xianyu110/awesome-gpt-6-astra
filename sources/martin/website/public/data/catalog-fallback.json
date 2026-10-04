@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-42bd32ad2b3895ea",
+      "name": "Lake-City",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · givros GPT-6 Astra + three.js + Blender + environment skill 一提示词开敞城市探索；打开就能逛 · ❤ 27",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "givros",
+        "url": "https://x.com/givros"
+      },
+      "demoUrl": "https://givros.github.io/lake-city/",
+      "sourceUrl": "https://x.com/givros/status/2106407239716372631",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-lake-city.jpg",
+      "posterUrl": "/previews/playable-lake-city.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1223
+    },
+    {
       "id": "work-2daa5b5e016fea30",
       "name": "Astra Gaussian Splats · SuperSplat dots",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · abstrakt314 GPT-6.1 Astra + Blender MCP → LichtFeld Studio splat → SuperSplat/PlayCanvas 网页实时；复刻 ChatGPT dots 角色；打开就能转 · ❤ 1215",
@@ -17356,9 +17374,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-02T06:45:17Z",
-    "lastSuccessfulAt": "2026-10-02T06:45:17Z",
-    "revision": "playable-sync-20261002-1442",
+    "checkedAt": "2026-10-04T02:46:05Z",
+    "lastSuccessfulAt": "2026-10-04T02:46:05Z",
+    "revision": "playable-sync-20261004-1045",
     "stale": false,
     "status": "fresh"
   },
