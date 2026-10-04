@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-4eaed51ef6b2f537",
+      "name": "Island Jelly",
+      "description": "可玩 Demo · 工程 / 仿真 · vib3coded Opus 5.5 vs GPT-6 Astra WebGPU 软体果冻岛：Astra 果冻边缘更晃、Opus 水面更透；Vercel 打开就能戳岛（另附 Opus artifact） · ❤ 104",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 工程 / 仿真",
+      "author": {
+        "name": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "demoUrl": "https://island-jelly.vercel.app",
+      "sourceUrl": "https://x.com/vib3coded/status/2106702667288305769",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-island-jelly.jpg",
+      "posterUrl": "/previews/playable-island-jelly.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1227
+    },
+    {
       "id": "work-4a29c6cbebe54e9c",
       "name": "Brackenmere Valley",
       "description": "可玩 Demo · 3D 场景 / 氛围探索 · LexnLin GPT-6 Astra 3D 森林山谷场景（多风格渲染）；chatgpt.site 打开就能逛 · ❤ 428",
@@ -17428,9 +17446,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-04T10:52:07Z",
-    "lastSuccessfulAt": "2026-10-04T10:52:07Z",
-    "revision": "playable-sync-20261004-1851",
+    "checkedAt": "2026-10-04T13:44:45Z",
+    "lastSuccessfulAt": "2026-10-04T13:44:45Z",
+    "revision": "playable-sync-20261004-2142",
     "stale": false,
     "status": "fresh"
   },
