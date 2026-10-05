@@ -1,6 +1,24 @@
 {
   "works": [
     {
+      "id": "work-4b0a6b14f5f04379",
+      "name": "Invisible Cities · An Atlas of the Imagination",
+      "description": "可玩 Demo · 3D 场景 / 氛围探索 · pmigdal 一句 one-shot 提示词（three.js + pnpm、6 小时自主干活）让 GPT-6 Astra 把卡尔维诺《看不见的城市》55 座城做成可逛 3D 图集：11 个主题、城志卡片、旅行日记、跟马可·波罗按书序漫游；同题 Opus 5.5 版 https://p.migdal.pl/invisible-cities-opus-5.5/ 可对照，打开就能逛",
+      "category": "game",
+      "sourceCategory": "PLAYABLE · 3D 场景 / 氛围探索",
+      "author": {
+        "name": "pmigdal",
+        "url": "https://x.com/pmigdal"
+      },
+      "demoUrl": "https://p.migdal.pl/invisible-cities-astra/",
+      "sourceUrl": "https://x.com/pmigdal/status/2107065365281001832",
+      "repoUrl": null,
+      "imageUrl": "/previews/playable-invisible-cities-astra.jpg",
+      "posterUrl": "/previews/playable-invisible-cities-astra.jpg",
+      "videoUrl": null,
+      "sourceOrder": -1228
+    },
+    {
       "id": "work-4eaed51ef6b2f537",
       "name": "Island Jelly",
       "description": "可玩 Demo · 工程 / 仿真 · vib3coded Opus 5.5 vs GPT-6 Astra WebGPU 软体果冻岛：Astra 果冻边缘更晃、Opus 水面更透；Vercel 打开就能戳岛（另附 Opus artifact） · ❤ 104",
@@ -17446,9 +17464,9 @@
   "source": {
     "repository": "xianyu110/awesome-gpt-6-astra",
     "url": "https://github.com/xianyu110/awesome-gpt-6-astra/blob/main/PLAYABLE.md",
-    "checkedAt": "2026-10-04T13:44:45Z",
-    "lastSuccessfulAt": "2026-10-04T13:44:45Z",
-    "revision": "playable-sync-20261004-2142",
+    "checkedAt": "2026-10-05T13:54:35Z",
+    "lastSuccessfulAt": "2026-10-05T13:54:35Z",
+    "revision": "playable-sync-20261005-2152",
     "stale": false,
     "status": "fresh"
   },
