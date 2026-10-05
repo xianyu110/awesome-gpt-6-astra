@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**302** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-10-04
+- 收录：**303** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-10-05
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -16,7 +16,7 @@
 - [街机 / 小游戏包](#街机--小游戏包) — 37
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
-- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 68
+- [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 69
 - [工程 / 仿真](#工程--仿真) — 25
 - [其他可玩 Demo](#其他可玩-Demo) — 14
 
@@ -1256,6 +1256,11 @@
    - 试玩链接：`https://brackenmere-valley.leonl2.chatgpt.site/`
    - 原帖：https://x.com/LexnLin/status/2106463734336307362
    - 备注：LexnLin GPT-6 Astra 3D 森林山谷场景（多风格渲染）；chatgpt.site 打开就能逛
+
+69. **Invisible Cities · An Atlas of the Imagination** — [试玩](https://p.migdal.pl/invisible-cities-astra/) · [原帖](https://x.com/pmigdal/status/2107065365281001832)
+   - 试玩链接：`https://p.migdal.pl/invisible-cities-astra/`
+   - 原帖：https://x.com/pmigdal/status/2107065365281001832
+   - 备注：pmigdal 一句 one-shot 提示词（three.js + pnpm、6 小时自主干活）让 GPT-6 Astra 把卡尔维诺《看不见的城市》55 座城做成可逛 3D 图集：11 个主题、城志卡片、旅行日记、跟马可·波罗按书序漫游；同题 Opus 5.5 版 https://p.migdal.pl/invisible-cities-opus-5.5/ 可对照，打开就能逛
 
 
 ## 工程 / 仿真
