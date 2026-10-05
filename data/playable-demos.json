@@ -1,5 +1,14 @@
 [
   {
+    "title": "Invisible Cities · An Atlas of the Imagination",
+    "demo_url": "https://p.migdal.pl/invisible-cities-astra/",
+    "post_url": "https://x.com/pmigdal/status/2107065365281001832",
+    "category": "3D 场景 / 氛围探索",
+    "author": "pmigdal",
+    "note": "pmigdal 一句 one-shot 提示词（three.js + pnpm、6 小时自主干活）让 GPT-6 Astra 把卡尔维诺《看不见的城市》55 座城做成可逛 3D 图集：11 个主题、城志卡片、旅行日记、跟马可·波罗按书序漫游；同题 Opus 5.5 版 https://p.migdal.pl/invisible-cities-opus-5.5/ 可对照，打开就能逛",
+    "image": "/previews/playable-invisible-cities-astra.jpg"
+  },
+  {
     "title": "Island Jelly",
     "demo_url": "https://island-jelly.vercel.app",
     "post_url": "https://x.com/vib3coded/status/2106702667288305769",
