@@ -1,5 +1,14 @@
 [
   {
+    "title": "Cyber Arm Lab · An Interactive Mechanical Workshop",
+    "demo_url": "https://bubucn.com/en/ai-model-evals/cyber-arm-lab",
+    "post_url": "https://x.com/BubuStd/status/2107271869636489518",
+    "category": "工程 / 仿真",
+    "author": "BubuStd",
+    "note": "BubuStd（STORM RACE 作者）用 GPT-6 Astra + Three.js/WebGPU 搓的赛博机械臂工坊：关节手指、活塞、回位弹簧都能拆开看；开摄像头用手势实时驱动机械臂（Workshop / Webcam / Split sync 三模式）；作者原话 Astra 比 Sol 快太多，打开就能玩",
+    "image": "/previews/playable-cyber-arm-lab.jpg"
+  },
+  {
     "title": "Invisible Cities · An Atlas of the Imagination",
     "demo_url": "https://p.migdal.pl/invisible-cities-astra/",
     "post_url": "https://x.com/pmigdal/status/2107065365281001832",
