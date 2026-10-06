@@ -2,8 +2,8 @@
 
 > 社区 GPT-6 Astra 可玩网页 / 浏览器 Demo 精选。每条都附带**试玩链接**；有原帖则附原帖。链接已探活，临时部署仍可能失效。
 
-- 收录：**303** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
-- 整理日期：2026-10-05
+- 收录：**304** 条（已剔除失效、新闻软文、PDF/指南、作品集等非试玩项）
+- 整理日期：2026-10-06
 - 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110)
 
 ## Contents
@@ -17,7 +17,7 @@
 - [音乐 / 表演](#音乐--表演) — 13
 - [教育 / 科普](#教育--科普) — 15
 - [3D 场景 / 氛围探索](#3D-场景--氛围探索) — 69
-- [工程 / 仿真](#工程--仿真) — 25
+- [工程 / 仿真](#工程--仿真) — 26
 - [其他可玩 Demo](#其他可玩-Demo) — 14
 
 ## 经典复刻 / 知名玩法
@@ -1380,6 +1380,11 @@
    - 试玩链接：`https://island-jelly.vercel.app`
    - 原帖：https://x.com/vib3coded/status/2106702667288305769
    - 备注：vib3coded Opus 5.5 vs GPT-6 Astra WebGPU 软体果冻岛：Astra 果冻边缘更晃、Opus 水面更透；Vercel 打开就能戳岛（另附 Opus artifact）
+
+26. **Cyber Arm Lab · An Interactive Mechanical Workshop** — [试玩](https://bubucn.com/en/ai-model-evals/cyber-arm-lab) · [原帖](https://x.com/BubuStd/status/2107271869636489518)
+   - 试玩链接：`https://bubucn.com/en/ai-model-evals/cyber-arm-lab`
+   - 原帖：https://x.com/BubuStd/status/2107271869636489518
+   - 备注：BubuStd（STORM RACE 作者）用 GPT-6 Astra + Three.js/WebGPU 搓的赛博机械臂工坊：关节手指、活塞、回位弹簧都能拆开看；开摄像头用手势实时驱动机械臂（Workshop / Webcam / Split sync 三模式）；作者原话 Astra 比 Sol 快太多，打开就能玩
 
 
 ## 其他可玩 Demo
