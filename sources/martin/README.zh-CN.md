@@ -4,7 +4,7 @@
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 175](https://img.shields.io/badge/Cases-175-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 176](https://img.shields.io/badge/Cases-176-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -20,9 +20,9 @@
 
 ## 从这里开始
 
-目前收录 **175 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **176 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
-目录更新：**2026-10-08**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+目录更新：**2026-10-09**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
 最新新增：[10 月 6 日从 X 收录的 8 款可玩游戏](docs/x-games-2026-10-06.md)。此前发现：[9 月 21 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-21.md)。上一批：[9 月 20 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-20.md)。更早批次：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-18.md)，附实机截图、作者依据与入口核验。[9 月 17 日新增的 10 款](docs/browser-games-2026-09-17.md)。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
@@ -503,6 +503,13 @@
 
 塔防、卡牌策略、经营建造与模拟沙盒。
 
+- **[Yu-Gi-Oh! Ruins Duel](https://www.bilibili.com/toy/astral-duel-game/index.html)** — 六套免费 40 张预组覆盖节奏突击、魔法控场、守备反击、上级压制、融合和仪式；拖拽出牌，在岛屿遗迹与霓虹都市进行人机决斗、真人匹配或房间码好友 PK，抽卡收藏并编辑主／额外卡组。
+  - 作者：[Ryan-fm](https://github.com/Ryan-fm)。
+  - 平台：支持 WebGL 的浏览器，中文界面，鼠标或触控；免费，无需游戏账号。[Vercel 网页版](https://astral-duel-game.vercel.app/)以游客凭证保存服务器收藏；[Toy 入口](https://www.bilibili.com/toy/astral-duel-game/index.html)的新包待审核，提供 B站云存档、挑战榜和独立联机收藏；卡名语音识别依赖浏览器支持。
+  - 模型参与：[开发与核验记录](assets/screenshots/astral-duel/SOURCE.md) — 多轮 Codex 协作；具体 GPT-6 Astra 归因仍待作者确认，收录核验待完成。非官方原型，素材权利待确认。
+  - 开发资料：[开发与核验记录](assets/screenshots/astral-duel/SOURCE.md) · 技术：React、TypeScript、Three.js、Node.js、Socket.IO；Vercel 与共用免费 Redis。完整源码为私有仓库。
+  - 预览：![2026-10-10 公网大厅实机：卡牌展示、六套预组与人机、匹配、好友入口。](assets/screenshots/astral-duel/public-lobby.png)
+
 - **[Tidehook](https://tidehook-mallow.vercel.app/)** — 驾驶小拖船 Mallow 完成三段海岸航程，拖回会影响加速与转向的不同重量打捞物，交给港口起重机，并最终找回灯塔透镜。
   - 作者: [Emile du Toit / Mafuta Games](https://mafuta.itch.io/)
   - 平台: 桌面或笔记本浏览器，英文界面；免费，无需登录或安装。支持键盘或点击水面驾驶，进度保存在当前浏览器；手机实机体验尚未核验。
@@ -542,7 +549,7 @@
   - 开发资料：[源码与运行说明](works/three-kingdoms/README.md) · [需求记录](works/three-kingdoms/PROMPTS.md) · 技术：React、TypeScript、Vinext/Vite。
   - 预览：![三分天下实机画面：水墨城池地图、资源操作与武将头像。](assets/screenshots/three-kingdoms/gameplay.jpg)
 
-- **[最后的灯塔 / Last Beacon](https://last-beacon.loupengju.cc)** — 在微缩海岛上连接电网、布置并升级炮塔，以有限电力抵挡十波机械生物和最终 Boss，守住灯塔。
+- **[最后的灯塔 / Last Beacon](https://last-beacon.pjstack.dev)** — 在微缩海岛上连接电网、布置并升级炮塔，以有限电力抵挡十波机械生物和最终 Boss，守住灯塔。
   - 作者：[stackloomdev](https://github.com/stackloomdev)
   - 平台：现代桌面与手机浏览器，中英双语；免费，无需登录或 API Key；可选音效需要 Web Audio。
   - GPT-6 Astra：[作者的创作记录与模型参与说明](https://github.com/stackloomdev/last-beacon/blob/main/docs/CREATION.md) — 参与玩法设计、代码、程序化美术和测试；多轮迭代，非 one-shot 测试。
