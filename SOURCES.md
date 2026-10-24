@@ -27,3 +27,10 @@
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `未知` | 否 |
 <!-- END AUTO-SYNC STATUS -->
+
+## 作者直接投稿 · 2026-10-19
+
+- **入画 · WITHIN**：[原仓库](https://github.com/fatasia/within)，作者 [fatasia](https://github.com/fatasia)。18 景可交互三维画馆，包含绘画空间、自然景观与驾驶试场。作者确认全部使用 GPT-6 Astra，中 / 高推理；模型使用见[作者投稿](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126)。[在线体验](https://fatasia.github.io/within/)、[场景预览](https://raw.githubusercontent.com/fatasia/within/main/public/previews/qingming.webp)、[36 秒合集](https://fatasia.github.io/within/showcase/index.html)。场景为艺术化演绎，非逐物考古复原。
+- **DeepMonkey Studio**：[原仓库](https://github.com/fatasia/DeepMonkey-Studio)，同一作者。三维编辑器与开发工具，非游戏；[Pages](https://fatasia.github.io/DeepMonkey-Studio/) 仅提供部分功能演示，完整运行要求见 README。[视频](https://github.com/user-attachments/assets/b6059d6a-04c1-4fe1-b11e-9a46a42184d2)、[界面截图](https://raw.githubusercontent.com/fatasia/DeepMonkey-Studio/main/docs/assets/engine-switch-menu.png)。作者确认开发模型使用占比：GPT-6 Astra 50%、GLM5.3 40%、Opus 10%。此为作者自述，未按代码行或工时独立验证，也未将某个模块全部归因于单一模型；许可按原仓库的 MIT with Ethical Restrictions 说明。
+
+两项投稿均保留原项目、作者署名及第三方素材说明；没有补写未公开的提示词、生成耗时、成本或性能数字。
