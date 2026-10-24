@@ -36,11 +36,11 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 上游 README 的自动同步快照见 [`UPSTREAM.md`](UPSTREAM.md)；GitHub Actions 每天自动检查，也支持在 Actions 页面手动运行。
 
 <!-- BEGIN AUTO-SYNC STATUS -->
-最后同步：`2026-10-20T07:31:26+00:00`
+最后同步：`2026-10-24T07:16:35+00:00`
 
 | 仓库 | 最新提交 | 本次是否变化 |
 | --- | --- | --- |
-| `MartinDelophy/awesome-gpt-6-astra` | `ed10f435bfd2` | 是 |
+| `MartinDelophy/awesome-gpt-6-astra` | `fe53baf49516` | 是 |
 | `helloianneo/awesome-gpt6-astra` | `82966ac27387` | 否 |
 | `archorfight/awesome-gpt-6-astra` | `7d942c390be2` | 否 |
 | `zender555/awesome-gpt6` | `未知` | 否 |
@@ -647,7 +647,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 ## 自动同步上游内容
 
-> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-10-20T07:31:26+00:00`。人工精选区保持不变。
+> 以下内容由 GitHub Actions 自动同步，最后生成于 `2026-10-24T07:16:35+00:00`。人工精选区保持不变。
 
 <!-- BEGIN AUTO-SYNC CONTENT -->
 
@@ -659,7 +659,7 @@ archorfight 清单记录的 headline numbers：OSWorld 2.0 72.6%、FrontierMath 
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 178](https://img.shields.io/badge/Cases-178-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 180](https://img.shields.io/badge/Cases-180-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **A collection of interesting games made with GPT-6 Astra.**
 
@@ -675,9 +675,9 @@ Playful ideas, games you can try, and development stories that inspire the next 
 
 ## Start here
 
-Explore **178 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, an eighteen-scene 3D art gallery, and Orbital Garden. Click a title to play directly in your browser.
+Explore **180 games and interactive projects**: Three Kingdoms territory strategy, wooden interlocking and sliding puzzles, soft-body fruit merging, procedural city-building 2048, one-tap flight, magic-carpet combat, a five-stage bullet-hell shooter, island power-grid tower defense, wilderness survival, underwater fishing, sushi-restaurant management and island farming, Bay Circuit kart racing, coastal cycling with a pelican, tabletop toys turned into 3D games, 3D home decoration, an eighteen-scene 3D art gallery, and Orbital Garden. Click a title to play directly in your browser.
 
-Catalog updated: **2026-10-20**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
+Catalog updated: **2026-10-23**. Model attribution is based on creator or submitter statements; unconfirmed details are marked in individual entries. This date records catalog maintenance, not a new play-test of every game.
 
 Latest addition: [MoxRiding](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/129). Previous addition: [入画 · WITHIN, an 18-scene 3D exploration gallery](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126). Previous additions: [October 6: 8 playable games from X](docs/x-games-2026-10-06.md). Previous discoveries: [September 21: 10 more directly playable browser games](docs/browser-games-2026-09-21.md). Previous batch: [September 20: 10 more directly playable browser games](docs/browser-games-2026-09-20.md). Earlier batch: [10 more browser games discovered across the web](docs/browser-games-2026-09-18.md), with gameplay screenshots, creator sources and access checks. [September 17's 10 additions](docs/browser-games-2026-09-17.md). [September 16's 10 additions](docs/browser-games-2026-09-16.md). [September 15's 10 additions](docs/browser-games-2026-09-15.md). [September 12's 10 additions](docs/browser-games-2026-09-12.md). Previous additions: [Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) and [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74), with entries in all 12 README languages. [September 11's 10 additions](docs/browser-games-2026-09-11.md) · [September 10's 10 additions](docs/direct-play-x-games-2026-09-10.md) · [Earlier 16 additions](docs/x-high-traffic-games-2026-09-09.md).
 
@@ -706,6 +706,20 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - GPT-6 Astra: [Creator's one-shot tests and original prompts](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md).
   - Resources: [Source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [Standalone HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
   - Preview: ![Mosswing start screen showing the flying character and gaps between stone pillars.](assets/screenshots/mosswing/gameplay.jpg)
+
+- **[MOXstrike](https://www.moxride.com/home/moxstrike)** — Fight an orbital team deathmatch with first-person movement, mouse aiming, switchable weapons and an original Moxazza soundtrack.
+  - Creator: [Moxazza](https://www.moxride.com/)
+  - Platform: Desktop browser; keyboard/mouse, no sign-in or installation in the launch check. A mobile edition is offered but was not tested.
+  - GPT-6 Astra: [Issue #131](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) — The creator reports iterative Astra-assisted coding, testing and refinement of the 3D shooter.
+  - Resources: [2026-10-23](assets/screenshots/moxstrike/SOURCE.md)
+  - Preview: ![MOXstrike](assets/screenshots/moxstrike/gameplay.png)
+
+- **[CRASH! City Breakers / 城市连锁](https://crash-city-breakers.vercel.app/)** — Crash into traffic, detonate and steer your wreck to extend physics-driven chains; choose contracts and wave-break upgrades across three cities.
+  - Creator: [Olivia Pan](https://github.com/Olivia295)
+  - Platform: Desktop browser; keyboard/mouse, Chinese/English UI, no sign-in or installation. Mobile play was not tested.
+  - GPT-6 Astra: [Issue #132](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/132) — Unconfirmed. The author credits Claude with code and assets; the submission does not establish Astra involvement. Listed with this limitation explicitly disclosed.
+  - Resources: [2026-10-23](assets/screenshots/crash-city-breakers/SOURCE.md)
+  - Preview: ![CRASH! City Breakers / 城市连锁](assets/screenshots/crash-city-breakers/gameplay.png)
 
 - **[Miami Flap](https://miami-flap-neon.europeaningredients.chatgpt.site/)** — Tap to fly through neon pipes, collect stars and chain precise passes for bonuses; Classic and Chaos modes add shields, a magnet and unlockable looks.
   - Creator: [lokotay](https://github.com/LOKOTAY)
@@ -1890,7 +1904,7 @@ Original curated text and artwork in this repository are dedicated to the public
 
 # Awesome GPT-6 Astra
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 178](https://img.shields.io/badge/Cases-178-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) [![LINUX DO](https://img.shields.io/badge/LINUX%20DO-Community-f0b73f?style=flat-square)](https://linux.do/) [![Cases: 180](https://img.shields.io/badge/Cases-180-58a6ff?style=flat-square)](https://astragames.aigccreative.com/)
 
 **收集用 GPT-6 Astra 制作的有趣游戏。**
 
@@ -1906,9 +1920,9 @@ Original curated text and artwork in this repository are dedicated to the public
 
 ## 从这里开始
 
-目前收录 **178 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修、18 景三维探索画馆，以及轨道花园。点击作品名称即可直接进入在线游戏。
+目前收录 **180 个游戏与互动作品**：三国领土策略、木锁拆解与华容道、半流体水果合成、程序化城市建造 2048、单键飞行、魔毯战斗、五关弹幕射击、海岛电网塔防、荒野生存、水下捕鱼、寿司店经营与海岛种植、海湾卡丁车竞速、鹈鹕海岸骑行、桌面玩具的 3D 改编、3D 家居装修、18 景三维探索画馆，以及轨道花园。点击作品名称即可直接进入在线游戏。
 
-目录更新：**2026-10-20**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
+目录更新：**2026-10-23**。模型使用信息依据作者或投稿者的说明，未确认内容在具体条目中标注。此日期表示目录维护时间，不代表当天重新试玩了所有游戏。
 
 最新新增：[MoxRiding](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/129)。此前新增：[入画 · WITHIN — 18 景三维探索画馆](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126)。此前新增：[10 月 6 日从 X 收录的 8 款可玩游戏](docs/x-games-2026-10-06.md)。此前发现：[9 月 21 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-21.md)。上一批：[9 月 20 日追加的 10 款直达在线游戏](docs/browser-games-2026-09-20.md)。更早批次：[全网搜索后追加的 10 款在线游戏](docs/browser-games-2026-09-18.md)，附实机截图、作者依据与入口核验。[9 月 17 日新增的 10 款](docs/browser-games-2026-09-17.md)。[9 月 16 日新增的 10 款](docs/browser-games-2026-09-16.md)。[9 月 15 日新增的 10 款](docs/browser-games-2026-09-15.md)。[9 月 12 日新增的 10 款](docs/browser-games-2026-09-12.md)。此前新增：[Barrelbound: The Lost Cargo](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/73) 与 [Tidehook](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/74)，已同步全部 12 种 README 语言。[9 月 11 日新增的 10 款](docs/browser-games-2026-09-11.md) · [9 月 10 日新增的 10 款](docs/direct-play-x-games-2026-09-10.md) · [此前新增的 16 款](docs/x-high-traffic-games-2026-09-09.md)。
 
@@ -1937,6 +1951,20 @@ Original curated text and artwork in this repository are dedicated to the public
   - GPT-6 Astra：[作者的 One Shot 测试与原始 Prompt](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/README.md)。
   - 开发资料：[源码](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing/src) · [单文件 HTML](https://github.com/Ayi1337/gpt6-astra-one-shot-games/blob/main/mosswing/mosswing.html)
   - 预览：![Mosswing 起始画面：飞行角色与石柱之间的障碍间隙。](assets/screenshots/mosswing/gameplay.jpg)
+
+- **[MOXstrike](https://www.moxride.com/home/moxstrike)** — 在轨道空间站参加团队死斗，以第一人称移动、鼠标瞄准和切换武器作战，配有 Moxazza 原创配乐。
+  - 作者：[Moxazza](https://www.moxride.com/)
+  - 平台：桌面浏览器；键鼠操作，启动检查无需登录或安装。另有移动版入口，尚未测试。
+  - GPT-6 Astra：[Issue #131](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) — 作者说明通过 Astra 辅助编程、迭代测试和持续打磨开发这款 3D 射击游戏。
+  - 开发资料：[2026-10-23](assets/screenshots/moxstrike/SOURCE.md)
+  - 预览：![MOXstrike](assets/screenshots/moxstrike/gameplay.png)
+
+- **[CRASH! City Breakers / 城市连锁](https://crash-city-breakers.vercel.app/)** — 冲进车流、引爆并操控残骸延续物理碰撞连锁；在三座城市中选择合约与波间强化，争取更高得分。
+  - 作者：[Olivia Pan](https://github.com/Olivia295)
+  - 平台：桌面浏览器；键鼠操作，中英文界面，无需登录或安装；未验证移动端。
+  - GPT-6 Astra：[Issue #132](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/132) — 尚未确认。作者将代码与资产制作归于 Claude，投稿未明确 Astra 的参与；按此限制透明收录。
+  - 开发资料：[2026-10-23](assets/screenshots/crash-city-breakers/SOURCE.md)
+  - 预览：![CRASH! City Breakers / 城市连锁](assets/screenshots/crash-city-breakers/gameplay.png)
 
 - **[Miami Flap](https://miami-flap-neon.europeaningredients.chatgpt.site/)** — 点击振翅穿越霓虹水管，收集星星并连续精准过管获得奖励；经典与混乱模式还加入护盾、磁铁和可解锁外观。
   - 作者：[lokotay](https://github.com/LOKOTAY)
