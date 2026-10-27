@@ -1,6 +1,6 @@
 # 上游 README 快照
 
-> 自动生成于 `2026-10-24T07:16:35+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
+> 自动生成于 `2026-10-27T07:50:26+00:00`。内容来自公开 GitHub 仓库，原始文件保存在 [`sources/`](sources/)。
 
 ## MartinDelophy/awesome-gpt-6-astra
 
@@ -536,14 +536,14 @@ Logic puzzles, physics challenges, word games, and clever little mechanisms.
 
 Tower defense, strategic card games, management games, building, and simulation sandboxes.
 
-- **[Yu-Gi-Oh! Ruins Duel](https://astral-duel-game.vercel.app/)** — A stable tactical camera keeps all four card rows clear above the fan hand, with optional immersive viewing and recentering; pull and release cards for automatic legal placement, while effect targets and tribute/material choices stay deliberate; play AI duels, live matchmaking or code-based friend rooms; choose six free 40-card presets spanning tempo, spell control, defensive counterplay, tribute pressure, Fusion and Ritual, discover cards, and build separate Main and Extra Decks in island ruins or a neon arena, with a raised fan hand and readable activation history.
+- **[Yu-Gi-Oh! Ruins Duel](https://www.bilibili.com/toy/astral-duel-game/index.html)** — Pull cards into duels with deliberate effect targets and Fusion/Ritual materials; eight free 40-card presets include Elemental HERO and Cyber Dragon. The latest update adds a ruin-themed lobby, four chapters of twelve trials, clearer public Graveyard/banished zones and a compact battle tool drawer.
   - Creator: [Ryan-fm](https://github.com/Ryan-fm).
-  - Platform: WebGL browser; Chinese interface, mouse or touch. Free, no game login. The [Vercel web version](https://astral-duel-game.vercel.app/) persists guest inventories; [Toy](https://www.bilibili.com/toy/astral-duel-game/index.html) provides Bilibili cloud saves, a challenge leaderboard and a separate online inventory; Bilibili sign-in is required to start Toy play. The camera update is live on Vercel and has a [Toy preview](https://www.bilibili.com/toy/preview/preview_gnekPTT5/index.html) awaiting review-submission confirmation; the preceding pull-to-play Toy update is published. Spoken card-name recognition requires browser support.
+  - Platform: WebGL browser; Chinese interface, mouse or touch. Free, with temporary guest play; Bilibili sign-in is needed for account cloud saves and platform rankings. [Latest Toy preview](https://www.bilibili.com/toy/preview/author_aBeEBWyL/index.html) uses temporary progress and awaits creator review-submission confirmation; the title link retains the published release until approval. This Toy package is solo-only: real-time PK is disabled and the Vercel service remains offline at the creator's request. Spoken card-name recognition requires browser support.
   - Model participation: [Development and verification notes](assets/screenshots/astral-duel/SOURCE.md) — Iterative Codex collaboration; exact GPT-6 Astra attribution still awaits creator confirmation; catalogue eligibility remains pending. Unofficial prototype with unresolved third-party asset rights.
-  - Resources: [Development and verification notes](assets/screenshots/astral-duel/SOURCE.md) · Built with: React, TypeScript, Three.js, Node.js, Socket.IO; Vercel and shared free Redis. [Public source](https://github.com/Ryan-fm/astral-duel-game).
-  - Preview: ![Actual public lobby captured 2026-10-10: featured card display, six deck presets and AI, matchmaking and friend-room entrances.](assets/screenshots/astral-duel/public-lobby.png)
-  - Preview: ![Public battle polish captured 2026-10-10, source af3af23: larger fan hand, cyan selected card and expanded Chinese explanation.](assets/screenshots/astral-duel/battle-polish.jpg)
-  - Preview: ![Public tactical camera captured 2026-10-11, source 21b545c: all four rows, summoned Mystical Elf, set Trap Hole and three fan cards.](assets/screenshots/astral-duel/battle-camera.jpg)
+  - Resources: [Current update source](https://github.com/Ryan-fm/astral-duel-game/tree/codex/arena-graveyard-fx-20261026) · [Verification](assets/screenshots/astral-duel/SOURCE.md) · Built with: React, TypeScript and Three.js; the full-server source also includes Node.js / Socket.IO multiplayer.
+  - Preview: ![Actual Toy preview captured 2026-10-26, game content 06ed31e: Elemental HERO lobby, eight deck presets, trial progress and three mode entrances; live multiplayer is unavailable in this package.](assets/screenshots/astral-duel/studio-lobby.jpg)
+  - Preview: ![Actual Toy preview captured 2026-10-26: four trial chapters with objectives, first-clear rewards and explicit stage selection.](assets/screenshots/astral-duel/studio-trials.jpg)
+  - Preview: ![Actual Toy preview captured 2026-10-26: Battle Ox versus Celtic Guardian on the integrated ruin courtyard, with separately reachable Graveyard and banished controls.](assets/screenshots/astral-duel/studio-battle.jpg)
 
 - **[Tidehook](https://tidehook-mallow.vercel.app/)** — Pilot the little tug Mallow through three coastal voyages, towing salvage whose weight changes acceleration and turning, delivering it to a harbour crane and eventually recovering a lighthouse lens.
   - Creator: [Emile du Toit / Mafuta Games](https://mafuta.itch.io/)
@@ -1789,14 +1789,14 @@ Original curated text and artwork in this repository are dedicated to the public
 
 塔防、卡牌策略、经营建造与模拟沙盒。
 
-- **[Yu-Gi-Oh! Ruins Duel](https://astral-duel-game.vercel.app/)** — 六套免费 40 张预组覆盖节奏突击、魔法控场、守备反击、上级压制、融合和仪式；固定战术视角完整露出四排卡区，可切换沉浸观察并一键复位；向上拖出手牌、松手自动落位，效果目标、祭品和融合／仪式素材仍由玩家选择；在岛屿遗迹与霓虹都市进行人机决斗、真人匹配或房间码好友 PK，抽卡收藏并编辑主／额外卡组，扇形手牌与发动记录让出牌和阅读更清晰。
+- **[Yu-Gi-Oh! Ruins Duel](https://www.bilibili.com/toy/astral-duel-game/index.html)** — 八套免费 40 张预组覆盖 DM 基础战术、融合／仪式，以及 GX 元素英雄、电子流；向上拖出手牌自动落位，效果目标与素材仍由玩家选择。新版加入遗迹仪式大厅、四章十二关试炼、清晰的公开墓地／除外区及精简战斗工具抽屉。
   - 作者：[Ryan-fm](https://github.com/Ryan-fm)。
-  - 平台：支持 WebGL 的浏览器，中文界面，鼠标或触控；免费，无需游戏账号。[Vercel 网页版](https://astral-duel-game.vercel.app/)以游客凭证保存服务器收藏；[Toy 入口](https://www.bilibili.com/toy/astral-duel-game/index.html)提供 B站云存档、挑战榜和独立联机收藏，开始 Toy 对局需登录 B站；视角更新已部署 Vercel，新 [Toy 预览](https://www.bilibili.com/toy/preview/preview_gnekPTT5/index.html)待确认提交审核；上一轮自动落位 Toy 更新已发布。卡名语音识别依赖浏览器支持。
+  - 平台：支持 WebGL 的浏览器，中文界面，鼠标或触控；免费，可使用临时游客进度；账号云存档与平台排行榜需登录 B站。[最新 Toy 预览](https://www.bilibili.com/toy/preview/author_aBeEBWyL/index.html)使用临时存档，待作者确认提交审核，名称链接在审核通过前保留已发布版。本次 Toy 包仅开放单人内容，实时 PK 关闭，Vercel 按作者要求继续下线。卡名语音识别依赖浏览器支持。
   - 模型参与：[开发与核验记录](assets/screenshots/astral-duel/SOURCE.md) — 多轮 Codex 协作；具体 GPT-6 Astra 归因仍待作者确认，收录核验待完成。非官方原型，素材权利待确认。
-  - 开发资料：[开发与核验记录](assets/screenshots/astral-duel/SOURCE.md) · 技术：React、TypeScript、Three.js、Node.js、Socket.IO；Vercel 与共用免费 Redis。[公开源码](https://github.com/Ryan-fm/astral-duel-game)。
-  - 预览：![2026-10-10 公网大厅实机：卡牌展示、六套预组与人机、匹配、好友入口。](assets/screenshots/astral-duel/public-lobby.png)
-  - 预览：![2026-10-10 公网实机，版本 af3af23：放大扇形手牌、青色选中卡与展开的中文说明。](assets/screenshots/astral-duel/battle-polish.jpg)
-  - 预览：![2026-10-11 公网战术视角实机，版本 21b545c：完整四排卡区、已召唤神秘妖精、盖放落穴与三张扇形手牌。](assets/screenshots/astral-duel/battle-camera.jpg)
+  - 开发资料：[当前更新源码](https://github.com/Ryan-fm/astral-duel-game/tree/codex/arena-graveyard-fx-20261026) · [核验记录](assets/screenshots/astral-duel/SOURCE.md) · 技术：React、TypeScript、Three.js；完整服务端源码另含 Node.js／Socket.IO 联机能力。
+  - 预览：![2026-10-26 Toy 预览实机，游戏内容 06ed31e：元素英雄大厅、八套预组、试炼进度与三个模式入口；本包未开放实时联机。](assets/screenshots/astral-duel/studio-lobby.jpg)
+  - 预览：![2026-10-26 Toy 预览实机：四章试炼、关卡目标、首通奖励和独立进入按钮。](assets/screenshots/astral-duel/studio-trials.jpg)
+  - 预览：![2026-10-26 Toy 预览实机：遗迹庭院中的战斧牛头人与精灵剑士，墓地与除外区分别可点击。](assets/screenshots/astral-duel/studio-battle.jpg)
 
 - **[Tidehook](https://tidehook-mallow.vercel.app/)** — 驾驶小拖船 Mallow 完成三段海岸航程，拖回会影响加速与转向的不同重量打捞物，交给港口起重机，并最终找回灯塔透镜。
   - 作者: [Emile du Toit / Mafuta Games](https://mafuta.itch.io/)
