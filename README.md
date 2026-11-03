@@ -207,6 +207,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 3D 世界与建模
 
+- **入画 · WITHIN** — 18 景浏览器三维画馆，展卷、漫游、步行与 Roadster 驾驶。作者自述全部使用 GPT-6 Astra（中 / 高推理）辅助开发，经多轮迭代。[fatasia](https://github.com/fatasia) · [源码](https://github.com/fatasia/within) · [体验](https://fatasia.github.io/within/) · [实机合集](https://fatasia.github.io/within/showcase/index.html) · [模型说明](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126) · 2026-10-19
 - **房子照片 → 完整 Blender 场景** — 家具玩具都在，可 60fps 浏览。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095598645190291775) · 09-03
 - **火车草图 → 3295 个可编辑物体** — 同作者的工程级 3D。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095756085890310311) · 09-04
 - **椭圆形办公室** — Astra 写几何，视频模型收尾。[higgsfield_ai](https://x.com/higgsfield_ai) · [original](https://x.com/higgsfield_ai/status/2095630197257367857) · 09-03
@@ -225,6 +226,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### Computer Use / 工程
 
+- **DeepMonkey Studio** — 三维编辑器与可编程世界工具，含 Web 编辑器、资源管理和 SDK / MCP 接口。作者自述开发模型为 GPT-6 Astra 50%、GLM5.3 40%、Opus 10%；比例非独立审计。[fatasia](https://github.com/fatasia) · [源码与运行说明](https://github.com/fatasia/DeepMonkey-Studio) · [部分功能演示](https://fatasia.github.io/DeepMonkey-Studio/) · [演示视频](https://github.com/user-attachments/assets/b6059d6a-04c1-4fe1-b11e-9a46a42184d2) · 2026-10-19
 - **Paint 里画你** — 广被引用的 Computer Use 小检。[The_Alex](https://x.com/The_Alex) · [original](https://x.com/The_Alex/status/2095962639386239400) · 09-04
 - **55 段素材自动剪辑** — 选曲、切点、遮罩一起做。[0xTykoo](https://x.com/0xTykoo) · [original](https://x.com/0xTykoo/status/2096183262255386833) · 09-05
 - **无人机飞控 PCB** — 原理图到布局走线再自查。[GoGoFly23](https://x.com/GoGoFly23) · [original](https://x.com/GoGoFly23/status/2096145124950708512) · 09-05
